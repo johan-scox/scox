@@ -1,0 +1,142 @@
+----------------------------
+
+[u][b] När är det smart att köra kontringar som taktik? [/b][/u]
+
+Bäst lämpar sig kontringar mot lag med klart sämre anfall än ens eget försvar samt med bättre mittfält än vad man själv kan eller vill prestera vid just det matchtillfället. Man bör även ha tillräckligt bra anfallsbetyg för att kunna göra mål på sina chanser. Naturligtvis är det alltid viktigt, men det är ofta extra viktigt när man kontrar då man ofta får mindre antal chanser totalt än motståndaren. Just på grund av detta är 532 vanligare och ofta effektivare att spela vid 5-backslinje och kontringar, då det generellt ger bättre anfallsbetyg, med liknande nivå på spelarna. 
+
+----------------------------
+
+[u][b]Hur många kontringar kan man få i en match?[/b][/u]
+
+1 kontring får man nästan alltid, oberoende hur bra kontringslag man har, 2 chanser kräver lite mer och att man har ett lag som i varje fall är lite anpassat efter kontringar, 3 kontringar kräver mer eller mindre att man har byggt laget efter att kunna spela kontringar, eller att man har klart bättre lag än motståndaren. Till sist är 4 kontringar (eller i teorin ännu fler) extremt ovanligt, och har än så länge bara hänt vid ett fåtal tillfällen. Observera att man aldrig garanteras ett visst antal kontringar, oavsett hur bra kontringslag man har kan kontringschanser helt utebli i enstaka matcher, eller bli klart färre eller klart fler än normalfallet, om slumpen vill sig så.
+
+----------------------------
+
+[u][b]Hur kan jag ta reda på hur högt kontringsbetyg jag kommer få?[/u][/b]
+
+Det finns en mängd verktyg som uppskattar hur högt kontringsbetyg du kommer få med en viss uppsättning spelare. Betyget räknas dock ut ifrån summan av alla backars bidrag till betyget, som i sin tur räknas ut från försvararens framspel, försvar, rutin och form. För att göra en manuell uppskattning kan man anvvända följande formel (som dock är ganska gammal, men aviker sällan mycket, max ett steg, från erhållet betyg):
+
+Kontringsbetyg = Summera_alla_spelare(form * (framspel*2 + försvar))
+
+För enkelhets skull räknas egenskaperna om till siffervärden på följande sätt:
+0=katastrofal, 1=usel, 2=dållig, 3=hyfsad, 4=bra, ... , 19=gudomlig
+Form kan approximeras till förjande värden:
+Usel=0.6, dålig=0.7, hyfsad=0.8, bra=0.9, ypperlig=1.0, enastående=1.1, fenomenal=1.15
+
+Kontringsbetyget omvandlas till betyg enligt följande tabell:
+>190 gudomlig
+180-190 utopisk
+170-180 magisk
+160-170 mytomspunnen
+150-160 utomjordisk
+140-150 titanisk
+130-140 himmelsk
+120-130 oförglömlig
+110-120 övernaturlig
+100-110 gudabenådad
+90-100 legendarisk
+80-90 unik
+70-80 fenomenal
+60-70 enastående
+50-60 ypperlig
+40-50 bra
+30-40 hyfsad
+20-30 dålig
+10-20 usel
+<10 katastrofal
+
+Alla avvikelser mellan observerade resultat från matcher och beräknade resultat är välkomna att repporteras till mig [teamid=46786] så skall jag försöka justera beräkningarna därefter. Maila i så fall aktuella förmågor (inklusive extra träningar på både försvar och framspel), form och rutin (hög låg på båda om känt).
+
+Här är några externa länkar till beräkningsapplikationer:
+[i]Kommer... [/i]
+
+Min egen som jag använder, inte så användarvänlig, men källkoden är fri, så vem som helt är välkommen att ladda hem den och förbättra den. :)
+Applikationen: [link=http://www.angelfire.com/trek/scox/]
+Källkoden: [link]http://www.geocities.com/d99scox/ht/countering.c]
+
+----------------------------
+
+[u][b]Hur högt kontrings-/försvars-/anfalls-/mittfältsbetyg behöver jag för att kunna kontra framgångsrikt?[/b][/u]
+
+Detta beror på hur bra din motståndare är i jämförelse med dig, och hur du balanserat upp ditt lag. Generella tipset för ett framgångsrikt kontringslag, som dock endast bör ta som en riktlije att börja ifrån, är, i prioritetsordning:
+
+1. Försvar minst ett antal hela steg (riktvärde lägre divisioner: två steg) högre än motståndarens anfallsbetyg.
+2. Anfall minst samma som motståndarens försvarsbetyg på minst två betyg
+3. Mittfältsbetyg som ger minst 35-40% bollinnehav, men max 50%.
+4. Kontringsbetyg minst dubbelt så högt som motståndarens totala snitt på lagdelsbetyg.
+
+Generellt kan man säga att om man inte uppnår någon av målen bör man öka kravet på någon av de andra kraven. Några exempel:
+
+- Sämre försvar kräver i första hand högre bollinnehav, då högre bollinnehav minskar motståndarens antal anfall, och därmed minskar risken för att släppa in mål, analogt med ökat försvarsbetyg. Ökat kontringsbetyg + anfall kompenserar till viss mån också för minskat försvar (dock bara marginellt) då man då gör fler mål, vilket kompenserar för fler insläppta mål pga det sämre försvaret.
+
+- Sämre anfall kräver i första hand bättre mittfält och bättre kontringsbetyg/försvar och till viss mån bättre försvarsbetyg. Med bättre mittfält och/eller kontringsbetyg+försvar ökar totala chansen till fler mål, då man behöver öka antalet egna anfallschanser (vanliga eller kontring) för göra lika många mål som med bättre anfall. Ökar man sina försvarsbetyg minskar man ju dessutom chansen motståndarens antal mål, men detta är inte lika effektivt som att öka bollinnehavet.
+
+- Sämre bollinnehav kräver i första hand bättre försvar men gärna även bättre anfallsbetyg och kontringsbetyg, då man i första hand måste se till att mota fler anfall emot sig (högre förvar), lägre bollinnehav innebär att man behöver  skapa sig fler kontringschanser (bättre förvar och kontringsbetyg), samt att det blir viktigare att göra mål på sina chanser (bättre anfall).
+
+- Sämre kontringsbetyg kräver först och främst högre bollinnehav och försvar, för kompensera för det potentiella bortfallet av kontringschanser (mota fler motståndaranfall pga färre antala egna mål, samt öka antalet vanliga chanser för att kompensera kontringschanserna).
+
+----------------------------
+
+[u][b]Vilken uppställning är bäst när man skall kontra?[/b][/u]
+
+[u]Med maxad försvarsträning:[/u]
+
+Som försvarstränare vill man ofta maximera sin träning, och därmed gäller det att ställa upp med 5-backslinje, vilket ofta ändå är rätt så effektivt vid kontringar, då försvaret är den viktigaste lagdelen vid kontringar. Här följer en beskrivning av diverse olika uppställningar:
+
+[b]532[/b]
+
+532 har som alla uppställningar både styrkor och svagethet. Här är en kort jämförelse mellan de olika uppställningarna.
+
+[i]Tre innrar[/i]
+Starkt mittfält, vilket kan vara nödvändigt om man inte har så bra anfall i relation till motståndarens försvar, då man därmed behöver fler normala chanser. Nackdelen är att man bara har ett starkt anfallsbetyg, visserligen kommer statistiskt flest anfall i mitten, men man blir mer beroende av slumpen än taktiker med flera starka(re) anfallsbetyg.
+
+[i]Två yttrar[/i] 
+Med två offensiva yttrar och en inner erhåller man tre starka anfallsbetyg, har man en framspelsstark offensiv innermitt kan man erhålla ett nära nog lika starkt mittanfallsbetyg med denna uppställning som med 523, fast ändå behålla lite bollinnehav. Stora styrkan med denna taktiken är att man inte blir så beroende av var ens (kontrings)målchanser hamnar, speciellt inte om man kompletterar laget med en bra frisparksskytt, och minimerar därmed slumpmomentet och ens beroende i var anfallen faller.  Nackdelen är naturligtvis att man får ett svagt mittfält, och oftast ger bort största delen av de normala chanserna till motståndaren. Med en del SU på yttrarna kan man kompensera till viss del, men mot lag med 4-5 rena mittfältare på plan kan man oftast räkna med att förlora bollinnehavet ganska stort, vilket därmed ställer klart högre krav på främst försvaret, men även anfall (vilket ju naturligt är bättre tack vare yttrarna) samt kontringsbetyg (i prioordning).
+
+[i]Två innrar, en ytter[/i]
+"Den gyllene medelvägen" mellan ovanstående två alternativ, som ger två bra anfallsbetyg, men ändå behåller rätt så mycket bollinnehav, speciellt om yttern har en del SU. Den vanligaste av kontringsuppställningarna bland de som tränar försvar. Kan varieras ännu mer om man har en FUPK där fram också, antligen genom att förstärka den redan starka ytterkanten eller genom att försärka den ytterfria kanten så att man erhåller tre ok anfallsbetyg. Detta bör dock inte göras om ens mittanfall genom detta faller under motståndarens försvarsbetyg, såvida man inte anser sig ha klart bättre chans att göra mål på kanterna, samtidigt som man har tillräckligt bra försvar och mittfält.
+
+[b]541[/b]
+
+[i]tre innrar[/i]
+Detta är en väldigt riskabel kontringsuppställning, som främst fungerar mot lag med väldigt svagt försvar men väldigt högt mittfältsbetyg, som s.k. Lunda-lag, alltså lag som kör med rena offensiva backar. Man maximerar därmed sitt mittfält, men kommer ändå upp i anfallsbetyg i samma nivå som eller oftast högre än motståndarens försvar. Om det är ett lag med i princip obefintligt försvar kan man även köra sin ytter in i mitten. 
+
+Som reserv kan denna uppställning kan även spelas med en offensiv ytter och en FUPK för att maximera ett anfallsbetyg. Detta bör dock göras i matcher man egentligen inte tror sig vinna, och vill kunna chansa att få med sig en poäng, vilket man kan få om man uppnår tillräckligt bra försvar och mittfält för att på så sätt stoppa större delan av motståndarens anfall, samtidigt som man inte tror sig kunna komma igenom motståndarens försvar på mer än en kant (antingen pga av att motståndaren har väldigt höga försvarbetyg rakt över, eller för att de lämnar en kant lite mer "öppen"), och att det därmed är slöseri med resurser att försöka anfalla i mitten eller på andra kanten. En chansuppställning som man inte bör lite på i längden dock, utan bara i enstaka matcher. 
+
+[i]Två yttrar[/i]
+Om man har väldigt starka yttrar av någon anledning, t.ex. att man tränat det innan, kan detta vara ett alternativ, speciellt om motståndaren brukar packa ihop försvaret i mitten, eller om du normal anfaller i mitten och vill överraska motståndaren genom att anfalla på kanterna istället för i mitten. Har man SU-starka yttrar kan detta vara en stark taktik, speciellt mot ”klassiska” 352-lag som satsat de flesta spelarrsurserna på innermittarna + en stark målvakt, vilket ofta resulterar i ett starkt mittfält + ett starkt försvar, och ofta ett starkt mittförsvar. Viktigt att man ligger ganska nära i bollinnehav eller att man har ett riktigt, riktigt starkt fösvar för att lyckas med denna kontringsuppställningen, då man antagligen kommer missa flera anfall, då många anfall ofta hamnar i mitten.
+
+[b]523[/b]
+Denna uppställning går ut på att helt strunta i mittfältet och spela med 3 anfallare och två offensiva yttrar. En chansuppställning som både kräver väldigt bra försvarsbetyg och en del tur för att lyckas, då lag som får 10 målchanser oftast kommer igenom minst en till ett par gånger oavsett hur bra försvar man har. Man kan inte få någon vana på denna uppställningen, men då man helt struntar i mittfältet spelar detta ingen roll. Därmed är detta en uppställning man även, eller snarare främst, kan/skall använda närsomhelst, som en överraskningstaktik, oberoende av hur man spelar annars.
+
+
+[b]Sammanfattning:[/b]
+Med maxad försvarsträning är generellt 532 med två innrar och en offensiv ytter den mest kostnadseffektiva (inköpspris + lön) och framgångsrika kontringstaktiken, då det inte kräver lika bra spelare i anfallspositioner för att uppnå liknande anfallsbetyg som med 541. Dock krävs inte lika bra innrar med 541, men med 532 kan man väga upp en del av "tappet" på mitten gentemot 541 med en bra SU-ytter, som kan ha lite mer fokus på SU än ytter jämfört med 541 tack vare att man har två forwards som hjälper till på kanten. Man bör dock tänka på att variera sig så mycket som möjligt i sina uppställninger, då aktiva motståndare lätt kan läsa och motverka ens taktik om man spelar likadant hela tiden. Därför är det rekomenderbart att spela med (minst) två olika uppställningar, tex 532 med två innrar och en ytter + 541 med tre innrar+en off ytter kräver bara en extra inner i truppen för att fungera, och kräver olika optimering av motståndaren för att motverka.
+
+[u]Icke-träningsoptimalt, och/eller ej försvarstränare:[/u]
+
+Att kontra med 3 backar är sällan motiverad, då man ej med rimligt dimensionerade spelare kan uppnå verken ett vettigt kontringsbetyg eller vetitga försvarsbetyg. Det finns tillfällen då en kontringsuppställning med 3 backar kan fungera bäst, men det gäller sällan, och beskrivs därmed inte här alls, utan här beskrivs istället alla 4-backuppställningar.
+
+[i]442[/i]
+
+[b]442 en ytter][/b]
+Fungerar i princip som 532 med en ytter, men kräver naturligtvis lite mer av försvararna eller målvakten för att kompensera för försvarsbortfallet. KOntringsbetyget blir lite lidande också, men uppvägs naturligt det höjda bollinnehavet tack vare tre innermittar (eller två innermittar + en yiim, vilket ofta kan vara smartare taack vare anfallsbidraget från yiim). Kan vara en bra taktik om man har lite sämre anfall, och inte gör så många mål på sina kontringar, utan behöver fler målchanser för att göra sina mål. Kan användas av SU-tränare som vill kontra, och kan tänka sig att offra en halv träningsplats för att erhålla en starkare kontringsuppställning.
+
+[b]442 två yttrar[/b] En utan de allra starkaste kontringsuppställningarna, i varje fall ur författarens ögon. Man får tre starka anfallsbetyg, har man dessutom en del SU på yttrarna kan man erhålla ett helt ok mittfältsbetyg också, och behöver inte förlita sig allt för mycket på kontringschanserna, vilka därmed ställer lite mindre krav på kontringsbetyg, anfallsbetyg och försvarsbetyg. Försvaret är dock redan försvagat av att man bara har 4 backar, så dessa bör dock vara minst lika bra som vid en fembacksuppställning. 
+
+[b]442 allmänt[/b]
+442 rent generellt har den stora fördelen att den alltid har maximerad vana, och kan därmed användas av vem som helst, när som helst, och kan oftast användas av lag som tränar många olika saker, utan större träningsbortfall. Några exempel: försvarstränare förlorar 1 av 10 träningsplatser på uppställningen, Yttertränare ingen träningsplats, su-tränare förlorar en halv träningsplats av 6+4*1/2, genomskärstränare förlorar 1 av 16-18 träningsplatser, kortpassningstränare förlorar 1  av 14 träningsplatser samt anfallstränare förlorar 1 av 6 träningsplatser (anfallstränare rekomenderas med andra ord inte köra 442).
+
+[i]433[/i]
+De tre olika 433-uppställningarna, 0, 1 eller 2 yttrar, liknar 532 i upplägget ganska mycket, att variera mittfältet, inklusive yttrar, fungerar på precis samma sätt, med liknande för- och nackdelar sett ur anfalls och mittfältssynpunkt. Försvaret fungerar på precis samma sätt som med 442, dock är det viktigare med ett ännu starkare försvar här än med 442, då man oftast inte erhåller lika högt bollinnhav som med 442 (med samma spelare). Den stora styrkan hos 433 ligger dock självklart i den starka offensiven, tack vare de tre forwardsen. Dessa utgör även en extra flexibilitet för uppställningen beroende på motståndare, då man kan täcka upp eller förstärka en eller två kanter som saknar ytter med en forward som drar sig ut mot kanten, beroende på hur motståndaren formerar sitt försvar. För att erhålla en flexibel och väl fungerande 433-trupp bör truppen därmed innehålla minst en forward med både framspel och ytterförmåga samt en ytter med en del su. 433 används ofta av forwardstränande lag för att inte förlora träning med ändå kontra.
+
+[i]451[/i]
+451 är normalt inte en stark kontringsuppställning, då den kräver väldigt bra, och därmed ofta överdimensionerade och dyra, spelare på anfallspositioner, men kan vara ett bra alternativ för kontrande SU-tränare som inte vill förlora någon träningsplats. En annan gång då 451 kan vara en stark kontringsuppställning är också när man möter Lunda-lag, alltså lag som kör med offensiva backar, och därmed minimalt med försvar. Dessa kan normalt vara svåra att mäta sig på mittfältet med, men med 5 mittälftare kan man komma lite närmre det än med andra mer traditionella kontringsuppställningar. Man bör dock naturligtvis se till att man hamnar en bit över motståndarens försvarsbetyg (minst lika, men gärna 1-2 steg över), så gör man inte det med två yiim bör man kanske köra en eller båda offensivt istället, om man har det spelarmaterialet. Kräver inte riktigt liak bra försvar som 442 eller 433 då man förhoppningsvis erhåller ett mittfältsbetyg som är högre än dessa, och att man därmed får med sig fler vanliga chanser.
+
+[u]Backlinjens uppställning[/u]
+Bör av naturliga skäl matchas starkast försvar mot starkast anfall. Dessto högra anfallsbetyg, desto viktigare att få flera stegs högre försvarsbetyg än vid lägre betyg. Rent generellt bör man omplacera så få spelare som möjligt, och helst inte köra några spelare med ordern in i mitten eller ut på kanten, då man tappar mycket av det totalt i lagdelsbetygen. Den sämste spelaren bör vara den som blir omplacerad också, t.ex. som extra innerback, då förlusten då blir minimal. Ytterbackar är dock ett undantag, då de normalt spelas effektivast med ordern ”defensiv” vid kontringar, då försvaret är det viktigaste lagdelsbetyget, samt att de flesta inte har ytterbackar som drar nytta av andra ordrar än defensiv, då det kräver en hel del ytterförmåga för att vara motiverat vid kontringar. Generellt finns dock naturligtvis enskilda tillfällen då de indviduella ordrarna kan vara bra att använda, ut på kanten om man möter någon som man förutspår kommer anfalla på kanterna och ha ett väldigt dåligt mittanfall men ruggigt bra kantanfall, eller in i mitten mot lag som man förutspår bara kommer ha ett bra anfallsbetyg i mitten, för att nämna två.
+
+----------------------------
+
+[u][b]Vilka specialiteter är bäst när man skall kontra?[/b][/u]
+Samma optimeringspremisser gäller som vid andra taktiker, beroende på prioritering. Se avsnittet om specialiteter, speciellt [messageid=4938470.31].
