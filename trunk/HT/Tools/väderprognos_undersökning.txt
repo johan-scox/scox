@@ -1,0 +1,6 @@
+Jag gjorde en undersökning på vädersaker tagna från 193 tillfällen. Var Mod-Isidor som hade samlat info från Ångermanland (tror jag).
+
+Total days 193 and correct 168 (87.0466321243523%)
+Offset 1 for 7.77%
+Offset 2 for 5.18%
+Offset 3 for 0.00%

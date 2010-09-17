@@ -1,0 +1,48 @@
+Agreeability 	Buying (Drop) Selling (Drop) 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Popular guy	0% 	0.00	26% 	1.00
+Sympathetic guy	0% 	0.00	18% 	0.50
+Pleasant guy	25% 	0.25	15% 	0.25
+Controversial	55% 	0.50	0% 	0.00
+Nasty fellow	79% 	1.00	0% 	0.00
+
+HT-Rådet:
+~~~~~~~~~~
+
+Stämningspåverkan vid köp och försäljning av spelare: 
+Resultaten är uppdelade på följande 5 grupper. 
+
+1. köp av populära och försäljning av otrevlig***
+
+Risk*: 0%
+Konsekvens**: 0
+
+2. köp av genomsympatiska och försäljning av kontroversiella
+
+Risk: 10%
+Konsekvens: -0.1
+
+3. köp och försäljning av sympatiska
+
+Risk: 25%
+Konsekvens: -0,25
+
+4. köp av kontroversiella och försäljning av genomsympatisk
+
+Risk: 33%
+Konsekvens: -0,50
+
+5. köp av otrevliga och försäljning av populära***
+
+Risk: 50%
+Konsekvens: -1,00
+
+
+* = Risk:
+ska tolkas som sannolikheten att ett negativt event inträffar.
+
+** = Konsekvens ska tolkas som medel nedgången i stämning om ett negativt event inträffar.
+Obs! vad gäller konsekvens siffran så är detta medel i nedgång, det kan alltså variera. För att avgöra detta krävs så mycket mer data att det inte är lönt att ens försöka samla in den. 
+
+*** = Egentligen för lite data för att data några säkra slutsatser 
+

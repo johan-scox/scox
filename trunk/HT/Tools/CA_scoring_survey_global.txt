@@ -1,0 +1,263 @@
+Hi there!
+
+I'm gathering a dataset of CA chances resolution vs ratings. So I need a number of CA teams, which used CA consistently after March 14, 2006 (when the bug with reporting CAs was supposedly fixed) and are in the higher leagues. Can you help me?
+-------------------------------------------------------------------
+Though all the research I'll wildly assume that scoring probability is the same for CAs and regular chances, and is affected by the same mechanisms.
+-------------------------------------------------------------------
+Research update #1:
+592 observations so far in the dataset, containing all ratings + direction of CA + if it was scored
+
+Say bye-bye to widespread theory about P{score} = attack/(attack+defence). It just does not fit. 
+used logistic regression model here. Log Odds = log(A/D) from H0. Log Odds = a+bx in the model. Used log(Attack/Defence) as the only parameter. Got 
+a = .064 (t-stat 0.59)
+b = 3.25 (t-stat 10.55)
+which means that if actual model is somewhat similar to H0, it will be more like P{score} = attack^3/(attack^3+defence^3). Other models may also exist.
+This probability function seems to be around 1/2 for equal attack and defence. (53% scoring for 0.9-1.1 att/def proportion, 80 observations)
+
+Overall chance distribution:
+left: 26.5%
+center: 38.7%
+right: 24.0%
+setpieces: 10.8%
+which statistically fits commonly accepted 25/40/25/10.
+So far I did not find any parameters in match details (e.g. ratings) which could significantly influence this distribution.
+
+Research update #2
+_________________________________________________________________________________
+_____1__2_____3_____4_____5_____6_____7_____8_____9_____10__ _11__ _12__ _13_ _
+_1______0.20__0.00__0.05__0.00__0.00________0.00_______________________________
+_2______0.50__0.23__0.09__0.09__0.06__0.00__0.00__0.00_________________________
+_3______0.60__0.41__0.20__0.11__0.10__0.00__0.00__0.00__0.13______________0.00_
+_4______1.00__0.75__0.61__0.14__0.24__0.00__0.25__0.00________0.00__0.20_______
+_5______0.86__1.00__0.56__0.50__0.40__0.23__0.31__0.09________0.14_____________
+_6______0.83__1.00__0.82__0.70__0.54__0.33__0.19__0.09_________________________
+_7____________1.00__0.78__0.64__0.67__0.42__0.58__0.57__0.00________0.00_______
+_8__________________0.91________0.70__0.71__0.67__0.67________0.40_____________
+_9________________________0.80______________0.67________0.00___________________
+_10_______________________0.80______________0.89_______________________________
+distribution table with attack vertically and defence horizontally. E.g. 7/7 cell means that solid(whatever) attack met solid(whatever) defence. Only cells with 5 or more observations are shown. Distribution differs significantly from that for regular reported chances (www.hattristics.org/pub/statConversion.php?aMin=5a&aMax=10d&dMin=5a&dMax=10d)
+
+Oh, no... I just finished the previous batch... :))
+
+Ok, so far there are ~1700 CA observations (1520 attacks + 180 set pieces) in the dataset. Main contributors are: asafe(619)(hehe, I can only hope his selection is unbiased one :)), Exulans(271), jelmerh(76), NLVF-Mork(73) ... All hail the heroes!
+
+It took me some time to try and filter out random CAs for the wrong teams. I do not have CHPP, and my match report text analyser attributes all the CAs to the counterattacking team, and hence takes corresponding attack and defence ratings. Due to mistakes there were a dozen of wrongly attributed CAs. Since those were typically on the edges of the distribution, deletion of those significantly affected logit estimates.
+
+Research update #2 is out there in the first post. And since it's already full, I continue here:
+Distribution of chances:
+__________________________________________________ _
+_______________theory_ ______practice______________ _
+_Right_________0.25____424__0.26___________ _437__
+_Center________0.40____678__0.37___________ _630__
+_Left_________ _0.25____424__0.26___________ _447__
+_Pieces________0.10____170__0.11___________ _181__
+_____________________________________________1695_
+_Pearson stat__5.8684_______(chi2(3) ~ 12%)______ _
+
+fits into H0:25/40/25/10 with only 12% probability. I ran a serie of tests for possible dependance of distribution on ratings or their correspondence, but failed to find any significant factors.
+
+Scoring probability:
+In a class of functions P{Att scores on Def)=Att^x/(Att^x+k*Def^y) best estimate is x=3.68[0.21***], y=3.32[0.23***], k~2(not very significant). This functional form is chosen since it fits greatly into logistical regression :) If you have other guesses about this function, just tell me.
+Symmetrical function, with x=y, gets x=y=3.55[0.20***]
+Standard errors in brackets.
+
+to be continued
+
+****************************************************
+
+
+2 Suleforever
+
+--------------------------------------------------------------------------------
+I prefer a formula which only treats the percentage difference in the number and not a formula like p(score)=a^x/(a^x+d^y), as I believe that a/d numbers of 4/2 should yield the same scoring chances as 30/15.
+--------------------------------------------------------------------------------
+There is too few observations so far to test the hypothesis about only a/d matter reliably, since most of the observations are crowding in a certain region (3-7 attack, 3-8 defence) wich makes it hard to have enough A/D=const with at the same time wildly differing A and D. P=1/(1+(D/A)^3.5) gives pretty nice estimations anyway, and is simple enough :)
+2 Ratsia
+
+--------------------------------------------------------------------------------
+I didn't notice earlier that the topicstarter was not directly assuming x being equal to y. I agree with you that this probably should be considered as the null hypothesis, though naturally if it really doesn't fit then more complex models need to be considered.
+--------------------------------------------------------------------------------
+I tested several logit models:
+1. simple symmetric P=1/[ 1+(D/A)^x ] yelding x=3.5[0.2]
+2. simple asymmetric P=1/[ 1+D^x/A^y ] yelding x=3.5[0.2], y=3.5[0.2] with absolutely no significant difference between x & y
+3. more complex asymmetric P=1/[ 1+k*D^x/A^y ] with statistically significant assymetry in x & y.
+Case 2 is my favourite so far, since it supports the hypothesis I believe in, that P is function of A/D. I guess, an asymmetry in case 3 is mostly caused by an asymmetry in a sample. Defence usually is higher than attack
+2 robin
+
+--------------------------------------------------------------------------------
+Did you exclude or include the setpieces chances in the calculations?
+--------------------------------------------------------------------------------
+They are collected too, but used only for distribution calculation obviously, since A D do not matter in this case.
+2 asafe
+
+--------------------------------------------------------------------------------
+Can you do some research on the probabitly of getting a counter-opportunity? because that's rated lower in the match predictor as I see it in my matches. Also, have you thought about my plan to find out how good a set piece taker must be to score?
+--------------------------------------------------------------------------------
+ CA generation mechanism is tougher problem, than scoring. One should somehow guess about total # of chances missed by non-CAing team, and they are usually not reported in full. One way to do this may be to get only those matches with CA team's possession less that e.g. 5% and assume all chances go to its opponent. But there are not that many matches of that kind. E.g. I have 33 CAs in my dataset with possession <=5%, with a total of 1695 CAs
+As for set pieces scoring chance, that's possible. The only thing I should know is SP skill of the taker. Keeper strength is 1:1 related to his stars.
+ncholmsky
+
+--------------------------------------------------------------------------------
+1. Distribution: I think the best measure for verifitying the 25-40-25-10 hypothesis is "confidence interval". Is this what you wrote by 12%? If so this is very very low.
+2. In the symmetrical model you mentioned you used the constraint x=y, did you also applied k=1?
+--------------------------------------------------------------------------------
+
+1. I used Pearson test for distribution fit hypothesis.
+2. Case 1 is just that: x=y, k=1. Case 2 relaxes x=y restriction, but keeps k=1.
+
+***********************************************************************
+
+
+research update #3
+2226 observations in the dataset.
+Scoring frequency (given Attack and Defence):
+_______________________________________________________________________________
+_A\D__2_____3_____4_____5_____6_____7_____8_____9_____10__ _11__ _12__ _13_ _
+_1____0.2___0_____0.05__0_____0_____0_____0_________________0_____0_____0____
+_2____0.54__0.23__0.08__0.12__0.04__0_____0_____0_____0.33__0_____0_____0____
+_3____0.6___0.40__0.18__0.11__0.14__0_____0_____0_____0.06__0_____0_____0____
+_4____1_____0.79__0.53__0.22__0.21__0.07__0.14__0_____0_____0_____0.14__0____
+_5____0.86__1_____0.58__0.49__0.37__0.21__0.27__0.14__0.2___0.22__0_____0____
+_6____0.83__1_____0.82__0.67__0.50__0.33__0.18__0.09__0_____0.2___0_____0____
+_7____1_____1_____0.78__0.64__0.69__0.41__0.54__0.5___0_____0_____0_____0____
+_8__________1_____0.91__0.75__0.70__0.65__0.67__0.64__0.14__0.33__0_____1____
+_9__________1_____0.75__0.8___0.75__0.60__0.67__0.50__0.13__0_____0.33__1____
+_10_________1_____0.67__0.8___0.75__1_____0.89__0.83__0.25__1_____0_____0.33_
+_11_______________1_____1_____1_____0.33__1_____0_____0.75__0.33__0.33_______
+_12_____________________1_____1_____1_____1___________1_____1_____1_____1____
+_13_____________________0.5___1_____0___________1_____1_____1___________0.33_
+
+
+number of chances for each A\D ratio
+_________________________________________________________ _
+_A \ D__2___3___4___5___6___7___8___9___10__11__12__13_
+_1_____5___27__22__18__10__1___5___________1___1___1__
+_2_____13__40__83__50__48__15__16__11__3___4___1___1__
+_3_____15__43__85__56__36__24__15__14__17__7___7___8__
+_4_____13__19__60__41__47__28__22__12__3___9___7___4__
+_5_____7___14__50__57__54__38__30__14__5___9___8___2__
+_6_____6___7___34__36__28__33__33__11__4___5___1___1__
+_7_____1___5___18__25__48__32__13__8___6___3___8___2__
+_8_________3___11__4___20__17__6___14__7___6___4___2__
+_9_________2___4___5___4___5___9___4___8___4___3___2__
+_10________1___3___5___4___1___9___6___4___2___5___3__
+_11____________2___2___2___3___1___1___4___3___3______
+_12________________1___1___1___1_______2___3___1___2__
+_13________________2___1___1_______3___1___1_______3__
+
+
+Edited 2006-08-04 18:00:49 by LA-GetAssista
+
+
+Edited 2006-08-04 18:51:22 by LA-GetAssista
+
+
+Russia, IV.52, FC CEFIR (178777), Playmaking Fed the BEST (PMF) (6299) 
+
+
+Svara 
+Av: LA-GetAssista         
+Till: LA-GetAssista     6485644.107 som svar på 6485644.106 
+2006-08-04 kl. 18:00  
+Chance distribution
+_________________________________________________ _
+_______________theory_ ______practice_______ _____ _
+_Right_________0.25____557__0.259__________577__
+_Center________0.40____890__0.369__________821__
+_Left_________ _0.25____557__0.266__________593__
+_Pieces________0.10____223__0.106__________235__
+__________________________________________ _2226_
+_Pearson stat__9.2491_______(chi2(3) ~ 3%)______ _
+
+
+So 25/40/25/10 seems not right. 26/37/26/11 would be better. Not that it matters that much :)
+
+I've also done a small test whever scoring really depends only on A/D, or things are more complicated. I took log(Attack/Defence) in 0.1-wide intervals and divided observations there according to Attack value. All attacks lower than median attack for this interval of log(A/D) went to one group, all higher - to the other. I then calculated average scoring chance for those groups separately
+_______________________________________________________
+|_ _log(A/D)__ _median A_|_lower A__obs_|_higher A__obs_|
+|_[-0.5 ; -0.4]_____17____|__0.14__ _73_ |_ _0.23____66_ |
+|_[-0.4 ; -0.3]_____20____|__0.17__ _75_ |_ _0.24____63_ |
+|_[-0.3 ; -0.2]_____21____|__0.24__ _95_ |_ _0.27____70_ |
+|_[-0.2 ; -0.1]_____23____|__0.29__ _73_ |_ _0.34____73_ |
+| [-0.1 ; 0.0]____ _24____|__0.43__ _65_ |_ _0.50____52_ |
+|_ [0.0 ; 0.1]______26____|__0.51__ _57_ |_ _0.56____57_ |
+|_ [0.1 ; 0.2]______28____|__0.67__ _76_ |_ _0.74____58_ |
+|_ [0.2 ; 0.3]______28____|__0.71__ _51_ |_ _0.70____43_ |
+|_ [0.3 ; 0.4]______25____|__0.74__ _38_ |_ _0.69____35_ |
+|_ [0.4 ; 0.5]______27____|__0.91__ _23_ |_ _0.74____23_ |
+
+As can be seen, there's some asymmetry there. Its statistical significance is debatable of course, but the picture is pretty stable. If attack is lower than defence, then same proportinal increase in both attack and defence make chances of scoring higher. On the contrary, when attack is sufficiently higher, things seem to become the opposite. There are too few observations for bigger absolute values of log(A/D) but anyway... symmetric model might be not the best one :(
+
+Main contributors are: asafe(1150), Exulans(271), jelmerh(76), NLVF-Mork(73)...
+Continued here (6485644.114) 
+
+Edited 2006-08-09 16:48:50 by LA-GetAssista
+ 
+*****************************************************************************************************************
+
+Av: avirambe   
+Till: LA-GetAssista   6485644.124 som svar på 6485644.122 
+2006-08-09 kl. 16:31  
+this is what i use and from my small exp' it work well:
+
+lets say the attack(25)/attack(25)+diffence(20) = 0.56
+the chnce of scoring a goal is
+xxx 1- (4 * (1-0.56)^3) = 0.659 xxx
+agnore the xxx
+or 
+attack^3/attack^3+diffence^3 = 0.661
+
+this are 2 common formulas that i know and i would like to know if it set with your experament
+
+
+Edited 2006-08-09 16:46:41 by avirambe 
+
+*****************************************************************************************************************
+
+Av: LA-GetAssista   
+Till: asafe   6485644.76 som svar på 6485644.72 
+2006-08-01 kl. 19:21  
+Oh, no... I just finished the previous batch... :))
+
+Ok, so far there are ~1700 CA observations (1520 attacks + 180 set pieces) in the dataset. Main contributors are: asafe(619)(hehe, I can only hope his selection is unbiased one :)), Exulans(271), jelmerh(76), NLVF-Mork(73) ... All hail the heroes!
+
+It took me some time to try and filter out random CAs for the wrong teams. My match report text analyser attributes all the CAs to the counterattacking team, and hence takes corresponding attack and defence ratings. Due to mistakes there were a dozen of wrongly attributed CAs. Since those were typically on the edges of the distribution, deletion of those significantly affected logit estimates.
+
+Research update #2 is out there in the first post. And since it's already full, I continue here:
+Distribution of chances:
+__________________________________________________ _
+_______________theory_ ______practice______________ _
+_Right_________0.25____424__0.26___________ _437__
+_Center________0.40____678__0.37___________ _630__
+_Left_________ _0.25____424__0.26___________ _447__
+_Pieces________0.10____170__0.11___________ _181__
+_____________________________________________1695_
+_Pearson stat__5.8684_______(chi2(3) ~ 12%)______ _
+
+fits into H0:25/40/25/10 with only 12% probability. I ran a serie of tests for possible dependance of distribution on ratings or their correspondence, but failed to find any significant factors.
+
+Scoring probability:
+In a class of functions P{Att scores on Def)=Att^x/(Att^x+k*Def^y) best estimate is x=3.68[0.21***], y=3.32[0.23***], k~2(not very significant). This functional form is chosen since it fits greatly into logistical regression :) If you have other guesses about this function, just tell me.
+Symmetrical function, with x=y, gets x=y=3.55[0.20***]
+Std errors in brackets.
+next one: (6485644.106)
+
+Edited 2006-08-04 18:50:30 by LA-GetAssista 
+
+
+*****************************************************************************************************************
+
+Av: LA-GetAssista   
+Till: avirambe   6485644.131 som svar på 6485644.129 
+2006-08-09 kl. 17:36  
+
+--------------------------------------------------------------------------------
+what do you think - is the formula correct?
+--------------------------------------------------------------------------------
+(6485644.76) ~ a^3.5/(a^3.5+d^3.5)
+But I'm sure this is not exectly the formula :) It's just pretty good approximation for what we see. Only HT-s know  
+
+
+
+
+

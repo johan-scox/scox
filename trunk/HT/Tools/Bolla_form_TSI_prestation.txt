@@ -1,0 +1,94 @@
+Av: Mod-Bolla         
+Till: Alla 	5816921.1
+2006-05-01 kl. 23:10
+Tusan också, jag är säker på at jag gjort en undersökning av hur TSI varierar med form. Nu kan jag inte hitta det :(
+
+Har ni andra något sparat?
+Mod-Bolla. Hans Majestäter (14713)
+Matches
+Players
+Last 5 IPs
+
+Serie III.6 (27)
+
+Svara
+
+Av: Mod-Bolla         
+Till: Mod-Bolla     	5816921.2 som svar på 5816921.1
+2006-05-02 kl. 00:51
+nu hittade jag det.
+
+Antag att en spelares TSI är 100% procent vid mkt låg ypperlig form. Då är hans TSI värde (vid mkt låg form inom intervallet)
+
+katastrofal 50%
+usel 60%
+dålig 70%
+hyfsad 80%
+bra 90%
+ypperlig 100%
+enastående 110%
+fenomenal 120%
+Mod-Bolla. Hans Majestäter (14713)
+Matches
+Players
+Last 5 IPs
+
+Serie III.6 (27)
+
+Svara
+
+Av: BK_Flamman         
+Till: Mod-Bolla     	5816921.3 som svar på 5816921.2
+2006-05-02 kl. 11:02
+Den listan kan stämma. TSI 40 000 vid ypperlig form är numer 22 000 vid usel form för att ta ett eget exempel.
+
+
+--------------------------------------------------------
+...and I comand U to neal, befor the... God of Thunder and Rock & Roll. The spell your under. Will still rob U of your virgin soul.
+
+BK Flamman 14 säsonger i HT
+Rockar i div IV (148)
+
+Svara
+
+Av: gassarvet         
+Till: Mod-Bolla     	5816921.4 som svar på 5816921.2
+2006-05-02 kl. 12:48
+..och hur korrelerar dessa siffror till hur bra han presterar på banan?
+
+eller finns det en annan undersökning för det?
+
+
+Gassarvet Head Coach i Kaiser FC (15923)
+Matches
+Players
+Last 5 IPs
+i Div III.39 (60)
+
+Kusin Vitamin i Knuspers Lärjungar
+
+Svara
+
+Av: Mod-Bolla         
+Till: gassarvet     	5816921.5 som svar på 5816921.4
+2006-05-02 kl. 17:47
+den korrelerar inte alls.
+
+Mellan prestation och form råder följande samband
+
+sqrt(N) | (%) | Form(N)
+2,6458 | 100 | 7,0 (feno)
+2,5495 | 096 | 6,5 (medel)
+2,4495 | 093 | 6,0 (ena)
+2,3452 | 089 | 5,5 (medel)
+2,2361 | 085 | 5,0 (ypp)
+2,1213 | 080 | 4,5 (medel)
+2,0000 | 076 | 4,0 (bra)
+1,8708 | 071 | 3,5 (medel)
+1,7321 | 065 | 3,0 (hyfs)
+1,5811 | 060 | 2,5 (medel)
+1,4142 | 053 | 2,0 (dål)
+1,2247 | 046 | 1,5 (medel)
+1,0000 | 038 | 1,0 (usel)
+0,7071 | 027 | 0,5 (medel)
+0,0000 | 000 | 0,0 (kat)

@@ -1,0 +1,12 @@
+Antal chanser i medel = 5 + 3.95*arctan((x-50)/15)
+
+=> 
+
+Bollinnehav (x) nödvändigt för y antal chanser = 50 + 15 * tan( (y-5) / 15 )
+
+=>
+
+5-5  : 46.12 - 53,88
+6-4  : 53,88 - 58,32
+7-3  : 58,32 - 64,24 
+8-2  : 64,24 - 74,02
