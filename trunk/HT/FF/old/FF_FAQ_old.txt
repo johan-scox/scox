@@ -1,0 +1,131 @@
+[u][b]Vanliga frågor och svar[/b][/u]
+
+[b]LAGUPPSTÄLLNINGAR & TAKTIKER[/b]
+F: Är det bäst att ha en offensiv, balanserad eller offensiv tränare när man tränar försvar?
+S: Olika skolor säger olika... Beror på motstånd samt egna laget.
+
+F: Vilken uppställning är bäst när man tränar försvar?
+S: Bäst är som sagt ett väldigt svårt ord i Hattrick-sammanhang, då det beror helt på den enskilda användarens prioriteter. Vill man prioritera träningen så är naturligtvis 532, 541 eller 523 uppställningarna man har att välja mellan. 523 kan man inte bygga upp någon vana på, så den bör främst ses som ett alternativ till övrga uppställlningar.
+
+
+[b]INDIVIDUELLA ORDERS & OMPLACERINGAR[/b]
+
+
+
+[b]KONTRINGSTAKTIK[/b]
+
+
+
+[b]TRÄNING[/b]
+F: Vilken nivå är bäst att köpa in sina träningsobjekt på?
+S: Se [messageid=xxx.yyy].
+
+F: Vad skall man tänka på när man köper in träningsobjekt?
+S: Se [messageid=xxx.yyy].
+
+F: Vilka bra biförmågor kan vara bra att ha på backar?
+S: Framspel är alltid bra att ha på sina backar, då det hjälper upp kontringsbetyget, om man spelar med denna taktik, men hjälper även taktikbetygen för AIM och APK. Andra biförmågor på backar är ytter och spelupplägg, båda vilka är
+
+F: Måste mina träningsobjekt ha framspel?
+S: Nej, men det höjer försäljningspriset när du skall sälja ditt träningsobjekt, samt gör ditt taktikbetyg högre om du planerar att utnyttja någon av taktikerna APK, AIM eller Kontringar.
+
+
+
+F: Hur länge, förmågemässigt, skall man träna sina träningsobjekt?
+S: Beror på övriga laget samt truppstrategin man har laggt upp. Tänk efter hur länge du vill behålla dina spelare efter du slutat träna dem, och hur bra de behöver vara för att platsa i laget under den tiden. Man kan även undersöka mellan vilka nivåer man tjänar mest pengar per upptränad nivå, men det övergår nivån på denna korta FAQ.
+
+F: När blir ett träningsobjekt för gammal?
+S: Det beror på hur långt man vill träna sin spelare, men spelare tappar lite i träningskapacitet för varje år de blir över 17 år gamla. Genrellt går gränsen när man "brukar" sluta träna sina spelare någonstans vid 20-23 år, beroende på vad man tränar. För vidare information, se[messageid=xxx.yyy].
+
+F: Finns det någon risk att man tappar träning om man kör 5-5-0?
+S: Nej, inte så länge man inte har mer 3 innerbackar eller 3 innermittar.
+
+F: Finns det någon risk att man tappar träning om man kör 2-5-3?
+S: Nej, inte så länge man inte har mer 3 innerbackar eller 3 innermittar.
+
+F: Hur bra tränare behöver jag?
+S: Träningen har en mycket central roll i Hattrick och bör därför prioriteras så mycket man kan. Därför bör man minst ha en ypperlig tränare i sitt lag, men gärna en enastående, för att maximera sitt lags utveckling. Vad gäller ledarförmåga på tränaren beror detat på vilken taktik man bygger upp sitt lag efter, och huruvida man vill använda sig av stämmningen för att kunna coacha sitt lag.
+
+
+[b]SE-OPTIMERING[/b]
+F: Vilka specialiteter är bra/inte bra att ha på sina backar?
+S: Beror på hur man prioriterar, en "offensiv" SE-optimering på sina backar innebär många nickskickliga och oförutsägbara backar, en mer defensivt inriktad optimering innebär kraftfulla backar och/eller utan specialitet. Specialiteter i allmänhet är en fråga om personliga prioriteringar hur man lägger upp sin truppstrategi. Flertalet guider och tips finns tillgängliga på externa Hattrick-källor, och frågan brukar diskuteras ganska flitigt i flertalet konferanser, inklusive vår förbundskonferans. Vidare läsning här [message_id=xxx.yyy].
+
+
+[b]Träning, strategi, m.m.[/b]
+[i]Dessa frågor här rör främst, av förklarliga själv, träning av backar. ;)[/i]
+
+
+
+[b]Taktik, laguppställning m.m.[/b]
+
+
+
+F: När är det smart att köra kontringar som taktik?
+S: Bäst lämpar sig kontringar mot lag med klart sämre anfall än ens eget försvar samt med bättre mittfält än vad man själv kan eller vill prestera vid just det matchtillfället. Man bör även ha tillräckligt bra anfallsbetyg för att kunna göra mål på sina chanser, något som är extra viktigt då man antagligen får mindre antal chanser än motståndaren. Pga av detta är 532 vanliga att spela vid 5-backslinje och kontringar då det generellt ger bättre anfallsbetyg.
+
+F: Vilken uppställning är bäst när man skall kontra?
+S1: Med maxad försvarsträning:
+- 532 två yttrar:
+- 532 tre innrar:
+- 532 två innrar:
+- 541 tre innrar:
+- 541 två yttrar:
+- 523:
+
+Sammanfattning:
+
+S2: Rent generellt:
+Att kontra med 3 backar är sällan motiverad, då man ej med rimligt dimensionerade spelare kan uppnå ett vettigt kontringsbetyg. Det finns tillfällen då en kotringsuppställning med 3 backar kan fungera bäst, men det gäller ytterst sällan, och beskrivs därmed inte här alls, utan här beskrivs istället 
+- 442 en ytter:
+- 442 två yttrar:
+- 433 en ytter:
+- 433 två yttrar:
+- 433 tre innrar:
+- 451:
+
+Sammanfattning:
+
+F: Hur många kontringar kan man få i en match?
+S: 1 kontring får man nästan alltid, oberoende hur bra kontringslag man har, 2 chanser kräver lite mer och att man har ett lag som i varje fall är lite anpassat efter kontringar, 3 kontringar kräver mer eller mindre att man har byggt laget lite efter att kunna spela kontringar, eller att man har klart bättre lag än motståndaren. Till sist är 4 kontringar (eller i teorin ännu fler) extremt ovanligt, och har än så länge bara hänt vid ett fåtal tillfällen.
+
+F: Hur högt kontrings-/försvars-/anfalls-/mittfältsbetyg behöver jag för att kunna kontra framgångsrikt?
+S: Detta beror på hur bra din motståndare är i jämförelse med dig, och hur du balanserat upp ditt lag. Generella tipset för ett framgångsrikt kontringslag, som dock endast bör ta som en riktlije att börja ifrån, är, i prioritetsordning:
+
+1. Försvar minst två steg högre än motståndarens anfallsbetyg.
+2. Anfall minst samma som motståndarens försvarsbetyg på minst två betyg
+3. Mittfältsbetyg som ger misnt 35-40% bollinnehav, men max 50%.
+4. Kontringsbetyg minst dubbelt så högt som motståndarens totala snitt på lagdelsbetyg.
+Generellt kan man säga att om man inte uppnår någon av målen bör man öka kravet på någon av de andra kraven. Några exempel:
+
+- Sämre försvar kräver i första hand högre bollinnehav, då högre bollinnehav minskar motståndarens antal anfall, och därmed minskar risken för att släppa in mål, analogt med ökat försvarsbetyg. Ökat kontringsbetyg + anfall kompenserar till viss mån också för minskat försvar (dock bara marginellt) då man då gör fler mål, vilket kompenserar för fler insläppta mål pga det sämre försvaret.
+
+- Sämre anfall kräver i första hand bättre mittfält och bättre kontringsbetyg/försvar och till viss mån bättre försvarsbetyg. Med bättre mittfält och/eller kontringsbetyg+försvar ökar totala chansen till fler mål, då man behöver öka antalet egna anfallschanser (vanliga eller kontring) för göra lika många mål som med bättre anfall. Ökar man sina försvarsbetyg minskar man chansen motståndarens antal mål.
+
+- Sämre bollinnehav kräver i första hand bättre försvar men gärna även bättre anfallsbetyg och kontringsbetyg, då man i första hand måste se till att mota fler anfall emot sig (högre förvar), lägre bollinnehav innebär att man behöver  skapa sig fler kontringschanser (bättre förvar och kontringsbetyg), samt att det blir viktigare att göra mål på sina chanser (bättre anfall).
+
+- Sämre kontringsbetyg kräver först och främst högre bollinnehav och försvar, för kompensera för det potentiella bortfallet av kontringschanser (mota fler motståndaranfall pga färre antala egna mål, samt öka antalet vanliga chanser för att kompensera kontringschanserna).
+
+F: Hur kan jag ta reda på hur högt kontringsbetyg jag kommer få?
+S; Det finns en mängd verktyg som uppskattar hur högt kontringsbetyg du kommer få med en viss uppsättning spelare. Betyget räknas dock ut ifrån summan av alla backars bidrag till betyget, som i sin tur räknas ut från försvararens framspel, försvar, rutin och form. För att räkna ut en uppskattning manuellt kan man anvvända följande formel:
+Kontringsbetyg = Summa spelare(form * (framspel*2 + försvar))
+
+[b]Transfers[/b]
+
+F: När på säsongen är det mest lönsamt att sälja?
+S: För vidare information, se[messageid=xxx.yyy].
+
+F: När under veckan är det mest lönsamt att sälja?
+S: För vidare information, se[messageid=xxx.yyy].
+
+F: Hur kan jag se om en spelare är hög inom sin förmåga eller inte?
+S: Jämför med andra liknande spelare på tranffern. Är det en nydragen junior, eller om det är i början av en säsong, är lönen den bästa måttstocken på spelarens förmåga. Ovanstående kan också vara ett bra sätt att lista ut hur bra ens motståndares spelare är, om man tycker det är svårt (fullt naturligt) att bedömma utifrån spelarens stjärnbetyg.
+
+F: vad är WT?
+S: Weektrading, som innebär att man köper, tränar och säljer spelare på veckorbasis. Grundtanken är att köpa in spelare som är höga inom sitt förmågesteg, tränar upp dem till nästa nivå och sedan sälja.
+
+
+[b]Övrigt[/b]
+
+F: Varför förlorade jag matchen trots att jag hade mycket bättre lagdelsbetyg än min motståndare?
+S: Slumpen styr trots allt en del av matchresultatet, och ibland går saker och ting inte som man vill, hur överlägsen man är. Vidare har försvarstränande lag ofta lite sämre mittfält och/eller anfall, och då mittfältet i grunden avgör hur många chanser man får i en match, samt anfallet avgör om det blir mål på en chans eller ej, går försvarslag generellt ofta lite sämre ett "förmågemässigt jämbördigt" lag, men som spelar en annan taktik.

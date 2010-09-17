@@ -1,0 +1,188 @@
+[u][b]Vanliga frågor och svar[/b][/u]
+
+[b]Introduktion[/b]
+
+Denna FAQ, vanliga frågor, siktar på att försöka sammanfatta vanliga frågor som båda nybörjare och lite mer erfarana coacher har, färmst inom försvarsträning, men även lite inom övriga områden inom HT. FAQ'n är färmst en sammanfattning av vad som berättas lite mer utförligare senasre i tråden, och därmed även användas som ett index för att hitta rätt när man letar efter tips och djupare information om ett ämne.
+
+[b]Vanliga förkortningar och uttyrck[/b]
+
+[ib]
+Innerback.
+
+[yb]
+Ytterback.
+
+[im]
+Innermitt.
+
+[i]iim[/i]
+Omplaceringsordern "in i mitten".
+
+[i]upk[/i]
+Omplaceringsordern "ut på kanten".
+
+[i]def[/i]
+Indviduella ordern "defensiv".
+
+[i]off[/i]
+Indviduella ordern "offensiv".
+
+[i]SU[/i]
+Spelarförmågan "Spelupplägg".
+
+[i]Yiim[/i]
+Ytter med indviduella ordern in i mitten.
+
+[i]FUPK[/i]
+Forward med indviduella ordern ut på kanten.
+
+[i]SE[/i]
+Special event.
+
+[i]DT[/i]
+Daytrading.
+
+
+[i]WT[/i]
+Weektrading, som innebär att man köper, tränar och säljer spelare på veckorbasis. Grundtanken är att köpa in spelare som är höga inom sitt förmågesteg, tränar upp dem till nästa nivå och sedan sälja.
+
+[i]Lundataktik/all-out[/i]
+Taktik som går ut på att maximera främst mittfältet, men även anfall, med hjälp av offensiva backar.
+
+[b]LAGUPPSTÄLLNINGAR & TAKTIKER[/b]
+
+F: Vilken uppställning är bäst när man tränar försvar?
+S: Bäst är som sagt ett väldigt svårt ord i Hattrick-sammanhang, då det beror helt på den enskilda användarens prioriteter. Vill man prioritera träningen så är naturligtvis 532, 541 eller 523 uppställningarna man har att välja mellan. 523 kan man inte bygga upp någon vana på, så den bör främst ses som ett alternativ till övrga uppställlningar.
+
+F: Är det bäst att ha en offensiv, balanserad eller offensiv tränare när man tränar försvar?
+S: Olika skolor säger olika... Beror på motstånd samt egna laget, hur bra ens lagdelsbetyg man presterar just nu, samt hur bra betyg man planerar kunna prestera en bit in i framtiden, samt naturligtvis bilken taktik man spelar med. Vidare information här [messageid=xxx.yyy].
+
+F: Vilken uppställning är bäst mot en motståndare som spelar kontringar?
+S:
+
+F: Vilken uppställning är bäst mot en motståndare som spelar "Lunda-taktik"?
+S:
+
+F: Vilken uppställning är bäst mot en motståndare som har ett balanserat lag?
+S:
+
+F: Varför förlorade jag matchen trots att jag hade mycket bättre lagdelsbetyg än min motståndare?
+S: Slumpen styr trots allt en del av matchresultatet, och ibland går saker och ting inte som man vill, hur överlägsen man är. Vidare har försvarstränande lag ofta lite sämre mittfält och/eller anfall, och då mittfältet i grunden avgör hur många chanser man får i en match, samt anfallet avgör om det blir mål på en chans eller ej, går försvarslag generellt ofta lite sämre ett "förmågemässigt jämbördigt" lag, men som spelar en annan taktik.
+
+
+[b]INDIVIDUELLA ORDERS & OMPLACERINGAR[/b]
+
+F: Hur mycket bidrar en normal/defensiv inner till försvaret?
+S: 
+
+F: Hur mycket bidrar en offensiv innerback till försvaret och mittfältet?
+S:
+
+F: Hur mycket bidrar en ytterback till försvar, mittfält och anfall då han spelas defensiv/normal/offensiv?
+s:
+
+F: Hur mycket bidrar en ytterback iim till kantförsvar och mittförsvar?
+S:
+
+F: Hur mycket bidrar en innerback upk till kantförsvar och mittförsvar?
+S:
+
+F: Hur mycket bidrar en omplacerad back/inner/forward till försvar/mittfält/anfall?
+
+F: Bidrar en innermittfältare lika mycket till mittfältet som normal/defensiv/offensiv?
+S: Ja, det enda som ändras är spelarens bidrag till försvaret (spelarens försvarsförmåga) samt anfallet (framspelförmågan).
+
+F: Hur mycket bidrar framspelet till anfallsbetyget på en ytter?
+S: 
+
+F: Hur mycket bidrar en yiim till anfallet, jämfört med offensiv?
+S:
+
+F: Hur mycket bidrar framseplet till anfallsbetyget på en forward?
+S: 
+
+F: Hur mycket bidrar en defensiv forward till mittfält och anfall?
+S:
+
+F: Hur mycket bidrar en FUPK till mittanfall och kantanfall?
+S: 
+
+
+[b]KONTRINGSTAKTIK[/b]
+
+F: När är det smart att köra kontringar som taktik?
+S: Bäst lämpar sig kontringar mot lag med klart sämre anfall än ens eget försvar samt med bättre mittfält än vad man själv kan eller vill prestera vid just det matchtillfället. Man bör även ha tillräckligt bra anfallsbetyg för att kunna göra mål på sina chanser, något som är extra viktigt då man antagligen får mindre antal chanser än motståndaren. Pga av detta är 532 vanliga att spela vid 5-backslinje och kontringar då det generellt ger bättre anfallsbetyg.
+
+F: Vilken uppställning är bäst när man skall kontra?
+S1: Med maxad försvarsträning är generellt 532 med två inner och en offensiv ytter den mest kostnadseffektiva och framgångsrika kontringstatktiken. Vidare information här [messageid=xxx.yyy].
+
+Sammanfattning:
+
+S2: Rent generellt:
+Att kontra med 3 backar är sällan motiverad, då man ej med rimligt dimensionerade spelare kan uppnå ett vettigt kontringsbetyg. Det finns tillfällen då en kotringsuppställning med 3 backar kan fungera bäst, men det gäller ytterst sällan, och beskrivs därmed inte här. 442 och 433 är de vanligaste kontringsuppställningarna om man  inte spelar med 5 backar, vilka båda har lite fördelar över 532, främst genom bättre anfall (433 bättre mittanfall, 442 potentiellt 3 bra anfallsbetyg) eller bättre mittfält (442 med tre innrar och/eller iyttrar med mycket SU).
+
+Sammanfattning:
+
+F: Hur många kontringar kan man få i en match?
+S: 1 kontring får man nästan alltid, oberoende hur bra kontringslag man har, 2 chanser kräver lite mer och att man har ett lag som i varje fall är lite anpassat efter kontringar, 3 kontringar kräver mer eller mindre att man har byggt laget lite efter att kunna spela kontringar, eller att man har klart bättre lag än motståndaren. Till sist är 4 kontringar (eller i teorin ännu fler) extremt ovanligt, och har än så länge bara hänt vid ett fåtal tillfällen.
+
+F: Hur högt kontrings-/försvars-/anfalls-/mittfältsbetyg behöver jag för att kunna kontra framgångsrikt?
+S: Detta beror på hur bra din motståndare är i jämförelse med dig, och hur du balanserat upp ditt lag. Generella tipset för ett framgångsrikt kontringslag, som dock endast bör ta som en riktlinje att börja ifrån, är, i prioritetsordning:
+
+1. Försvar "ett par" (lägre divisioner: riktmärke 2) steg högre än motståndarens anfallsbetyg.
+2. Anfall minst samma som motståndarens försvarsbetyg på minst två betyg
+3. Mittfältsbetyg som ger misnt 35-40% bollinnehav, dock max 50%.
+4. Kontringsbetyg minst dubbelt så högt som motståndarens totala snitt på lagdelsbetyg.
+
+Generellt kan man säga att om man inte uppnår någon av målen bör man öka kravet på någon av de andra kraven. Vidare information här [messageid=xxx.yyy].
+
+F: Hur kan jag ta reda på hur högt kontringsbetyg jag kommer få?
+S; Det finns en mängd verktyg som uppskattar hur högt kontringsbetyg du kommer få med en viss uppsättning spelare. Betyget räknas dock ut ifrån summan av alla backars bidrag till betyget, som i sin tur räknas ut från försvararens framspel, försvar, rutin och form. För att räkna ut en uppskattning manuellt kan man anvvända följande formel:
+Kontringsbetyg = Summa spelare(form * (framspel*2 + försvar)).
+Vidare information här [messageid=xxx.yyy].
+
+
+[b]TRÄNING[/b]
+F: Vilken nivå är bäst att köpa in sina träningsobjekt på?
+S: Se [messageid=xxx.yyy].
+
+F: Vad skall man tänka på när man köper in träningsobjekt?
+S: Se [messageid=xxx.yyy].
+
+F: Vilka bra biförmågor kan vara bra att ha på backar?
+S: Framspel är alltid bra att ha på sina backar, då det hjälper upp kontringsbetyget, om man spelar med denna taktik, men hjälper även taktikbetygen för AIM och APK. Andra biförmågor på backar är ytter och spelupplägg, båda vilka är
+
+F: Måste mina träningsobjekt ha framspel?
+S: Nej, men det höjer försäljningspriset när du skall sälja ditt träningsobjekt, samt gör ditt taktikbetyg högre om du planerar att utnyttja någon av taktikerna APK, AIM eller Kontringar.
+
+F: Hur länge, förmågemässigt, skall man träna sina träningsobjekt?
+S: Beror på övriga laget samt truppstrategin man har laggt upp. Tänk efter hur länge du vill behålla dina spelare efter du slutat träna dem, och hur bra de behöver vara för att platsa i laget under den tiden. Man kan även undersöka mellan vilka nivåer man tjänar mest pengar per upptränad nivå, men det övergår nivån på denna korta FAQ.
+
+F: När blir ett träningsobjekt för gammal?
+S: Det beror på hur långt man vill träna sin spelare, men spelare tappar lite i träningskapacitet för varje år de blir över 17 år gamla. Genrellt går gränsen när man "brukar" sluta träna sina spelare någonstans vid 20-23 år, beroende på vad man tränar. För vidare information, se[messageid=xxx.yyy].
+
+F: Finns det någon risk att man tappar träning om man kör 5-5-0?
+S: Nej, inte så länge man inte har mer 3 innerbackar eller 3 innermittar.
+
+F: Finns det någon risk att man tappar träning om man kör 2-5-3?
+S: Nej, inte så länge man inte har mer 3 innerbackar eller 3 innermittar.
+
+F: Hur bra tränare behöver jag?
+S: Träningen har en mycket central roll i Hattrick och bör därför prioriteras så mycket man kan. Därför bör man minst ha en ypperlig tränare i sitt lag, men gärna en enastående, för att maximera sitt lags utveckling. Vad gäller ledarförmåga på tränaren beror detat på vilken taktik man bygger upp sitt lag efter, och huruvida man vill använda sig av stämmningen för att kunna coacha sitt lag.
+
+F: När på säsongen är det mest lönsamt att sälja?
+S: För vidare information, se[messageid=xxx.yyy].
+
+F: När under veckan är det mest lönsamt att sälja?
+S: För vidare information, se[messageid=xxx.yyy].
+
+F: Hur kan jag se om en spelare är hög inom sin förmåga eller inte?
+S: Jämför med andra liknande spelare på tranffern. Är det en nydragen junior, eller om det är i början av en säsong, är lönen den bästa måttstocken på spelarens förmåga. Ovanstående kan också vara ett bra sätt att lista ut hur bra ens motståndares spelare är, om man tycker det är svårt (fullt naturligt) att bedömma utifrån spelarens stjärnbetyg.
+
+
+[b]SE-OPTIMERING[/b]
+F: Vilka specialiteter är bra/inte bra att ha på sina backar?
+S: Beror på hur man prioriterar, en "offensiv" SE-optimering på sina backar innebär många nickskickliga och oförutsägbara backar, en mer defensivt inriktad optimering innebär kraftfulla backar och/eller utan specialitet. Specialiteter i allmänhet är en fråga om personliga prioriteringar hur man lägger upp sin truppstrategi. Flertalet guider och tips finns tillgängliga på externa Hattrick-källor, och frågan brukar diskuteras ganska flitigt i flertalet konferanser, inklusive vår förbundskonferans. Vidare läsning här [message_id=xxx.yyy].
+
+F: Vilka specialiteter är bra att ha på sina övriga spelare?
+S: Vidare läsning här [message_id=xxx.yyy].

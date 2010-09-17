@@ -1,0 +1,191 @@
+--- Mina träningsobjekt:
+Uppdaterad 051021
+
+[u]Backar:[/u]
+
+Adam Tarapu [playerid=31699118] 22 år
+Försvar: övernaturlig + 3 Framspel: fenomenal + 7.8
+
+Alex Rosee [playerid=22275852] 22 år
+Försvar: gudabenådad +1  Framspel: fenomenal + 9
+
+Sofoklis Kamprianis [playerid=46753588] 21 år
+Försvar: legendarisk + 0 Framspel: fenomenal + 6.7 Målgörare: ypperlig + 0 Specialitet: Nickskicklig
+
+Demis Niesters [playerid=47387322] 21 år
+Försvar: legendarisk + 0 Framspel: fenomenal + 0 Specialitet: Snabb
+
+Malcolm Mosskog [playerid=15506557] 23 år
+Försvar: unik + 5 Framspel: ypperlig + 0 Målgörare : bra
+
+Johan Skoglund [playerid=25603064] 22 år
+Försvar: ypperlig + 5 Framspel: ypperlig + 0.9 Spelupplägg: bra Specialitet: Snabb
+
+[u]Mittfältare:[/u]
+
+Dino Medori [playerid=14928113] 25 år
+Spelupplägg: titanisk Framspel: bra + minst 3 Försvar: hyfsad Specialitet: Nickskicklig
+
+Johan Vesterwald [playerid=21845562] 22 år
+Spelupplägg: oförglömlig Framspel: ypperlig + 3 Försvar: hyfsad + minst 3 Specialitet: Nickskicklig
+
+Douwe van Barneveld [playerid=7270532] 25 år
+Spelupplägg: övernaturlig Framspel: ypperlig + 5.9 Ytter: bra Försvar: bra Specialitet: Nickskicklig
+
+Marcel Bontekoning [playerid=26973037] 21 år
+Spelupplägg: gudabenådad Ytter: legendarisk Framspel: hyfsad Försvar: bra Specialitet: Snabb
+
+Bjørn Nordby [playerid=19500505] 23 år
+Spelupplägg: gudabenådad Försvar: legendarisk + 2 Framspel: enastående + 3 Ytter: bra Specialitet: Nickskicklig
+ 
+Jörgen Toresson [playerid=1520753] 30 år
+Spelupplägg: gudabenådad Framspel: hyfsad + 0 Försvar: legendarisk + 2
+
+Johan Skoglund [playerid=11395419] 31 år
+Spelupplägg: bra Framspel: dålig Försvar: ypperlig++ Målgörare : dålig + 0 Specialitet: Teknisk
+
+[u]Forwards:[/u]
+
+Andreas Ströming [playerid=23123821] 22 år
+Målgörare: oförglömlig + 4 Framspel: enastående + 0 Specialitet: Oförutsägbar
+
+Dimitri Simon [playerid=29850336] 21 år
+Målgörare: övernaturlig + 4 Framspel: ypperlig + 6.9 Specialitet: Snabb
+
+Tommy Hylius [playerid=22575914] 22 år
+Målgörare: gudabenådad + 4 Framspel: ypperlig + 7.7 Specialitet: Oförutsägbar
+
+Bane Ažman [playerid=57730589] 19 år
+Målgörare: legendarisk + 6 Framspel: bra + minst 3 Försvar: enastående + 0 Specialitet: Teknisk
+
+Anders Adolfsson [playerid=64891642]  18 år
+Målgörare: fenomenal + 3 Framspel: ypperlig + minst 3 Försvar: bra + 0 Specialitet: Oförutsägbar
+
+Erik Pihlquist [playerid=65552754] 18 år
+Målgörare: fenomenal + 5 Framspel: ypperlig + 1 Försvar: bra + 0 Specialitet: Snabb
+
+Johan Skoglund [playerid=39323740] 25 år
+Målgörare: bra Framspel: ypperlig   
+
+
+--- Traning:
+vecka (vXX) = traning som gavs av spel i seriematch nr [veckonummer]
+s16v0x : Forsvar
+s16v16 : Kondition 
+s17v01 : Kondition 
+(v02 : t-match=>forvirring=>ingen traning)
+s17v03 : Forsvar
+s17v05 : Kondition
+s17v06 : Forsvar
+s17v15 : Kondition
+s18v01 : Forsvar
+(v01 : s-match=>forvirring=>ingen traning)
+s18v02 : Kondition
+s18v03 : Forsvar
+s18v05 : Kondition
+s18v06 : Forsvar
+s18v07 : Kondition
+s18v08 : Forsvar
+(v09 : t-match=>forvirring=>ingen traning)
+s18v15 : Kondition
+s19v01 : Forsvar
+s19v04 : Kondition
+s19v05 : Forsvar
+s19v14 : Målvakt
+s19v15 : Frisparkar
+s19v16 : Kondition
+s20v03 : SU
+s20v16 : Kondition
+s21v01 : SU
+s21v14 : Målvakt
+s21v16 : SU
+s22v11 : Forsvar
+s22v15 : SU
+s22v16 : Försvar
+s24v15 : Genomskärare
+s24v16 : Försvar
+s25v03 : Kortpassningar
+s25v05 : Genomskärare
+s25v07 : Kortpassningar
+s25v08 : Försvar
+s25v09 : Kortpassningar
+s25v10 : Försvar
+s25v11 : Kortpassningar
+s25v12 : Genomskärare
+s25v13 : Försvar
+s26v00 : Kortpassningar
+s26v01 : Avslut
+s26v11 : Kortpassningar
+s26v14 : Försvar
+s27v02 : Avslut
+
+--- Junis
+Salde senast 040727
+
+Totalt antal salda junisar: 66 (+3)
+Intakt junisar: 40.940 Mkr (+16.590 Mkr)
+Utespelare: 59 (+2)
+Malvakter: 7 (+1)
+
+Utespelare:
+Hogst varderade: 1 650 kkr (39079421)
+  anfallare, 19 år, såld för 1 730 kkr
+Hogsta forsaljning: 4 950 kkr (29525019)
+  ena SU, hyf kond, ypp för, bra fram, 
+  18 år , varderad till 1 160 kkr
+
+Malvakt:
+Hogst varderade: 3 970 kkr (25832273)
+  Ena, 18 år, såld för 2 230 
+Hogsta forsaljning: 2 230 kkr (25832273)
+  Ena, 18 år, varderad till 3 970 kkr
+
+--- Arena
+21->25 : 60.6%, 27.68%, 9.44%, 2.28%
+25->40 : 61.25%, 27% 9.4375%, 2.23125%
+40->50 : 61.25%, 27%, 9.5%, 2.5%
+
+--- Supportrar
+Max: 2260, s27v05
+
+-- Veckostatus
+
+s27v04
+Träning: Avslut
+Stämning:   enastående
+Självförtroende:   ypperligt  
+
+I kassan: 15 467 691 kr  
+Sponsorerna: badar i fontänerna  
+Supporterklubb: 2252 medlemmar  
+Supportrarna: svävar på små moln  
+
+Publik 3 122 518 Arenan 324 250 
+Spons 1 170 975  Löner 1 600 520 
+Fin. 41 000  Räntor 0 
+Tillfälliga 2 400  Tillfälliga 20 000 
+Övrig p. 690 000  Ungd. 200 000 
+Intäkter 4 336 893 
+Kostnader 2 834 770 
+Resultat 1 502 123  
+
+s27v05
+Träningstyp:   Avslut  
+Stämning:   ypperlig  
+Självförtroende:   ypperligt  
+
+I kassan:   14 320 263 kr
+Sponsorerna:   badar i fontänerna  
+Supporterklubb:   2260 medlemmar  
+Supportrarna:   svävar på små moln 
+
+Publik 92 642    Arenan 324 250 
+Sponsorer 1 187 400  löner 1 600 520 
+Finansiella 46 000    Räntor 0 
+Tillfälliga 421 300    Tillfälliga 80 000 
+personal 690 000    Ungdom 200 000 
+Summa intäkter 1 747 342    
+Summa kostnader 2 894 770 
+Förra veckans resultat -1 147 428  
+
+

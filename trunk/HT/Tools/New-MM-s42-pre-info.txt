@@ -1,0 +1,1040 @@
+Ignorera  Prenumerera  Bokmärk
+Bokmärkt användare
+#42: HT-Tjecken  » #23: neicooo  2010-02-24 10:46
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+What will happened with the formation experience of 4-4-2 after the change?
+Not entirely decided yet, but as it's impossible for teams regularly playing 4-4-2 to build a "real" formation experience up (as it's fixed to excellent) I predict it will set to excellent (or at least a high level) at the time of the release.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#46: HT-Tjecken  » #34: L-Vis  2010-02-24 10:48
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+L-Vis skrev:
+As it will be impossible to use more than 3 inners (mentioned in the editorial), it will of course not be possible to use 4.
+
+
+Is this valid for substitutions, too? I cannot bring a 4th IM in minute 5?
+It will be impossible to use more than 3 central players. Impossible. No exceptions.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#51: HT-Tjecken  » #37: madkat 2010-02-24 10:51
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+1. will the midfielders power be reduced (by averaging skill, not adding it, perhaps) when calculating the midfiled rating, or will the contribution of other players be increased?
+The principle for how midfield power is reduced is described in the editorial. 
+
+2. will other players use their main skill contributing to midfield, or still their playmaking like now?
+Their playmaking, just as today.
+
+3. (off-topic) Are there in your plans for the "distant" future any additions to the classic 8-attribute system? (eg. marking, tackling, dribbling, crossing...etc)
+No.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#58: HT-Tjecken  » #38: Real_RocknRolla  2010-02-24 10:56
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Don't you agree that you're making TDFs even more powerfull in regards to their PM contribution by nerfing IMs?
+No, I absolutely don't think they will be more powerful than before. They may still be a valid choice though.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#61: HT-Tjecken  » #53: ville_man  2010-02-24 11:04
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+How are you going to change training with regards to these changes or does the changes fit in nicely with how you wish to see training develop.
+Even though these changes aren't diretly connected to training, they still fit in quite nicely in our plans. As we've said in that old editorial we don't want it to be possible to use all ways to success at the same time. Now, this change will not stop anyone from training effectively or anything. But you may not necessarily be as competitive at the same time if you choose to do so.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#65: HT-Tjecken  » #59: Chippen17  2010-02-24 11:07
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Chippen17 skrev:
+In principle it will be equally good to field a sole inner after this upgrade
+
+
+Sounds a bit weird actually... does this mean that for example 1 titanic midfielder will give you the same midfield rating as for example 3 world class midfielders?
+No. That phrase just means that it will be no difference in fielding one sole inner in today's engine compared to the new engine.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#69: HT-Tjecken  » #60: TranceMaker  2010-02-24 11:09
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Since you are going to make more match formations, (+4) then it only seems logical to me that the formations will be maintained easier than before.
+From the editorial:
+
+Changes to formation experience and confusion are included in this upgrade. In essence it will be easier for you to gain and keep formation experience, and it will also play a bigger role when it comes to confusion on the pitch.
+
+:)
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#71: HT-Tjecken  » #64: Isojuho  2010-02-24 11:11
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Isojuho skrev:
+HT-Tjecken skrev:
+As we've said in that old editorial we don't want it to be possible to use all ways to success at the same time. Now, this change will not stop anyone from training effectively or anything. But you may not necessarily be as competitive at the same time if you choose to do so.
+
+
+So reducing effectiveness of training and increasing the effectiveness of trading is the solution?
+We've neither reduced the effectiveness of training nor the effectiveness of trading.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#92: HT-Tjecken  » #68: teodoreh 2010-02-24 11:24
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Funny question : Could you please start giving formation experience right now? I play 2-5-3 for two and a half seasons now, and my players still can't understand it! :D
+Blame your coach. I'll sign them up for a "How to learn formations"-course at season's end though. ;)
+
+Serious question: Were will be, any other change except from formation unlocking, denial of 4th reposition and percentages tweaking?.
+Actually I think this is the most major update we've done for many years (from a user perspective). Last season was also a major change, but not intended to affect you that much.
+
+It's definitely more into this upgrade than what you wrote down, but everything hasn't changed naturally. The basic attack vs defense formula or the midfield contribution formula will not change now, but some stuff affecting these formulas will.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#102: HT-Tjecken  » #70: Chippen17  2010-02-24 11:30
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+I still don't get it... today playing with 1 IM is foolish, now you're actually saying it won't be any better in the new engine?
+Looking at only the midfield rating playing with one sole inner will not get any better, and I honestly don't think it will be much more used either even though it may benefit other ratings. 
+
+For other central positions (fw/def) it will however be better than in the past to play with one sole player in the central position.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#106: HT-Tjecken  » #74: koma999  2010-02-24 11:33
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+koma999 skrev:
+Is it possible, for example, to train not only the strikers in scoring that a Scoringtrainer can play a 442 and he select the trainees manual?
+There are no changes in how training works.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#109: HT-Tjecken  » #86: Max_Schreck  2010-02-24 11:37
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+why hope?
+and why is longer test time not possible?
+You could start adding to YA as you say, then Senior friendlies and finally Hit the Lights.
+The introduction to senior teams is depending on how the youth tryouts works, hence hope. But we're working according to that plan.
+
+Longer test is not possible because we simply can't run the upgraded engine and the old engine at the same time. They're too different in that respect.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#144: HT-Tjecken  » #87: Isojuho  2010-02-24 11:58
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+What I am trying to say is, that as a playmaking trainer, I am stuck with the 3-5-2 until I switch training (no matter how poor my 3rd inner turns out to be). Until now, I felt that my training was a method of trying to catch up with the older, wealthier clubs at my level.
+Training efficiently will always be a good method to catch up, but I get what you mean. Still I think you're overreacting a bit, in essence this change is aimed to balance different formations in a better way which will inrease the tactical abilities. In many ways 3-5-2 together with playmaking training has been king in the past, but that also means most other formations/training types have been less beneficial. It's been quite hard to stay competive while training defenders for example. With this change we want to motivate users to use more formations. An effect of that is that you actually could be more competitive when using some training types, but that also means the old "king" is not king anymore (but the king isn't dead either).
+
+I don't think this change makes any diffrence for the effectiveness of hoarding/trading. Doesn't mean there will never be measures to balance them better on the other hand. :)
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#171: HT-Tjecken  » #47: Saverio  2010-02-24 12:15
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Saverio skrev:
+HT-Tjecken skrev:
+ryanli skrev:
+Will repositioning get dumped out of this game?
+Yes, the repositioning evil will cease to be.
+
+
+so it will be possible to set individual orders for 3 IMs for example?
+This will open up for more use of individual orders, yes.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#174: HT-Tjecken  » #107: Chippen17  2010-02-24 12:18
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Chippen17 skrev:
+HT-Tjecken skrev:
+koma999 skrev:
+Is it possible, for example, to train not only the strikers in scoring that a Scoringtrainer can play a 442 and he select the trainees manual?
+There are no changes in how training works.
+
+
+maybe in the future? ;)
+Hehe. Exactly. :)
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#186: HT-Tjecken  » #115: Jestar  2010-02-24 12:28
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+When conditional substitutions were introduced, Tjecken said that confusion disappears when changing formation: (11418829.55). This is the only official communication about the issue.
+It seems I removed too much of the quote message I'm replying to. Just click backwards and see during what circumstances I'm talking about. The example is going from 2-5-3 (where you get confusion) and then go to 3-5-2 (excellent formation exp).
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#191: HT-Tjecken  » #116: Torn_  2010-02-24 12:34
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+However, I plan to improve on my achievements in the future and notice you only reduce contributions (except for wing ratings). Even with 4-4-2, before and after the change, both midfield, defence and central attack will all be reduced.
+In principle only midfield rating is reduced when playing 4-4-2, central defense and attack will stay as they are more or less (depending on the inner mids secondary skills).
+
+Have you considered making 2 inners or forwards or defenders contribute the same and instead increase the contribution of a sole player compared to today?
+If you remove "inners" from that sentence, it's exactly what will happen.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#195: HT-Tjecken  » #118: TychoBrahe  2010-02-24 12:35
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+FW Toward Wing are considered as central or not?
+Forwards are always considered being central players.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#199: HT-Tjecken  » #125: McDrops  2010-02-24 12:39
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+How do you expect us to find bugs in the youth engine?
+Perhaps not as straightforward as for seniors, but I'm quite certain you'll spot them anyway. We will naturally also make our own thorough checks on youth matches, so it's not like we totaly relying on you guys (even though your help will make a difference of course).
+
+Edit: Btw, will that mean that the youths start to play with the "old new" engine finally, that is, will PM on normal CDs start to effect the midfield and Defense on goalkeepers the defense?
+Yes.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+
+//Scox read until here
+
+#209: HT-Tjecken  » #150: Catalyst2950  2010-02-24 12:51
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Catalyst2950 skrev:
+Still I think you're overreacting a bit, in essence this change is aimed to balance different formations in a better way which will inrease the tactical abilities.
+
+Yes. Now we'll see 3-4-3 with 3xTDF as the most successful option, to replace 3-5-2 with 2xTDF :)
+I just love your positive spirit! ;)
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#213: HT-Tjecken  » #155: Dr_Death  2010-02-24 12:54
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Dr_Death skrev:
+I don't have any clue why you 'legalize' 2-5-3 and 5-5-0 (and 5-2-3). In my opinion, there are only disadvantages due to that.
+And those disadvantages are?
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#238: HT-Tjecken  » #170: Ratsia  2010-02-24 13:16
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+About formation experience and confusion I can't really say more than what's mentioned in the editorial. You'll get the details in the actual release.
+
+At least I wouldn't want regular HT to turn into the wild "guess which (extreme) formation I will use today"-game we have for NTs today.
+Neither do I. A part of your tactical decision is based on knowing what your opponent might be up for, and we don't want to remove that.
+
+One of the core reasons for making 3-5-2 and 3-4-3 so powerful is that 1 CD is already enough. It's not just the added midfield/attack power, but the fact that fielding a fourth defender has so low value due to keeper influencing defense so much. Why do you think you needed to further boost tactics using only one CD?
+I guess it would make much more sense to have this discussion when you know all the details. I do agree that sole forwards are perhaps in bigger "need" of this boost than "sole" central defenders, but there are reasons to start off like this. Mostly simplistic reasons, but not only that.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#243: HT-Tjecken  » #180: Dr_Death  2010-02-24 13:20
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Dr_Death skrev:
+HT-Tjecken skrev:
+Chippen17 skrev:
+HT-Tjecken skrev:
+koma999 skrev:
+Is it possible, for example, to train not only the strikers in scoring that a Scoringtrainer can play a 442 and he select the trainees manual?
+There are no changes in how training works.
+
+
+maybe in the future? ;)
+Hehe. Exactly. :)
+But you are aware of the fact that legalizing 5-5-0 and 2-5-3 increases training efficiency for some training types?
+Yes, we're aware of that.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#284: HT-Tjecken  » #200: LA-elfarolillo  2010-02-24 13:58
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+LA-elfarolillo skrev:
+HT-Tjecken skrev:
+However, I plan to improve on my achievements in the future and notice you only reduce contributions (except for wing ratings). Even with 4-4-2, before and after the change, both midfield, defence and central attack will all be reduced.
+In principle only midfield rating is reduced when playing 4-4-2, central defense and attack will stay as they are more or less (depending on the inner mids secondary skills).
+
+
+Errr do you mean by this that the penalty for having two inners will also affect to the secondary skills?
+It affects their whole contribution.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#290: HT-Tjecken  » #215: SkyfireX  2010-02-24 13:59
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+SkyfireX skrev:
+Much more effective training for example.
+And why is that an disadvantage?
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#291: HT-Tjecken  » #219: hacos  2010-02-24 14:00
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+hacos skrev:
+HT-Tjecken skrev:
+How are you going to change training with regards to these changes or does the changes fit in nicely with how you wish to see training develop.
+Even though these changes aren't diretly connected to training, they still fit in quite nicely in our plans. As we've said in that old editorial we don't want it to be possible to use all ways to success at the same time. Now, this change will not stop anyone from training effectively or anything. But you may not necessarily be as competitive at the same time if you choose to do so.
+
+
+What are your plans?
+Our general plans are listed on editorial space last summer.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#312: HT-Tjecken  » #223: Ratsia  2010-02-24 14:17
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Ratsia skrev:
+HT-Tjecken skrev:
+Dr_Death skrev:
+I don't have any clue why you 'legalize' 2-5-3 and 5-5-0 (and 5-2-3). In my opinion, there are only disadvantages due to that.
+And those disadvantages are?
+
+Promotion of extreme tactics, both for winning matches (today's 4-5-1 turtling with SE/SP optimization is replaced with 5-5-0 as they anyway had no forwards) and for training (2-5-3 will be the sole formation used for passing training in friendlies, especially if it will be easier to keep formation experience up and hence friendlies are not so necessary for that).
+
+Especially the extreme defense+midfield tactic is today one of the central issues in terms of match strategy, primarily based on uninteresting or even faulty implementation for both SP and SE, which makes enabling 5-5-0 a weird decision. I'd be happy to see 5-5-0 if you first fixed SE and SP.
+
+You might have had a reason for adding 5-5-0, but it would be nice to hear it. What are the advantages of making it possible, besides some symmetry things? It's not that critical to know what the drawbacks might be if you have no advantages, since just adding stuff for the sake of it is not going to make the game better.
+I know you're no fan of any ultradefensive tactics today, but we see no reason to limit 5-5-0 out. Fielding a very strong defensive line-up should also be available tool in your tactical arsenal, just as fielding a very strong offense should be. I doubt however that any of them will be that successful, but may at times be a valid pick. But in a way one can also argue if 5-5-0 will be that much better than 5-4-1 considering the loss for 3 central players (on defense and midfied).
+
+That said, I also think that in combination with SEs they get an edge which I don't think they should've. SEs are however also on the agenda (as you know from reading this forum), and we don't think it make any sense to exclude 5-5-0 as a lineup in this change (as they're all about formations). Keeping things simple - to easily understand what you can do and what you can't do - is still very important. In this case I think it's more important than the eventual downside of turtling.
+
+As for passing training it does make it somewhat better, but passing training is still only used by 5% of the Hattrick users. On the other hand, those teams will also get a contribution hit on passing when using 3 fws and 3 inners.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#317: HT-Tjecken  » #241: Dr_Death  2010-02-24 14:20
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+OK, here is our misunderstanding. My point was that forwards don't have sides - the effects of their skills is the same if they are fielded as a left forward or a right forward, with exception of the fwtw.
+Wait a second, was you're question to me about this also on the same thing? I interpreted it differently.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#327: HT-Tjecken  » #269: yozhkin_kot  2010-02-24 14:24
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+As I understand, these changes will hurt not only 3-5-2, but also all formations with 3 forwards, bacause all they are considered central, and 5 defenders, because there is possible to place only 2 wb. So, the best formation will be 4-4-2 with two wingers? Am I right?
+We aim for a kingdom without kings. No formation will be allowed to be too dominant, it should really be about what you put in to them and naturally also depending on your opponent.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#332: HT-Tjecken  » #296: NatTheRat1  2010-02-24 14:27
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+NatTheRat1 skrev:
+In your opinion, will the TDF be more or less important after the changes?
+Less.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#337: HT-Tjecken  » #301: Charles_Darwin  2010-02-24 14:28
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Charles_Darwin skrev:
+I have a question which may have come up later in the thread but I have only just started.
+
+If IMs are weakened, then what about the IMTW which you only improved a short while ago?
+Will he count as a 3rd IM when alongside two normal IMs?
+Yes, he's still considered being central in that sense.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#359: HT-Tjecken  » #154: Real_RocknRolla  2010-02-24 14:40
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Real_RocknRolla skrev:
+By nerfin' IMs they make TDFs PM contribution even more crucial in order to be competitive. The reduction in the TDFs central attack contribution will likely be small and they are increasing their contrubtion to the side attacks even though a TDFs contribution to the side attack is already bigger than a normal forwards.
+As many of you seem very concerned about this:
+
+Player contribution changes is included in this upgrade, as mentioned in the editorial. The listed ones are the most prominent ones (pretty large effect), but as I hope you can understand these are not the only ones. I see you raise concerns about playmaking skill getting more important for non-inners (in particular the TDF), but rest assurred some of these other contribution changes are just about that. Looking back, we should probably have written them down too, to avoid some of your concerns about this.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#378: HT-Tjecken  » #329: Ratsia  2010-02-24 14:54
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Ratsia skrev:
+Darth_Hansen skrev:
+true, but then why not publish those figures already now?
+
+I guess it makes sense to announce things in two steps. A very heavy editorial with lots of details is anyway tedious to read and would require an intuitive summary, so they can just as well publish the intuitive summary as the first warning and even collect some feedback while doing it.
+There is another important reason for it too: It's so much easier to publish all the details etc (what you can and can't do) when you also get to see many the changes for yourself. As I think most of you have figured out there will be a new cool shiny match order page interface for example, and just seeing that one will answer many question itself (and avoid misunderstandings/concerns etc).
+
+The drawback from doing things in two steps is that some fears/concerns will be raised even though there in most cases aren't real ground for it (but I can definitely understand why it happens).
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#386: HT-Tjecken  » #339: Charles_Darwin  2010-02-24 14:57
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+You haven't reduced the effectiveness of training but you have seriously reduced the ability to remain competitive while optimally training which means it will be more difficult to compete with the traders!
+Surely you can see this?
+That might be true for playmaking trainers, but probably not for any other training type (they're in fact better off now). 
+
+As for traders we've taken pretty much measures against that in the past. Not saying it's the last, but still.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#392: HT-Tjecken  » #350: Mod-Benav  2010-02-24 15:00
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Mod-Benav skrev:
+HT-Tjecken skrev:
+As it will be impossible to use more than 3 inners (mentioned in the editorial), it will of course not be possible to use 4.
+This limitation will be quite easy to do in the flash version of the match orders, but with the html one it seems hard to imagine...
+
+Will the html interface for matchs orders disappear ?
+A completely new shiny interface will be released.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#408: HT-Tjecken  » #391: ORBITREK  2010-02-24 15:08
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+With all these changes,without going into percentage could you tell the new order of importance of contribution in Playmaking in the different positions?
+Pretty much the same. Any other order would be quite confusing and make things more complex.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#425: HT-Tjecken  » #412: Ratsia  2010-02-24 15:22
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Ratsia skrev:
+HT-Tjecken skrev:
+A completely new shiny interface will be released.
+
+Just to make sure: Not so shiny that it couldn't be used with all of the mobile browsers? Being able to set up the lineup is perhaps the most critical thing we need to be able to do while on the move.
+Mobile ability has not been forgotten about.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#438: HT-Tjecken  » #430: abafin  2010-02-24 15:34
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Easily said. If just the editorial would tell what you know, we could discuss on the same level.
+As mentioned a few posts back there are absolutely benefits of having releases done in steps, but naturally it's not only beneficial. But we want to give you a heads-up what's in the pipe and how it may affect your manager plans in the big picture, and also believe that's something you want. Releasing the full description many weeks prior to the actual release will to some extent help in discussions, but as you will not be able to see the actual stuff with your own eyes it will still open up for misunderstanding/concerns etc. Taking all users into consideration, I think heads-ups summarizing the change prior to the actual release is the best way.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#440: HT-Tjecken  » #434: STAR-ter  2010-02-24 15:36
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+And now you make it even more complex, no matter what you do, because you think from a perspective of someone who knew the engine very well. Imagine new players who would have to learn the old stuff first and then need to adjust to the new changes.
+New users don't need to learn the old stuff, they only have to learn the current situation. And I'm actually pretty sure this change will make things a lot easier for new users when it comes to match orders etc.
+Redigerad 2010-02-24 15:37 av HT-Tjecken
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#572: HT-Tjecken  » #452: sugarstorm 2010-02-24 18:59
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+As a Defense or PM trainer you can train 10 players, but as a scoring trainer you can only train 6! So scoring trainers will have two players a week that train but hurt their ratings.
+Defense trainers will be hurt in the same way as scoring trainers in that sense. I don't think scoring training and competiveness has been made worse, actually the other way around. You've got another formation to use as someone mentioned (allthough it may not be the best choice for you), but as all formations will better balanced (and as we said we aim for a kingdom without a king) it also means you could be more competive using 3-4-3 than in the past.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#618: HT-Tjecken  » #464: STAR-ter  2010-02-24 20:03
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Well... Correct me if I'm wrong, but for me it looks like they need to be explained that midfield plays an important role (it still will right?) which determines possession, but then they will need to learn that some important parts of it (still not sure what it is because your editorial is very general) are downloaded into defense and forward. I tried to explain it as plain as possible.
+Not really sure what you're after really. But generally speaking, midfield will not cease to be important. Wether you do get a basic attack (or not) is still up to the midfield, and wether you score is determined by attack vs defense. Those basic things will not change. They will just as easy to explain as it used to. Just because some power are shifted from the middle to the wings (that much you can tell from reading this editorial) does not exactly put new users in a tough position. 
+
+New users will not need to be explained what a repositioned player is though. Frankly, that term is far from logical and not that easy to grip ("eer, you're saying he's an inner but in reality a left back?"). After this update it will be perfectly clear where a player is playing. We don't need to teach them that they might lose training if they overcrowd ("eeerr, say what?") a particular part of their team.
+
+For us oldies repositioning and overcrowding are simple facts, for new users they're not.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#620: HT-Tjecken  » #471: GM-emmpee  2010-02-24 20:06
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+GM-emmpee skrev:
+Will it be possible to play multiple central players towards the same wing? (e.g. 2 IMTWs on the left side, 3 FTWs on the right side, etc)
+When the upgrade is released (together with the new order interface) it will be perfectly clear what you can or can't do. I think it's better to wait with such details until you can see them with your own eyes, even though I know it's a bit boring answer.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#623: HT-Tjecken  » #476: Yancek  2010-02-24 20:12
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Yancek skrev:
+Why do you do so much changes? And why so often? I lose desire to continue playing...
+Hattrick is continually developed, and a result changes will happen. I guess some would like a higher speed in regard to game development, and some prefer a lower speed. We try to cruise in the middle in a way; we want to gradually improve the game at a good speed still promoting a long term dedication from our players (meaning without changing the game totally over night).
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#630: HT-Tjecken  » #477: Chippen17  2010-02-24 20:17
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Chippen17 skrev:
+Any idea already when the editorial with the contribution changes will be launched?
+I actually think you can get a decent idea of when from the editorial. We want to get a few weeks of testing in the youth teams, and as mentioned hopefully also a week for seniors. I think you can do the maths from there to get a decent clue about when the detaisl will be launched.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#639: HT-Tjecken  » #481: abafin  2010-02-24 20:31
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Everything the editorial me can tell is, that there are upcoming changes - nothing more
+I beg to differ (naturally, as I wrote the darn thing ;)). There are lots of things you can't tell from this editorial, but you do know how things will affect game play in the big picture and what our intentions are (plus of course that there is a change coming up): More formations open for use and more balance between different formations (which practically means that more formations are "open" for (competitive) use). You can also tell that some power are being shifted from the middle to the sides. 
+
+That said, I agree that the information is not enough to know how it will affect your plans (and if you should take any measures, or which if so). On the other hand, it's not really intended to go that far either. It's aimed for the big picture.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#666: HT-Tjecken  » #486: fredfroni  2010-02-24 21:02
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+fredfroni skrev:
+Pretty_Good_Gatsby skrev:
+HT-Tjecken skrev:
+Time to let you know what's in the pipe for next seaons folks!
+
+On editorial space there's now news about a major engine upgrade, due for next season. This time we also intend to really affect your manager plans. :)
+
+This is naturally also the best change ever.
+
+How many times and how many ways can you change the contributions to midfield, without actually changing the BLOODY EFFECT OF MIDFIELD. 
+
+The only single problem has always been that midfield is overpowered. You have made literally two dozen changes to the midfield contributions, but you never change the overall effect midfield has on the game. 
+
+So you lower the contribution of actual IMs. People will find other ways to pump up midfield - BECAUSE YOU LEFT THE MIDFIELD AS THE MOST MASSIVELY POWERFUL THING IN THE GAME. They won't play IMs, they will play Offensive Defenders, Technical Defensive Forwards, Defensive Forwards, Wingers TM. The only thing that is changes is the WAY people pump up their midfield. :(
+
+
+Exactly.
+
+The only reason 3-5-2 was 'overpowered' was because it was the best way to get a big midfield without sacrificing too much elsewhere. It's midfield that is completely overpowered. As long as a team with 40% possession gets on average 1 in every 10 chances, the ME is fundamentally broken. I don't know how the developers can't see that, and they spend so long thinking up massively complicated solutions when the problem is quite simple.
+Simply changing the current contribution formula and make it less dependent on possession will on the other hand also increase variance*. I'm not saying that's bad per se, but you have to pay attention to it. 
+
+Doing what we do now we rather try to motivate users to make other choices then going all in the middle. Simply make the trade-off better, you may gain more on other ratings than what you lose in midfield. At the same time we shouldn't kill 'the old truth' completely, I mean 3-5-2 for example should also be a viable formation. In the end we're confident this will have a noticable effect on the midfield importance.
+
+*There are naturally ways to keep the current variance by using a different contribution formula/approach, but I don't think they're that appealing as there are greater downsides with them imho. Other measures with elements already in the game (SEs for example) are more tempting if you want to make midfield even less important.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#675: HT-Tjecken  » #491: Thommie12345  2010-02-24 21:15
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Are you saying that, after first changing my team after the last changes (3 months ago), it will be possible in the near future that have to change my team again?
+I would say that none of our changes every has made such an impact that a proper long term plan has been wasted after a change. You may have to tweak your plan after a change naturally, but not more than that.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#685: HT-Tjecken  » #516: Actionhank  2010-02-24 21:41
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Since there is very little time left to react on the announced changes - how bad is it going to be for TDFs?
+I guess it's depending on how you see things actually. In Catalyst's world I guess everything but a total nerf would be too little, and others may problably want to hang us for making them useless. :)
+
+We see no need to completely ruin a certain player type over night. They will not be equally good, but still a valid choice. That's the best answer I can give you right now.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#691: HT-Tjecken  » #528: Dr_Death  2010-02-24 21:57
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Hattrick is a soccer simulation. The formations that are allowed by now are 5-4-1, 5-3-2, 4-5-1, 4-4-2, 4-3-3, 3-5-2, 3-4-3. All these formations are among those tactical formations that can be found in present day professional RL soccer teams (if I can trust e.g. wikipedia).
+
+The formation 5-2-3 is non-existent in RL soccer. Same can be said of 2-5-3. There were classical formations with 2 defenders (the famous scottish 'pyramid', a 2-3-5), but only until about the 1940s. The formation 5-5-0 may probably be used sometimes close the end of a match, but as far as I know, no RL soccer team starts in this formation.
+5-2-3 is as you say pretty non-existent in real life, I agree. I would however say that both 2-5-3 and 5-5-0 are used, in particular close to the end of a game. But one can also say that 2-5-3 is used as a starting formation in way, as a team playing with very offensive wingbacks in a 4-3-3 formation can be interpreted as 2-5-3. Wether Barcelona plays 4-3-3 or 2-5-3 can be argued in a way.
+
+Still that said, RL similarities are important. But in a game there are also other important factors. In this particular case in this particular game, keeping it simple is one really important factor.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#693: HT-Tjecken  » #535: Sam-Vimes  2010-02-24 22:03
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Sam-Vimes skrev:
+I repeat a question that was made before, but received no answer.
+Will it still be possible to play asymmetrically?
+If repositionings were removed from the current lineup system, it would become impossible to have asymmetrical modules (e.g. you would not be able to remove a wing and add an extra IM).
+However, since you announced a new lineup interface, I wonder if this tactical option will be preserved or removed.
+Thanks
+Boring answer I know, but this is also something which is better to take when you can see the new interface with your own eyes.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#699: HT-Tjecken  » #538: koschka  2010-02-24 22:12
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+TDF will be a must to boost midfield...as they will contribute more than the 3rd midfielder.
+I don't know how you come to that conclusion, but the above is not true.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#703: HT-Tjecken  » #540: Donut102  2010-02-24 22:18
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Donut102 skrev:
+Some player contribution changes are included in this upgrade, the important ones are included in this heads-up. In other words, there will be more player contribution changes - but relatively small ones. You will get all the details at the time of the release.
+
+Will the player contribution changes be reflected in their stars?
+
+So a forward who plays on his own in a league game will get more stars than when he played 442 in a friendly, reflecting his greater contribution to match ratings?
+We have no plans to change how the star rating works. So pure player contribution changes will naturally be reflected, but the contribution loss when using 3 central players (for example) will not be reflected in the stars, just as today's contribution loss due to repositioning isn't reflected in the stars.
+
+The latter is however naturally reflected in the team ratings.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#712: HT-Tjecken  » #542: cartman89  2010-02-24 22:31
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+the worst part of the present engine, and also the one which limits the effectiveness of tactics, is not player contribution (I mean, you can always adjust for that by buying or building different players). It is, and you've read it 576344 times already, the random element
+I think the amount of variance in the game is at a pretty good level actually, so I don't agree with you. There will naturally be games where you're unlucky (or lucky), but as I've said some 576343 (hehe) times: the best team in a series will in the very most cases also win it.
+
+Also, with a 14 game schedule, I think random should weigh less than in real life football
+I'm quite confident that's already the case actually, and it's also been proven (as far as one can prove something like this) in a research made by LA-AmonRaZZ. It's on the forum somewhere... :)
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#722: HT-Tjecken  » #583: Sahid 2010-02-24 22:46
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+My question is simple. What about us , people who play hattrick as a simple game, without going into technical terms, doing matematics about the ratings , etc , etc, ....because we are a big portion of hattrick users.
+
+Are we "protected" ? Can we still play without spending more than 20 minutes a week?
+Because if the game turns to be more complicated and more demanding to understand it, simple users will quit sooner or later. I hope you understand where i come from...and i hope it makes sense my thought. Thank You :)
+You will absolutely still be able to play without spending more time than what you currently do even after this change. One intention with this change is also to make things easier for you, placing your match orders for example.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#739: HT-Tjecken  » #669: teodoreh 2010-02-24 23:06
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+teodoreh skrev:
+Why are you still answering questions? ;)
+I mean, you're here from morning up to now. We get annoyed by your efforts to help us understand the 'new' changes. This is so no-HT behaviour... ;D
+How odd that it may seen, everyone doesn't go up from bed etc according to HT-time and they may also enjoy being answered on. ;)
+
+But I'm also very interested to hear what you have to say, it's very hard to just close the computer down on a day like this. I mean, this game is a large part of my life and just because I could leave at 17.00 doesn't make my personal interest any smaller.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#747: HT-Tjecken  » #688: OgtheDim  2010-02-24 23:20
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+BTW, no comment on the viability differences of changes between series levels?
+Not right now at least. My head is just incapable in dealing with such thinking (and then phrasing something about it) at the moment. Rough night (as I'm a daddy for a 1,5 year old nowadays), early morning, a non-pleasant cold and a loooong day in front of the computer isn't the best of combinations. :)
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#748: HT-Tjecken  » #692: Thimphu  2010-02-24 23:23
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Thimphu skrev:
+Is keeping it simple a important factor? Well I am not sure. Perhaps for new players. But finder out and strange things has always been a attraction for me.
+Keeping it simple is an important design principle for us, absolutely. And I think it's perfectly possible to combine that with depth, to keep the attraction.
+
+NB: Tillykke med stafet guld
+Tack. :)
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#750: HT-Tjecken  » #695: Wupper18  2010-02-24 23:24
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Wupper18 skrev:
+HT-Tjecken skrev:
+Boring answer I know, but this is also something which is better to take when you can see the new interface with your own eyes.
+
+
+And wonderful for people who only read your and flamerons posts in this thread like me. ;-)
+We aim to please. ;)
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#755: HT-Tjecken  » #700: Noflik  2010-02-24 23:31
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Noflik skrev:
+HT-Tjecken skrev:
+That means no more training loss because of formation?
+Exactly.
+
+
+So fielding a 0-0-0 on sunday and (let's say) 3-5-2 on wednesday will give training.
+Hmm, didn't think of WO games. Guess that may still happen in such cases.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#763: HT-Tjecken  » #567: hatricpassie  2010-02-24 23:59
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+I guess this will be my last answer for tonight.
+
+flameron skrev:
+I am really worried by this. If we had any way to make the two engines run in parallel we would 100% choose such option. Currently we do not have any idea how to do that.
+
+To me it seems strange that in the past this was always possible, but with this big change it suddenly isn't. Not that I am questioning your opinion upon that (as I don't have the slightest idea of the implications on your side), I'm just questioning what has changed in the meantime that it won't be possible this time around. I hope that a good discussion within the ranks of the developers will follow on this question, because if this won't be handled we'll see this problem every time you'll change something in the ME from now on?
+This upgrade is different to all other game engine changes in the past. It's not only the match engine itself which is changed, it also affects a lot of things in the background (how things are stored in the database etc). The biggest factor for this is that we get rid of the reposition order, which naturally have to replaced by another logic making the trick. This will make the interface easier to understand as I mentioned, but it also forces us to handle/store things differently in the background (when it comes to training for example). As it will work entirely different, we can't run both engines at the same time.
+
+I hope I shed some lights on this issue at least.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#873: HT-Tjecken  » #766: OgtheDim  11:26
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+OgtheDim skrev:
+HT-Tjecken skrev:
+BTW, no comment on the viability differences of changes between series levels?
+Not right now at least. My head is just incapable in dealing with such thinking (and then phrasing something about it) at the moment. Rough night (as I'm a daddy for a 1,5 year old nowadays), early morning, a non-pleasant cold and a loooong day in front of the computer isn't the best of combinations. :)
+
+
+Wait until they turn 15..... :-)
+Hmm. That wasn't exactly what I needed to hear. ;)
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#874: HT-Tjecken  » #770: hatricpassie  11:29
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+On a side note: I was afraid that communication would get much worse after Josef's leave of absence. I am glad to be proven wrong today. I think this day will go into the books as one of the best days in that aspect (although something like myth busters will still be higher ranked). You (Tjecken) together with flameron have done a real good job. I'd love to see you continue this current form :D
+Thanks. I however would like to take things to an even higher level. You'll see.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#879: HT-Tjecken  » #783: -Cobras-  11:34
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+WMD lobbyist group
+Just out of curiosity, what does WMD stand for? :)
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#883: HT-Tjecken  » #784: Unknown_Guy  11:59
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+TDF in HT is ment to trequartista or number 10 or second striker, is that right?
+
+If so then by definition this player gives great passes to scorers but don't score much by himself.
+He makes situations.
+Yes, when the TDF was created we had the trequartista in mind. But I don't agree that such players don't score much. Totti is perhaps the most prominent example of the trequartista (at least back in the days), and he scores in general even more often than every second match.
+
+But I understand what you're after, even though passing works the same way as winger in that sense. It's a simplification of things, which I think works pretty well even though I can agree on there being a small logical gap.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#887: HT-Tjecken  » #818: Torn_  12:11
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Torn_ skrev:
+HT-Tjecken skrev:
+Charles_Darwin skrev:
+I have a question which may have come up later in the thread but I have only just started.
+
+If IMs are weakened, then what about the IMTW which you only improved a short while ago?
+Will he count as a 3rd IM when alongside two normal IMs?
+Yes, he's still considered being central in that sense.
+1. Central as in playing equally much towards both wings? Or central as in "normal"?
+
+2. What about if you use only 1 inner (or forward or central defender) and this player is given the "Towards wing" order? Can you choose which side? Or will he contribute equally much to both?
+
+3. What about if I have a single inner with a lot of passing, and use a conditional order (moving or substituting) to get a second one - with a lot of defending? Will I be able to choose which side the passing one plays on and which side the defending one is?
+
+4. Will you be making significant changes to the interface of the conditional orders, too? If so, I would have dozens of suggestions ;-)
+
+
+PS - Please make sure either the manual or the interface explains these things so we do not need to link to forum posts like we too often need to.
+About 1, I'm not talking about "sides" ín that sense when talking about central players. I just say he's still considered being an inner even if he's playing towards wing.
+
+When it comes to sides in that sense you're talking about (will he aid more to the right wing if he's playing "right inner mid"), it's better to wait for the proper release of the new interface. It will be so much easier to spot what you can (and can't) do, and as a result much easeir to explan it too.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#888: HT-Tjecken  » #820: dm001  12:12
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+dm001 skrev:
+The biggest factor for this is that we get rid of the reposition order, which naturally have to replaced by another logic making the trick. This will make the interface easier to understand as I mentioned, but it also forces us to handle/store things differently in the background
+
+Will there be any implications on CHPP programs, i.e. the way they retrieve formations?
+Yes, it will (and it's included on our list on things to do). The CHPP community has also been informed about this yesterday.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#892: HT-Tjecken  » #826: Pavel_Nicolae 12:19
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Pavel_Nicolae skrev:
+On the agenda will the SE be less or more important (they will be more likely to occur or less) ?
+In a way this is a perception issue. But when it comes to SEs the biggest problem is that it's really hard to understand how they work, even for the most hardcore users. Our aim is rather to make them easier to understand than to make them more or less important. But one result of making them easier to understand may very well be that SEs are percieved to be more important. 
+
+I hope you followed me there... :)
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#897: HT-Tjecken  » #846: NatTheRat1  12:34
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+NatTheRat1 skrev:
+Forgive me for not reading the 253 posts since I last read this thread. :-P
+
+Has any consideration been given to 'The Sweeper'?
+
+The 'Defensive' CD is an integral part of the RL game. Any thoughts of introducing it into HT?
+Nothing we have discussed or given any thought. They're not that common as they were in the 70s. The defensive inner mid would in that case be a more delicate choice if we want to create a new type of player (as the TDF) in my opinion, but it's not on the map right now at least.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#911: HT-Tjecken  » #877: Catalyst2950  13:30
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Catalyst2950 skrev:
+Thanks. I however would like to take things to an even higher level. You'll see.
+
+You are going to send us your raunchy photos?
+Yep. All dressed up in chaps, and only chaps.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#917: HT-Tjecken  » #889: nonkelvladimir  13:42
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+nonkelvladimir skrev:
+You make us very curious about the shiny new interface :)
+It's not my intention the blow your expectations up about the interface really. It's just that it makes better sense to talk about such issues when you can actually see it for yourself.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#918: HT-Tjecken  » #890: LA-elfarolillo  13:42
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+* By the way, do you know the interface that is used in the UEFA.com fantasy games? It's a cute interface in which it's somewhat easy to change formations nicely ;)
+No, I don't. But I guess I can check it out. :)
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#920: HT-Tjecken  » #900: Jebbyc  13:44
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Never mind importance, what about controlling them at all?
+To control something you have to understand it works first. :)
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#930: HT-Tjecken  » #906: holten  14:00
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+We're kind of moving off track now, but nevertheless:
+
+Have you considered introducing new specialties?
+Considered, yes - for a few years. During the years it hasn't exactly had top priority though. :) 
+
+Have you considered making some specialties work for more positions
+And yes, this has also been up for consideration. And if I would rank these two ideas I would give this a higher prio.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#932: HT-Tjecken  » #916: Kylee  14:02
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Kylee skrev:
+Any chance of replying this: (13809378.863)?
+That question will be covered in the launch.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#934: HT-Tjecken  » #923: FjompeNisse  14:03
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+FjompeNisse skrev:
+Are the upcoming changes possible to see/test on the Stage server?
+Engine effects us all, so in that sense everyone will test. A few pages changes related to his may naturally hit Stage first though.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#942: HT-Tjecken  » #937: Kylee  14:11
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+Is it really necessary to write editorial with such low level of informations included?
+I definitely think it's important to tell you what's in the pipe and let you know our motives/intentions with it, even though the exact details of the change aren't mentioned.
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Bokmärkt användare
+#956: HT-Tjecken  » #855: Ratsia  14:32
+
+HT-Tjecken 
+Tjecko-85
+ IIf
+He is answering to almost all of the issues raised by the community, either with actual answers or promises that we will figure things out when the rest of the details are given. For one of the two most prominent issues (TDFs being the other) there suddenly is absolutely no answer, which can't be a coincidence.
+No, it's not. I must admit I must've completely missed it if anyone mentioned it yesterday (I blame random naturally!). But anyway, it's not a coincidence that you haven't got an answer on this one, since by answering it I would probably also hand out more details than intended. I know everyone is pretty fed up with that statement by now, but in time we will get back to this discussion. I know you will not forget it at least. :)
+Wrap me up in always, and drag me in with maybes
+Svara Se svarBokmärk Ignorera
+Svara till alla   Tillbaka till början!
+          
