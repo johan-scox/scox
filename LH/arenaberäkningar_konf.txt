@@ -1,0 +1,22 @@
+I stickyn med tips om ombyggnad föreslås att man skall riva först och bygga sedan för att det är lättast. När jag räknar på detta för min 25000 platser stora arena så känns det som det blir klart dyrare att riva först och bygga sedan, än tvärtom. Jag antar då att jag behåller storleken på arenan, trots att jag räknar med publiknedgång, detta för att inte riskera att ha för liten arena då jag för statisk på publiken närmaste veckorna, innan jag bestämmer mig för slutgiltig storlek.
+
+Min fråga är då om följande beräkning stämmer, eller om jag gjort någon logisk tankemiss någonstans?
+
+Nuvarande arena:
+Total kapacitet:	 25 000 (100%)
+Kortsida: 1 500	(6%) (lågt, men enligt tidigare instruktion att skippa att bygga ut dessa)
+Långsida: 21 000 (84%)
+VIP-platser: 2 500 (10%)
+
+Önskad arena:
+Total kapacitet: 25 000 (100%)
+Kortsida: 7 500	(30%)
+Långsida: 15 000 (60%)
+VIP-platser: 2 500 (10%)
+
+Min första tanke var att bygga ut 6000 kortsideplatser först, sen riva 6000 långsideplatser. Detta går ej, då bygga ut 6000 kortsideplatser ej innebär att antalet platser inom varje sektion hamnar inom rätt intervall. För att hamna över 25% på kortsideplatserna måste jag istället bygga ut 6334 platser, vilket ger totalt 32334 platser på arenan, med fördelning 25-67-8 för kort-lång och VIP. Detta kostar mig 1 458 450 kr. Sedan river jag helt enkelt 334 kortsideplatser (nyss byggda...), samt 6000 långsideplatser, ochg arenan står klar med 25000 platser, och enligt nya byggnadsreglerna.
+
+Om jag istället väljer att riva platser, hamnar jag i situationen att jag även då måste hamna inom rätt intervall. 1500 kortsideplatser innebär att arenan kan vara maximalt 1500*4=6000 platser står, vilket innebär att att jag får riva 17500 långsida samt 1500 VIP först, för att hamna inom rätt intevall (VIP rivs då jag inte får riva mer långsidepaltser, 3500 platser är minimum). När detta är kalrt bygger jag sådeles på arenan igen för att återskapa min arena på 25 000 platser, nu med "rätt" fördelning. Kostnad för dessa 19 000 nya platser blir 7 100 000.
+
+Inser att kostnaderna ovan blir annorlunda beroende på hur stor arenan är, och större dessto skevare fördelningen var från början, men i mitt fall blir det ju väsentligt dyrare om jag skall riva arenan först och bygga upp sen, än tvärtom. Bygga först och ruva sen innebär ju lite högre arenahyra, men å andra sidan förlorar jag ju inte lika mycket publikinkomst som jag ju kommer göra under tiden min arena bara är på 6000 platser? Nåväl, kontrollräkna gärna, och påpeka gärna om jag gjort något uppenbart fel. Om jag inte gjort något tankefel, kanske detta skall påpekas i stickyn, så inte folk blir lurade att spendera klart större summor än nödvändigt på sina ombyggnader.
+

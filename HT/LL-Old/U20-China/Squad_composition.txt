@@ -1,0 +1,60 @@
+[quote]Why just 4 forwards?
+
+Don't you think that in some case you could try 3-4-3 or 4-3-3? Why (or why not)?
+
+8 Mildfielders : What kind of one will you choose?
+e.g. 2 offensive, 2 defensive, 2 technical, 2 headplayers?
+[/quote]
+Now this is an interesting question, although without knowing all available players it is of course quite difficult to answer, but I'll try to answer it in general terms.
+
+Regarding squad composition, it is set up to be able to play most of the different tactics, and still having at least one extra player, and then having 2 extra spots over for when players may be incapacitated, through very low form or injury. With this composition:
+
+2 goalkeepers
+6 defenders
+8 inner midfielders
+3 wingers
+4 forwards
+
+You can play, to mention some examples:
+- Any 5 defender CA-tactic (532, 541, 523), with one extra defender
+- 352 all-out (2 wtm (winger toward middle), 3 im (inner mids), 2 ocd (offensive central defenders), having one extra inner mid as reserve, no reserves for winger and ocd though.
+- 352 AOW (2 ow (offensive wingers), 2 FTW (forwards towards wing), 1 owb (offensive wingback)), no extra wingers though
+- 343, one extra forward
+- 451 pressing (2 wtm, 3 im, 1 df (defensive forward)), having 2 extra inner mids.
+- 352 balanced, 0-2 wtm, 0-1 ocd, with at least 1 reserve for all positions.
+- 442 CA, 0-2 wtm, same as above.
+- 433 CA, forwards only one with only one reserve.
+
+And so on… many options available in short. :) Even so, there are missing some reserves in some of the tactics, inner mids mostly, but having at least 2 available spots open for any of the team parts is important, so that you don’t limit yourself in the tactic before a game, which would make it easier for the opponent to figure out how you are going to play. 
+
+That is actually the most important rational behind the composition of the squad, making it as flexible as possible, which both makes it more difficult for the opponent to scout your team, and enables you to play some other tactics when bad luck (i.e. bad form and/or injuries) disables you from playing the preferred tactic.
+
+When choosing players for the U20 the absolutely most important thing is the primary skill, and that the player is trained at that skill. Secondary skills are of course very nice, but, especially for U20, you need to keep up with your opponents primary skills, to not fall too far behind in the ratings. 
+
+In my club team I don’t actually think this way, mainly because of the economy factor, there I have a lot of multiskilled players instead, like double trained ocd’s, wtm’s, FTW’s, wingers, CA-defenders and offensive inner mids. But club teams and national teams work rather differently, mainly because of the economical factor, which is quite important to know when you become a coach for a U20- or National team.
+
+Having said that, players with secondary skills will of course be selected over similar players without secondary skills. Also, in some cases a player with very good secondary skills will also be selected over a player with higher primary skills, if it will benefit the total team the most. But this is of course very hard to predict without knowing all available players. It will be tough work the first week to be able to set up the initial 23-player squad, but fun at the same time of course. :o) 
+
+Also, regarding whether there are players available that fit into our whishes, we will simple try to find what’s available, and selct the best one form that. If we could put together a squad that finished higher than China did this year in a country with only 24 active users, compared to more than 1100 in China, I think we will do fine here as well. ;o)
+
+Further, having many players to choose from, especially on the midfield, ensures, or at least maximizes your chances of having players in high form playing, and that is very important for the overall ratings, and hence the performance of the team. This is especially important in U20, where many teams have similar skill-level on their players.
+
+
+Regarding selecting specific types of players, like offensive inner mids, defensive inner mids, etc, the same applies here, we’ll see what’s available, and decide then. If there was an unlimited supply, all with equal primary skill (not even the really big countries like Sweden or Spain has this. ;), the matter would be quite different. Then I would choose only defenders with a lot of passing, 2 defenders with winger skill, wingers with a lot of PM (playmaking) and passing, 3 inner mids with a lot of passing, 3 with a lot of defending, and 2 with a little bit of both, forwards with a lot of passing and winger and finally two players with a lot of set pieces, one defender (for when playing offensively, since that player of course still had to be trained on set pieces and hence be lower on his primary skill) and one offensive/defensive inner mid (same rational, but for counterattacks).
+
+Final topic then, specialties, also one of my favorite subjects. ;o) I have to mention that also here I think my club team proves that I’m aware of how to handle this, even though I’m entirely satisfied with my setup right now, I still do a lot of SE-goals. :o) I have said it a couple of times before, but have to say it again, when selecting players, primary skill and that the player is trained is the single most important issue. But, as for secondary skills, specialties are very good to have in the team, especially if they are “in the right spot”. ;o) So when selecting players someone that is just slightly worse on his primary skill, and have similar secondary skills, can be chosen oven the other.
+
+Finally, going back to having an “unlimited” pool of players to choose from, just to see our thinking, the team’s specialties would have been setup something like this:
+
+2 goalkeepers: None… ;)	
+6 defenders: 3 powerful, 2 head, 1 unpredictable
+8 inner mids: 4 head, 1 powerful, 1 technical, 1 quick, 1 unpredictable
+3 wingers: 3 quick
+4 forwards: 1 quick, 2 unpredictable, 1 head
+
+For wingers and forwards, 1 quick and 1 head respectively could be replaced by technical players also, but it a quite uncommon SE though. Quick wingers don’t have any disadvantage, and are quite common, so it is preferable. The quick forward could get negative weather events, but the goal scoring events are so common, it is definitely a plus still. Head on inner mids and defenders could cause negative SE goals, but technical forwards and wingers are uncommon, and corners are one of the most common goal SE’s, so it is very good to have around three of these on the pitch (more then that is quite unnecessary though). Having the on offensive player that cannot get negative goal SE is not at good, since you want other specialties there to increase the total chance of scoring a SE goal. Unpredictable defenders and inner mids can also get negative goal SE, unless they have “sufficient” defending, this happens very seldom on defenders, and the inner mid would then be a player with both passing (increases chance for unpredictable goal SE) and defending, as well as the unpredictable defender would be a CA-defender, for the same reasons. Technical inner mids can play defensive forwards or WTM, and quick inner mids can also play wtm to increase chances of goals. Powerfull, quick and technical inner mids can also get weather event, both positive and negative, so having them in the team enables you to choose players that have a chance to get a performance boost from this during the match, increasing you chance to win the game. Samr goes for the powerful defenders, and they are also very good to have if/when you play pressing, against superior opponents, to maybe get a lucky point by playing equal.
+
+
+That was that for this time, sorry about the very long text, I hope you were able to get through it, and that you enjoyed the contents. ;o) If you have _any_ questions, objections or anything, don’t hesitate to post them, and we will try to answer them. And maybe in fewer word than this that time as well… hopefully. ;o)
+
+

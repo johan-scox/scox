@@ -1,0 +1,30 @@
+Yttligare ett svar Bolla som borde vara nyttigt att veta! 
+Tack Bolla du är en kille att räkna med! :-) 
+
+Gradera lagdelsbetyden enligt 
+
+kat = 0,5 
+usel = 1,5 
+dålig = 2,5 
+hyfsad = 3,5 
+bra = 4,5 
+ypp = 5,5 
+ena = 6,5 
+fen = 7,5 
+osv. 
+
+om du har hyfsat anfall (3,5) blir chansen för mål mot en fenomenat (7,5) försvar 
+
+3,5/(7,5+3,5) = 32% 
+
+om du har dåligt anfall (2,5) blir chansen för mål mot en fenomenat (7,5) försvar 
+
+2,5/(7,5+2,5) = 25% 
+
+om du har uselt anfall (1,5) blir chansen för mål mot en fenomenat (7,5) försvar 
+
+1,5/(7,5+1,5) = 17% 
+
+du har alltså redan från början inte speciellt stor chans till att göra mål (32%) på ett kantanfall. om du minskar kantanfallet till förmån för mittfält och skulle tappa så mycket som till usel så skulle det minska till 17% vilket egentligen inte är mycket till minskning till förmån för ett bättre mittfält. Nu tror jag inte att det kommer att minskaså mycket som till usel utan det stannar nog på dåligt, vilket innebär 25%. 
+
+Alternativet här är att köra de båda bästa yttrarna offensivt. Det kommer då märkas lite i mittfältsbetyget. Om det är en bra idé beror mycket på om du kan vinna mittfältet ändå eller om du får stortorsk i mittfältskampen hur än du gör. 
