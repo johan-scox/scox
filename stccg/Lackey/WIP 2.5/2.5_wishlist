@@ -1,8 +1,10 @@
 Which list Lackey export tool:
 
 - Add column "Characteristics", put the data from the CC db field Characteristics in that column
+- Add column "Requires", put the data from the CC db field Requires in that column
 - Add card type data in column "type" (for example: "DILEMMA", PERSONNEL", "TIME LOCATION", etc)
 - Add class/classification data in clumn "Class" (for example "OFFICER", "CIVILIAN", etc, for personnel, or "Galaxy", "K'VORT", etc, for ships)
+- Add command data in column "Staff" (for example (cmd), (stf) or (Nav))
 - Add column "Release" and move current set data from column "Set" to "Release" column instead
 - Set coulmn "Set" data to "main" for all cards
 - Remove path in data of column ImageFile
