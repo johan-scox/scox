@@ -2,7 +2,7 @@
 <!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
 <deck version="0.8">
 	<meta>
-		<title>002_built</title>
+		<title>002_built_fk</title>
 		<author>SetYourName</author>
 		<email>enter@youremail.com</email>
 		<date>10-14-09</date>
@@ -12,32 +12,12 @@
 	</meta>
 	<superzone name="Deck">
 		<card>
-			<name id="asteroidsanctuary">ASTEROID SANCTUARY</name>
-			<set>xlist</set>
-		</card>
-		<card>
-			<name id="asteroidsanctuary">ASTEROID SANCTUARY</name>
-			<set>xlist</set>
-		</card>
-		<card>
-			<name id="asteroidsanctuary">ASTEROID SANCTUARY</name>
-			<set>xlist</set>
-		</card>
-		<card>
 			<name id="subspacewarprift">SUBSPACE WARP RIFT</name>
 			<set>xlist</set>
 		</card>
 		<card>
 			<name id="subspacewarprift">SUBSPACE WARP RIFT</name>
 			<set>xlist</set>
-		</card>
-		<card>
-			<name id="varel">% Varel</name>
-			<set>main</set>
-		</card>
-		<card>
-			<name id="varel">% Varel</name>
-			<set>main</set>
 		</card>
 		<card>
 			<name id="calloway">% Calloway</name>
@@ -69,10 +49,6 @@
 		</card>
 		<card>
 			<name id="isharayar">Ishara Yar</name>
-			<set>main</set>
-		</card>
-		<card>
-			<name id="tebok">Tebok</name>
 			<set>main</set>
 		</card>
 		<card>
@@ -192,10 +168,6 @@
 			<set>main</set>
 		</card>
 		<card>
-			<name id="taul">% Taul</name>
-			<set>main</set>
-		</card>
-		<card>
 			<name id="tashayaralternate">Tasha Yar - Alternate</name>
 			<set>main</set>
 		</card>
@@ -241,10 +213,6 @@
 		</card>
 		<card>
 			<name id="kvada">K&apos;Vada</name>
-			<set>main</set>
-		</card>
-		<card>
-			<name id="takket">% Takket</name>
 			<set>main</set>
 		</card>
 		<card>
@@ -299,10 +267,6 @@
 		</card>
 		<card>
 			<name id="studyholeinspace">STUDY &quot;HOLE IN SPACE&quot;</name>
-			<set>main</set>
-		</card>
-		<card>
-			<name id="strategicdiversion">STRATEGIC DIVERSION</name>
 			<set>main</set>
 		</card>
 		<card>
@@ -411,53 +375,5 @@
 	<superzone name="QsTent">
 	</superzone>
 	<superzone name="Aside">
-		<card>
-			<name id="destroyradioactivegarbages">DESTROY RADIOACTIVE GARBAGE SCOW</name>
-			<set>otfban</set>
-		</card>
-		<card>
-			<name id="devidianforagers">DEVIDIAN FORAGERS</name>
-			<set>xlist</set>
-		</card>
-		<card>
-			<name id="emergencytransporter">EMERGENCY TRANSPORTER ARMBANDS</name>
-			<set>xlist</set>
-		</card>
-		<card>
-			<name id="emergencytransporter">EMERGENCY TRANSPORTER ARMBANDS</name>
-			<set>xlist</set>
-		</card>
-		<card>
-			<name id="shipseizure">SHIP SEIZURE</name>
-			<set>xlist</set>
-		</card>
-		<card>
-			<name id="shipseizure">SHIP SEIZURE</name>
-			<set>xlist</set>
-		</card>
-		<card>
-			<name id="shipseizure">SHIP SEIZURE</name>
-			<set>xlist</set>
-		</card>
-		<card>
-			<name id="engageshuttleoperations">ENGAGE SHUTTLE OPERATIONS</name>
-			<set>xlist</set>
-		</card>
-		<card>
-			<name id="humuhumunukunukuapuaa">HUMUHUMUNUKUNUKUAPUA&apos;A</name>
-			<set>xlist</set>
-		</card>
-		<card>
-			<name id="tomek">% Tomek</name>
-			<set>main</set>
-		</card>
-		<card>
-			<name id="ktesh">% K&apos;Tesh</name>
-			<set>main</set>
-		</card>
-		<card>
-			<name id="ktesh">% K&apos;Tesh</name>
-			<set>main</set>
-		</card>
 	</superzone>
 </deck>
