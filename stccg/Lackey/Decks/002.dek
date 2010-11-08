@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title>002</title>
+		<author>Scox</author>
+		<email>scox_dd@hotmail.com</email>
+		<date>10-14-09</date>
+		<game>startrek1E</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="asteroidsanctuary">ASTEROID SANCTUARY</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="asteroidsanctuary">ASTEROID SANCTUARY</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="asteroidsanctuary">ASTEROID SANCTUARY</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="shipseizure">SHIP SEIZURE</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="shipseizure">SHIP SEIZURE</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="shipseizure">SHIP SEIZURE</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="subspacewarprift">SUBSPACE WARP RIFT</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="subspacewarprift">SUBSPACE WARP RIFT</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="ktesh">% K&apos;Tesh</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="ktesh">% K&apos;Tesh</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="varel">% Varel</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="varel">% Varel</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="emergencytransporter">EMERGENCY TRANSPORTER ARMBANDS</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="emergencytransporter">EMERGENCY TRANSPORTER ARMBANDS</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="calloway">% Calloway</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="calloway">% Calloway</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="reflectiontherapy">REFLECTION THERAPY</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="suna">% Suna</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="darmok">% Darmok</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="data">Data</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="tamelbrun">Tam Elbrun</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="isharayar">Ishara Yar</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="tebok">Tebok</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="nearwarptransport">NEAR-WARP TRANSPORT</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="sirnakolrami">Sirna Kolrami</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="genetronicreplicator">GENETRONIC REPLICATOR</name>
+			<set>otfban</set>
+		</card>
+		<card>
+			<name id="toral">Toral</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="koral">Koral</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="ikcvorn">I.K.C. Vorn</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="ikckvort">% I.K.C. K&apos;Vort</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="tomek">% Tomek</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="mcknight">% McKnight</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="gorath">% Gorath</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="disruptoroverload">DISRUPTOR OVERLOAD</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="palortoffalientrader">PALOR TOFF - ALIEN TRADER</name>
+			<set>otfban</set>
+		</card>
+		<card>
+			<name id="engineeringkit">ENGINEERING KIT</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="espionagefederationonkling">ESPIONAGE: FEDERATION ON KLINGON</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="staticwarpbubble">STATIC WARP BUBBLE</name>
+			<set>otfban</set>
+		</card>
+		<card>
+			<name id="ussexcelsior">% U.S.S. Excelsior</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="lossoforbitalstability">LOSS OF ORBITAL STABILITY</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="divok">% Divok</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="lindalarson">% Linda Larson</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="patternenhancers">PATTERN ENHANCERS</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="scan">SCAN</name>
+			<set>otfban</set>
+		</card>
+		<card>
+			<name id="espionageromulanonklingo">ESPIONAGE: ROMULAN ON KLINGON</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="romulandisruptor">ROMULAN DISRUPTOR</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="treatyfederationromulan">TREATY: FEDERATION/ROMULAN</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="espionageklingononfederati">ESPIONAGE: KLINGON ON FEDERATION</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="treatyfederationklingon">TREATY: FEDERATION/KLINGON</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="rogueborgmercenaries">ROGUE BORG MERCENARIES</name>
+			<set>otfban</set>
+		</card>
+		<card>
+			<name id="taurik">% Taurik</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="longrangescan">LONG-RANGE SCAN</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="romulanpadd">ROMULAN PADD</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="taul">% Taul</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="tashayaralternate">Tasha Yar - Alternate</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="barclaytransporterphobia">BARCLAY TRANSPORTER PHOBIA</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="engageshuttleoperations">ENGAGE SHUTTLE OPERATIONS</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="intruderforcefield">INTRUDER FORCE FIELD</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="kevinuxbridgeconvergence">KEVIN UXBRIDGE: CONVERGENCE</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="themaskofkorgano">THE MASK OF KORGANO</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="particlescatteringfield">PARTICLE SCATTERING FIELD</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="vulcannervepinch">VULCAN NERVE PINCH</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="destroyradioactivegarbages">DESTROY RADIOACTIVE GARBAGE SCOW</name>
+			<set>otfban</set>
+		</card>
+		<card>
+			<name id="latinumpayoff">LATINUM PAYOFF</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="devidianforagers">DEVIDIAN FORAGERS</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="targ">% Targ</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="countermanda">COUNTERMANDA</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="humuhumunukunukuapuaa">HUMUHUMUNUKUNUKUAPUA&apos;A</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="hannahbates">Hannah Bates</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="kvada">K&apos;Vada</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="takket">% Takket</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="wherenoonehasgonebefore">WHERE NO ONE HAS GONE BEFORE</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="dukath">% Dukath</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="klingonpadd">KLINGON PADD</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="treatyfederationromulanklin">TREATY: FEDERATION/ROMULAN/KLINGON</name>
+			<set>main</set>
+		</card>
+	</superzone>
+	<superzone name="Missions">
+		<card>
+			<name id="establishrelations">% ESTABLISH RELATIONS</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="exploreinterstellarmatter">% EXPLORE INTERSTELLAR MATTER</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="imposeorder">% IMPOSE ORDER</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="investigateincursion">% INVESTIGATE INCURSION</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="mineralsurvey">% MINERAL SURVEY</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="firstcontact">FIRST CONTACT</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="investigateanomaly">INVESTIGATE ANOMALY</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="investigateanomaly">INVESTIGATE ANOMALY</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="studyholeinspace">STUDY &quot;HOLE IN SPACE&quot;</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="strategicdiversion">STRATEGIC DIVERSION</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="excavation">EXCAVATION</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="surveymission">SURVEY MISSION</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="culturalobservation">CULTURAL OBSERVATION</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="testpropulsionsystems">% TEST PROPULSION SYSTEMS</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="studyplasmastreamer">STUDY PLASMA STREAMER</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="studyplasmastreamer">STUDY PLASMA STREAMER</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="studyplasmastreamer">STUDY PLASMA STREAMER</name>
+			<set>main</set>
+		</card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card>
+			<name id="opendiplomaticrelations">OPEN DIPLOMATIC RELATIONS</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="husnock">Husnock Outpost</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="klingon">Klingon Outpost</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="neutraloutpost">Neutral Outpost</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="hideandseek">HIDE AND SEEK</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="spacetimeportal">SPACE-TIME PORTAL</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="spacedoor">SPACEDOOR</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="armusstickysituation">ARMUS-STICKY SITUATION</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="hippocraticoath">HIPPOCRATIC OATH</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="makeusgo">MAKE US GO</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="unscientificmethod">UNSCIENTIFIC METHOD</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="birthofjunior">BIRTH OF &quot;JUNIOR&quot;</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="nullspace">NULL SPACE</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="abandonship">ABANDON SHIP!</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="microvirus">MICROVIRUS</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="ancientcomputer">ANCIENT COMPUTER</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="tarellianplagueship">TARELLIAN PLAGUE SHIP</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="iconiancomputerweapon">ICONIAN COMPUTER WEAPON</name>
+			<set>main</set>
+		</card>
+	</superzone>
+	<superzone name="QsTent">
+	</superzone>
+	<superzone name="Aside">
+	</superzone>
+</deck>
