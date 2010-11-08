@@ -2,7 +2,7 @@
 <!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
 <deck version="0.8">
 	<meta>
-		<title>002_built</title>
+		<title>002_built_3way</title>
 		<author>SetYourName</author>
 		<email>enter@youremail.com</email>
 		<date>10-14-09</date>
@@ -88,14 +88,6 @@
 			<set>otfban</set>
 		</card>
 		<card>
-			<name id="toral">Toral</name>
-			<set>main</set>
-		</card>
-		<card>
-			<name id="koral">Koral</name>
-			<set>main</set>
-		</card>
-		<card>
 			<name id="ikcvorn">I.K.C. Vorn</name>
 			<set>main</set>
 		</card>
@@ -105,10 +97,6 @@
 		</card>
 		<card>
 			<name id="mcknight">% McKnight</name>
-			<set>main</set>
-		</card>
-		<card>
-			<name id="gorath">% Gorath</name>
 			<set>main</set>
 		</card>
 		<card>
@@ -138,10 +126,6 @@
 		<card>
 			<name id="lossoforbitalstability">LOSS OF ORBITAL STABILITY</name>
 			<set>xlist</set>
-		</card>
-		<card>
-			<name id="divok">% Divok</name>
-			<set>main</set>
 		</card>
 		<card>
 			<name id="lindalarson">% Linda Larson</name>
@@ -228,19 +212,11 @@
 			<set>xlist</set>
 		</card>
 		<card>
-			<name id="targ">% Targ</name>
-			<set>main</set>
-		</card>
-		<card>
 			<name id="countermanda">COUNTERMANDA</name>
 			<set>xlist</set>
 		</card>
 		<card>
 			<name id="hannahbates">Hannah Bates</name>
-			<set>main</set>
-		</card>
-		<card>
-			<name id="kvada">K&apos;Vada</name>
 			<set>main</set>
 		</card>
 		<card>
@@ -250,10 +226,6 @@
 		<card>
 			<name id="wherenoonehasgonebefore">WHERE NO ONE HAS GONE BEFORE</name>
 			<set>xlist</set>
-		</card>
-		<card>
-			<name id="dukath">% Dukath</name>
-			<set>main</set>
 		</card>
 		<card>
 			<name id="klingonpadd">KLINGON PADD</name>
@@ -307,10 +279,6 @@
 		</card>
 		<card>
 			<name id="excavation">EXCAVATION</name>
-			<set>main</set>
-		</card>
-		<card>
-			<name id="surveymission">SURVEY MISSION</name>
 			<set>main</set>
 		</card>
 		<card>
@@ -411,53 +379,5 @@
 	<superzone name="QsTent">
 	</superzone>
 	<superzone name="Aside">
-		<card>
-			<name id="destroyradioactivegarbages">DESTROY RADIOACTIVE GARBAGE SCOW</name>
-			<set>otfban</set>
-		</card>
-		<card>
-			<name id="devidianforagers">DEVIDIAN FORAGERS</name>
-			<set>xlist</set>
-		</card>
-		<card>
-			<name id="emergencytransporter">EMERGENCY TRANSPORTER ARMBANDS</name>
-			<set>xlist</set>
-		</card>
-		<card>
-			<name id="emergencytransporter">EMERGENCY TRANSPORTER ARMBANDS</name>
-			<set>xlist</set>
-		</card>
-		<card>
-			<name id="shipseizure">SHIP SEIZURE</name>
-			<set>xlist</set>
-		</card>
-		<card>
-			<name id="shipseizure">SHIP SEIZURE</name>
-			<set>xlist</set>
-		</card>
-		<card>
-			<name id="shipseizure">SHIP SEIZURE</name>
-			<set>xlist</set>
-		</card>
-		<card>
-			<name id="engageshuttleoperations">ENGAGE SHUTTLE OPERATIONS</name>
-			<set>xlist</set>
-		</card>
-		<card>
-			<name id="humuhumunukunukuapuaa">HUMUHUMUNUKUNUKUAPUA&apos;A</name>
-			<set>xlist</set>
-		</card>
-		<card>
-			<name id="tomek">% Tomek</name>
-			<set>main</set>
-		</card>
-		<card>
-			<name id="ktesh">% K&apos;Tesh</name>
-			<set>main</set>
-		</card>
-		<card>
-			<name id="ktesh">% K&apos;Tesh</name>
-			<set>main</set>
-		</card>
 	</superzone>
 </deck>
