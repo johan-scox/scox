@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title>CC_PAQ_OTF-101120</title>
+		<author>SetYourName</author>
+		<email>enter@youremail.com</email>
+		<date>10-14-09</date>
+		<game>startrek1e-dev-2.5</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="VP6VP_Handshake">Handshake *VP</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="VP6VP_Handshake">Handshake *VP</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="VP6VP_Handshake">Handshake *VP</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="inspection">Inspection</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_33V">Maras</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_34V">Navaar</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_31V">D&apos;Nesh</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_32V">Harrad-Sar</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="parallaxarguers">PARALLAX ARGUERS</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="parallaxarguers">PARALLAX ARGUERS</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="parallaxarguers">PARALLAX ARGUERS</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="kivasfajocollector">KIVAS FAJO - COLLECTOR</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="kivasfajocollector">KIVAS FAJO - COLLECTOR</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="kivasfajocollector">KIVAS FAJO - COLLECTOR</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="thetravelertranscendence">THE TRAVELER: TRANSCENDENCE</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="thetravelertranscendence">THE TRAVELER: TRANSCENDENCE</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="duras_lfl">Duras *LfL</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="governorworf">Governor Worf</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="7V_Kmpec">K&apos;mpec *CoC</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="gowron">Gowron</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="gorath">% Gorath</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="kurn">Kurn</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="kahless">Kahless</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_14V">Absolute Power</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_14V">Absolute Power</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_14V">Absolute Power</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_30V">Volok</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_26V">Antaak</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_27V">General K&apos;Vagh</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_28V">Laneth</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_28V">Laneth</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_29V">Marab</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_49V">I.K.S. Nguq&apos;Yab</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="ikctong">I.K.C. T&apos;Ong</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="ikctong">I.K.C. T&apos;Ong</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="ikctong">I.K.C. T&apos;Ong</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="14V_IKCQamChee">I.K.C. Qam-chee *CoC</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="ikcheghta">I.K.C. Hegh&apos;ta</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="klingondeathyell">KLINGON DEATH YELL</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="klingondeathyell">KLINGON DEATH YELL</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="kchiq">% K&apos;chiQ</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="kchiq">% K&apos;chiQ</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="kchiq">% K&apos;chiQ</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="kitrik">Kitrik</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="vekor">% Vekor</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="30VP_Malik">Malik</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="davidmarcus_lfl">David Marcus *LfL</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_41V">Daniels</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="ikcfeklhr">I.K.C. Fek&apos;lhr</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="IC23V-Battle-Cruiser">% Battle Cruiser*</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="resq">RES-Q</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="resq">RES-Q</name>
+			<set>xlist</set>
+		</card>
+	</superzone>
+	<superzone name="Missions">
+		<card>
+			<name id="HMF_33V">EXPOSE COVERT SUPPLY *HMF</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_17V">Control Plague</name>
+			<set>main</set>
+		</card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card>
+			<name id="RR1V-Q&apos;s-Tent">Q&apos;S TENT</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="RR16V-Obelisk-of-Masaka">OBELISK OF MASAKA</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="RR18V-Q-the-Referee">Q THE REFEREE</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="RR18V-Q-the-Referee">Q THE REFEREE</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="VP2VP_Tribunal-of-Q">Tribunal of Q</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="RR28V-Defend-Homeworld">DEFEND HOMEWORLD</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="spacetimeportal">SPACE-TIME PORTAL</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="spacedoor">SPACEDOOR</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="alternateuniversedoor">ALTERNATE UNIVERSE DOOR</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="HMF_08V">GOD *HMF</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_03V">Difference of Opinion</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_04V">Mimetic Symbiot</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="ferengiattack">FERENGI ATTACK</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="HMF_06V">Flim-Flam Artist *HMF</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF_12V">NOW WOULD BE A GOOD TIME *HMF</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF_14V">PUNISHMENT BOX *HMF</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="medicalcrisis">Medical Crisis</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="22VP_TheClownBitterMedicine">The Clown: Bitter Medicine</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="hippocraticoath">HIPPOCRATIC OATH</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="unscientificmethod">UNSCIENTIFIC METHOD</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="thearsenalseparated">The Arsenal: Separated</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="skeletoncrew">Skeleton Crew</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF_07V">FRIENDLY FIRE *HMF</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF_05V">DEAD END *HMF</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="edoprobe">EDO PROBE</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="HMF_09V">MAGLOCK *HMF</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="firestorm">FIRESTORM</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="SAS_53V">Augment Research Facility</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF_26V">The Great Hall *HMF</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="klingon">Klingon Outpost</name>
+			<set>main</set>
+		</card>
+	</superzone>
+	<superzone name="QsTent">
+		<card>
+			<name id="RR15V-Its-Only-A-Game">IT&apos;S ONLY A GAME</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="RR5V-Mirror-Image">MIRROR IMAGE</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="RR8V-Villagers-With-Torches">VILLAGERS WITH TORCHES</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="RR21V-Strategema">STRATEGEMA</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="RR24V-Oof">OOF!</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="RR25V-Scorched-Hand">SCORCHED HAND</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="kleeg">% Kle&apos;eg</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="masakatransformations">MASAKA TRANSFORMATIONS</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="ikcvorcha">% I.K.C. Vor&apos;Cha</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="ikckvort">% I.K.C. K&apos;Vort</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="IC20V-Quark-Son-of-Keldar">Quark Son of Keldar*</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="RR2V-Temporal-Vortex">TEMPORAL VORTEX</name>
+			<set>main</set>
+		</card>
+	</superzone>
+	<superzone name="Aside">
+	</superzone>
+</deck>
