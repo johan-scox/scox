@@ -3,10 +3,10 @@
 <deck version="0.8">
 	<meta>
 		<title>002_built</title>
-		<author>SetYourName</author>
-		<email>enter@youremail.com</email>
+		<author>Scox</author>
+		<email>scox_dd@hotmail.com</email>
 		<date>10-14-09</date>
-		<game>StarTrek1E</game>
+		<game>startrek1E</game>
 		<format></format>
 		<note></note>
 	</meta>
@@ -30,6 +30,14 @@
 		<card>
 			<name id="subspacewarprift">SUBSPACE WARP RIFT</name>
 			<set>xlist</set>
+		</card>
+		<card>
+			<name id="ktesh">% K&apos;Tesh</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="ktesh">% K&apos;Tesh</name>
+			<set>main</set>
 		</card>
 		<card>
 			<name id="varel">% Varel</name>
@@ -101,6 +109,10 @@
 		</card>
 		<card>
 			<name id="ikckvort">% I.K.C. K&apos;Vort</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="tomek">% Tomek</name>
 			<set>main</set>
 		</card>
 		<card>
@@ -233,6 +245,10 @@
 		</card>
 		<card>
 			<name id="countermanda">COUNTERMANDA</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="humuhumunukunukuapuaa">HUMUHUMUNUKUNUKUAPUA&apos;A</name>
 			<set>xlist</set>
 		</card>
 		<card>
@@ -442,22 +458,6 @@
 		<card>
 			<name id="engageshuttleoperations">ENGAGE SHUTTLE OPERATIONS</name>
 			<set>xlist</set>
-		</card>
-		<card>
-			<name id="humuhumunukunukuapuaa">HUMUHUMUNUKUNUKUAPUA&apos;A</name>
-			<set>xlist</set>
-		</card>
-		<card>
-			<name id="tomek">% Tomek</name>
-			<set>main</set>
-		</card>
-		<card>
-			<name id="ktesh">% K&apos;Tesh</name>
-			<set>main</set>
-		</card>
-		<card>
-			<name id="ktesh">% K&apos;Tesh</name>
-			<set>main</set>
 		</card>
 	</superzone>
 </deck>
