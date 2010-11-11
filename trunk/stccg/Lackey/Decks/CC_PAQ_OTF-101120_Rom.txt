@@ -1,20 +1,37 @@
-1	Handshake *VP
+3	Handshake *VP
 1	Inspection
-1	Maras
+2	Maras
 1	Navaar
 1	D'Nesh
 1	Harrad-Sar
 1	Admiral Valdore
 1	Nijil
 1	Gareb
-1	Raptor One
-1	Romulan Reunification
+3	Raptor One
 1	Subcommander Decius
-1	Sela *LfL
-1	PARALLAX ARGUERS
-1	KIVAS FAJO - COLLECTOR
-1	THE TRAVELER: TRANSCENDENCE
-1	MASAKA TRANSFORMATIONS
+3	PARALLAX ARGUERS
+3	KIVAS FAJO - COLLECTOR
+3	THE TRAVELER: TRANSCENDENCE
+1	Shinzon *CoC
+1	Alidar Jarok
+1	Tomalak
+1	The Viceroy
+1	Data *VP
+1	Taris
+1	Scimitar *CoC
+1	% Battle Cruiser*
+1	Decius
+1	Haakona
+1	Commander Tomalak
+1	N'vek
+1	Taibak
+1	Roga Danar
+1	David Marcus *LfL
+2	% Suna
+1	Garak*
+1	Zon
+1	Malik
+1	Sela
 Missions:
 1	OBSERVE RITUAL
 1	CLOAKED MISSION *HMF
@@ -58,4 +75,7 @@ QsTent:
 1	STRATEGEMA
 1	OOF!
 1	SCORCHED HAND
+1	MASAKA TRANSFORMATIONS
+1	% D'deridex
+1	% Scout Vessel
 Aside:
