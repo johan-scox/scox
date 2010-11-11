@@ -2,7 +2,7 @@
 <!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
 <deck version="0.8">
 	<meta>
-		<title>CC_PAQ_OTF-101120</title>
+		<title>CC_PAQ_OTF-101120_Rom</title>
 		<author>SetYourName</author>
 		<email>enter@youremail.com</email>
 		<date>10-14-09</date>
@@ -16,7 +16,19 @@
 			<set>main</set>
 		</card>
 		<card>
+			<name id="VP6VP_Handshake">Handshake *VP</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="VP6VP_Handshake">Handshake *VP</name>
+			<set>main</set>
+		</card>
+		<card>
 			<name id="inspection">Inspection</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_33V">Maras</name>
 			<set>main</set>
 		</card>
 		<card>
@@ -52,7 +64,11 @@
 			<set>main</set>
 		</card>
 		<card>
-			<name id="romulanreunification">Romulan Reunification</name>
+			<name id="SAS_50V">Raptor One</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_50V">Raptor One</name>
 			<set>main</set>
 		</card>
 		<card>
@@ -60,11 +76,23 @@
 			<set>main</set>
 		</card>
 		<card>
-			<name id="sela_lfl">Sela *LfL</name>
-			<set>main</set>
+			<name id="parallaxarguers">PARALLAX ARGUERS</name>
+			<set>xlist</set>
 		</card>
 		<card>
 			<name id="parallaxarguers">PARALLAX ARGUERS</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="parallaxarguers">PARALLAX ARGUERS</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="kivasfajocollector">KIVAS FAJO - COLLECTOR</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="kivasfajocollector">KIVAS FAJO - COLLECTOR</name>
 			<set>xlist</set>
 		</card>
 		<card>
@@ -76,8 +104,96 @@
 			<set>xlist</set>
 		</card>
 		<card>
-			<name id="masakatransformations">MASAKA TRANSFORMATIONS</name>
+			<name id="thetravelertranscendence">THE TRAVELER: TRANSCENDENCE</name>
 			<set>xlist</set>
+		</card>
+		<card>
+			<name id="thetravelertranscendence">THE TRAVELER: TRANSCENDENCE</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="8V_Shinzon">Shinzon *CoC</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="alidarjarok">Alidar Jarok</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="tomalak">Tomalak</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="32VP_TheViceroy">The Viceroy</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="31VP_Data">Data *VP</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="taris">Taris</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="15V_Scimitar">Scimitar *CoC</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="IC23V-Battle-Cruiser">% Battle Cruiser*</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="decius">Decius</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="haakona">Haakona</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="commandertomalak">Commander Tomalak</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="nvek">N&apos;vek</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="taibak">Taibak</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="rogadanar">Roga Danar</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="davidmarcus_lfl">David Marcus *LfL</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="suna">% Suna</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="suna">% Suna</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="IC21V-Garak">Garak*</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="zon">Zon</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="30VP_Malik">Malik</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="sela">Sela</name>
+			<set>main</set>
 		</card>
 	</superzone>
 	<superzone name="Missions">
@@ -247,6 +363,18 @@
 		</card>
 		<card>
 			<name id="RR25V-Scorched-Hand">SCORCHED HAND</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="masakatransformations">MASAKA TRANSFORMATIONS</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="dderidex">% D&apos;deridex</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="scoutvessel">% Scout Vessel</name>
 			<set>main</set>
 		</card>
 	</superzone>
