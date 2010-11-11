@@ -2,11 +2,11 @@
 <!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
 <deck version="0.8">
 	<meta>
-		<title>CC_PAQ_OTF-101120</title>
-		<author>SetYourName</author>
-		<email>enter@youremail.com</email>
+		<title>CC_PAQ_OTF-101120_Kli</title>
+		<author>Scox</author>
+		<email>scox_dd@hotmail.com</email>
 		<date>10-14-09</date>
-		<game>startrek1e-dev-2.5</game>
+		<game>startrek1e-paq</game>
 		<format></format>
 		<note></note>
 	</meta>
@@ -100,10 +100,6 @@
 			<set>main</set>
 		</card>
 		<card>
-			<name id="kahless">Kahless</name>
-			<set>main</set>
-		</card>
-		<card>
 			<name id="SAS_14V">Absolute Power</name>
 			<set>main</set>
 		</card>
@@ -113,6 +109,10 @@
 		</card>
 		<card>
 			<name id="SAS_14V">Absolute Power</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_30V">Volok</name>
 			<set>main</set>
 		</card>
 		<card>
@@ -180,7 +180,7 @@
 			<set>main</set>
 		</card>
 		<card>
-			<name id="kchiq">% K&apos;chiQ</name>
+			<name id="kitrik">Kitrik</name>
 			<set>main</set>
 		</card>
 		<card>
@@ -218,6 +218,14 @@
 		<card>
 			<name id="resq">RES-Q</name>
 			<set>xlist</set>
+		</card>
+		<card>
+			<name id="divok">% Divok</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="rogadanar">Roga Danar</name>
+			<set>main</set>
 		</card>
 	</superzone>
 	<superzone name="Missions">
