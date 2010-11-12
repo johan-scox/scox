@@ -1,4 +1,5 @@
 3	Handshake *VP
+1	Inspection
 1	Maras
 1	Navaar
 1	D'Nesh
@@ -6,15 +7,35 @@
 3	PARALLAX ARGUERS
 3	KIVAS FAJO - COLLECTOR
 3	THE TRAVELER: TRANSCENDENCE
-1	MASAKA TRANSFORMATIONS
+1	Alynna Nechayev
+1	Admiral Kirk *LfL
+1	Fleet Admiral Shanthi
+1	Kareel Odan
+1	K'Ehleyr
+1	Sarek
+1	Beverly Crusher
+1	Kira**
+1	Dexter Remmick
+1	Data
+1	Kathryn Janeway *CoC
+1	David Marcus *LfL
+1	Roga Danar
+2	% Suna
+1	Daniels
+1	% Vekor
+1	Geordi La Forge
+1	Agent Garak
+1	Alyssa Ogawa
 Missions:
 1	Free Orion Slaves
+1	ESPIONAGE MISSION *HMF
 Seed+Dil:
 1	Q'S TENT
 1	OBELISK OF MASAKA
 2	Q THE REFEREE
 1	Tribunal of Q
 1	DEFEND HOMEWORLD
+1	TEMPORAL VORTEX
 1	SPACE-TIME PORTAL
 1	SPACEDOOR
 1	ALTERNATE UNIVERSE DOOR
@@ -36,6 +57,8 @@ Seed+Dil:
 1	EDO PROBE
 1	MAGLOCK *HMF
 1	FIRESTORM
+1	Office of The President *HMF
+1	Federation Outpost
 QsTent:
 1	IT'S ONLY A GAME
 1	MIRROR IMAGE
@@ -43,5 +66,6 @@ QsTent:
 1	STRATEGEMA
 1	OOF!
 1	SCORCHED HAND
-1	TEMPORAL VORTEX
+1	MASAKA TRANSFORMATIONS
+1	Garak*
 Aside:

@@ -2,7 +2,7 @@
 <!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
 <deck version="0.8">
 	<meta>
-		<title>CC_PAQ_OTF-101120</title>
+		<title>CC_PAQ_OTF-101120_Fed</title>
 		<author>SetYourName</author>
 		<email>enter@youremail.com</email>
 		<date>10-14-09</date>
@@ -21,6 +21,10 @@
 		</card>
 		<card>
 			<name id="VP6VP_Handshake">Handshake *VP</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="inspection">Inspection</name>
 			<set>main</set>
 		</card>
 		<card>
@@ -76,13 +80,93 @@
 			<set>xlist</set>
 		</card>
 		<card>
-			<name id="masakatransformations">MASAKA TRANSFORMATIONS</name>
-			<set>xlist</set>
+			<name id="alynnanechayev">Alynna Nechayev</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="admiralkirk_lfl">Admiral Kirk *LfL</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="fleetadmiralshanthi">Fleet Admiral Shanthi</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="kareelodan">Kareel Odan</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="kehleyr">K&apos;Ehleyr</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="sarek">Sarek</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="beverlycrusher">Beverly Crusher</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="IC3V-Kira-Fed">Kira**</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="dexterremmick">Dexter Remmick</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="data">Data</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="5V_KathrynJaneway">Kathryn Janeway *CoC</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="davidmarcus_lfl">David Marcus *LfL</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="rogadanar">Roga Danar</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="suna">% Suna</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="suna">% Suna</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_41V">Daniels</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="vekor">% Vekor</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="geordilaforge">Geordi La Forge</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="agentgarak">Agent Garak</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="alyssaogawa">Alyssa Ogawa</name>
+			<set>main</set>
 		</card>
 	</superzone>
 	<superzone name="Missions">
 		<card>
 			<name id="SAS_18V">Free Orion Slaves</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF_32V">ESPIONAGE MISSION *HMF</name>
 			<set>main</set>
 		</card>
 	</superzone>
@@ -109,6 +193,10 @@
 		</card>
 		<card>
 			<name id="RR28V-Defend-Homeworld">DEFEND HOMEWORLD</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="RR2V-Temporal-Vortex">TEMPORAL VORTEX</name>
 			<set>main</set>
 		</card>
 		<card>
@@ -195,6 +283,14 @@
 			<name id="firestorm">FIRESTORM</name>
 			<set>xlist</set>
 		</card>
+		<card>
+			<name id="HMF_23V">Office of The President *HMF</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="federation">Federation Outpost</name>
+			<set>main</set>
+		</card>
 	</superzone>
 	<superzone name="QsTent">
 		<card>
@@ -222,7 +318,11 @@
 			<set>main</set>
 		</card>
 		<card>
-			<name id="RR2V-Temporal-Vortex">TEMPORAL VORTEX</name>
+			<name id="masakatransformations">MASAKA TRANSFORMATIONS</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="IC21V-Garak">Garak*</name>
 			<set>main</set>
 		</card>
 	</superzone>
