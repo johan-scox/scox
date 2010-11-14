@@ -159,6 +159,10 @@
 			<name id="tomek">% Tomek</name>
 			<set>main</set>
 		</card>
+		<card>
+			<name id="disruptoroverload">DISRUPTOR OVERLOAD</name>
+			<set>xlist</set>
+		</card>
 	</superzone>
 	<superzone name="Missions">
 		<card>
