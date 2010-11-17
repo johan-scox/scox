@@ -1,5 +1,4 @@
 3	Handshake *VP
-1	Inspection
 1	Maras
 1	Navaar
 1	D'Nesh
@@ -11,7 +10,6 @@
 1	Governor Worf
 1	K'mpec *CoC
 1	Gowron
-1	% Gorath
 1	Kurn
 3	Absolute Power
 2	Volok
@@ -23,21 +21,24 @@
 3	I.K.C. T'Ong
 1	I.K.C. Qam-chee *CoC
 1	I.K.C. Hegh'ta
-2	KLINGON DEATH YELL
 2	% K'chiQ
-2	Kitrik
-1	% Vekor
+1	Kitrik
 1	Malik
-1	David Marcus *LfL
-1	Daniels
 1	I.K.C. Fek'lhr
 1	% Battle Cruiser*
-2	RES-Q
+3	RES-Q
 1	% Divok
-1	Roga Danar
+1	MEDICAL KIT
+1	MEDICAL TRICORDER
+1	Vulcan Tricorder
+3	Out of Time
 Missions:
 1	EXPOSE COVERT SUPPLY *HMF
 1	Control Plague
+1	REPORTED ACTIVITY
+1	STUDY "HOLE IN SPACE"
+1	Free Orion Slaves
+1	COMPROMISED MISSION
 Seed+Dil:
 1	Q'S TENT
 1	OBELISK OF MASAKA

@@ -3,10 +3,10 @@
 <deck version="0.8">
 	<meta>
 		<title>CC_PAQ_OTF-101120_Kli</title>
-		<author>Scox</author>
-		<email>scox_dd@hotmail.com</email>
+		<author>SetYourName</author>
+		<email>enter@youremail.com</email>
 		<date>10-14-09</date>
-		<game>startrek1e-paq</game>
+		<game>startrek1e-dev-2.5</game>
 		<format></format>
 		<note></note>
 	</meta>
@@ -21,10 +21,6 @@
 		</card>
 		<card>
 			<name id="VP6VP_Handshake">Handshake *VP</name>
-			<set>main</set>
-		</card>
-		<card>
-			<name id="inspection">Inspection</name>
 			<set>main</set>
 		</card>
 		<card>
@@ -89,10 +85,6 @@
 		</card>
 		<card>
 			<name id="gowron">Gowron</name>
-			<set>main</set>
-		</card>
-		<card>
-			<name id="gorath">% Gorath</name>
 			<set>main</set>
 		</card>
 		<card>
@@ -164,14 +156,6 @@
 			<set>main</set>
 		</card>
 		<card>
-			<name id="klingondeathyell">KLINGON DEATH YELL</name>
-			<set>xlist</set>
-		</card>
-		<card>
-			<name id="klingondeathyell">KLINGON DEATH YELL</name>
-			<set>xlist</set>
-		</card>
-		<card>
 			<name id="kchiq">% K&apos;chiQ</name>
 			<set>main</set>
 		</card>
@@ -181,26 +165,10 @@
 		</card>
 		<card>
 			<name id="kitrik">Kitrik</name>
-			<set>main</set>
-		</card>
-		<card>
-			<name id="kitrik">Kitrik</name>
-			<set>main</set>
-		</card>
-		<card>
-			<name id="vekor">% Vekor</name>
 			<set>main</set>
 		</card>
 		<card>
 			<name id="30VP_Malik">Malik</name>
-			<set>main</set>
-		</card>
-		<card>
-			<name id="davidmarcus_lfl">David Marcus *LfL</name>
-			<set>main</set>
-		</card>
-		<card>
-			<name id="SAS_41V">Daniels</name>
 			<set>main</set>
 		</card>
 		<card>
@@ -220,11 +188,35 @@
 			<set>xlist</set>
 		</card>
 		<card>
+			<name id="resq">RES-Q</name>
+			<set>xlist</set>
+		</card>
+		<card>
 			<name id="divok">% Divok</name>
 			<set>main</set>
 		</card>
 		<card>
-			<name id="rogadanar">Roga Danar</name>
+			<name id="medicalkit">MEDICAL KIT</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="medicaltricorder">MEDICAL TRICORDER</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_08V">Vulcan Tricorder</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_13V">Out of Time</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_13V">Out of Time</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_13V">Out of Time</name>
 			<set>main</set>
 		</card>
 	</superzone>
@@ -235,6 +227,22 @@
 		</card>
 		<card>
 			<name id="SAS_17V">Control Plague</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="reportedactivity">REPORTED ACTIVITY</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="studyholeinspace">STUDY &quot;HOLE IN SPACE&quot;</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_18V">Free Orion Slaves</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="compromisedmission">COMPROMISED MISSION</name>
 			<set>main</set>
 		</card>
 	</superzone>
