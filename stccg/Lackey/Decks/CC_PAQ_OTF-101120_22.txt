@@ -11,13 +11,15 @@
 1	K'mpec *CoC
 1	Gowron
 1	Kurn
-4	Absolute Power
+3	Absolute Power
 2	Volok
 1	Antaak
-3	Laneth
-2	Marab
+1	General K'Vagh
+2	Laneth
+1	Marab
 1	I.K.S. Nguq'Yab
 3	I.K.C. T'Ong
+1	I.K.C. Qam-chee *CoC
 1	I.K.C. Hegh'ta
 2	% K'chiQ
 1	Kitrik
@@ -30,9 +32,6 @@
 1	MEDICAL TRICORDER
 1	Vulcan Tricorder
 3	Out of Time
-1	Cha'joh*
-1	Silik
-1	Daniels
 Missions:
 1	EXPOSE COVERT SUPPLY *HMF
 1	Control Plague
@@ -70,7 +69,6 @@ Seed+Dil:
 1	Augment Research Facility
 1	The Great Hall *HMF
 1	Klingon Outpost
-1	Daniels
 QsTent:
 1	IT'S ONLY A GAME
 1	MIRROR IMAGE
@@ -82,6 +80,6 @@ QsTent:
 1	MASAKA TRANSFORMATIONS
 1	% I.K.C. Vor'Cha
 1	% I.K.C. K'Vort
+1	Quark Son of Keldar*
 1	TEMPORAL VORTEX
-1	General K'Vagh
 Aside:
