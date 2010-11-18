@@ -104,10 +104,6 @@
 			<set>main</set>
 		</card>
 		<card>
-			<name id="SAS_14V">Absolute Power</name>
-			<set>main</set>
-		</card>
-		<card>
 			<name id="SAS_30V">Volok</name>
 			<set>main</set>
 		</card>
@@ -120,7 +116,7 @@
 			<set>main</set>
 		</card>
 		<card>
-			<name id="SAS_28V">Laneth</name>
+			<name id="SAS_27V">General K&apos;Vagh</name>
 			<set>main</set>
 		</card>
 		<card>
@@ -129,10 +125,6 @@
 		</card>
 		<card>
 			<name id="SAS_28V">Laneth</name>
-			<set>main</set>
-		</card>
-		<card>
-			<name id="SAS_29V">Marab</name>
 			<set>main</set>
 		</card>
 		<card>
@@ -153,6 +145,10 @@
 		</card>
 		<card>
 			<name id="ikctong">I.K.C. T&apos;Ong</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="14V_IKCQamChee">I.K.C. Qam-chee *CoC</name>
 			<set>main</set>
 		</card>
 		<card>
@@ -221,18 +217,6 @@
 		</card>
 		<card>
 			<name id="SAS_13V">Out of Time</name>
-			<set>main</set>
-		</card>
-		<card>
-			<name id="IC24V-Cha&apos;Joh">Cha&apos;joh*</name>
-			<set>main</set>
-		</card>
-		<card>
-			<name id="SAS_35V">Silik</name>
-			<set>main</set>
-		</card>
-		<card>
-			<name id="SAS_41V">Daniels</name>
 			<set>main</set>
 		</card>
 	</superzone>
@@ -383,10 +367,6 @@
 			<name id="klingon">Klingon Outpost</name>
 			<set>main</set>
 		</card>
-		<card>
-			<name id="SAS_41V">Daniels</name>
-			<set>main</set>
-		</card>
 	</superzone>
 	<superzone name="QsTent">
 		<card>
@@ -430,11 +410,11 @@
 			<set>main</set>
 		</card>
 		<card>
-			<name id="RR2V-Temporal-Vortex">TEMPORAL VORTEX</name>
+			<name id="IC20V-Quark-Son-of-Keldar">Quark Son of Keldar*</name>
 			<set>main</set>
 		</card>
 		<card>
-			<name id="SAS_27V">General K&apos;Vagh</name>
+			<name id="RR2V-Temporal-Vortex">TEMPORAL VORTEX</name>
 			<set>main</set>
 		</card>
 	</superzone>
