@@ -3,18 +3,14 @@
 <deck version="0.8">
 	<meta>
 		<title>CC_PAQ_OTF-101120_Kli</title>
-		<author>Scox</author>
-		<email>scox_dd@hotmail.com</email>
+		<author>SetYourName</author>
+		<email>enter@youremail.com</email>
 		<date>10-14-09</date>
-		<game>startrek1e-paq</game>
+		<game>startrek1e-dev-2.5</game>
 		<format></format>
 		<note></note>
 	</meta>
 	<superzone name="Deck">
-		<card>
-			<name id="VP6VP_Handshake">Handshake *VP</name>
-			<set>main</set>
-		</card>
 		<card>
 			<name id="VP6VP_Handshake">Handshake *VP</name>
 			<set>main</set>
@@ -108,6 +104,10 @@
 			<set>main</set>
 		</card>
 		<card>
+			<name id="SAS_14V">Absolute Power</name>
+			<set>main</set>
+		</card>
+		<card>
 			<name id="SAS_30V">Volok</name>
 			<set>main</set>
 		</card>
@@ -144,7 +144,11 @@
 			<set>main</set>
 		</card>
 		<card>
-			<name id="ikctong">I.K.C. T&apos;Ong</name>
+			<name id="SAS_49V">I.K.S. Nguq&apos;Yab</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_49V">I.K.S. Nguq&apos;Yab</name>
 			<set>main</set>
 		</card>
 		<card>
@@ -156,7 +160,7 @@
 			<set>main</set>
 		</card>
 		<card>
-			<name id="ikcheghta">I.K.C. Hegh&apos;ta</name>
+			<name id="ikctong">I.K.C. T&apos;Ong</name>
 			<set>main</set>
 		</card>
 		<card>
@@ -176,7 +180,11 @@
 			<set>main</set>
 		</card>
 		<card>
-			<name id="ikcfeklhr">I.K.C. Fek&apos;lhr</name>
+			<name id="IC23V-Battle-Cruiser">% Battle Cruiser*</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="IC23V-Battle-Cruiser">% Battle Cruiser*</name>
 			<set>main</set>
 		</card>
 		<card>
@@ -235,6 +243,30 @@
 			<name id="SAS_41V">Daniels</name>
 			<set>main</set>
 		</card>
+		<card>
+			<name id="masakatransformations">MASAKA TRANSFORMATIONS</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="masakatransformations">MASAKA TRANSFORMATIONS</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="1V_WhereNoManHasGoneBefore">Where No Man Has Gone Before</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="1V_WhereNoManHasGoneBefore">Where No Man Has Gone Before</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="autodestructsequence">AUTO-DESTRUCT SEQUENCE</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="autodestructsequence">AUTO-DESTRUCT SEQUENCE</name>
+			<set>xlist</set>
+		</card>
 	</superzone>
 	<superzone name="Missions">
 		<card>
@@ -258,7 +290,27 @@
 			<set>main</set>
 		</card>
 		<card>
+			<name id="exploreblack2front">EXPLORE BLACK CLUSTER II</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="aidfugitives">AID FUGITIVES</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="exploretyphoneexpanse">EXPLORE TYPHON EXPANSE</name>
+			<set>main</set>
+		</card>
+		<card>
 			<name id="compromisedmission">COMPROMISED MISSION</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="medicalrelief">MEDICAL RELIEF</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="feveremergency">FEVER EMERGENCY</name>
 			<set>main</set>
 		</card>
 	</superzone>
@@ -380,11 +432,7 @@
 			<set>main</set>
 		</card>
 		<card>
-			<name id="klingon">Klingon Outpost</name>
-			<set>main</set>
-		</card>
-		<card>
-			<name id="SAS_41V">Daniels</name>
+			<name id="VP3VP_BJWormholeMU">Bajoran Wormhole:Mirror Universe *VP</name>
 			<set>main</set>
 		</card>
 	</superzone>
@@ -437,7 +485,19 @@
 			<name id="SAS_27V">General K&apos;Vagh</name>
 			<set>main</set>
 		</card>
+		<card>
+			<name id="SAS_33V">Maras</name>
+			<set>main</set>
+		</card>
 	</superzone>
 	<superzone name="Aside">
+		<card>
+			<name id="VP4VP_BJWormhole">Bajoran Wormhole *VP</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="VP4VP_BJWormhole">Bajoran Wormhole *VP</name>
+			<set>main</set>
+		</card>
 	</superzone>
 </deck>

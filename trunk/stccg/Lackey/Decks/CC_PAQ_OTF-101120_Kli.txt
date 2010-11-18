@@ -1,4 +1,4 @@
-3	Handshake *VP
+2	Handshake *VP
 1	Maras
 1	Navaar
 1	D'Nesh
@@ -11,19 +11,17 @@
 1	K'mpec *CoC
 1	Gowron
 1	Kurn
-4	Absolute Power
+5	Absolute Power
 2	Volok
 1	Antaak
 3	Laneth
 2	Marab
-1	I.K.S. Nguq'Yab
+3	I.K.S. Nguq'Yab
 3	I.K.C. T'Ong
-1	I.K.C. Hegh'ta
 2	% K'chiQ
 1	Kitrik
 1	Malik
-1	I.K.C. Fek'lhr
-1	% Battle Cruiser*
+3	% Battle Cruiser*
 3	RES-Q
 1	% Divok
 1	MEDICAL KIT
@@ -33,13 +31,21 @@
 1	Cha'joh*
 1	Silik
 1	Daniels
+2	MASAKA TRANSFORMATIONS
+2	Where No Man Has Gone Before
+2	AUTO-DESTRUCT SEQUENCE
 Missions:
 1	EXPOSE COVERT SUPPLY *HMF
 1	Control Plague
 1	REPORTED ACTIVITY
 1	STUDY "HOLE IN SPACE"
 1	Free Orion Slaves
+1	EXPLORE BLACK CLUSTER II
+1	AID FUGITIVES
+1	EXPLORE TYPHON EXPANSE
 1	COMPROMISED MISSION
+1	MEDICAL RELIEF
+1	FEVER EMERGENCY
 Seed+Dil:
 1	Q'S TENT
 1	OBELISK OF MASAKA
@@ -69,8 +75,7 @@ Seed+Dil:
 1	FIRESTORM
 1	Augment Research Facility
 1	The Great Hall *HMF
-1	Klingon Outpost
-1	Daniels
+1	Bajoran Wormhole:Mirror Universe *VP
 QsTent:
 1	IT'S ONLY A GAME
 1	MIRROR IMAGE
@@ -84,4 +89,6 @@ QsTent:
 1	% I.K.C. K'Vort
 1	TEMPORAL VORTEX
 1	General K'Vagh
+1	Maras
 Aside:
+2	Bajoran Wormhole *VP
