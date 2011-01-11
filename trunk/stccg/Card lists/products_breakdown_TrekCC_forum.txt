@@ -1,0 +1,252 @@
+Ok, I'd like to put all package info into the Lackey plugin, to enable Sealed Deck, draft tournaments, and so on, via Lackey. So I'm reposting the main list in here again, to be able to update it with the latest info. Many thanks to all who have contributed to all the information! Still some missing though, so if anyone has more information (including checking the current info), don't hesitate to post. 
+
+Green = Completed information.
+Black = Not completed info, missing information.
+Red = Contradicting information.
+
+[b][u]Working List[/u][/b]
+
+[i][color=#008000][b]Premiere Expansion Pack: [/b]
+15 cards. 1R, 3U, 11C
+
+[b]Premiere Starter Deck: [/b]
+60 cards. 2R, 13U, 45C
+No effort to include facilities, ships or mains in the selection.
+
+[b]Alternate Universe Expansion Pack:[/b]
+15 cards. 1R, 3U, 11C. UR 1:121; replaces R in pack. 
+(Ophidian Cane replaces one U in some packs)[/color][/i]
+
+[i][color=#008000][b]Warp Pack Card List:[/b]
+Montgomery Scott
+Gorta
+Yellow Alert
+Neutral Outpost
+Countermanda
+Sensitive Search
+Study Stellar Collision
+Excavation
+Test Mission
+Investigate Anomaly
+Relief Mission
+Study Plasma Streamer[/color][/i]
+
+[i][color=#008000][b]Q-Continuum Expansion Pack: [/b]
+15 cards. 1 R, 3U, 11C. 
+(Data's Body replaces one U in some packs)[/color][/i]
+
+[i][color=#008000][b]Introductory 2 Player Game (Federation) Card List:[/b]
+2 Preconstructed Decks: Federation & Klingon Deck
+2 Unlimited Premiere Expansion Packs
+A Good Place to Die 
+Avert Danger 
+Cargo Rendezvous 
+Distress Mission 
+Gault 
+Gravesworld 
+Homeward 
+Hostage Situation 
+Reopen Dig 
+Reported Activity 
+Sensitive Search 
+Survey Instability
+Spock
+Data Laughing
+Admiral McCoy
+Admiral Picard
+Commander Data
+Commander Troi[/color][/i]
+
+[i][color=#008000][b]Introductory 2 Player Game (Klingon) Card List:[/b]
+2 Preconstructed Decks: Federation & Klingon Deck
+2 Unlimited Premiere Expansion Packs
+A Good Place to Die 
+Avert Danger 
+Cargo Rendezvous 
+Distress Mission 
+Gault 
+Gravesworld 
+Homeward 
+Hostage Situation 
+Reopen Dig 
+Reported Activity 
+Sensitive Search 
+Survey Instability
+Spock
+Data laughing 
+Admiral McCoy 
+Mogh
+Ja'rod
+Gi'ral[/color][/i]
+
+[i][color=#008000][b]First Anthology Complete Contents:[/b]
+2 Premiere starters
+2 Premiere Unlimited Booster Packs
+2 Alternate Universe Expansion Packs
+2 Q-Continuum Expansion Packs
+1 Warp Pack
+Orb of Prophecy and Change
+Garak
+Ensign Tuvok 
+Quark Son of Keldar
+Thomas Paris
+Dr. Telek R'Mor[/color][/i]
+
+[i][color=#008000][b]First Contact Expansion Pack: [/b]
+9 cards. 1R, 3U, 5C.[/color][/i]
+
+[i][color=#008000][b]Fajo Collection Card List: [/b]
+(Have)[/color][/i]
+
+[i][color=#008000][b]OSTD Complete Contents:[/b]
+4 Premiere Unlimited Booster Packs
+1 Alternate Universe Expansion Pack
+Abandon Ship!
+Armus - Sticky Situation
+Hippocratic Oath
+Make Us Go
+Unscientific Method 
+Spacedoor 
+Space-Time Portal 
+Treaty: Federation/Romulan/Klingon
+Establish Relations
+Explore Interstellar Matter
+Impose Order
+Investigate Incursion
+Mineral Survey
+Test Propulsion Systems 
+Open Diplomatic Relations
+Reflection Therapy 
+Suna
+Hide and Seek 
+Darmok[/color][/i]
+
+[i][color=#008000][b]Away Team Card List: [/b]
+(Have)[/color][/i]
+
+[i][color=#008000][b]Deep Space 9 Expansion Pack: [/b]
+9 cards. 1R, 3U, 5C. UR 1:100; replaces R in pack.[/color][/i]
+
+[b]Deep Space 9 Starter Deck:[/b] 
+60 cards. ?R, ?U, ?C. 16 S missions. 
+Not possible to get UR in Starters.
+How many S per deck? 
+Was there effort made to include a facility, ship or mains in the selection?
+
+[i][color=#008000][b]Starter Deck II Card List: [/b]
+(Have)[/color][/i]
+
+[i][color=#008000][b]The Dominion Expansion Pack: [/b]
+9 cards. 1R, 3U, 5C. 4UR in set 1:30; replaces R in pack. (4 different UR's making a specific one 1:120)[/color][/i]
+
+[i][color=#008000][b]Enhanced First Contact: [/b]
+4 First Contact Packs and 3 fixed cards. 4 different Boxes.
+Bareil of Borg Box: "Eleven of Seventeen", "Service the Collective", Defense drone overlay.
+Dukat of Borg Box: "Population 9 Billion - All Borg", "Nightmare", Counterpart overlay.
+Gowron of Borg Box: "We Are The Borg", "Add Distinctiveness", Communication drone overlay. 
+Tomalak of Borg Box: "Six of nineteen", "Sphere Encounter", Navigation drone overlay.[/color][/i]
+
+[i][color=#008000][b]Blaze of Glory Expansion Pack: [/b]
+9 cards. 1R, 3U, 5C. Foil replaces R 1:9 packs. 
+VRF 1: 13 packs
+SRF 1: 37 packs
+URF 1: 112 packs[/color][/i]
+
+[i][color=#008000][b]Rules of Acquisition Expansion Pack: [/b]
+9 cards. 1R, 3U, 5C.
+(GPL 2x as common, Emergency Evacuation and Incoming Message: Ferengi 33.3% less common)[/color][/i]
+
+[i][color=#008000][b]Second Anthology Complete Contents:[/b]
+2 First Contact Booster Packs
+2 Deep Space Nine Booster Packs
+2 The Dominion Booster Packs
+2 Starter Deck II Decks
+Luther Sloan
+Vedek Dax
+Jodmos, Koval
+Legate Damar
+Bashir Founder[/color][/i]
+
+[b]The Trouble With Tribbles Expansion Pack:[/b] 
+11 cards. 1R, 2-4U, 6-8C. UR 1:121; replaces an U or C in pack. 
+[color=#FF0000][i]Contradicting info, UR replaces R, U or C?[/i][/color]
+R+ are 33% more rare.
+(One of three 1000 Tibbles R* occur a Bonus Rare. Replaces one U)
+
+[b]Trouble With Tribbles Federation Starter Deck List:[/b] 
+60 set cards
+Rares: "Alyssa Ogawa" (FC) & "Chula: The Abyss"
+
+[b]Trouble With Tribbles Klingon Starter Deck List:[/b] 
+60 set cards
+Rares: "Morka" & "Primitive Culture"
+
+[b]Enhanced Premiere:[/b] 
+4 packs of Premiere and 5 cards. 12 fixed 9 random. 6 different boxes.
+Beverly and Will Box: ?
+Data and Geordi Box: ?
+Data and Picard Box: ?
+Jean-Luc and Beverly Box: ?
+Sons of Mogh Box: ?
+The Trois Box: ?
+
+[i][color=#008000][b]Reflections Expansion Packs: [/b]
+18 cards. (Contains 1 foil and the other 17 are from a random pack (Premiere - Dominion), then starting another random pack. Could be any product, 2PG, anthology cards etc)
+URF 1:30
+BTF 1:120
+CTF 1:180[/color][/i]
+
+[b]Mirror, Mirror Expansion Packs:[/b] 
+11 cards. 1R, 2-4U, 6-8C. ?? UR 1:121; replaces an U or C in pack.
+[color=#FF0000][i]Contradicting info, UR replaces R, U or C?[/i][/color]
+R+ are 33% more rare.
+(first printing of MM had no packing order. So you could, in theory, have all Rares or all Commons??)
+
+[b]Voyager Expansion Packs:[/b]
+11 cards. 1R, 3-4U, 6-7C. UR 1:121; replaces R in pack. 1/3 of packs have 4U + 6C, 2/3 of packs have 3U + 7C.
+[color=#FF0000][i]Unconfirmed C/U ratios. 3-4 and 6-7, or 3/7?[/i][/color]
+
+[b]Voyager Starter Decks:[/b] 
+40 cards. 
+20 S cards (some more common then others. How many per deck? ?R, ?U, ?C. Was there effort made to include facility, ship or mains?)
+Current info: 2 R, 4-8 U, 21-25 C, 8-9 S. Any additional insights into this, such as other min/max values?
+Starters was compiled to ensure playability in warp speed. No garantee to get an outpost in a starter, so not playable "stand alone".
+UR possible to get, replaces R.
+
+[i][color=#008000][b]The Borg Expansion Packs: [/b]
+11 cards. 1R, 3-4U, 6-7C. UR 1:121; replaces R in pack.
+1/3 of packs have 4U + 6C, 2/3 of packs have 3U + 7C.
+R+ are 33% more rare.[/color][/i]
+
+[i][color=#008000][b]Holodeck Adventures Expansion Packs: [/b]
+11 cards. 1R, 3-4U, 6-7C. UR 1:121; replaces R in pack.
+1/3 of packs have 4U + 6C, 2/3 of packs have 3U + 7C.
+R+ are 33% more rare.[/color][/i]
+
+[b]The Motion Pictures Expansion Packs:[/b] 
+11 cards. 1R, 3-4U, 6-7C. UR 1:121: replaces R in pack.
+[color=#FF0000][i]Unconfirmed C/U ratios. 3-4 and 6-7, or 4/6?[/i][/color]
+R+ are 33% more rare.
+1/3 of packs have 4U + 6C, 2/3 of packs have 3U + 7C.
+
+[i][color=#008000][b]All Good Things Card List: [/b]
+(Have)
+
+[b]The Enterprise Collection Card List: [/b]
+(Have)[/color][/i]
+
+[i][b]Change log:[/b]
+2010-04-22
+[list]
+[*]No UR in DS9 starters. Still missing ratio info.
+[*]EFC Pack lists added.
+[*]Added Voy starter info. Still missing some ratio info.
+[*]UR replaces what card in TwT packs (C/U/R)?
+[*]UR replaces what card in MM packs (C/U/R)?
+[*]No special considerations or packing order for Premier Starters.
+[*]1/3 of R* 1000 Tribbles replaces U in TwT boosters.
+[*]C/U ratios of Borg and HA updated.
+[*]C/U ratios of Voy and TMP updated, but not confirmed.
+[*]Rares of pre-constructed TwT Starters added.
+[/list]
+[/i]
