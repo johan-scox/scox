@@ -1,0 +1,142 @@
+Star Trek CCG 1E Lackey Plugin
+CHANGE LOG
+-------------------------------
+
+1.0
+---
+TBD
+
+
+1.1
+---
+TBD
+
+
+2.0
+--- 
+(sethbroox)
+
+NEW
+- Some missing card images added
+
+UPDATED:
+- Major cleanup of card database
+
+
+2.1
+---
+(Scox)
+
+NEW:
+
+- The cards from Things Past and Chain of Command have been added.
+- Reprinted cards from TwT have been added.
+- Autoupdate added.
+- Extended Card Database with "pure" rarity information, to facilitate adding support for packs (boosterpacks, starters, etc) in future versions of the plugin. This will allow Sealed Deck, Draft, and so on. Goal is that next version of the plugin will have full support for this.
+
+2.1.1
+-----
+(Scox)
+
+NEW
+
+- Added CardMissing.jpg for known unreleased/hidden cards, and for possibility to mask errors/unknown cards in the future, without crashing LackeyUpdater. Add to general and to updatelist.txt, included under version handling/checksum.
+
+UPDATED:
+
+- Missing Card images (added):
+	* Hogan NA (borg, hoganna.jpg) 
+	* Critical Care 2E ()
+	* Jean-Luc Picard, Captain of the Enterprise 2E ()
+	* Founder Leader, Single-Minded 2E ()
+	* Collect Omicron Particles 2E ()
+	* Navigate Argolis Cluster 2E (TV, ST2E-EN12041.jpg)
+	* Secure Strategic Base 2E (TV, ST2E-EN12042.jpg)
+	* Oran, Irritable Gul 2E (TV, ST2E-EN12049.jpg)
+	* Moral Choice 2E (WY, ST2E-EN14007.jpg)
+	* I.K.S. Qel'Poh, H.M.S. Bounty 2E (WY, ST2E-EN14112.jpg)
+	* I.K.S. Qel'Poh, Clandestine Vessel 2E (WY, ST2E-EN14117.jpg)
+	* Neras, Slave Girl [AP] 2E (AP, ST2E-EN0AP12.jpg)
+
+- Missing Card images - not found/db error
+	* jemhadarattackshipattackshipclass - *Removed from ALL_sets.txt and updatelist.txt*
+	* dominionbattleshipbattleshipclass - *Removed from ALL_sets.txt and updatelist.txt*
+	* Stefan DeSeve* - *Case sensitive; Card Image Name changed according to All_sets.txt: IC11V-Stefan-DeSeve -> IC11V-Stefan-Deseve
+
+	
+2.2
+---
+(Scox, Nava)
+
+NEW:
+
+- Virtual promos/AI's VP 7 and VP34 - VP43 added. (Scox)
+- Life from Lifelessness added. (Nava, Scox)
+- Homefront added (Scox)
+- Change log file added (Scox)
+
+UPDATED:
+
+- Plugin name change from "StarTrek1E" to "startrek1e"
+- "Orb of prophecy and change" missing from 1A, added. (Scox)
+- "Benil" listed as DS9, should be RoA, fixed. (Scox)
+- "Captain Kirk" missing from TwT, added. (Scox)
+
+
+2.3
+---
+(Scox, Timo, Nava)
+
+- Beta testing google code plugin hosting
+
+NEW:
+
+- Definitions for Boosters and Starters added. For additional information see the separate README.TXT in the directory packs. (Nava)
+- Cards form the July and September 2010 errata added
+
+
+UPDATED:
+- Card info for Savage Operations added
+- 2E cards deleted, which were converted to 1E template:
+	* Damaged Reputation
+	* Skeleton Crew
+	* Vastly Outnumbered
+	* For the Sisko
+	* The Genesis Effect
+	* Driven
+	* % Emok
+	* % Tholun
+	* James T. Kirk, Original Thinker
+	* Duras, Son of a Traitor
+	* Carol Markus, Intelligent Scientist
+	* David Markus, Young Scientist
+	* Vetar
+	* Personal Duty
+	* Tactical Disadvantage
+	* The Caretakers "Guests"
+	* The Clown: Bitter Medizine
+	* Friction
+	* Getting under your Skin
+	* Prison Compound
+	* Solbor, Faithful Attendant
+	* Rusot, Proud Nationalist
+	* % Founder Architect
+	* Dukat, Pah-Wraith Puppet
+	* Malik, Devious Augment
+	* Data, from the City of Rateg
+	* The Viceroy, Advisor to the Praetor
+	* % Dominion Battleship
+- [Once] icon to the respective 2E cards added
+- Card text for Inspection (LfL) corrected
+- Images and info entries corrected for:
+	* Fifth, Neonatal Drone 
+	* Second, Neonatal Drone
+	* Bajoran Wormhole VP
+	* Bajoran Wormhole: Mirror Universe VP
+- Icons on Ar-Q-ologist and Quandary corrected
+- "2E" added to the title of all 2E cards without the 2E title
+
+------------------------------
+Plugin main maintainer - Scox
+Email: stccg1e.lackeyplugin@scox.se
+TrekCC handle: Scox
