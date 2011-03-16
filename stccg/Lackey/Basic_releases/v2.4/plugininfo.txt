@@ -1,0 +1,77 @@
+0
+
+1
+Points	0
+
+5
+Deck	0	0
+Missions	1	1
+Seed+Dil	1	0
+QsTent	1	0
+Aside	1	1
+
+10
+Hand	1	0
+Deck	0	0
+Discard	1	0
+Dilemmas	1	0
+Pointers	1	1
+Battle	1	0
+Q-Flash	1	0
+Tribble	1	0
+Q-Ref	1	1
+Pile	0	0
+
+3
+Play
+Orders
+Draw
+
+8
+DRAWCARD	Draw	1
+DRAWCARDTOTABLE	Probe	0
+DRAWCARDTOTABLE	Draw_to_Table	0
+PREVIOUSTURN	Previous_Turn	0
+NEXTTURN	Next_Turn	0
+PREVIOUSPHASE	Previous_Phase	0
+NEXTPHASE	Next_Phase	0
+FLIPCOIN	Flip_Coin	0
+
+10
+TURNOVER	Flip	1
+MAKERIGHT0DEGREES	Rotate_Back	1
+MAKERIGHT90DEGREES	Rotate_90	1
+MAKERIGHT180DEGREES	Rotate_180	1
+MAKERIGHT270DEGREES	Rotate_270	1
+ADDCOUNTERWHITE	+Token	1	.44	.16
+REMOVECOUNTERWHITE	-Token_white	1
+CLEARCARD	Clear	1
+EDITNOTE	Note	1	.95	.95
+CHANGEOWNER	ChgCtrl	1
+
+22
+Name	1
+Set	1
+ImageFile	0
+Rarity	1
+Release	1
+Info	1
+Type	1
+Affil	1
+Class	1
+Int/Rng	1
+Cun/Wpn	1
+Str/Shd	1
+Points	1
+Region	1
+Span	1
+Icons	1
+Staff	1
+Species	1
+Persona	1
+Command	1
+Reports	1
+Text	1
+
+1
+cardback
