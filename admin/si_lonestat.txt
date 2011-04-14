@@ -1,0 +1,9 @@
+Lönestatistik:
+
+Datateknik, examensår 2004
+
+Medel: 37 013
+Median: 35 990
+10:e perc: 30 000
+90:e perc: 45 600
+
