@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title></title>
+		<author></author>
+		<email></email>
+		<date></date>
+		<game>StarTrek1E</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="danarapel">Danara Pel</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="dereth">Dereth</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="motura">Motura</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="sulan">Sulan</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="SoG_52">Morulla</name>
+			<set>main_voy</set>
+		</card>
+	</superzone>
+	<superzone name="Missions">
+	</superzone>
+	<superzone name="Seed+Dil">
+	</superzone>
+	<superzone name="QsTent">
+	</superzone>
+	<superzone name="Aside">
+	</superzone>
+</deck>

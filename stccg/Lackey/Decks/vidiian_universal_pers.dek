@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title></title>
+		<author></author>
+		<email></email>
+		<date></date>
+		<game>StarTrek1E</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="dilanum">% Dilanum</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="sinaren">% Sinaren</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="maleth">% Maleth</name>
+			<set>xlist_voy</set>
+		</card>
+		<card>
+			<name id="drenol">% Drenol</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="hophalin">% Hophalin</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="losarus">% Losarus</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="nadirum">% Nadirum</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="nirata">% Nirata</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="sethis">% Sethis</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="sorum">% Sorum</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="telari">% Telari</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="thaden">% Thaden</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="delanh">% Delanh</name>
+			<set>main_voy</set>
+		</card>
+	</superzone>
+	<superzone name="Missions">
+	</superzone>
+	<superzone name="Seed+Dil">
+	</superzone>
+	<superzone name="QsTent">
+	</superzone>
+	<superzone name="Aside">
+	</superzone>
+</deck>
