@@ -1,0 +1,72 @@
+Sar Trek CCG Font Guides
+
+
+
+TIM'S 2nd EDITION FONT GUIDE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+tim@priest.com - http://www.geocities.com/timl8l/st/
+
+Card size: 357 x 496 (the size on the cardlists page) 
+
+Play cost: 16pt - Crillee 
+Unique dot (how I did it): 6pt - ZapF Dingbats, (4pt super text) 
+(Crillee also has a dot, it would be easier to use the same font as the title. I just didn't know this when I made the card)
+Card Title: 12pt - Crillee (120% wide and 130% tall) 
+Sub Title: 9pt - Crillee (120% wide and 130% tall) 
+
+Race/Class: 12pt - Futuri Condensed - Bold (140% wide and 140% tall) 
+Skills: 14pt - Futuri Condensed - Bold 
+Game Text: 14pt - Futuri Condensed (15 lead) 
+Lore: 14 pt - Futuri Condensed Light - Oblique(italic) 
+
+Attribute Numbers: 14pt - Futuri Condensed - Bold 
+Set/Card Number: 9pt - Futuri Condensed - Bold (90% tall) 
+
+
+
+
+
+ARANAMAC'S 1st EDITION FONT GUIDE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+http://www.geocities.com/aranamac/dream_card_guide.htm
+
+Note: Leading (pronounced "lehd-ing") is a designer's term used to describe the spaces between lines. A double-spaced line in equivalent (approx) to 30 or 32 point leading.
+
+Affiliated Cards
+
+Name: Futuri MdCn BT Italic, 21 point (18)
+Personnel Classification: Swiss 911 UCm BT Regular, 17 point, extended 
+Ship Classification: Swiss 911 UCm BT Regular, 16 point, spaces between each letter, and three spaces between words. 
+Lore: Futuri Condensed Light Regular, 15 point (14 point if you need more space), 16 leading line spacing 
+Quotes in lore: Futuri Condensed Light Oblique, 15 point (14 point if you need more space), 16 leading line spacing 
+Personae in lore: Futuri Condensed Regular, 15 point (14 point if you need more space), 16 leading line spacing 
+Infiltrators in lore: Futuri Condensed Italic,15 point (14 point if you need more space), 16 leading 
+Skills: Futuri Condensed Bold, 14 point, 16 leading line spacing 
+Attribute numbers: Futuri Condensed Bold, 13 point 
+
+
+"Verb" Cards
+
+Card type: Futuri Condensed Bold, 22 point 
+Name: Swiss 911 UCm BT Regular, 17 point, extended 
+Lore: Futuri Condensed Light Regular, 15 point (14 point if you need more space), 16 leading line spacing 
+Quotes in lore: Futuri Condensed Light Oblique, 15 point (14 point if you need more space), 16 leading line spacing 
+Game text: Futuri Condensed Regular, 15 point (14 point if you need smaller text), 16 leading line spacing 
+
+
+Mission Cards
+
+Name: Swiss 911 UCm BT Regular, 24 point, extended 
+System/Region name: Futuri Condensed Bold, 14 point, 16 leading line spacing 
+Lore: Futuri Condensed Light Regular, 14 point, 16 leading line spacing 
+Requirements: Futuri Condensed Bold, 14 point, 16 leading line spacing 
+Special text/effects: Futuri Condensed Bold Oblique, 14 point, 16 leading line spacing 
+Points: Swiss 911 UCm BT Regular, 17 point, extended 
+Span: Futuri Condensed Bold, 14 point, 16 leading line spacing 
+
+
+All cards
+
+Operands (+, -, =): N Helvetica Narrow, point size = current font's point size. Make bold if using with Futuri Condensed Bold family. 
+Universal Icon: "v" in Zapf Dingbats, Webdings fonts. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
