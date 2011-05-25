@@ -1,0 +1,28 @@
+Råda BMK
+                                                                           Utskriftsdatum 2011-05-15
+Balansräkning
+Räkenskapsår
+2010-04-01--2011-03-31
+
+
+
+
+
+              Tillgångar
+
+               1510     Fordringar                     1.400,00 kr
+               1610     Upplupna intäkter             32.270,00 kr
+               1910     Kassa                            534,00 kr
+               1920     Plusgiro                      70.850,18 kr
+               1930     Checkräkning/Bankgiro              0,00 kr
+                        Summa Tillgångar                         105.054,18 kr
+              Skulder
+
+               2010     Eget kapital                 -57.951,59 kr
+               2098     Vinst/Förlust föreg. år          727,47 kr
+               2990     Övriga uppl kostnader              0,00 kr
+               2999     Redovisat resultat           -47.830,06 kr
+                        Summa Skulder                           -105.054,18 kr
+
+
+
