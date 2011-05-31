@@ -1,0 +1,364 @@
+Name	Set	ImageFile	CardName	Release	Info	Printable	Uniqueness	Type	Cost	Mission/ Dilemma Type	Affil	Class/ Species	Int/Rng	Cun/Wpn	Str/Shd	Points	Region	Quadrant	Span	Icons	Staff	Keywords	Characteristics/ Keywords	Requires	Persona	Command	Reports	Skills	Text
+2		1e/cardimages/premiere/haakona.gif	Haakona	Premiere	R	No	Unique				Romulan		8	9	8						[Cmd][Stf]		Tractor Beam, Cloaking Device			Taris			 Cloaking Device, Tractor Beam 
+10		1e/cardimages/premiere/hannahbates.gif	Hannah Bates	Premiere	U	No	Unique				Federation		6	8	2								Mission Specialist		Hannah Bates				SCIENCE Physics  
+25		1e/cardimages/premiere/typevishuttlecraft.gif	Type VI Shuttlecraft	Premiere	C	No	Unique				Federation		6	2	2								Shuttlecraft						  
+27		1e/cardimages/premiere/ussexcelsior.gif	U.S.S. Excelsior	Premiere	C	No	Unique				Federation		6	6	7						[Stf]		Tractor Beam						 Tractor Beam 
+28		1e/cardimages/premiere/ussgalaxy.gif	U.S.S. Galaxy	Premiere	C	No	Unique				Federation		8	7	9						[Cmd][Stf]		Tractor Beam, Holodeck						 Holodeck, Tractor Beam 
+30		1e/cardimages/premiere/ussmiranda.gif	U.S.S. Miranda	Premiere	C	No	Unique				Federation		6	5	5						[Stf]		Tractor Beam						 Tractor Beam 
+31		1e/cardimages/premiere/ussnebula.gif	U.S.S. Nebula	Premiere	C	No	Unique				Federation		8	7	8						[Cmd][Stf]		Tractor Beam, Holodeck						 Holodeck, Tractor Beam 
+32		1e/cardimages/errata/USS-Oberth.jpg	U.S.S. Oberth	Premiere	C	No	Unique				Federation		6	4	7						[Stf]		Tractor Beam						 Tractor Beam 
+36		1e/cardimages/premiere/varel.gif	Varel	Premiere	C	No	Unique				Romulan		4	7	5					[Stf]					Varel				SCIENCE Physics Computer Skill Youth  
+39		1e/cardimages/premiere/vekma.gif	Vekma	Premiere	C	No	Unique				Klingon		6	5	6					[Stf]			Mission Specialist		Vekma				MEDICAL Honor  
+44		1e/cardimages/premiere/alberteinstein.gif	Albert Einstein	Premiere	R	No	Unique				Federation		9	11	2					[Holo]			Support Personnel		Albert Einstein				SCIENCE Physics Astrophysics  
+70		1e/cardimages/premiere/batrell.gif	Batrell	Premiere	C	No	Unique				Klingon		7	3	7					[Cmd]			Mission Specialist		Batrell				OFFICER Honor  
+72		1e/cardimages/premiere/bijik.gif	B'iJik	Premiere	C	No	Unique				Klingon		4	6	6					[Stf]			Mission Specialist		B'iJik				OFFICER Navigation  
+85		1e/cardimages/premiere/calloway.gif	Calloway	Premiere	C	No	Unique				Federation		7	5	3								Mission Specialist		Calloway				MEDICAL Youth  
+92		1e/cardimages/premiere/christopherhobson.gif	Christopher Hobson	Premiere	C	No	Unique				Federation		6	7	6					[Cmd]			Mission Specialist		Christopher Hobson				OFFICER Computer Skill  
+96		1e/cardimages/premiere/combatvessel.gif	Combat Vessel	Premiere	C	No	Unique				Non-Aligned		8	8	6						[Stf]								  
+107		1e/cardimages/premiere/darianwallace.gif	Darian Wallace	Premiere	C	No	Unique				Federation		7	5	6								Mission Specialist		Darian Wallace				SECURITY Anthropology  
+112		1e/cardimages/premiere/dderidex.gif	D'deridex	Premiere	C	No	Unique				Romulan		8	9	7						[Cmd][Stf]		Tractor Beam, Cloaking Device						 Cloaking Device, Tractor Beam 
+116		1e/cardimages/premiere/divok.gif	Divok	Premiere	C	No	Unique				Klingon		6	6	8					[Stf]			Support Personnel		Divok				MEDICAL Biology Youth  
+125		1e/cardimages/premiere/drfarek.gif	Dr. Farek	Premiere	C	No	Unique				Non-Aligned		2	8	3					[Cmd]			Mission Specialist		Dr. Farek				MEDICAL Greed  
+127		1e/cardimages/premiere/drleahbrahms.gif	Dr. Leah Brahms	Premiere	R	No	Unique				Federation		7	9	2					[Holo]			Mission Specialist		Dr. Leah Brahms				ENGINEER ENGINEER  
+131		1e/cardimages/premiere/dukath.gif	Dukath	Premiere	C	No	Unique				Klingon		5	6	7					[Stf]			Mission Specialist		Dukath				SCIENCE Archaeology  
+151		1e/cardimages/premiere/exocomp.gif	Exocomp	Premiere	U	No	Unique				Federation		9	8	1										Exocomp				ENGINEER If aboard ship, can repair damage in two of your full turns.  
+153		1e/cardimages/premiere/feklhr.gif	Fek'lhr	Premiere	U	No	Unique				Klingon		6	1	15					[Holo]			Support Personnel		Fek'lhr				V.I.P. Honor Treachery  
+161		1e/cardimages/premiere/galathon.gif	Galathon	Premiere	C	No	Unique				Romulan		3	7	9					[Cmd]					Galathon				OFFICER Archaeology Greed Treachery  
+170		1e/cardimages/errata/Giusti.jpg	Giusti	Premiere	C	No	Unique				Federation		7	6	4					[Stf]			Mission Specialist		Giusti				OFFICER Youth  
+171		1e/cardimages/premiere/gorath.gif	Gorath	Premiere	C	No	Unique				Klingon		6	4	7					[Stf]			High Council, Mission Specialist		Gorath				SECURITY Honor  
+173		1e/cardimages/premiere/gorta.gif	Gorta	Premiere	C	No	Unique				Non-Aligned		3	7	4								Support Personnel		Gorta				ENGINEER Physics Greed  
+189		1e/cardimages/premiere/husnockship.gif	Husnock Ship	Premiere	U	No	Unique				Non-Aligned		6	9	12						[Cmd][Stf]		Tractor Beam, Holodeck						 Holodeck, Tractor Beam 
+191		1e/cardimages/premiere/ikckvort.gif	I.K.C. K'Vort	Premiere	C	No	Unique				Klingon		8	6	6						[Stf]		Tractor Beam, Cloaking Device, Bird-of-Prey						 Cloaking Device, Tractor Beam 
+192		1e/cardimages/premiere/ikcvorcha.gif	I.K.C. Vor'Cha	Premiere	C	No	Unique				Klingon		9	8	7						[Cmd][Stf]		Tractor Beam, Cloaking Device						 Cloaking Device, Tractor Beam 
+202		1e/cardimages/premiere/jaron.gif	Jaron	Premiere	C	No	Unique				Romulan		4	7	9					[Stf]			Support Personnel		Jaron				SECURITY Geology Youth  
+205		1e/cardimages/premiere/jddan.gif	J'Ddan	Premiere	C	No	Unique				Klingon		2	6	6					[Stf]			Support Personnel		J'Ddan				SCIENCE Exobiology Treachery  
+210		1e/cardimages/premiere/jera.gif	Jera	Premiere	C	No	Unique				Romulan		4	7	6					[Holo]			Support Personnel		Jera				MEDICAL Biology Youth  
+232		1e/cardimages/premiere/klag.gif	Klag	Premiere	C	No	Unique				Klingon		6	5	7					[Cmd]			Mission Specialist		Klag				OFFICER Navigation  
+233		1e/cardimages/premiere/kleeg.gif	Kle'eg	Premiere	C	No	Unique				Klingon		6	4	7					[Stf]			Mission Specialist		Kle'eg				SECURITY Honor  
+240		1e/cardimages/premiere/kromm.gif	Kromm	Premiere	C	No	Unique				Klingon		5	6	8					[Stf]			Mission Specialist		Kromm				ENGINEER Physics  
+243		1e/cardimages/premiere/ktesh.gif	K'Tesh	Premiere	C	No	Unique				Klingon		5	5	6					[Holo]			Mission Specialist		K'Tesh				ENGINEER Stellar Cartography  
+247		1e/cardimages/premiere/lindalarson.gif	Linda Larson	Premiere	C	No	Unique				Federation		7	5	4					[Stf]			Mission Specialist		Linda Larson				ENGINEER Youth  
+264		1e/cardimages/premiere/mcknight.gif	McKnight	Premiere	C	No	Unique				Federation		5	6	3					[Stf]					McKnight				OFFICER Navigation Youth Music  
+265		1e/cardimages/errata/Mendon.jpg	Mendon	Premiere	C	No	Unique				Federation		7	5	2					[Stf]			Mission Specialist		Mendon				SCIENCE Physics  
+266		1e/cardimages/premiere/mercenaryship.gif	Mercenary Ship	Premiere	C	No	Unique				Non-Aligned		7	7	7						[Stf]		Long-Range Scan Shielding			Baran			 Long-Range Scan Shielding 
+278		1e/cardimages/premiere/narik.gif	Narik	Premiere	C	No	Unique				Non-Aligned		2	7	6					[Stf]			Mission Specialist		Narik				ENGINEER Computer Skill  
+295		1e/cardimages/premiere/palteth.gif	Palteth	Premiere	C	No	Unique				Romulan		3	8	7					[Stf]			Mission Specialist		Palteth				ENGINEER Computer Skill  
+328		1e/cardimages/premiere/runabout.gif	Runabout	Premiere	C	No	Unique				Federation		7	5	5														  
+334		1e/cardimages/premiere/sciencevessel.gif	Science Vessel	Premiere	C	No	Unique				Romulan		8	5	6														  
+335		1e/cardimages/premiere/scoutvessel.gif	Scout Vessel	Premiere	C	No	Unique				Romulan		9	3	3								Scout						  
+339		1e/cardimages/premiere/selok.gif	Selok	Premiere	C	No	Unique				Romulan		4	8	5					[Stf]			Ambassador, Mission Specialist		Selok				V.I.P. Treachery  
+344		1e/cardimages/premiere/simontarses.gif	Simon Tarses	Premiere	C	No	Unique				Federation		6	5	5								Mission Specialist		Simon Tarses				MEDICAL Youth  
+346		1e/cardimages/premiere/sirisaacnewton.gif	Sir Isaac Newton	Premiere	R	No	Unique				Federation		7	11	3					[Holo]			Mission Specialist		Sir Isaac Newton				SCIENCE Physics  
+347		1e/cardimages/premiere/sitojaxa.gif	Sito Jaxa	Premiere	C	No	Unique				Federation		8	6	6					[Stf]			Support Personnel		Sito Jaxa				SECURITY Navigation Youth  
+375		1e/cardimages/premiere/taitt.gif	Taitt	Premiere	C	No	Unique				Federation		6	7	4					[Stf]			Support Personnel		Taitt				SCIENCE Stellar Cartography Geology  
+377		1e/cardimages/premiere/takket.gif	Takket	Premiere	C	No	Unique				Romulan		4	7	7					[Cmd]			Mission Specialist		Takket				MEDICAL Exobiology  
+378		1e/cardimages/premiere/tallus.gif	Tallus	Premiere	C	No	Unique				Romulan		3	7	7					[Cmd]			Mission Specialist		Tallus				OFFICER Leadership  
+381		1e/cardimages/premiere/tarus.gif	Tarus	Premiere	C	No	Unique				Romulan		4	8	7					[Stf]			Mission Specialist		Tarus				SCIENCE Stellar Cartography  
+382		1e/cardimages/premiere/taul.gif	Taul	Premiere	C	No	Unique				Romulan		4	7	8					[Stf]			Support Personnel		Taul				SECURITY Treachery Archaeology  
+383		1e/cardimages/premiere/taurik.gif	Taurik	Premiere	C	No	Unique				Federation		7	7	8					[Stf]			Mission Specialist		Taurik				ENGINEER Mindmeld  
+393		1e/cardimages/premiere/thei.gif	Thei	Premiere	C	No	Unique				Romulan		4	6	8					[Cmd]			Support Personnel		Thei				OFFICER Geology Physics  
+400		1e/cardimages/premiere/tomek.gif	Tomek	Premiere	C	No	Unique				Romulan		4	7	6					[Holo]			Mission Specialist		Tomek				ENGINEER Astrophysics  
+401		1e/cardimages/premiere/torin.gif	Torin	Premiere	C	No	Unique				Klingon		7	6	6								Mission Specialist		Torin				SCIENCE Astrophysics  
+407		1e/cardimages/premiere/vekor.gif	Vekor	Premiere	C	No	Unique				Non-Aligned		2	7	6					[Cmd]					Vekor				SCIENCE MEDICAL Navigation Geology  
+424		1e/cardimages/premiere/benjaminmaxwell.gif	Benjamin Maxwell	Premiere	U	No	Unique				Federation		9	7	5					[Cmd]			Mission Specialist		Benjamin Maxwell	U.S.S. Pheonix			OFFICER Leadership  
+431		1e/cardimages/premiere/betor.gif	B'Etor	Premiere	R	No	Unique				Klingon		2	8	7					[Cmd]					B'Etor				V.I.P. Treachery Leadership Physics Youth Greed  
+433		1e/cardimages/premiere/beverlycrusher.gif	Beverly Crusher	Premiere	R	No	Unique				Federation		8	8	5					[Cmd]					Beverly Crusher				MEDICAL MEDICAL Biology Exobiology  
+441		1e/cardimages/errata/Birth-of-Junior.jpg	Birth of "Junior"	Premiere	U	No	Unique			Space																			 Place on ship. End of each turn, RANGE reduced by 1; if reduced to 0, ship destroyed. Nullify with 3 ENGINEER. 
+444		1e/cardimages/errata/Disruptor-Overload.jpg	Disruptor Overload	Premiere	C	No	Unique																						 Plays on any ship or Away Team. Where present, destroys one Equipment card or one card used as an Equipment card (random selection). 
+445		1e/cardimages/errata/Distortion-Field.jpg	Distortion Field	Premiere	U	No	Unique																						 Plays crosswise face up on any planet location. Once each turn, flip card over. While face up, prevents all beaming down/up here. (Unique.) 
+446		1e/cardimages/errata/Distortion-of-ST-Continuum.jpg	Distortion of Space/Time Continuum	Premiere	U	No	Unique																						 Plays on any ship. "Unstops" ship, crew, and ship's Away Teams and restores any of this turn's RANGE already used by that ship. 
+470		1e/cardimages/premiere/yridianshuttle.gif	Yridian Shuttle	Premiere	C	No	Unique				Non-Aligned		6	1	3														  
+473		1e/cardimages/premiere/zibaliantransport.gif	Zibalian Transport	Premiere	C	No	Unique				Non-Aligned		6	2	4								Merchant vessel, Transport						  
+554		1e/cardimages/premiere/alexanderrozhenko.gif	Alexander Rozhenko	Premiere	U	No	Unique				Federation		6	4	2								Support Personnel		Alexander Rozhenko				CIVILIAN Honor Youth  
+556		1e/cardimages/premiere/alidarjarok.gif	Alidar Jarok	Premiere	R	No	Unique				Romulan		2	8	8					[Cmd]			Admiral, Support Personnel		Alidar Jarok				OFFICER Navigation Leadership   
+557		1e/cardimages/errata/Alien-Abduction.jpg	Alien Abduction	Premiere	U	No	Unique			Planet																			 Most CUNNING Away Team member (owner's choice if tie) is held by aliens until mission completed OR 3 Leadership present. 
+559		1e/cardimages/premiere/aliengroupie.gif	Alien Groupie	Premiere	R	No	Unique																						 Plays on any Away Team that just completed a planet mission. Female groupie delays beam up of one male (random selection) for one full turn. 
+561		1e/cardimages/premiere/alienparasites.gif	Alien Parasites	Premiere	U	No	Unique			Planet																			 Unless INTEGRITY>32, Away Team infected. They beam back and opponent immediately controls ship and crew until "stopped." Then turn resumes. 
+563		1e/cardimages/premiere/alienprobe.gif	Alien Probe	Premiere	U	No	Unique																						 Plays on table. Both players continue the game with their hands (cards) exposed, face up on the table. 
+570		1e/cardimages/premiere/alynnanechayev.gif	Alynna Nechayev	Premiere	R	No	Unique				Federation		7	8	3					[Cmd]			Vice-Admiral, Admiral, Support Personnel		Alynna Nechayev				OFFICER Diplomacy Leadership  
+571		1e/cardimages/premiere/alyssaogawa.gif	Alyssa Ogawa	Premiere	U	No	Unique				Federation		7	6	4					[Stf]			Mission Specialist, Nurse		Alyssa Ogawa				MEDICAL Biology  
+574		1e/cardimages/errata/Amanda-Rogers.jpg	Amanda Rogers	Premiere	U	No	Unique									0													 Nullifies any one Interrupt card just played OR any other card just played as an Interrupt card. (Immune to Amanda Rogers.) 
+576		1e/cardimages/premiere/amarie.gif	Amarie	Premiere	U	No	Unique				Non-Aligned		5	9	2								Mission Specialist		Amarie				CIVILIAN Music  
+582		1e/cardimages/premiere/anaphasicorganism.gif	Anaphasic Organism	Premiere	C	No	Unique			Planet													female-related dilemma						 If Female(s) in Away Team, the one with highest total attribute numbers resigns (is discarded), unless SECURITY + MEDICAL present. Discard dilemma. 
+586		1e/cardimages/premiere/ancientcomputer.gif	Ancient Computer	Premiere	R	No	Unique			Space																			 Cannot get past unless 2 Computer Skill OR 3 SCIENCE OR 3 ENGINEER present. 
+597		1e/cardimages/errata/Anti-time-Anomaly.jpg	Anti-time Anomaly	Premiere	R	No	Unique																						 Plays on table. Kills literally ALL personnel in play (both players' cards) at the end of your third full turn, unless anti-time anomaly destroyed first. 
+606		1e/cardimages/premiere/archer.gif	Archer	Premiere	C	No	Unique			Planet																			 Away Team member with highest total attribute numbers is shot and dies unless SECURITY + MEDICAL present. Discard dilemma. 
+609		1e/cardimages/errata/Armus-Skin-of-Evil.jpg	Armus - Skin of Evil	Premiere	R	No	Unique			Planet																			 Kills one Away Team member (random selection). Discard dilemma. 
+632		1e/cardimages/premiere/asteroidsanctuary.gif	Asteroid Sanctuary	Premiere	C	No	Unique																						 Plays on any ship. If 2 Navigation aboard, hides ship to prevent any battle initiated against that ship for this turn. 
+634		1e/cardimages/errata/Atmospheric-Ionization.jpg	Atmospheric Ionization	Premiere	C	No	Unique																						 Plays crosswise on any planet location. Maximum of three personnel per turn can be beamed up or down at this location. (Unique.) 
+637		1e/cardimages/errata/Auto-destruct-Sequence.jpg	Auto-destruct Sequence	Premiere	U	No	Unique																						 Plays on your ship. Ship self-destructs at end of your turn. Explosion damages all other ships at same location that have SHIELDS<8. 
+644		1e/cardimages/premiere/morag.gif	Morag	Premiere	U	No	Unique				Klingon		7	4	8					[Cmd]			Support Personnel		Morag				OFFICER Computer Skill Greed  
+647		1e/cardimages/premiere/morganbateson.gif	Morgan Bateson	Premiere	R	No	Unique				Federation		8	4	5					[Cmd]			Support Personnel		Morgan Bateson	U.S.S. Bozeman			OFFICER Leadership Stellar Cartography  
+653		1e/cardimages/premiere/motthebarber.gif	Mot The Barber	Premiere	U	No	Unique				Federation		6	4	5								Mission Specialist						CIVILIAN Barbering  
+656		1e/cardimages/premiere/movar.gif	Movar	Premiere	U	No	Unique				Romulan		5	7	7					[Cmd]			General, Support Personnel		Movar				OFFICER Treachery Anthropology  
+662		1e/cardimages/premiere/taibak.gif	Taibak	Premiere	U	No	Unique				Romulan		2	8	8					[Stf]					Taibak				SCIENCE Treachery Biology Computer Skill  
+667		1e/cardimages/premiere/tamelbrun.gif	Tam Elbrun	Premiere	R	No	Unique				Federation		5	7	3								Support Personnel		Tam Elbrun				V.I.P. Empathy Honor  
+673		1e/cardimages/errata/Tarellian-Plague-Ship.jpg	Tarellian Plague Ship	Premiere	U	No	Unique			Space						5													 Entire crew immediately dies from plague unless MEDICAL "beams over" (discarded) to Tarellians. Discard dilemma. 
+681		1e/cardimages/premiere/tashayar.gif	Tasha Yar	Premiere	R	No	Unique				Federation		8	7	8					[Stf]			Support Personnel		Tasha Yar				SECURITY Honor Leadership  
+683		1e/cardimages/premiere/avertdisaster.gif	Avert Disaster	Premiere	R	Yes	Unique			Planet						40		Alpha	3										Geology + Honor + INTEGRITY>35  
+688		1e/cardimages/premiere/bael.gif	Ba'el	Premiere	U	No	Unique				Klingon		6	6	4								Support Personnel		Ba'el				CIVILIAN Anthropology Youth  
+702		1e/cardimages/premiere/baran.gif	Baran	Premiere	U	No	Unique				Non-Aligned		3	8	6					[Cmd]					Baran	Mercenary Ship			OFFICER Greed Archaeology Exobiology Computer Skill  
+706		1e/cardimages/premiere/barclaysprotomorphosisdise.gif	Barclay's Protomorphosis Disease	Premiere	R	No	Unique			Space/Planet						10								Android					 Entire crew or Away Team (except androids) de-evolves (dies) unless MEDICAL, SCIENCE and SECURITY present. Discard dilemma. 
+731		1e/cardimages/premiere/bochra.gif	Bochra	Premiere	U	No	Unique				Romulan		7	7	6					[Stf]			Support Personnel		Bochra				OFFICER Navigation Youth  
+734		1e/cardimages/premiere/bok.gif	Bok	Premiere	U	No	Unique				Non-Aligned		4	9	4					[Cmd]			Daimon		Bok				OFFICER Greed ENGINEER Treachery Computer Skill  
+750		1e/cardimages/premiere/borgship.gif	Borg Ship	Premiere	R	No	Unique			Space						45													 Self-controlling ship (WEAPONS=24, SHIELDS=24). Start here. Attacks everything. End of every turn, moves 1 card toward and off spaceline's long end. Destroy for bonus. 
+769		1e/cardimages/errata/Bynars-Weapon-Enhancement.jpg	Bynars Weapon Enhancement	Premiere	R	No	Unique																						 Plays on ship. Ship is WEAPONS +2. (Cumulative.) 
+808		1e/cardimages/premiere/chalnoth.gif	Chalnoth	Premiere	U	No	Unique			Planet						5													 Kills one Away Team member (opponent's choice) unless 3 SECURITY OR STRENGTH>40 present. Discard dilemma. 
+848		1e/cardimages/errata/Cloaked-Mission.jpg	Cloaked Mission	Premiere	U	Yes	Unique			Planet						30	Romulus System Region	Alpha	3				Homeworld						Navigation + Diplomacy + Honor  
+881		1e/cardimages/premiere/cosmicstringfragment.gif	Cosmic String Fragment	Premiere	U	No	Unique			Space						5													 Ship is sucked in and destroyed unless Astrophysics OR ENGINEER OR Navigation aboard. Discard dilemma. 
+885		1e/cardimages/errata/Covert-Installation.jpg	Covert Installation	Premiere	C	Yes	Unique			Planet						35	Neutral Zone Region	Alpha	3				Neutral Zone Region						ENGINEER + Leadership + Treachery  
+888		1e/cardimages/premiere/covertrescue.gif	Covert Rescue	Premiere	U	Yes	Unique			Planet						30		Alpha	4										Diplomacy + Leadership + CUNNING>35  
+896		1e/cardimages/premiere/crosis.gif	Crosis	Premiere	R	No	Unique																						 Plays on {Rogue Borg}. Doubles their STRENGTH, including himself. Two Borg = 4 STRENGTH each, three Borg = 6 STRENGTH each, etc. (Not cumulative.) 
+899		1e/cardimages/premiere/crystallineentity.gif	Crystalline Entity	Premiere	R	No	Unique			Space/Planet						5													 Space mission: kills all life on ship unless SHIELDS>6 OR Music aboard. Planet mission: Kills entire Away Team unless SCIENCE + MEDICAL present. Discard dilemma. 
+901		1e/cardimages/premiere/culturalobservation.gif	Cultural Observation	Premiere	R	Yes	Unique			Planet						40		Alpha	4										Anthropology + Leadership + STRENGTH>30  
+906		1e/cardimages/premiere/cytherians.gif	Cytherians	Premiere	R	No	Unique			Space						15													 Place on ship. Ship must do nothing but travel to far end of spaceline at normal speed. When reached, discard dilemma. Score points. 
+914		1e/cardimages/premiere/data.gif	Data	Premiere	R	No	Unique				Federation		8	12	12					[Cmd]			Soong-type android		Data				OFFICER ENGINEER Computer Skill Music Astrophysics Exobiology  
+928		1e/cardimages/premiere/deannatroi.gif	Deanna Troi	Premiere	R	No	Unique				Federation		8	7	4					[Cmd]			Support Personnel		Deanna Troi				OFFICER Empathy Diplomacy  
+952		1e/cardimages/premiere/devinoniral.gif	Devinoni Ral	Premiere	U	No	Unique				Non-Aligned		3	9	3										Devinoni Ral				V.I.P. Empathy Diplomacy Treachery  
+953		1e/cardimages/premiere/devoras.gif	Devoras	Premiere	R	No	Unique				Romulan		9	8	8						[Cmd][Stf]		Tractor Beam, Cloaking Device			Admiral Mendak			 Cloaking Device, Tractor Beam 
+958		1e/cardimages/premiere/diplomacymission.gif	Diplomacy Mission	Premiere	U	Yes	Unique			Planet						30		Alpha	3										Diplomacy + INTEGRITY>30 + CUNNING>30  
+973		1e/cardimages/premiere/drlaforge.gif	Dr. La Forge	Premiere	R	No	Unique				Federation		7	7	4					[Stf]			Mission Specialist		Dr. La Forge				SCIENCE Exobiology  
+980		1e/cardimages/premiere/drreyga.gif	Dr. Reyga	Premiere	U	No	Unique				Non-Aligned		6	9	5					[Stf]					Dr. Reyga				SCIENCE ENGINEER Stellar Cartography Astrophysics  
+989		1e/cardimages/premiere/gapsinnormalspace.gif	Gaps In Normal Space	Premiere	U	No	Unique																						 Place between two Mission cards. Creates a gap with a span of 4. Ships stopping on the gap kill one personnel (random selection). 
+1005		1e/cardimages/premiere/ocett.gif	Ocett	Premiere	U	No	Unique				Non-Aligned		6	8	6					[Cmd]			Gul		Ocett				OFFICER Archaeology Navigation Honor  
+1021		1e/cardimages/premiere/rogadanar.gif	Roga Danar	Premiere	R	No	Unique				Non-Aligned		5	9	12					[Cmd]					Roga Danar				SECURITY ENGINEER Computer Skill Biology Leadership  
+1022		1e/cardimages/premiere/rogueborgmercenaries.gif	Rogue Borg Mercenaries	Premiere	C	No	Unique																						 Plays on any occupied ship. Battles crew now and at start of every players' turn. Two Borg =2 STRENGTH each, three =3 each, etc. Surviving Borg remain. 
+1027		1e/cardimages/premiere/romulandisruptor.gif	Romulan Disruptor	Premiere	C	No	Unique																hand weapon	Romulan					 Romulan and Non-Aligned use only. Each of your personnel STRENGTH +2 where present. (Cumulative.) 
+1029		1e/cardimages/errata/Romulan-Outpost.jpg	Romulan Outpost	Premiere	C	No	Unique				Romulan	Outpost			32									Romulan					 Seed one OR build later where you have a Romulan ENGINEER. 
+1030		1e/cardimages/premiere/romulanpadd.gif	Romulan PADD	Premiere	C	No	Unique																	Romulan					 Romulan use only. Each of your personnel CUNNING +2 where present. (Cumulative.) 
+1051		1e/cardimages/premiere/thomasriker.gif	Thomas Riker	Premiere	R	No	Unique				Federation		8	7	6					[Cmd]					Thomas Riker				OFFICER Leadership Navigation Geology Music  
+1056		1e/cardimages/premiere/thoughtmaker.gif	Thought Maker	Premiere	R	No	Unique																						 Place in hand until played once as an Interrupt card. Look at opponent's draw deck for ten seconds and rearrange as desired. 
+1062		1e/cardimages/premiere/drselar.gif	Dr. Selar	Premiere	U	No	Unique				Federation		7	8	7					[Stf]			Support Personnel		Dr. Selar				MEDICAL Computer Skill Mindmeld  
+1079		1e/cardimages/premiere/duras.gif	Duras	Premiere	R	No	Unique				Klingon		4	6	8					[Cmd]			High Council		Duras				V.I.P. Leadership Computer Skill Treachery Greed  
+1086		1e/cardimages/premiere/eladrelcreature.gif	El-Adrel Creature	Premiere	U	No	Unique			Planet													Tamarian-related dilemma						 Attacks two strongest members in Away Team (owner's choice if tie). Kills one of them (random selection) unless their combined STRENGTH>16. Discard dilemma. 
+1100		1e/cardimages/errata/Emergency-Armbands.jpg	Emergency Transporter Armbands	Premiere	C	No	Unique																						 Beam your Personnel up or down at any time, except during a dilemma (unless specifically permitted). May be used during battle before the winner is determined. 
+1109		1e/cardimages/premiere/energyvortex.gif	Energy Vortex	Premiere	U	No	Unique																						 Plays immediately after opponent plays any non-Interrupt card from hand. That card returns to their hand and a different one must be played instead. 
+1114		1e/cardimages/premiere/engineeringkit.gif	Engineering Kit	Premiere	C	No	Unique																ENGINEER-related equipment						 Gives all your OFFICER-classification personnel the skill of ENGINEER where present. 
+1116		1e/cardimages/premiere/engineeringpadd.gif	Engineering PADD	Premiere	C	No	Unique																ENGINEER-related equipment, SCIENCE-related equipment						 Gives all your SCIENCE-classification personnel the skill of ENGINEER where present. 
+1128		1e/cardimages/premiere/ericpressman.gif	Eric Pressman	Premiere	U	No	Unique				Federation		5	6	5					[Cmd]			Support Personnel		Eric Pressman	U.S.S. Pegasus			OFFICER ENGINEER Treachery  
+1129		1e/cardimages/premiere/escapepod.gif	Escape Pod	Premiere	C	No	Unique																						 Plays on ship being destroyed. Escape pod saves entire crew. Unseen by enemy ships, crew remains in pod until personnel rescued. Discard after use. 
+1140		1e/cardimages/premiere/espionagefederationonkling.gif	Espionage: Federation on Klingon	Premiere	C	No	Unique																						 Plays on any Klingon mission. Your Federation personnel may now attempt this mission. Discard after mission completed. 
+1141		1e/cardimages/premiere/espionageklingononfederati.gif	Espionage: Klingon on Federation	Premiere	C	No	Unique																Espionage... on Federation						 Plays on any Federation mission. Your Klingon personnel may now attempt this mission. Discard after mission completed. 
+1144		1e/cardimages/premiere/espionageromulanonfederati.gif	Espionage: Romulan on Federation	Premiere	C	No	Unique																Espionage... on Federation, Romulan espionage						 Plays on any Federation mission. Your Romulan personnel may now attempt this mission. Discard after mission completed. 
+1145		1e/cardimages/premiere/espionageromulanonklingo.gif	Espionage: Romulan on Klingon	Premiere	C	No	Unique																Romulan espionage						 Plays on any Klingon mission. Your Romulan personnel may now attempt this mission. Discard after mission completed. 
+1155		1e/cardimages/premiere/etanajol.gif	Etana Jol	Premiere	U	No	Unique				Non-Aligned		2	8	3					[Cmd]			Support Personnel		Etana Jol				SCIENCE Treachery Biology  
+1158		1e/cardimages/errata/Evacuation.jpg	Evacuation	Premiere	U	Yes	Unique			Planet						30		Alpha	3										Diplomacy x3 + STRENGTH>35  
+1159		1e/cardimages/premiere/evaluateterraforming.gif	Evaluate Terraforming	Premiere	R	Yes	Unique			Planet						35		Alpha	3										MEDICAL + Biology + Exobiology OR {Geordi La Forge} + MEDICAL x2  
+1161		1e/cardimages/premiere/evek.gif	Evek	Premiere	U	No	Unique				Non-Aligned		7	5	7					[Cmd]			Gul		Evek				OFFICER Diplomacy Leadership Anthropology  
+1163		1e/cardimages/premiere/excavation.gif	Excavation	Premiere	C	Yes	Unique			Planet						25		Alpha	3										Archaeology OR CUNNING>32  
+1167		1e/cardimages/premiere/exploreblackcluster.gif	Explore Black Cluster	Premiere	R	Yes	Unique			Space						35		Alpha	3										Stellar Cartography + Leadership OR CUNNING>50  
+1170		1e/cardimages/premiere/exploredysonsphere.gif	Explore Dyson Sphere	Premiere	R	Yes	Unique			Space						35		Alpha	2										ENGINEER x3 + Navigation + Computer Skill + Physics  
+1172		1e/cardimages/errata/Explore-Typhon-Expanse.jpg	Explore Typhon Expanse	Premiere	R	Yes	Unique			Space						35		Alpha	5										Astrophysics + Stellar Cartography OR CUNNING>50  
+1175		1e/cardimages/premiere/exposecovertsupply.gif	Expose Covert Supply	Premiere	U	Yes	Unique			Planet						30		Alpha	4				Homeworld						Treachery x3 + Navigation  
+1177		1e/cardimages/premiere/extraction.gif	Extraction	Premiere	R	Yes	Unique			Planet						35		Alpha	3										Treachery + Biology + MEDICAL  
+1189		1e/cardimages/errata/Federation-Outpost.jpg	Federation Outpost	Premiere	C	No	Unique				Federation	Outpost			30														 Seed one OR build where you have a Federation ENGINEER. 
+1190		1e/cardimages/premiere/federationpadd.gif	Federation PADD	Premiere	C	No	Unique																						 Federation use only. Each of your personnel CUNNING +2 where present. (Cumulative.) 
+1194		1e/cardimages/errata/Female's-Love-Interest.jpg	Female's Love Interest	Premiere	C	No	Unique			Planet													female-related dilemma						 Female Away Team member (random selection) runs off with lover to furthest planet. Discard dilemma. 
+1212		1e/cardimages/premiere/feveremergency.gif	Fever Emergency	Premiere	C	Yes	Unique			Planet						35		Alpha	3										MEDICAL x3 OR Biology + OFFICER  
+1218		1e/cardimages/errata/Firestorm.jpg	Firestorm	Premiere	U	No	Unique			Planet																			 Kills all Away Team members with INTEGRITY<5 (but Away Team may escape using {Emergency Transporter Armbands}). Discard dilemma. 
+1220		1e/cardimages/premiere/firstcontact.gif	First Contact	Premiere	U	Yes	Unique			Planet						30		Alpha	2										Diplomacy + Empathy  
+1226		1e/cardimages/premiere/fleetadmiralshanthi.gif	Fleet Admiral Shanthi	Premiere	U	No	Unique				Federation		9	6	4					[Cmd]			Admiral, Support Personnel		Fleet Admiral Shanthi				OFFICER Leadership Diplomacy  
+1240		1e/cardimages/errata/Full-Planet-Scan.jpg	Full Planet Scan	Premiere	U	No	Unique																						 Glance at all seed cards located under one planet mission for twenty seconds. 
+1242		1e/cardimages/premiere/genetronicreplicator.gif	Genetronic Replicator	Premiere	U	No	Unique																						 Plays on table. Prevents any of your Away Team members from being killed if 2 MEDICAL present. 
+1243		1e/cardimages/premiere/geordilaforge.gif	Geordi La Forge	Premiere	R	No	Unique				Federation		8	8	6					[Cmd]					Geordi La Forge				ENGINEER ENGINEER Navigation Physics Computer Skill  
+1253		1e/cardimages/premiere/goddessofempathy.gif	Goddess of Empathy	Premiere	R	No	Unique																						 Plays on table until the end of your next turn. Neither you nor your opponent can play Interrupt cards (except {Kevin Uxbridge} or {Q2}). Discard after use. 
+1262		1e/cardimages/premiere/gowron.gif	Gowron	Premiere	R	No	Unique				Klingon		8	7	9					[Cmd]			High Council, High Council Leader		Gowron				V.I.P. Leadership Diplomacy Honor  
+1270		1e/cardimages/premiere/graviticmine.gif	Gravitic Mine	Premiere	U	No	Unique			Space																			 Ship damaged unless SCIENCE + Navigation aboard. Discard dilemma. 
+1295		1e/cardimages/premiere/hologramruse.gif	Hologram Ruse	Premiere	U	No	Unique			Planet																			 Experience enemy hologram trick. You are tempted to divulge secrets. Impassable unless INTEGRITY>30 and CUNNING>30. 
+1301		1e/cardimages/errata/Holo-projectors.jpg	Holo-projectors	Premiere	U	No	Unique																						 Plays on a planet mission. [Holo] cards may exist on this planet. 
+1306		1e/cardimages/premiere/honorchallenge.gif	Honor Challenge	Premiere	R	No	Unique																	Klingon					 Plays just after an Away Team battle is initiated. Each Klingon with Honor immediately kills one opponent with Treachery. Battle continues. 
+1308		1e/cardimages/premiere/horgahn.gif	Horga'hn	Premiere	R	No	Unique																						 Immediately play on table. Artifact allows you to take double turns from now on. (Not cumulative.) 
+1320		1e/cardimages/premiere/hugh.gif	Hugh	Premiere	R	No	Unique																						 Nullifies attack by {Borg Ship} for this turn OR destroys (discard) all {Rogue Borg} at one location. 
+1324		1e/cardimages/premiere/huntfordnaprogram.gif	Hunt for DNA Program	Premiere	R	Yes	Unique			Planet						55		Alpha	5										Archaeology x 3 + Computer Skill + Biology + Leadership + STRENGTH>40  
+1328		1e/cardimages/premiere/hyperaging.gif	Hyper-aging	Premiere	U	No	Unique			Planet						5													 Mission continues but entire Away Team is quarantined and dies at the end of your third full turn unless SCIENCE + 2 MEDICAL present by that time. 
+1336		1e/cardimages/errata/IKC-Bortas.jpg	I.K.C. Bortas	Premiere	R	No	Unique				Klingon		9	9	7						[Stf][Cmd]		Cloaking Device, Tractor Beam			Gowron			 Cloaking Device, Tractor Beam 
+1337		1e/cardimages/premiere/ikcburuk.gif	I.K.C. Buruk	Premiere	R	No	Unique				Klingon		8	6	7						[Stf]		Bird-of-Prey, Tractor Beam, Cloaking Device						 Cloaking Device, Tractor Beam 
+1342		1e/cardimages/premiere/ikcheghta.gif	I.K.C. Hegh'ta	Premiere	R	No	Unique				Klingon		8	7	7						[Stf]		Bird-of-Prey, Tractor Beam, Cloaking Device			Kurn			 Cloaking Device, Tractor Beam 
+1352		1e/cardimages/premiere/ikcpagh.gif	I.K.C. Pagh	Premiere	R	No	Unique				Klingon		8	7	6						[Stf]		Tractor Beam, Cloaking Device		I.K.C. Pagh	Captain Kargan			 Cloaking Device, Tractor Beam 
+1353		1e/cardimages/premiere/ikcquvat.gif	I.K.C. Qu'Vat	Premiere	R	No	Unique				Klingon		9	8	8						[Cmd][Stf]		Tractor Beam, Cloaking Device						 Cloaking Device, Tractor Beam 
+1358		1e/cardimages/premiere/ikcvorn.gif	I.K.C. Vorn	Premiere	U	No	Unique				Klingon		8	7	6						[Stf]		Bird-of-Prey, Tractor Beam, Cloaking Device						 Cloaking Device, Tractor Beam 
+1364		1e/cardimages/errata/Iconia-Investigation.jpg	Iconia Investigation	Premiere	R	Yes	Unique			Planet						35	Neutral Zone Region	Alpha	3				Neutral Zone Region						Archaeology + Computer Skill x2  
+1365		1e/cardimages/premiere/iconiancomputerweapon.gif	Iconian Computer Weapon	Premiere	C	No	Unique			Space																			 Unless SCIENCE present, re-boot by discarding all non-personnel cards in hand and replenish from top of draw deck. Discard dilemma. 
+1378		1e/cardimages/premiere/impassabledoor.gif	Impassable Door	Premiere	C	No	Unique			Planet																			 To get through this door, Away Team must have Computer Skill present. 
+1390		1e/cardimages/premiere/incomingmessagefederation.gif	Incoming Message - Federation	Premiere	U	No	Unique																						 Your ship must immediately return to the nearest Federation outpost, full speed. Place on one Federation ship until outpost reached, then discard. 
+1392		1e/cardimages/premiere/incomingmessageklingon.gif	Incoming Message: Klingon	Premiere	U	No	Unique																						 "Your ship must immediately return to the nearest Klingon outpost, full speed." Place on one Klingon ship until outpost reached, then discard. 
+1393		1e/cardimages/premiere/incomingmessageromulan.gif	Incoming Message: Romulan	Premiere	U	No	Unique																						 "Your ship must immediately return to the nearest Romulan outpost, full speed." Place on one Romulan ship until outpost reached, then discard. 
+1403		1e/cardimages/premiere/interphasegenerator.gif	Interphase Generator	Premiere	R	No	Unique																						 Use as Equipment card. Nullifies: {Chalnoth}s, {Archer}s, {Rebel}s, {Impassable Door}s, {Phased Matter}, {Crystalline Entit}ies, {Armus}, and {Nausicaans}. 
+1412		1e/cardimages/errata/Investigate-Shattered-Space.jpg	Investigate "Shattered Space"	Premiere	R	Yes	Unique			Space						45	Neutral Zone Region	Alpha	5				Neutral Zone Region						Leadership + Computer Skill + Astrophysics x2 + Stellar Cartography  
+1413		1e/cardimages/premiere/investigatealienprobe.gif	Investigate Alien Probe	Premiere	R	Yes	Unique			Space						40		Alpha	2										Anthropology + Biology + Computer Skill  
+1414		1e/cardimages/premiere/investigateanomaly.gif	Investigate Anomaly	Premiere	C	Yes	Unique			Space						30		Alpha	4										Exobiology + STRENGTH>35  
+1418		1e/cardimages/premiere/investigatedisappearance.gif	Investigate Disappearance	Premiere	R	Yes	Unique			Space						35		Alpha	5										Physics + Navigation + CUNNING>40 OR Astrophysics x3  
+1419		1e/cardimages/premiere/investigatedisturbance.gif	Investigate Disturbance	Premiere	R	Yes	Unique			Planet						35		Alpha	4										Honor + Leadership + INTEGRITY>30 OR {Gowron} + Biology  
+1421		1e/cardimages/premiere/investigatemassacre.gif	Investigate Massacre	Premiere	R	Yes	Unique			Planet						35		Alpha	3										Diplomacy + INTEGRITY>35 + CUNNING>35  
+1423		1e/cardimages/premiere/investigateraid.gif	Investigate Raid	Premiere	R	Yes	Unique			Planet						35		Alpha	2										Exobiology + Diplomacy  
+1424		1e/cardimages/premiere/investigateroguecomet.gif	Investigate Rogue Comet	Premiere	R	Yes	Unique			Space						30		Alpha	3										Archaeology + Exobiology + Computer Skill  
+1426		1e/cardimages/errata/Investigate-Sighting.jpg	Investigate Sighting	Premiere	R	Yes	Unique			Space						35		Alpha	4										Empathy x3 OR Treachery + Exobiology + CUNNING>40  
+1429		1e/cardimages/errata/Investigate-Time-Continuum.jpg	Investigate Time Continuum	Premiere	R	Yes	Unique			Planet						35		Alpha	3										{Guinan} OR {Data} OR {Time Travel Pod}  
+1432		1e/cardimages/premiere/isharayar.gif	Ishara Yar	Premiere	U	No	Unique				Non-Aligned		3	7	8					[Stf]			Support Personnel		Ishara Yar				CIVILIAN Treachery Youth  
+1446		1e/cardimages/premiere/jaglomshrekinformation.gif	Jaglom Shrek - Information Broker	Premiere	R	No	Unique																						 Look at opponent's draw deck for twenty seconds, then replace unshuffled. 
+1457		1e/cardimages/premiere/jeanlucpicard.gif	Jean-Luc Picard	Premiere	R	No	Unique				Federation		9	8	6					[Cmd]					Jean-Luc Picard	U.S.S. Enterprise			OFFICER Diplomacy Leadership Honor Archaeology Navigation Music  
+1465		1e/cardimages/premiere/jennadsora.gif	Jenna D'Sora	Premiere	U	No	Unique				Federation		7	6	5					[Stf]			Support Personnel		Jenna D'Sora				SECURITY Stellar Cartography Music  
+1468		1e/cardimages/premiere/jobril.gif	Jo'Bril	Premiere	U	No	Unique				Non-Aligned		3	8	7					[Cmd]					Jo'Bril				SCIENCE Treachery Astrophysics Physics Greed  
+1479		1e/cardimages/premiere/kahless.gif	Kahless	Premiere	R	No	Unique				Klingon		10	6	8					[Cmd]			Mission Specialist, Emperor		Kahless				V.I.P. Honor  
+1488		1e/cardimages/premiere/kareelodan.gif	Kareel Odan	Premiere	U	No	Unique				Federation		9	7	4								Trill with symbiont, Ambassador, Support Personnel		Kareel Odan				V.I.P. Diplomacy Computer Skill  
+1490		1e/cardimages/premiere/kargan.gif	Kargan	Premiere	R	No	Unique				Klingon		7	5	9					[Cmd]			Support Personnel		Kargan	I.K.C. Pagh			OFFICER Honor Computer Skill  
+1506		1e/cardimages/premiere/kehleyr.gif	K'Ehleyr	Premiere	R	No	Unique				Federation		8	7	7					[Stf]			Ambassador, Support Personnel		K'Ehleyr				V.I.P. Diplomacy Honor  
+1510		1e/cardimages/premiere/kell.gif	Kell	Premiere	U	No	Unique				Klingon		2	6	5								High Council, Mission Specialist		Kell				V.I.P. Treachery  
+1518		1e/cardimages/errata/Kevin-Uxbridge.jpg	Kevin Uxbridge	Premiere	U	No	Unique									0													 Nullifies any one Event card in play (except for {Treaty} cards) OR any other card played as an Event card. (Immune to {Amanda Rogers}.) 
+1521		1e/cardimages/premiere/khazara.gif	Khazara	Premiere	R	No	Unique				Romulan		9	9	7						[Cmd][Stf]		Tractor Beam, Cloaking Device			Commander Toreth			 Cloaking Device, Tractor Beam 
+1522		1e/cardimages/errata/Khitomer-Research.jpg	Khitomer Research	Premiere	R	Yes	Unique			Planet						35		Alpha	4										Honor x3 + Computer Skill + Treachery  
+1530		1e/cardimages/premiere/kivasfajocollector.gif	Kivas Fajo - Collector	Premiere	U	No	Unique																						 Choose any player to immediately draw three new cards from the top of their draw deck. Discard event after use. 
+1535		1e/cardimages/premiere/klingondeathyell.gif	Klingon Death Yell	Premiere	R	No	Unique									5								Klingon					 Plays on any just killed Klingon with Honor. Yell to warn the dead and earn bonus points. May play only one death yell for each such Klingon. 
+1536		1e/cardimages/premiere/klingondisruptor.gif	Klingon Disruptor	Premiere	C	No	Unique																hand weapon	Klingon					 Klingon and Non-Aligned use only. Each of your personnel STRENGTH +2 where present. (Cumulative.) 
+1538		1e/cardimages/errata/Klingon-Outpost.jpg	Klingon Outpost	Premiere	C	No	Unique				Klingon	Outpost			32									Klingon					 Seed one OR build where you have a Klingon ENGINEER. 
+1539		1e/cardimages/premiere/klingonpadd.gif	Klingon PADD	Premiere	C	No	Unique																	Klingon					 Klingon use only. Each of your personnel CUNNING +2 where present. (Cumulative.) 
+1541		1e/cardimages/premiere/klingonrightofvengeance.gif	Klingon Right Of Vengeance	Premiere	C	No	Unique																	Klingon					 If any Klingon is killed in an away team battle, all other Klingons present may immediately re-attack with double STRENGTH. 
+1542		1e/cardimages/premiere/kmpec.gif	K'mpec	Premiere	U	No	Unique				Klingon		7	8	5					[Cmd]			High Council, High Council Leader, Support Personnel		K'mpec				V.I.P. Leadership Diplomacy  
+1550		1e/cardimages/premiere/konmel.gif	Konmel	Premiere	U	No	Unique				Klingon		8	5	8					[Stf]			Mission Specialist		Konmel				OFFICER Navigation  
+1552		1e/cardimages/premiere/koral.gif	Koral	Premiere	U	No	Unique				Klingon		3	4	10					[Cmd]			Support Personnel		Koral				CIVILIAN Navigation Archaeology  
+1555		1e/cardimages/premiere/koroth.gif	Koroth	Premiere	U	No	Unique				Klingon		8	6	6										Koroth				SCIENCE Biology Archaeology Anthropology  
+1556		1e/cardimages/premiere/korris.gif	Korris	Premiere	U	No	Unique				Klingon		8	6	8					[Cmd]			Mission Specialist		Korris				OFFICER Honor  
+1570		1e/cardimages/premiere/kriossuppression.gif	Krios Suppression	Premiere	U	Yes	Unique			Planet						30		Alpha	2										Honor + Diplomacy + STRENGTH>35  
+1573		1e/cardimages/premiere/ktal.gif	K'Tal	Premiere	U	No	Unique				Klingon		7	5	5								High Council, Mission Specialist		K'Tal				V.I.P. Diplomacy  
+1574		1e/cardimages/premiere/ktariangame.gif	Ktarian Game	Premiere	R	No	Unique			Space														Android					 Place on ship. Now and start of each of your turns, one person aboard (random selection) is disabled. Cured when non-disabled CUNNING>30 OR android aboard. 
+1578		1e/cardimages/premiere/kurak.gif	Kurak	Premiere	R	No	Unique				Klingon		6	7	6					[Stf]					Kurak				SCIENCE Astrophysics Computer Skill Physics Honor  
+1579		1e/cardimages/premiere/kurlannaiskos.gif	Kurlan Naiskos	Premiere	R	No	Unique																						 Place in hand until played on any ship as an Event card. If ship has all 7 personnel types aboard, its RANGE, WEAPONS and SHIELDS are tripled. (Not cumulative.) 
+1580		1e/cardimages/premiere/kurn.gif	Kurn	Premiere	R	No	Unique				Klingon		8	6	8					[Cmd]			High Council		Kurn				OFFICER Honor Computer Skill Navigation Diplomacy  
+1582		1e/cardimages/premiere/kvada.gif	K'Vada	Premiere	U	No	Unique				Klingon		8	5	7					[Cmd]			Support Personnel		K'Vada				OFFICER Leadership Navigation  
+1594		1e/cardimages/premiere/leahbrahms.gif	Leah Brahms	Premiere	R	No	Unique				Federation		8	9	3					[Stf]			Mission Specialist		Leah Brahms				ENGINEER ENGINEER  
+1609		1e/cardimages/premiere/lifeformscan.gif	Life-form Scan	Premiere	U	No	Unique																						 Glance at the cards in your opponent's hand for ten seconds. 
+1618		1e/cardimages/premiere/lkor.gif	L'Kor	Premiere	U	No	Unique				Klingon		7	6	7					[Cmd]			Support Personnel		L'Kor				CIVILIAN Leadership Music  
+1625		1e/cardimages/premiere/longrangescan.gif	Long-range Scan	Premiere	C	No	Unique																						 Glance at the cards aboard any ship for ten seconds. 
+1629		1e/cardimages/premiere/lorereturns.gif	Lore Returns	Premiere	R	No	Unique																						 Plays where {Rogue Borg} have eliminated a ship's crew. With Lore, your {Rogue Borg} may now use ship to attack ships and/or beam to battle Away Teams. 
+1630		1e/cardimages/premiere/loresfingernail.gif	Lore's Fingernail	Premiere	R	No	Unique																	Soong-type android					 Plays on table. While in play, all Soong-type androids (including Lt. Cmdr. {Data}) and {Exocomp}s lose their affiliation and are non-aligned personnel. 
+1631		1e/cardimages/premiere/lossoforbitalstability.gif	Loss of Orbital Stability	Premiere	C	No	Unique																						 Plays on any ship at a planet location. Ship can't move for one turn. Also, ship is destroyed at end of next turn unless SHIELDS>4. Discard after use. 
+1654		1e/cardimages/premiere/lursa.gif	Lursa	Premiere	R	No	Unique				Klingon		2	8	8					[Cmd]					Lursa				V.I.P. Treachery Leadership Geology Greed  
+1656		1e/cardimages/errata/Lwaxana-Troi.jpg	Lwaxana Troi	Premiere	R	No	Unique				Federation		7	8	3								Mission Specialist		Lwaxana Troi				V.I.P. Empathy  
+1674		1e/cardimages/errata/Male's-Love-Interest.jpg	Male's Love Interest	Premiere	C	No	Unique			Planet													male-related dilemma						 Male Away Team member (random selection) runs off with lover to furthest planet. Discard dilemma. 
+1695		1e/cardimages/premiere/masakatransformations.gif	Masaka Transformations	Premiere	U	No	Unique																						 Plays on any player. That player must shuffle entire hand, place on bottom of draw deck, then draw the same number of cards from the top. Discard event after use. 
+1696		1e/cardimages/premiere/matriarchalsociety.gif	Matriarchal Society	Premiere	U	No	Unique			Planet													female-related dilemma						 Cannot get past unless at least 2 female Away Team members present. 
+1704		1e/cardimages/premiere/medicalkit.gif	Medical Kit	Premiere	C	No	Unique																MEDICAL-related equipment						 Gives all your OFFICER-classification personnel the extra skill of MEDICAL where present. 
+1708		1e/cardimages/premiere/medicalrelief.gif	Medical Relief	Premiere	R	Yes	Unique			Planet						35		Alpha	3										Biology + Exobiology + MEDICAL  
+1709		1e/cardimages/premiere/medicaltricorder.gif	Medical Tricorder	Premiere	C	No	Unique																SCIENCE-related equipment, MEDICAL-related equipment						 Gives all of your SCIENCE-classification personnel the extra skill of MEDICAL where present. 
+1713		1e/cardimages/premiere/mendak.gif	Mendak	Premiere	R	No	Unique				Romulan		4	7	7					[Cmd]			Support Personnel		Mendak	Devoras			OFFICER Treachery Exobiology  
+1714		1e/cardimages/errata/Menthar-Booby-Trap.jpg	Menthar Booby Trap	Premiere	C	No	Unique			Space																			 Place on ship; it cannot move. Unless MEDICAL present, one crew member killed (random selection). Discard with 2 ENGINEER aboard. 
+1717		1e/cardimages/errata/Metaphasic-Shields.jpg	Metaphasic Shields	Premiere	U	No	Unique																						 Plays on your ship. SHIELDS +2 for each SCIENCE classification personnel aboard. 
+1722		1e/cardimages/premiere/microbioticcolony.gif	Microbiotic Colony	Premiere	C	No	Unique			Space																			 Ship damaged unless SCIENCE, ENGINEER + OFFICER aboard. Discard dilemma. 
+1723		1e/cardimages/premiere/microvirus.gif	Microvirus	Premiere	C	No	Unique			Planet						5													 Kills one Away Team member (opponent's choice), unless MEDICAL + SECURITY present. Discard dilemma. 
+1736		1e/cardimages/premiere/mirok.gif	Mirok	Premiere	U	No	Unique				Romulan		3	8	7					[Stf]					Mirok				SCIENCE ENGINEER Astrophysics Physics  
+1762		1e/cardimages/premiere/nagilum.gif	Nagilum	Premiere	R	No	Unique			Space						5													 Half of crew is killed (random selection, round down) unless 3 Diplomacy OR STRENGTH>40 aboard. Discard dilemma. 
+1764		1e/cardimages/premiere/nanites.gif	Nanites	Premiere	U	No	Unique			Space						5													 Damages ship unless 2 SCIENCE or Diplomacy present. Discard dilemma. 
+1770		1e/cardimages/premiere/nausicaans.gif	Nausicaans	Premiere	U	No	Unique			Planet																			 Three Nausicaans pick a fight. One Away Team member is killed (random selection) unless STRENGTH>44. Discard dilemma. 
+1774		1e/cardimages/premiere/nearwarptransport.gif	Near-warp Transport	Premiere	U	No	Unique																						 Allows beaming from ship to a neighboring spaceline location. Transport a maximum of six of your personnel and/or your equipment. 
+1776		1e/cardimages/premiere/neeladaren.gif	Neela Daren	Premiere	R	No	Unique				Federation		8	8	5					[Stf]					Neela Daren				SCIENCE Astrophysics Stellar Cartography Music  
+1779		1e/cardimages/premiere/neral.gif	Neral	Premiere	U	No	Unique				Romulan		4	7	7								Proconsul, Support Personnel		Neral				V.I.P. Treachery Youth  
+1781		1e/cardimages/premiere/neuralservodevice.gif	Neural Servo Device	Premiere	U	No	Unique																						 Plays on any non-aligned ship. Unless 2 SECURITY aboard, use ship and crew for one turn as your own. Discard event. 
+1784		1e/cardimages/premiere/newcontact.gif	New Contact	Premiere	R	Yes	Unique			Planet						40		Alpha	4										Diplomacy + Leadership + Empathy + Anthropology  
+1790		1e/cardimages/premiere/nikolairozhenko.gif	Nikolai Rozhenko	Premiere	U	No	Unique				Federation		3	7	4					[Stf]					Nikolai Rozhenko				CIVILIAN Anthropology Computer Skill Treachery  
+1794		1e/cardimages/premiere/nitriummetalparasites.gif	Nitrium Metal Parasites	Premiere	U	No	Unique			Space																			 Place on ship. Ship can still move, but is destroyed at the end of your second full turn unless 2 SCIENCE OR 2 ENGINEER aboard by that time. 
+1803		1e/cardimages/premiere/norahsatie.gif	Norah Satie	Premiere	U	No	Unique				Federation		9	6	2					[Cmd]			Admiral, Mission Specialist		Norah Satie				V.I.P. Leadership  
+1805		1e/cardimages/premiere/nudaq.gif	Nu'Daq	Premiere	U	No	Unique				Klingon		8	5	8					[Cmd]					Nu'Daq	I.K.C. Maht-H'a			OFFICER Archaeology Navigation Exobiology  
+1806		1e/cardimages/premiere/nullspace.gif	Null Space	Premiere	U	No	Unique			Space						5													 Ship hits null space turbulence and is damaged unless 2 Navigation aboard. Discard dilemma. 
+1809		1e/cardimages/errata/Nutational-Shields.jpg	Nutational Shields	Premiere	U	No	Unique																						 Plays on your ship. SHIELDS +2 for each ENGINEER classification personnel aboard. 
+1810		1e/cardimages/premiere/nvek.gif	N'Vek	Premiere	U	No	Unique				Romulan		6	8	8					[Cmd]			Romulan underground		N'Vek				SCIENCE Honor Biology Computer Skill  
+1840		1e/cardimages/premiere/palortoffalientrader.gif	Palor Toff - Alien Trader	Premiere	C	No	Unique																						 Exchange this card for any non-Personnel card in your discard pile. 
+1846		1e/cardimages/premiere/pardek.gif	Pardek	Premiere	U	No	Unique				Romulan		4	8	6								Senator, Support Personnel		Pardek				V.I.P. Diplomacy Treachery  
+1847		1e/cardimages/premiere/parem.gif	Parem	Premiere	U	No	Unique				Romulan		4	8	9					[Stf]			Mission Specialist		Parem				OFFICER Treachery  
+1849		1e/cardimages/premiere/particlefountain.gif	Particle Fountain	Premiere	C	No	Unique									5													 If 2 ENGINEER present in Away Team, play particle fountain (maximum of one) on just completed planet mission for bonus points. 
+1852		1e/cardimages/premiere/patternenhancers.gif	Pattern Enhancers	Premiere	C	No	Unique																						 Plays on table. Allows your personnel and equipment unlimited beaming through {atmospheric ionization} or {distortion field}s. 
+1857		1e/cardimages/premiere/pegasussearch.gif	Pegasus Search	Premiere	R	Yes	Unique			Space						50		Alpha	4										Navigation + Diplomacy + Leadership + Treachery + INTEGRITY>40 OR {Interphase Generator}  
+1863		1e/cardimages/errata/Phased-Matter.jpg	Phased Matter	Premiere	C	No	Unique			Planet																			 Away Team is split into two Away Teams (your choice). Larger team is phased and cannot beam until cured by ENGINEER and SCIENCE in another Away Team on planet. 
+1872		1e/cardimages/premiere/pi.gif	Pi	Premiere	R	No	Unique				Romulan		9	4	4								Scout						  
+1881		1e/cardimages/premiere/plasmafire.gif	Plasma Fire	Premiere	C	No	Unique																						 Plays on any ship, except {Borg ship}. Fire damages ship at end of next turn and continues damaging each turn. SECURITY puts it out. Discard after use. 
+1885		1e/cardimages/premiere/plundersite.gif	Plunder Site	Premiere	U	Yes	Unique			Planet						30		Alpha	2										Treachery + Archaeology + STRENGTH>30  
+1887		1e/cardimages/premiere/portalguard.gif	Portal Guard	Premiere	U	No	Unique			Planet																			 Unless at least one Away Team member has CUNNING>7 OR Honor, the entire Away Team must abort mission and beam up or die. 
+1919		1e/cardimages/errata/Q_a.jpg	Q	Premiere	R	No	Unique			Space/Planet													Q-related dilemma						 Unless 2 Leadership and INTEGRITY>60, stops crew or Away Team. Discard dilemma. 
+1922		1e/cardimages/errata/Q2.jpg	Q2	Premiere	U	No	Unique									0								Q-related dilemma					 Nullifies any {Amanda Rogers} OR {Kevin Uxbridge} just played, OR nullifies any Q-related dilemma. 
+1925		1e/cardimages/premiere/qnet.gif	Q-Net	Premiere	C	No	Unique																						 Plays between two adjacent spaceline locations. No ship may pass the Q-Net unless 2 Diplomacy aboard. 
+1948		1e/cardimages/errata/Radioactive-Garbage-Scow.jpg	Radioactive Garbage Scow	Premiere	U	No	Unique			Space														Tractor Beam					 Place on spaceline here. Mission cannot be attempted where present. Ship with Tractor Beam and 2 ENGINEER can tow scow. 
+1952		1e/cardimages/premiere/raisethestakes.gif	Raise the Stakes	Premiere	U	No	Unique																						 Your opponent must forfeit the game OR agree the eventual winner may randomly select and keep one card from loser's 60-card deck. (Cumulative.) 
+1962		1e/cardimages/premiere/rebelencounter.gif	Rebel Encounter	Premiere	U	No	Unique			Planet																			 Kills one Away Team member (random selection) unless STRENGTH>44 OR you bribe rebels first by discarding an Equipment card, if present. Discard dilemma. 
+1968		1e/cardimages/errata/Red-Alert.jpg	Red Alert!	Premiere	C	No	Unique																						 Plays on table. In place of your normal card play, you may report for duty any number of Ship, Personnel, and Equipment cards. 
+1975		1e/cardimages/premiere/reginaldbarclay.gif	Reginald Barclay	Premiere	R	No	Unique				Federation		7	7	5					[Stf]			Mission Specialist		Reginald Barclay				ENGINEER Computer Skill  
+1985		1e/cardimages/premiere/reliefmission.gif	Relief Mission	Premiere	C	Yes	Unique			Planet						20		Alpha	2										Geology OR Physics  
+1989		1e/cardimages/errata/REM-Fatigue-Hallucinations.jpg	REM Fatigue Hallucinations	Premiere	U	No	Unique			Space/Planet						5													 Entire crew or Away Team dies in three of your full turns unless 3 MEDICAL present OR ship returns to outpost first. 
+1997		1e/cardimages/premiere/repairmission.gif	Repair Mission	Premiere	C	Yes	Unique			Space						35		Alpha	2										ENGINEER x3 + Computer Skill  
+2007		1e/cardimages/premiere/resq.gif	Res-Q	Premiere	C	No	Unique																						 Regenerates a card. Exchange this event for any one card from your discard pile. 
+2010		1e/cardimages/premiere/restoreerrantmoon.gif	Restore Errant Moon	Premiere	U	Yes	Unique			Planet						30		Alpha	3										ENGINEER + Astrophysics + Leadership  
+2023		1e/cardimages/premiere/richardgalen.gif	Richard Galen	Premiere	R	No	Unique				Federation		7	9	2					[Stf]			Professor		Richard Galen				SCIENCE Archaeology Biology Exobiology  
+2033		1e/cardimages/premiere/riva.gif	Riva	Premiere	U	No	Unique				Federation		6	8	3								Mission Specialist		Riva				V.I.P. Diplomacy  
+2034		1e/cardimages/premiere/rolaren.gif	Ro Laren	Premiere	R	No	Unique				Federation		4	7	5					[Stf]					Ro Laren				OFFICER Computer Skill Navigation Treachery  
+2051		1e/cardimages/premiere/sarek.gif	Sarek	Premiere	R	No	Unique				Federation		9	10	3					[Cmd]			Ambassador, Support Personnel		Sarek				V.I.P. Diplomacy Mindmeld  
+2053		1e/cardimages/premiere/sarjenka.gif	Sarjenka	Premiere	R	No	Unique			Planet						5													 Primitive alien begs for help. Ignore her (discard dilemma) OR help her and earn points, but all Away Teams here are "stopped." 
+2054		1e/cardimages/premiere/sarthongplunder.gif	Sarthong Plunder	Premiere	R	Yes	Unique			Planet						35		Alpha	3										Archaeology x2 + STRENGTH>40  
+2056		1e/cardimages/premiere/satelk.gif	Satelk	Premiere	R	No	Unique				Federation		8	9	7					[Cmd]					Satelk				OFFICER Leadership Mindmeld Diplomacy  
+2057		1e/cardimages/errata/Scan.jpg	Scan	Premiere	C	No	Unique																						 Glance at all seed cards located under one space mission for twenty seconds. 
+2077		1e/cardimages/premiere/secretsalvage.gif	Secret Salvage	Premiere	U	Yes	Unique			Space						30		Alpha	3										Treachery x4 OR Navigation x2 + Computer Skill  
+2086		1e/cardimages/premiere/seeklifeform.gif	Seek Life-form	Premiere	R	Yes	Unique			Space						40		Alpha	3										Exobiology + Astrophysics + ENGINEER  
+2089		1e/cardimages/premiere/sela.gif	Sela	Premiere	R	No	Unique				Romulan		6	9	8					[Cmd]					Sela				V.I.P. Diplomacy Leadership Treachery Youth  
+2106		1e/cardimages/premiere/shakawhenthewallsfell.gif	Shaka, When The Walls Fell	Premiere	U	No	Unique			Space/Planet													Tamarian-related dilemma						 Must have 2 Diplomacy + CUNNING>30 to communicate and proceed. 
+2111		1e/cardimages/premiere/shelby.gif	Shelby	Premiere	R	No	Unique				Federation		6	7	4					[Cmd]			Support Personnel		Shelby				OFFICER Leadership Exobiology  
+2115		1e/cardimages/premiere/shipseizure.gif	Ship Seizure	Premiere	C	No	Unique																	Tractor Beam					 If your ship has tractor beams, tow away (discard) any empty ship in the same orbit as your own ship (except empty ships at their outpost). 
+2120		1e/cardimages/premiere/sirnakolrami.gif	Sirna Kolrami	Premiere	U	No	Unique				Federation		7	9	2					[Cmd]			Mission Specialist		Sirna Kolrami				V.I.P. Leadership  
+2136		1e/cardimages/premiere/soren.gif	Soren	Premiere	U	No	Unique				Federation		6	6	3					[Stf]			Mission Specialist		Soren				SCIENCE Astrophysics  
+2139		1e/cardimages/premiere/spacedock.gif	Spacedock	Premiere	C	No	Unique																						 Plays on outpost. Instantly repairs your damaged ships if they stop here. Also repairs non-aligned ships. 
+2151		1e/cardimages/errata/Starfleet-Type-II-Phaser.jpg	Starfleet Type II Phaser	Premiere	C	No	Unique																hand weapon						 Federation and Non-Aligned use only. Each of your personnel present is STRENGTH +2. (Cumulative.) 
+2159		1e/cardimages/premiere/staticwarpbubble.gif	Static Warp Bubble	Premiere	C	No	Unique																						 Plays on table. Opponent must discard one card before ending each turn. (Not cumulative.) 
+2171		1e/cardimages/premiere/strategicdiversion.gif	Strategic Diversion	Premiere	U	Yes	Unique			Planet						30		Alpha	3										Treachery x3 + STRENGTH>30  
+2174		1e/cardimages/premiere/studyholeinspace.gif	Study "Hole In Space"	Premiere	R	Yes	Unique			Space						35		Alpha	4										Leadership + Diplomacy + INTEGRITY>40  
+2178		1e/cardimages/premiere/studylonkapulsar.gif	Study Lonka Pulsar	Premiere	R	Yes	Unique			Space						40		Alpha	2										Navigation + Astrophysics + Stellar Cartography  
+2179		1e/cardimages/premiere/studynebula.gif	Study Nebula	Premiere	R	Yes	Unique			Space						35		Alpha	4				Nebula						Astrophysics + Stellar Cartography + CUNNING>40  
+2180		1e/cardimages/premiere/studyplasmastreamer.gif	Study Plasma Streamer	Premiere	C	Yes	Unique			Space						30		Alpha	4										Astrophysics + Youth  
+2182		1e/cardimages/premiere/studystellarcollision.gif	Study Stellar Collision	Premiere	C	Yes	Unique			Space						25		Alpha	3										Stellar Cartography  
+2187		1e/cardimages/premiere/subspaceinterference.gif	Subspace Interference	Premiere	C	No	Unique																						 Prevents (nullifies) reception of {Incoming Message} OR {Hail} OR {Subspace Schism}. Both cards are discarded. 
+2188		1e/cardimages/premiere/subspaceschism.gif	Subspace Schism	Premiere	U	No	Unique																						 Plays within five seconds of either players' card draw. That player must discard that card and re-draw. 
+2192		1e/cardimages/premiere/subspacewarprift.gif	Subspace Warp Rift	Premiere	C	No	Unique																						 Plays crosswise on any spaceline location. Any ship passing over here without stopping incurs damage. 
+2196		1e/cardimages/premiere/supernova.gif	Supernova	Premiere	R	No	Unique																						 You must have {Tox Uthat} on table. Place atop any mission. Everything there is destroyed (discarded), but leave Mission card underneath for span reference. 
+2201		1e/cardimages/premiere/surveymission.gif	Survey Mission	Premiere	R	Yes	Unique			Space						35		Alpha	5				Nebula						Stellar Cartography + Physics  
+2209		1e/cardimages/premiere/tachyondetectiongrid.gif	Tachyon Detection Grid	Premiere	C	No	Unique																						 Must have at least four of your ships in play to use. Play on any cloaked ship to detect its presence. Ship is forced to de-cloak for rest of turn. 
+2212		1e/cardimages/premiere/tebok.gif	Tebok	Premiere	U	No	Unique				Romulan		5	7	9					[Cmd]					Tebok				OFFICER Diplomacy Leadership Navigation  
+2216		1e/cardimages/premiere/telepathicalienkidnappers.gif	Telepathic Alien Kidnappers	Premiere	U	No	Unique																						 Plays on table. At end of each turn, guess a card type and point to a card in your opponent's hand. Card must be shown. If guessed correctly, card is discarded. 
+2218		1e/cardimages/premiere/temporalcausalityloop.gif	Temporal Causality Loop	Premiere	R	No	Unique			Space						5													 Unless SCIENCE + CUNNING>35, undo your last 2 actions of this turn and end turn. Discard dilemma. 
+2222		1e/cardimages/errata/Temporal-Rift.jpg	Temporal Rift	Premiere	U	No	Unique													[2]									 Plays on your ship. Ship disappears. When countdown expires, ship reappears here. 
+2231		1e/cardimages/premiere/testmission.gif	Test Mission	Premiere	C	Yes	Unique			Space						25		Alpha	3										Physics + INTEGRITY>28  
+2234		1e/cardimages/premiere/tetryonfield.gif	Tetryon Field	Premiere	C	No	Unique																						 Plays crosswise on any spaceline location. All ships must stop here before proceeding on next turn, unless Navigation aboard. 
+2250		1e/cardimages/premiere/thedevil.gif	The Devil	Premiere	R	No	Unique																						 Destroys any one {Treaty} card on table OR one {Horga'hn} on table OR one {Wind Dancer}. 
+2269		1e/cardimages/errata/The-Juggler.jpg	The Juggler	Premiere	U	No	Unique													[Ref]									 Choose any player to re-shuffle the cards in their draw deck. 
+2286		1e/cardimages/premiere/thetravelertranscendence.gif	The Traveler: Transcendence	Premiere	U	No	Unique																						 Place beside any player's draw deck. That player must draw one extra card at the end of each turn. Also, while in play, nullifies {Static Warp Bubble}. (Not cumulative.) 
+2293		1e/cardimages/premiere/timetravelpod.gif	Time Travel Pod	Premiere	R	No	Unique																						 Place in hand until played once as an Interrupt card on any ship. That ship travels into the future (disappears for up to 5 turns). Pre-announce the return time. 
+2298		1e/cardimages/premiere/tobyrussell.gif	Toby Russell	Premiere	U	No	Unique				Federation		6	7	4					[Stf]			Mission Specialist		Toby Russell				MEDICAL Physics  
+2300		1e/cardimages/premiere/tokath.gif	Tokath	Premiere	U	No	Unique				Romulan		6	7	6					[Stf]			Support Personnel		Tokath				OFFICER Anthropology Honor  
+2303		1e/cardimages/premiere/tomalak.gif	Tomalak	Premiere	R	No	Unique				Romulan		6	7	9					[Cmd]			Support Personnel		Tomalak				OFFICER Diplomacy Leadership  
+2308		1e/cardimages/premiere/toq.gif	Toq	Premiere	U	No	Unique				Klingon		6	5	6										Toq				CIVILIAN Leadership Computer Skill Youth  
+2310		1e/cardimages/premiere/torak.gif	Torak	Premiere	U	No	Unique				Klingon		5	4	7								Governor, Support Personnel		Torak				V.I.P. Diplomacy Geology  
+2311		1e/cardimages/errata/Toral.jpg	Toral	Premiere	U	No	Unique				Klingon		6	5	6					[Stf]			Support Personnel, High Council		Toral				V.I.P. Leadership Youth  
+2313		1e/cardimages/premiere/toreth.gif	Toreth	Premiere	R	No	Unique				Romulan		5	8	7					[Cmd]					Toreth	Khazara			OFFICER Leadership Honor Navigation  
+2318		1e/cardimages/premiere/toxuthat.gif	Tox Uthat	Premiere	R	No	Unique																						 Place in hand until played on table as an event ({supernova} can be played on later turn) OR as an Interrupt (prevents {supernova}). Discard after use. 
+2319		1e/cardimages/errata/TPan.jpg	T'Pan	Premiere	U	No	Unique				Federation		8	9	4					[Stf]			Support Personnel		T'Pan				SCIENCE SCIENCE Mindmeld  
+2332		1e/cardimages/premiere/transwarpconduit.gif	Transwarp Conduit	Premiere	U	No	Unique																						 Select a ship. It can move double range for this turn. 
+2346		1e/cardimages/premiere/treatyfederationklingon.gif	Treaty: Federation/Klingon	Premiere	C	No	Unique																Federation treaty, Klingon treaty						 Plays on table. Your Federation and Klingon affiliations recognize this treaty. They can now mix and cooperate. 
+2347		1e/cardimages/premiere/treatyfederationromulan.gif	Treaty: Federation/Romulan	Premiere	C	No	Unique																Federation treaty, Romulan treaty						 Plays on table. Your Federation and Romulan affiliations recognize this treaty. They can now mix and cooperate. 
+2352		1e/cardimages/premiere/treatyromulanklingon.gif	Treaty: Romulan/Klingon	Premiere	C	No	Unique																Klingon treaty, Romulan treaty						 Plays on table. Your Romulan and Klingon affiliations recognize this treaty. They can now mix and cooperate. 
+2354		1e/cardimages/premiere/tricorder.gif	Tricorder	Premiere	C	No	Unique																ENGINEER-related equipment, SCIENCE-related equipment						 Gives all of your ENGINEER-classification personnel the extra skill of SCIENCE where present. 
+2360		1e/cardimages/errata/Tsiolkovsky-Infection.jpg	Tsiolkovsky Infection	Premiere	R	No	Unique			Space																			 Place aboard ship. It is now infected. Mission can continue, but all personnel, while aboard, lose their first-listed skill. Cure with 3 MEDICAL to discard. (Not cumulative.) 
+2369		1e/cardimages/errata/Two-Dimensional-Creatures.jpg	Two-Dimensional Creatures	Premiere	U	No	Unique			Space																			 Place on ship. Empaths aboard are disabled. Ship can't move until SCIENCE and ENGINEER aboard, discarding dilemma and curing empaths. 
+2371		1e/cardimages/premiere/ussbrittain.gif	U.S.S. Brittain	Premiere	R	No	Unique				Federation		6	5	6						[Stf]		Tractor Beam						 Tractor Beam 
+2376		1e/cardimages/premiere/ussenterprise.gif	U.S.S. Enterprise	Premiere	R	No	Unique				Federation		9	8	9						[Cmd][Stf]		Tractor Beam, Holodeck						 Holodeck, Tractor Beam 
+2384		1e/cardimages/premiere/usshood.gif	U.S.S. Hood	Premiere	R	No	Unique				Federation		7	6	7						[Stf]		Tractor Beam			Robert DeSoto			 Tractor Beam 
+2389		1e/cardimages/premiere/ussphoenix.gif	U.S.S. Phoenix	Premiere	R	No	Unique				Federation		7	7	8						[Cmd][Stf]		Tractor Beam, Holodeck			Benjamin Maxwell			 Holodeck, Tractor Beam 
+2397		1e/cardimages/premiere/usssutherland.gif	U.S.S. Sutherland	Premiere	U	No	Unique				Federation		7	7	7						[Stf][Cmd]		Holodeck, Tractor Beam			Data			 Holodeck, Tractor Beam 
+2400		1e/cardimages/premiere/ussyamato.gif	U.S.S. Yamato	Premiere	R	No	Unique				Federation		8	8	8						[Cmd][Stf]		Tractor Beam, Holodeck			Donald Varley			 Holodeck, Tractor Beam 
+2412		1e/cardimages/premiere/vagh.gif	Vagh	Premiere	U	No	Unique				Klingon		7	5	6								Governor, Support Personnel		Vagh				V.I.P. Diplomacy Anthropology  
+2419		1e/cardimages/premiere/varontdisruptor.gif	Varon-T Disruptor	Premiere	R	No	Unique																hand weapon						 Use as Equipment. Doubles your personnel's STRENGTH where present. (Not cumulative.) 
+2420		1e/cardimages/premiere/vash.gif	Vash	Premiere	R	No	Unique				Federation		3	8	4										Vash				CIVILIAN Archaeology Treachery Anthropology  
+2441		1e/cardimages/errata/Vulcan-Mindmeld.jpg	Vulcan Mindmeld	Premiere	U	No	Unique																Vulcan-related interrupt						 Plays at any location. Each of your Mindmeld personnel there may select another of your personnel present and add that personnel's skills to their own until end of turn. 
+2443		1e/cardimages/premiere/vulcanstoneofgol.gif	Vulcan Stone of Gol	Premiere	R	No	Unique																						 Place in hand until played as an Event card. Kills everyone in an Away Team without Youth OR CUNNING>7. Discard artifact. 
+2446		1e/cardimages/premiere/warpcorebreach.gif	Warp Core Breach	Premiere	R	No	Unique																						 Plays on any ship, except {Borg ship}. Ship explodes at end of owner's next turn, unless ENGINEER aboard by then. Discard after use. 
+2455		1e/cardimages/errata/Wesley-Crusher.jpg	Wesley Crusher	Premiere	R	No	Unique				Federation		6	8	5					[Stf]					Wesley Crusher				OFFICER Youth Computer Skill Navigation ENGINEER Astrophysics  
+2462		1e/cardimages/premiere/wherenoonehasgonebefore.gif	Where No One Has Gone Before	Premiere	C	No	Unique																						 Plays on table. Allows all your ships to leave one end of the spaceline and enter the other end. 
+2466		1e/cardimages/premiere/williamtriker.gif	William T. Riker	Premiere	R	No	Unique				Federation		8	7	7					[Cmd]			Cook		William T. Riker				OFFICER Diplomacy Leadership Navigation Honor Music  
+2468		1e/cardimages/errata/Wind-Dancer.jpg	Wind Dancer	Premiere	R	No	Unique			Planet																			 To get past, {Lwaxana Troi} must be present OR at least one Away Team member must have: Youth OR Music OR STRENGTH>9. 
+2470		1e/cardimages/premiere/worf.gif	Worf	Premiere	R	No	Unique				Federation		8	6	10					[Cmd]					Worf				SECURITY Honor Navigation Diplomacy  
+2474		1e/cardimages/errata/Wormhole.jpg	Wormhole	Premiere	C	No	Unique																						 Requires two wormholes. Play one on your ship. Play the other at any location. Ship relocates to that location (and then is "stopped"). 
+2476		1e/cardimages/premiere/wormholenegotiations.gif	Wormhole Negotiations	Premiere	R	Yes	Unique			Space						45		Alpha	4										Diplomacy x5 OR Honor x4 OR Treachery x4  
+3476		1e/cardimages/premiere/betazoidgiftbox.gif	Betazoid Gift Box	Premiere	R	No	Unique																						 Immediately look through your draw deck for up to thirty seconds and choose three cards to place in your hand. Reshuffle draw deck and discard artifact. 
