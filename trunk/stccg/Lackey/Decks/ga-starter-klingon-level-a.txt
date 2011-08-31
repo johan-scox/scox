@@ -1,0 +1,33 @@
+1	Isomagnetic Disintegrator *HMF2
+1	Masaka Transformations *HMF2
+1	Surprise Party
+2	Handshake *VP
+1	AMANDA ROGERS
+1	KEVIN UXBRIDGE
+1	Chancellor Gowron *HMF2
+1	Chang
+1	Nu'Daq *HMF2
+1	Quark Son of Keldar*
+1	Antaak
+1	Phlox *SoG *SF
+1	Martok
+1	Martrex
+1	% Laneth
+1	Marab
+1	Duras *LfL
+1	K'mpec *CoC
+1	% Volok
+1	Vina
+1	The Foragers
+1	David Marcus *LfL
+1	Cha'joh*
+1	I.K.C. Bortas
+1	I.K.C. Qam-chee *CoC
+1	Q2
+1	Daniels
+1	% Vekor
+Seed+Dil:
+1	SPACE-TIME PORTAL *VP
+1	THE BIG PICTURE *VOY
+1	FAIR PLAY *VOY
+1	% Klingon Outpost
