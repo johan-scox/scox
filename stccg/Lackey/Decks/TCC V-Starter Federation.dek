@@ -1,0 +1,291 @@
+<deck version="0.8">
+	<meta>
+		<game>startrek1e</game>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="SoG_11">Emergency Transport Unit</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="environmentalsuit">Environmental Suit</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF2_16">Isomagnetic Disintegrator *HMF2</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="starfleettypeiiphaser">STARFLEET TYPE II PHASER</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="atmosphericionization">ATMOSPHERIC IONIZATION</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="lowerdecks">LOWER DECKS</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="yellowalert">YELLOW ALERT</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="VP6VP_Handshake">Handshake *VP</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="VP6VP_Handshake">Handshake *VP</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SoG_26">Seductive Dance</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SoG_27">Warp Speed Transfer</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="amandarogers">AMANDA ROGERS</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="disruptoroverload">DISRUPTOR OVERLOAD</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="kevinuxbridge">KEVIN UXBRIDGE</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="RR24V-Oof">OOF!</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="IC3V-Kira-Fed">Kira**</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="40VP">Agent Garak *VP</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF2_38">Admiral Janeway *HMF2</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF2_39">Ambassador Sarek *HMF2</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF2_40">Andrea Brand</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SoG_34">Aquiel Uhnari</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="2V_BenjaminSisko">Benjamin Sisko *CoC</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="dexterremmick">Dexter Remmick</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_25V">Ensign Jameson</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="jacobson">% Jacobson</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="karenloews">% Karen Loews</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SoG_36">Mrs. O&apos;Brien</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="VP1VP_Spock">Spock</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="wesleycrusher">Wesley Crusher</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SoG_38">Worf *SoG</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="IC9V-Koval">Koval*</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="IC19V-Prot">Prot*</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SoG_46">Rishon</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="vekor">% Vekor</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SoG_49">Vina</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="ussdanube">% U.S.S. Danube</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="10V_USSDefiant">U.S.S. Defiant *CoC</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="11V_USSEnterprise">U.S.S. Enterprise *CoC</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="13V_Voyager">U.S.S. Voyager *CoC</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="IC22V-Stolen-Attack-Ship">Stolen Attack Ship*</name>
+			<set>main</set>
+		</card>
+	</superzone>
+	<superzone name="Missions">
+		<card>
+			<name id="distressmission">DISTRESS MISSION</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="investigatecoup">INVESTIGATE COUP</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="investigatedisappearance">INVESTIGATE DISAPPEARANCE</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="reportedactivity">REPORTED ACTIVITY</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="sensitivesearch">SENSITIVE SEARCH</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="studyholeinspace">STUDY &quot;HOLE IN SPACE&quot;</name>
+			<set>main</set>
+		</card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card>
+			<name id="HMF_03V">CHULA: THE LIGHTS *HMF</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF_06V">Flim-Flam Artist *HMF</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF2_8">Gomtuu Shock Wave</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF2_9">Linguistic Legerdemain *HMF2</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF_09V">MAGLOCK *HMF</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF_14V">PUNISHMENT BOX *HMF</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF_01V">BLENDED *HMF</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF_02V">CHULA: THE CHANDRA *HMF</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF2_3">Dedication to Duty</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF2_5">Forsaken</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF2_7">Fractured Time</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF_10V">Murder Investigation *HMF</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="HMF2_2">Dangerous Climb</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF_05V">DEAD END *HMF</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF2_4">Dignitaries and Witnesses</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF2_6">Founder Secret *HMF2</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF_17V">SUBSPACE SHOCK WAVE *HMF</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF_18V">THE WHALE PROBE *HMF</name>
+			<set>main</set>
+		</card>
+	</superzone>
+	<superzone name="QsTent">
+	</superzone>
+	<superzone name="Aside">
+		<card>
+			<name id="34VP">SPACE-TIME PORTAL *VP</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SoG_14">Duck Blind</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="RR3V-Fair-Play">FAIR PLAY</name>
+			<set>otfban</set>
+		</card>
+		<card>
+			<name id="RR8V-Villagers-With-Torches">VILLAGERS WITH TORCHES</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="federationoutpost">% Federation Outpost</name>
+			<set>main</set>
+		</card>
+	</superzone>
+</deck>

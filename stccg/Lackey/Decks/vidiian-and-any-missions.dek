@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title></title>
+		<author></author>
+		<email></email>
+		<date></date>
+		<game>startrek1e</game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+	</superzone>
+	<superzone name="Missions">
+		<card>
+			<name id="revivesettlers">REVIVE SETTLERS</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="studyintermentsite">STUDY INTERMENT SITE</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="researchphage">RESEARCH PHAGE</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="salvageoperation">SALVAGE OPERATION</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="maintenanceoverhaul">MAINTENANCE OVERHAUL</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="repairnullspacecatapult">REPAIR NULL SPACE CATAPULT</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="establishhomeplanet">ESTABLISH HOME PLANET</name>
+			<set>xlist_voy</set>
+		</card>
+		<card>
+			<name id="minegallicite">MINE GALLICITE</name>
+			<set>xlist_voy</set>
+		</card>
+		<card>
+			<name id="repairmemorial">REPAIR MEMORIAL</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="sealrift">SEAL RIFT</name>
+			<set>xlist_voy</set>
+		</card>
+		<card>
+			<name id="studyprotonebula">STUDY PROTONEBULA</name>
+			<set>xlist_voy</set>
+		</card>
+		<card>
+			<name id="transportcolonists">TRANSPORT COLONISTS</name>
+			<set>xlist_voy</set>
+		</card>
+		<card>
+			<name id="ambushship">AMBUSH SHIP</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="answerdistresssignal">ANSWER DISTRESS SIGNAL</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="catalogphenomena">% CATALOG PHENOMENA</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="curedeadlyvirus">CURE DEADLY VIRUS</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="prisonbreak">PRISON BREAK</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="reinitializewarpreaction">REINITIALIZE WARP REACTION</name>
+			<set>main_voy</set>
+		</card>
+		<card>
+			<name id="restocksupplies">RESTOCK SUPPLIES</name>
+			<set>main_voy</set>
+		</card>
+	</superzone>
+	<superzone name="Seed+Dil">
+	</superzone>
+	<superzone name="QsTent">
+	</superzone>
+	<superzone name="Aside">
+	</superzone>
+</deck>

@@ -1,0 +1,59 @@
+<deck version="0.8">
+	<meta>
+		<game>startrek1e_giveawaystarters</game>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="HMF2_11">Ablative Armor *HMF2</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="environmentalsuit">Environmental Suit</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF2_16">Isomagnetic Disintegrator *HMF2</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF2_17">Masaka Transformations *HMF2</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="57VP">Surprise Party</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="lowerdecks">LOWER DECKS</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="VP6VP_Handshake">Handshake *VP</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="VP6VP_Handshake">Handshake *VP</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="amandarogers">AMANDA ROGERS</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="kevinuxbridge">KEVIN UXBRIDGE</name>
+			<set>xlist</set>
+		</card>
+	</superzone>
+	<superzone name="Missions">
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card>
+			<name id="34VP">SPACE-TIME PORTAL *VP</name>
+			<set>main</set>
+		</card>
+	</superzone>
+	<superzone name="QsTent">
+	</superzone>
+	<superzone name="Aside">
+	</superzone>
+</deck>

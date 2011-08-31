@@ -1,0 +1,151 @@
+<deck version="0.8">
+	<meta>
+		<title>ga-starter-klingon-level-a</title>
+		<author>Scox</author>
+		<email>d99scox_dtek@yahoo.com</email>
+		<date>08-12-11</date>
+		<game>startrek1e_giveawaystarters</game>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="HMF2_16">Isomagnetic Disintegrator *HMF2</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF2_17">Masaka Transformations *HMF2</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="57VP">Surprise Party</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="VP6VP_Handshake">Handshake *VP</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="VP6VP_Handshake">Handshake *VP</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="amandarogers">AMANDA ROGERS</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="kevinuxbridge">KEVIN UXBRIDGE</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="HMF2_43">Chancellor Gowron *HMF2</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF2_44">Chang</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="HMF2_45">Nu&apos;Daq *HMF2</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="IC20V-Quark-Son-of-Keldar">Quark Son of Keldar*</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_26V">Antaak</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SoG_51">Phlox *SoG *SF</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="martok">Martok</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SoG_44">Martrex</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_28V">% Laneth</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_29V">Marab</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="duras_lfl">Duras *LfL</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="7V_Kmpec">K&apos;mpec *CoC</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SAS_30V">% Volok</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SoG_49">Vina</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="SoG_48">The Foragers</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="davidmarcus_lfl">David Marcus *LfL</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="IC24V-Cha&apos;Joh">Cha&apos;joh*</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="ikcbortas">I.K.C. Bortas</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="14V_IKCQamChee">I.K.C. Qam-chee *CoC</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="q2">Q2</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="SAS_41V">Daniels</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="vekor">% Vekor</name>
+			<set>main</set>
+		</card>
+	</superzone>
+	<superzone name="Missions">
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card>
+			<name id="34VP">SPACE-TIME PORTAL *VP</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="RR7V-The-Big-Picture-Voy">THE BIG PICTURE *VOY</name>
+			<set>otfban_voy</set>
+		</card>
+		<card>
+			<name id="RR3V-Fair-Play-Voy">FAIR PLAY *VOY</name>
+			<set>otfban_voy</set>
+		</card>
+		<card>
+			<name id="klingonoutpost">% Klingon Outpost</name>
+			<set>main</set>
+		</card>
+	</superzone>
+	<superzone name="QsTent">
+	</superzone>
+	<superzone name="Aside">
+	</superzone>
+</deck>

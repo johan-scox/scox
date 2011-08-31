@@ -1,0 +1,71 @@
+1	Emergency Transport Unit
+1	Environmental Suit
+1	Isomagnetic Disintegrator *HMF2
+1	STARFLEET TYPE II PHASER
+1	ATMOSPHERIC IONIZATION
+1	LOWER DECKS
+1	YELLOW ALERT
+2	Handshake *VP
+1	Seductive Dance
+1	Warp Speed Transfer
+1	AMANDA ROGERS
+1	DISRUPTOR OVERLOAD
+1	KEVIN UXBRIDGE
+1	OOF!
+1	Kira**
+1	Agent Garak *VP
+1	Admiral Janeway *HMF2
+1	Ambassador Sarek *HMF2
+1	Andrea Brand
+1	Aquiel Uhnari
+1	Benjamin Sisko *CoC
+1	Dexter Remmick
+1	Ensign Jameson
+1	% Jacobson
+1	% Karen Loews
+1	Mrs. O'Brien
+1	Spock
+1	Wesley Crusher
+1	Worf *SoG
+1	Koval*
+1	Prot*
+1	Rishon
+1	% Vekor
+1	Vina
+1	% U.S.S. Danube
+1	U.S.S. Defiant *CoC
+1	U.S.S. Enterprise *CoC
+1	U.S.S. Voyager *CoC
+1	Stolen Attack Ship*
+Missions:
+1	DISTRESS MISSION
+1	INVESTIGATE COUP
+1	INVESTIGATE DISAPPEARANCE
+1	REPORTED ACTIVITY
+1	SENSITIVE SEARCH
+1	STUDY "HOLE IN SPACE"
+Seed+Dil:
+1	CHULA: THE LIGHTS *HMF
+1	Flim-Flam Artist *HMF
+1	Gomtuu Shock Wave
+1	Linguistic Legerdemain *HMF2
+1	MAGLOCK *HMF
+1	PUNISHMENT BOX *HMF
+1	BLENDED *HMF
+1	CHULA: THE CHANDRA *HMF
+1	Dedication to Duty
+1	Forsaken
+1	Fractured Time
+1	Murder Investigation *HMF
+1	Dangerous Climb
+1	DEAD END *HMF
+1	Dignitaries and Witnesses
+1	Founder Secret *HMF2
+1	SUBSPACE SHOCK WAVE *HMF
+1	THE WHALE PROBE *HMF
+Aside:
+1	SPACE-TIME PORTAL *VP
+1	Duck Blind
+1	FAIR PLAY
+1	VILLAGERS WITH TORCHES
+1	% Federation Outpost
