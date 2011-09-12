@@ -1,0 +1,407 @@
+Dina 35 spelare
+
+Förmågetabell
+
+Kategori: Målvakt
+
+ 12. Alfred Leijonborg (MV)
+19 år och 98 dagar, TSI = 5 700
+Har ypperlig form och ypperlig kondition.
+Har katastrofal rutin och hyfsad ledarförmåga.
+
+Kondition:	ypperlig	 Målvakt:	fenomenal
+Spelupplägg:	katastrofal	 Framspel:	katastrofal
+Ytter:	usel	 Försvar:	hyfsad
+Målgörare:	katastrofal	 Fasta sit.:	usel
+HTMS -poäng: Förmåga: 185 / Potential: 1370
+2011-07-27	   (Målvakt)
+ 1. Jimmy Håkansson (MV)
+28 år och 15 dagar, TSI = 40 330
+Har bra form och enastående kondition.
+Har unik rutin och bra ledarförmåga.
+
+Kondition:	enastående	 Målvakt:	himmelsk
+Spelupplägg:	hyfsad	 Framspel:	katastrofal
+Ytter:	katastrofal	 Försvar:	katastrofal
+Målgörare:	katastrofal	 Fasta sit.:	bra
+HTMS -poäng: Förmåga: 412 / Potential: 394
+2011-07-31	   (Målvakt)
+ 23. Stefan Torsson (MV)
+24 år och 8 dagar, TSI = 4 150
+Har fenomenal form och enastående kondition.
+Har hyfsad rutin och ypperlig ledarförmåga.
+
+Kondition:	enastående	 Målvakt:	enastående
+Spelupplägg:	katastrofal	 Framspel:	katastrofal
+Ytter:	usel	 Försvar:	dålig
+Målgörare:	usel	 Fasta sit.:	dålig
+HTMS -poäng: Förmåga: 147 / Potential: 697
+2011-06-01	   (Innerback)
+Kategori: Ytterback
+
+ 2. Anders T. Killskog (YB)
+26 år och 23 dagar, TSI = 46 450
+Har enastående form och enastående kondition.
+Har ypperlig rutin och usel ledarförmåga.
+
+Kondition:	enastående	 Målvakt:	katastrofal
+Spelupplägg:	usel	 Framspel:	enastående
+Ytter:	ypperlig	 Försvar:	oförglömlig
+Målgörare:	bra	 Fasta sit.:	enastående
+HTMS -poäng: Förmåga: 829 / Potential: 1075
+2011-07-31	   (Ytterback)
+ 5. Jan Andreasson (YB)3
+25 år och 79 dagar, TSI = 27 940
+Har hyfsad form och enastående kondition.
+Har hyfsad rutin och ypperlig ledarförmåga.
+
+Kondition:	enastående	 Målvakt:	katastrofal
+Spelupplägg:	hyfsad	 Framspel:	enastående
+Ytter:	unik	 Försvar:	oförglömlig
+Målgörare:	dålig	 Fasta sit.:	unik
+HTMS -poäng: Förmåga: 916 / Potential: 1232
+2011-07-31	   (Yttermittfält)
+ 24. Patrik Berglind (YB)
+34 år och 87 dagar, TSI = 450
+Har ypperlig form och bra kondition.
+Har ypperlig rutin och bra ledarförmåga.
+
+Kondition:	bra	 Målvakt:	obefintlig
+Spelupplägg:	usel	 Framspel:	enastående
+Ytter:	fenomenal	 Försvar:	enastående
+Målgörare:	katastrofal	 Fasta sit.:	bra
+HTMS -poäng: Förmåga: 430 / Potential: -385
+2011-07-27	   (Yttermittfält)
+ 15. Per-Åke Eneing (YB)
+20 år och 30 dagar, TSI = 2 900
+Har hyfsad form och enastående kondition. [Nickskicklig]
+Har katastrofal rutin och hyfsad ledarförmåga.
+
+Kondition:	enastående	 Målvakt:	katastrofal
+Spelupplägg:	bra	 Framspel:	hyfsad
+Ytter:	enastående	 Försvar:	fenomenal
+Målgörare:	bra	 Fasta sit.:	dålig
+HTMS -poäng: Förmåga: 484 / Potential: 1608
+2011-07-27	   (Innerback)
+ 4. Ruben Adolfsson (YB)
+24 år och 100 dagar, TSI = 92 190
+Har ypperlig form och fenomenal kondition.
+Har bra rutin och bra ledarförmåga.
+
+Kondition:	fenomenal	 Målvakt:	katastrofal
+Spelupplägg:	katastrofal	 Framspel:	bra
+Ytter:	bra	 Försvar:	utomjordisk
+Målgörare:	hyfsad	 Fasta sit.:	usel
+HTMS -poäng: Förmåga: 1010 / Potential: 1441
+2011-07-31	   (Ytterback)
+Kategori: Mittback
+
+ 25. Johan Rantorp (MB)
+34 år och 53 dagar, TSI = 340
+Har enastående form och bra kondition.
+Har enastående rutin och hyfsad ledarförmåga.
+
+Kondition:	bra	 Målvakt:	katastrofal
+Spelupplägg:	usel	 Framspel:	dålig
+Ytter:	usel	 Försvar:	unik
+Målgörare:	katastrofal	 Fasta sit.:	ypperlig
+HTMS -poäng: Förmåga: 323 / Potential: -457
+2011-07-31	   (Innerback)
+ 3. Magnus Rosensjö (MB)
+26 år och 29 dagar, TSI = 64 560
+Har ypperlig form och enastående kondition.
+Har ypperlig rutin och usel ledarförmåga.
+
+Kondition:	enastående	 Målvakt:	usel
+Spelupplägg:	ypperlig	 Framspel:	fenomenal
+Ytter:	enastående	 Försvar:	himmelsk
+Målgörare:	hyfsad	 Fasta sit.:	fenomenal
+HTMS -poäng: Förmåga: 1057 / Potential: 1295
+2011-07-31	   (Innerback)
+ 26. Per Kullenér (MB)
+29 år och 25 dagar, TSI = 2 910
+Har ypperlig form och ypperlig kondition. [Nickskicklig]
+Har ypperlig rutin och bra ledarförmåga.
+
+Kondition:	ypperlig	 Målvakt:	katastrofal
+Spelupplägg:	ypperlig	 Framspel:	bra
+Ytter:	bra	 Försvar:	fenomenal
+Målgörare:	usel	 Fasta sit.:	bra
+HTMS -poäng: Förmåga: 443 / Potential: 285
+2011-07-27	   (Innerback)
+ 14. Stoffe Adolfsson (MB)
+27 år och 35 dagar, TSI = 16 920
+Har ypperlig form och enastående kondition. [Oförutsägbar]
+Har fenomenal rutin och bra ledarförmåga.
+
+Kondition:	enastående	 Målvakt:	katastrofal
+Spelupplägg:	bra	 Framspel:	enastående
+Ytter:	hyfsad	 Försvar:	gudabenådad
+Målgörare:	bra	 Fasta sit.:	övernaturlig
+HTMS -poäng: Förmåga: 751 / Potential: 844
+2011-07-31	   (Innerback)
+Kategori: Ytter
+
+ 20. Frank Hedlius (Y)
+18 år och 87 dagar, TSI = 1 410
+Har ypperlig form och bra kondition. [Nickskicklig]
+Har usel rutin och hyfsad ledarförmåga.
+
+Kondition:	bra	 Målvakt:	katastrofal
+Spelupplägg:	bra	 Framspel:	bra
+Ytter:	bra	 Försvar:	bra
+Målgörare:	ypperlig	 Fasta sit.:	ypperlig
+HTMS -poäng: Förmåga: 388 / Potential: 1746
+2011-07-24	   (Forward)
+ 19. Jarkko Helenius (Y)
+23 år och 1 dagar, TSI = 4 490
+Har ypperlig form och enastående kondition. [Snabb]
+Har hyfsad rutin och ypperlig ledarförmåga.
+
+Kondition:	enastående	 Målvakt:	katastrofal
+Spelupplägg:	ypperlig	 Framspel:	ypperlig
+Ytter:	bra	 Försvar:	ypperlig
+Målgörare:	ypperlig	 Fasta sit.:	hyfsad
+HTMS -poäng: Förmåga: 468 / Potential: 1175
+2011-07-24	   (Forward)
+ 9. Lars Jonasson (Y)
+22 år och 85 dagar, TSI = 19 290
+Har bra form och fenomenal kondition.
+Har hyfsad rutin och dålig ledarförmåga.
+
+Kondition:	fenomenal	 Målvakt:	katastrofal
+Spelupplägg:	bra	 Framspel:	bra
+Ytter:	oförglömlig	 Försvar:	ypperlig
+Målgörare:	hyfsad	 Fasta sit.:	enastående
+HTMS -poäng: Förmåga: 635 / Potential: 1379
+2011-07-31	   (Yttermittfält)
+ 6. Tobias Nilsson (Y)
+20 år och 85 dagar, TSI = 9 330
+Har dålig form och enastående kondition.
+Har dålig rutin och dålig ledarförmåga.
+
+Kondition:	enastående	 Målvakt:	katastrofal
+Spelupplägg:	ypperlig	 Framspel:	fenomenal
+Ytter:	legendarisk	 Försvar:	enastående
+Målgörare:	dålig	 Fasta sit.:	hyfsad
+HTMS -poäng: Förmåga: 635 / Potential: 1683
+2011-07-31	   (Yttermittfält)
+Kategori: Innermittfältare
+
+ 7. Grim Thorstensson (IM)
+23 år och 58 dagar, TSI = 5 880
+Har enastående form och fenomenal kondition.
+Har dålig rutin och hyfsad ledarförmåga.
+
+Kondition:	fenomenal	 Målvakt:	katastrofal
+Spelupplägg:	fenomenal	 Framspel:	dålig
+Ytter:	fenomenal	 Försvar:	hyfsad
+Målgörare:	ypperlig	 Fasta sit.:	fenomenal
+HTMS -poäng: Förmåga: 509 / Potential: 1140
+2011-07-24	   (Yttermittfält)
+ 27. Jan Knutsson (IM)
+34 år och 107 dagar, TSI = 360
+Har ypperlig form och bra kondition. [Nickskicklig]
+Har enastående rutin och hyfsad ledarförmåga.
+
+Kondition:	bra	 Målvakt:	obefintlig
+Spelupplägg:	unik	 Framspel:	usel
+Ytter:	dålig	 Försvar:	usel
+Målgörare:	dålig	 Fasta sit.:	fenomenal
+HTMS -poäng: Förmåga: 319 / Potential: -516
+2011-07-31	   (Innermittfältare)
+ 17. Jon Ivarsson (IM)
+20 år och 0 dagar, TSI = 570
+Har bra form och ypperlig kondition. [Nickskicklig]
+Har katastrofal rutin och bra ledarförmåga.
+
+Kondition:	ypperlig	 Målvakt:	katastrofal
+Spelupplägg:	ypperlig	 Framspel:	dålig
+Ytter:	hyfsad	 Försvar:	hyfsad
+Målgörare:	bra	 Fasta sit.:	bra
+HTMS -poäng: Förmåga: 294 / Potential: 1460
+2011-07-20	   (Innermittfältare)
+ 37. Karl Jacobsson (IM)
+18 år och 83 dagar, TSI = 630
+Har ypperlig form och bra kondition.
+Har katastrofal rutin och hyfsad ledarförmåga.
+
+Kondition:	bra	 Målvakt:	usel
+Spelupplägg:	enastående	 Framspel:	dålig
+Ytter:	dålig	 Försvar:	hyfsad
+Målgörare:	hyfsad	 Fasta sit.:	dålig
+HTMS -poäng: Förmåga: 283 / Potential: 1647
+2011-07-27	   (Innermittfältare)
+ 8. Nils Månsson (IM)
+26 år och 71 dagar, TSI = 61 220
+Har enastående form och enastående kondition. [Kraftfull]
+Har ypperlig rutin och hyfsad ledarförmåga.
+
+Kondition:	enastående	 Målvakt:	katastrofal
+Spelupplägg:	himmelsk	 Framspel:	enastående
+Ytter:	enastående	 Försvar:	ypperlig
+Målgörare:	bra	 Fasta sit.:	legendarisk
+HTMS -poäng: Förmåga: 986 / Potential: 1172
+2011-07-31	   (Innermittfältare)
+ 36. Peter Lyhgren (IM)
+18 år och 94 dagar, TSI = 770
+Har ypperlig form och hyfsad kondition. [Kraftfull]
+Har katastrofal rutin och hyfsad ledarförmåga.
+
+Kondition:	hyfsad	 Målvakt:	katastrofal
+Spelupplägg:	ypperlig	 Framspel:	usel
+Ytter:	hyfsad	 Försvar:	ypperlig
+Målgörare:	bra	 Fasta sit.:	usel
+HTMS -poäng: Förmåga: 332 / Potential: 1680
+ 16. Peter Wahlgren (IM)
+18 år och 5 dagar, TSI = 130
+Har usel form och bra kondition.
+Har katastrofal rutin och dålig ledarförmåga.
+
+Kondition:	bra	 Målvakt:	katastrofal
+Spelupplägg:	ypperlig	 Framspel:	dålig
+Ytter:	dålig	 Försvar:	dålig
+Målgörare:	hyfsad	 Fasta sit.:	katastrofal
+HTMS -poäng: Förmåga: 217 / Potential: 1691
+2011-06-29	   (Innermittfältare)
+ 18. Robert Bokbeck (IM)
+18 år och 70 dagar, TSI = 470
+Har hyfsad form och bra kondition.
+Har katastrofal rutin och hyfsad ledarförmåga.
+
+Kondition:	bra	 Målvakt:	katastrofal
+Spelupplägg:	ypperlig	 Framspel:	bra
+Ytter:	dålig	 Försvar:	bra
+Målgörare:	dålig	 Fasta sit.:	hyfsad
+HTMS -poäng: Förmåga: 298 / Potential: 1680
+2011-07-27	   (Innermittfältare)
+Kategori: Anfallare
+
+ 22. Milton Engblom (ANF)
+22 år och 40 dagar, TSI = 1 220
+Har hyfsad form och enastående kondition.
+Har dålig rutin och hyfsad ledarförmåga.
+
+Kondition:	enastående	 Målvakt:	katastrofal
+Spelupplägg:	hyfsad	 Framspel:	ypperlig
+Ytter:	ypperlig	 Försvar:	dålig
+Målgörare:	ypperlig	 Fasta sit.:	bra
+HTMS -poäng: Förmåga: 352 / Potential: 1156
+2011-07-27	   (Forward)
+ 10. Moses Fyhrborg (ANF)
+24 år och 71 dagar, TSI = 59 720
+Har ypperlig form och fenomenal kondition. [Teknisk]
+Har ypperlig rutin och hyfsad ledarförmåga.
+
+Kondition:	fenomenal	 Målvakt:	katastrofal
+Spelupplägg:	hyfsad	 Framspel:	enastående
+Ytter:	bra	 Försvar:	usel
+Målgörare:	himmelsk	 Fasta sit.:	bra
+HTMS -poäng: Förmåga: 791 / Potential: 1260
+2011-07-31	   (Forward)
+ 21. Peter Sörensson (ANF)
+19 år och 26 dagar, TSI = 1 050
+Har ypperlig form och ypperlig kondition. [Oförutsägbar]
+Har katastrofal rutin och ypperlig ledarförmåga.
+
+Kondition:	ypperlig	 Målvakt:	katastrofal
+Spelupplägg:	hyfsad	 Framspel:	usel
+Ytter:	enastående	 Försvar:	dålig
+Målgörare:	ypperlig	 Fasta sit.:	usel
+HTMS -poäng: Förmåga: 282 / Potential: 1568
+2011-07-27	   (Forward)
+Kategori: Reserv
+
+ 41. Marcus Riswald (R)
+39 år och 76 dagar, TSI = 0
+Har katastrofal form och usel kondition. [Snabb]
+Har enastående rutin och dålig ledarförmåga.
+
+Kondition:	usel	 Målvakt:	obefintlig
+Spelupplägg:	obefintlig	 Framspel:	obefintlig
+Ytter:	obefintlig	 Försvar:	obefintlig
+Målgörare:	obefintlig	 Fasta sit.:	gudabenådad
+HTMS -poäng: Förmåga: 68 / Potential: -1242
+2011-02-10	   (Forward)
+ 28. Tobias Persson (R)
+40 år och 43 dagar, TSI = 0
+Har hyfsad form och katastrofal kondition.
+Har gudabenådad rutin och dålig ledarförmåga.
+
+Kondition:	katastrofal	 Målvakt:	obefintlig
+Spelupplägg:	bra	 Framspel:	obefintlig
+Ytter:	obefintlig	 Försvar:	obefintlig
+Målgörare:	obefintlig	 Fasta sit.:	enastående
+HTMS -poäng: Förmåga: 97 / Potential: -1277
+2011-03-02	   (Innermittfältare)
+Kategori: Extra1
+
+ 53. Bengt-Åke Olenhult (E1)
+48 år och 67 dagar, TSI = 0
+Har dålig form och katastrofal kondition.
+Har oförglömlig rutin och katastrofal ledarförmåga.
+En hyfsad tränare som är offensiv.
+
+Kondition:	katastrofal	 Målvakt:	obefintlig
+Spelupplägg:	obefintlig	 Framspel:	obefintlig
+Ytter:	obefintlig	 Försvar:	obefintlig
+Målgörare:	obefintlig	 Fasta sit.:	obefintlig
+2011-06-01	   (Innerback)
+ 56. Ian Dawson (E1)
+38 år och 56 dagar, TSI = 110
+Har katastrofal form och dålig kondition. [Teknisk]
+Har övernaturlig rutin och hyfsad ledarförmåga.
+En enastående tränare som är varken offensiv eller defensiv.
+
+Kondition:	dålig	 Målvakt:	obefintlig
+Spelupplägg:	legendarisk	 Framspel:	dålig
+Ytter:	katastrofal	 Försvar:	usel
+Målgörare:	obefintlig	 Fasta sit.:	ypperlig
+HTMS -poäng: Förmåga: 322 / Potential: -875
+2011-07-27	   (Innermittfältare)
+ 60. Markus Gerdmar (E1)
+30 år och 103 dagar, TSI = 73 490
+Har ypperlig form och ypperlig kondition. [Teknisk]
+Har fenomenal rutin och ypperlig ledarförmåga.
+
+Kondition:	ypperlig	 Målvakt:	katastrofal
+Spelupplägg:	himmelsk	 Framspel:	oförglömlig
+Ytter:	dålig	 Försvar:	bra
+Målgörare:	dålig	 Fasta sit.:	ypperlig
+HTMS -poäng: Förmåga: 1084 / Potential: 713
+2011-07-31	   (Innermittfältare)
+Kategori: Extra2
+
+ 40. Krister Ingelblom (E2)
+26 år och 10 dagar, TSI = 1 440
+Har bra form och enastående kondition.
+Har usel rutin och ypperlig ledarförmåga.
+
+Kondition:	enastående	 Målvakt:	katastrofal
+Spelupplägg:	hyfsad	 Framspel:	hyfsad
+Ytter:	ypperlig	 Försvar:	ypperlig
+Målgörare:	ypperlig	 Fasta sit.:	hyfsad
+HTMS -poäng: Förmåga: 383 / Potential: 645
+2011-07-27	   (Forward)
+ 39. Robert Renland (E2)
+22 år och 53 dagar, TSI = 270
+Har ypperlig form och ypperlig kondition. [Nickskicklig]
+Har katastrofal rutin och dålig ledarförmåga.
+
+Kondition:	ypperlig	 Målvakt:	katastrofal
+Spelupplägg:	usel	 Framspel:	hyfsad
+Ytter:	ypperlig	 Försvar:	dålig
+Målgörare:	dålig	 Fasta sit.:	katastrofal
+HTMS -poäng: Förmåga: 178 / Potential: 965
+2010-09-22	   (Yttermittfält)
+ 32. Uno Zettergren (E2)
+22 år och 71 dagar, TSI = 260
+Har hyfsad form och ypperlig kondition.
+Har katastrofal rutin och katastrofal ledarförmåga.
+
+Kondition:	ypperlig	 Målvakt:	katastrofal
+Spelupplägg:	dålig	 Framspel:	dålig
+Ytter:	dålig	 Försvar:	ypperlig
+Målgörare:	hyfsad	 Fasta sit.:	katastrofal
+HTMS -poäng: Förmåga: 230 / Potential: 993
+2011-06-08	   (Innerback)
