@@ -1,0 +1,73 @@
+<deck version="0.8">
+	<meta>
+		<title>Nov11-OTF</title>
+		<author>Scox</author>
+		<email>d99scox_dtek@yahoo.com</email>
+		<date>11-04-11</date>
+		<game>startrek1e</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="xepolitefreighter">% Xepolite Freighter</name><set>main</set></card>
+		<card><name id="xepolitefreighter">% Xepolite Freighter</name><set>main</set></card>
+	</superzone>
+	<superzone name="Missions">
+		<card><name id="studyholeinspace">STUDY &quot;HOLE IN SPACE&quot;</name><set>main</set></card>
+		<card><name id="repairmission">REPAIR MISSION</name><set>main</set></card>
+		<card><name id="investigatedisappearance">INVESTIGATE DISAPPEARANCE</name><set>main</set></card>
+		<card><name id="exploredysonsphere">EXPLORE DYSON SPHERE</name><set>main</set></card>
+		<card><name id="exploreblackcluster">EXPLORE BLACK CLUSTER</name><set>main</set></card>
+		<card><name id="investigateanomaly2front">INVESTIGATE ANOMALY II</name><set>main</set></card>
+		<card><name id="reignitedeadstar">REIGNITE DEAD STAR</name><set>main</set></card>
+		<card><name id="studynebula">STUDY NEBULA</name><set>main</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="SoG_22">Federation Flagship: Relaunched</name><set>main</set></card>
+		<card><name id="HMF2_10">Temporal Micro-Wormhole *HMF2</name><set>main</set></card>
+		<card><name id="34VP">SPACE-TIME PORTAL *VP</name><set>main</set></card>
+		<card><name id="holoprogramnoahsmountain">HOLOPROGRAM: NOAH&apos;S MOUNTAIN RETREAT</name><set>xlist</set></card>
+		<card><name id="SoG_23">Holoprogram: Historical Poker Game</name><set>main</set></card>
+		<card><name id="RR18V-Q-the-Referee">Q THE REFEREE</name><set>main</set></card>
+		<card><name id="quarksisolinearrods">QUARK&apos;S ISOLINEAR RODS</name><set>main</set></card>
+		<card><name id="VP2VP_Tribunal-of-Q">Tribunal of Q</name><set>main_voy</set></card>
+		<card><name id="assignmissionspecialistsvoy">ASSIGN MISSION SPECIALISTS *VOY</name><set>main_voy</set></card>
+		<card><name id="assignsupportpersonnel">ASSIGN SUPPORT PERSONNEL</name><set>main</set></card>
+		<card><name id="RR28V-Defend-Homeworld">DEFEND HOMEWORLD</name><set>main</set></card>
+		<card><name id="RR1V-Q&apos;s-Tent">Q&apos;S TENT</name><set>main</set></card>
+		<card><name id="spacedoor">SPACEDOOR</name><set>main</set></card>
+		<card><name id="empoknor">Empok Nor</name><set>main</set></card>
+	</superzone>
+	<superzone name="QsTent">
+		<card><name id="ocularimplants">OCULAR IMPLANTS</name><set>main</set></card>
+		<card><name id="SAS_41V">Daniels</name><set>main</set></card>
+		<card><name id="suna">% Suna</name><set>main</set></card>
+		<card><name id="starshipconstitution">% Starship Constitution</name><set>main</set></card>
+		<card><name id="starshipconstitutiontmp">% Starship Constitution *TMP</name><set>main</set></card>
+		<card><name id="starshipenterprise">Starship Enterprise</name><set>main</set></card>
+		<card><name id="ussenterprisea">U.S.S. Enterprise-A</name><set>main</set></card>
+		<card><name id="wallofships">WALL OF SHIPS</name><set>main</set></card>
+		<card><name id="christopherhobson">% Christopher Hobson</name><set>main</set></card>
+		<card><name id="reginaldbarclay">Reginald Barclay</name><set>main</set></card>
+		<card><name id="leahbrahms">Leah Brahms</name><set>main</set></card>
+		<card><name id="ayalafed">% Ayala</name><set>main_voy</set></card>
+		<card><name id="SoG_37">% Stephen Hawking</name><set>main</set></card>
+		<card><name id="alberteinstein">% Albert Einstein</name><set>main</set></card>
+		<card><name id="soren">Soren</name><set>main</set></card>
+		<card><name id="mrscotttmp">Mr. Scott *TMP</name><set>main</set></card>
+		<card><name id="enriquemuniz">Enrique Muniz</name><set>main</set></card>
+		<card><name id="agentgarak">Agent Garak</name><set>main</set></card>
+		<card><name id="lewiszimmerman">Lewis Zimmerman</name><set>xlist_voy</set></card>
+		<card><name id="xepolitefreighter">% Xepolite Freighter</name><set>main</set></card>
+		<card><name id="45domperignon">45 DOM PERIGNON</name><set>xlist</set></card>
+		<card><name id="deactivation">DEACTIVATION</name><set>main</set></card>
+		<card><name id="divertpower">DIVERT POWER</name><set>main_voy</set></card>
+		<card><name id="makeitso">Make It So</name><set>main</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="ops">OPS</name><set>main</set></card>
+		<card><name id="sciencelab">SCIENCE LAB</name><set>main</set></card>
+		<card><name id="promenadeshops">PROMENADE SHOPS</name><set>main</set></card>
+		<card><name id="dockingports">DOCKING PORTS</name><set>main</set></card>
+		<card><name id="guestquarters">% GUEST QUARTERS</name><set>main</set></card>
+		<card><name id="empoknorback">Empok Nor*</name><set>main</set></card>
+	</superzone>
+</deck>
