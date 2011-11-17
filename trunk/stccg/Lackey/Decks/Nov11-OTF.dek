@@ -1,0 +1,40 @@
+<deck version="0.8">
+	<meta>
+		<title>Nov11-OTF</title>
+		<author>Scox</author>
+		<email>d99scox_dtek@yahoo.com</email>
+		<date>11-04-11</date>
+		<game>startrek1e_giveawaystarters</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="battlecruiser">% Battle Cruiser</name><set>main</set></card>
+		<card><name id="starshipconstitutiontmp">% Starship Constitution *TMP</name><set>main</set></card>
+		<card><name id="starshipconstitution">% Starship Constitution</name><set>main</set></card>
+		<card><name id="SoG_15">Federation Flagship: Renewed</name><set>main</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="SAS_22V">Remote Interference</name><set>main</set></card>
+		<card><name id="RR28V-Defend-Homeworld">DEFEND HOMEWORLD</name><set>main</set></card>
+		<card><name id="assignmissionspecialists">ASSIGN MISSION SPECIALISTS</name><set>main</set></card>
+		<card><name id="computercrash">COMPUTER CRASH</name><set>main</set></card>
+		<card><name id="SoG_20">Son&apos;a Observatory</name><set>main</set></card>
+		<card><name id="holoprogramnoahsmountain">HOLOPROGRAM: NOAH&apos;S MOUNTAIN RETREAT</name><set>xlist</set></card>
+		<card><name id="SoG_22">Federation Flagship: Relaunched</name><set>main</set></card>
+	</superzone>
+	<superzone name="QsTent">
+		<card><name id="45domperignon">45 DOM PERIGNON</name><set>xlist</set></card>
+		<card><name id="secretagentjulianbashir">Secret Agent Julian Bashir</name><set>xlist</set></card>
+		<card><name id="professorhoneybare">Professor Honey Bare</name><set>xlist</set></card>
+		<card><name id="falcon">Falcon</name><set>xlist</set></card>
+		<card><name id="duchamps">Duchamps</name><set>xlist</set></card>
+		<card><name id="drnoah">Dr. Noah</name><set>xlist</set></card>
+		<card><name id="anastasiakomananov">Anastasia Komananov</name><set>xlist</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="anya">Anya</name><set>main</set></card>
+		<card><name id="SAS_32V">Harrad-Sar</name><set>main</set></card>
+		<card><name id="starshipenterprise">Starship Enterprise</name><set>main</set></card>
+		<card><name id="ussenterprisea">U.S.S. Enterprise-A</name><set>main</set></card>
+		<card><name id="galgaththong">Gal Gath&apos;thong</name><set>main</set></card>
+	</superzone>
+</deck>
