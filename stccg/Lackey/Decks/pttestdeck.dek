@@ -1,0 +1,35 @@
+<deck version="0.8">
+	<meta>
+		<game>StarTrek1E</game>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="1V_WhereNoManHasGoneBefore">PT 1</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="DummyFed">PT 2</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="aliengamblingdevice">ALIEN GAMBLING DEVICE</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="datashead">DATA&apos;S HEAD</name>
+			<set>xlist</set>
+		</card>
+		<card>
+			<name id="starrynight">STARRY NIGHT</name>
+			<set>main</set>
+		</card>
+	</superzone>
+	<superzone name="Missions">
+	</superzone>
+	<superzone name="Seed+Dil">
+	</superzone>
+	<superzone name="QsTent">
+	</superzone>
+	<superzone name="Aside">
+	</superzone>
+</deck>
