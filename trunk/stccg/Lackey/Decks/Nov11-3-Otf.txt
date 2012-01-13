@@ -1,0 +1,57 @@
+2	% Xepolite Freighter
+Missions:
+1	STUDY "HOLE IN SPACE"
+1	REPAIR MISSION
+1	INVESTIGATE DISAPPEARANCE
+1	EXPLORE DYSON SPHERE
+1	EXPLORE BLACK CLUSTER
+1	INVESTIGATE ANOMALY II
+1	REIGNITE DEAD STAR
+1	STUDY NEBULA
+Seed+Dil:
+1	Federation Flagship: Relaunched
+1	Temporal Micro-Wormhole *HMF2
+1	SPACE-TIME PORTAL *VP
+1	HOLOPROGRAM: NOAH'S MOUNTAIN RETREAT
+1	Holoprogram: Historical Poker Game
+1	Q THE REFEREE
+1	QUARK'S ISOLINEAR RODS
+1	Tribunal of Q
+1	ASSIGN MISSION SPECIALISTS *VOY
+1	ASSIGN SUPPORT PERSONNEL
+1	DEFEND HOMEWORLD
+1	Q'S TENT
+1	SPACEDOOR
+1	Empok Nor
+QsTent:
+1	OCULAR IMPLANTS
+1	Daniels
+1	% Suna
+1	% Starship Constitution
+1	% Starship Constitution *TMP
+1	Starship Enterprise
+1	U.S.S. Enterprise-A
+1	WALL OF SHIPS
+1	% Christopher Hobson
+1	Reginald Barclay
+1	Leah Brahms
+1	% Ayala
+1	% Stephen Hawking
+1	% Albert Einstein
+1	Soren
+1	Mr. Scott *TMP
+1	Enrique Muniz
+1	Agent Garak
+1	Lewis Zimmerman
+1	% Xepolite Freighter
+1	45 DOM PERIGNON
+1	DEACTIVATION
+1	DIVERT POWER
+1	Make It So
+Aside:
+1	OPS
+1	SCIENCE LAB
+1	PROMENADE SHOPS
+1	DOCKING PORTS
+1	% GUEST QUARTERS
+1	Empok Nor*
