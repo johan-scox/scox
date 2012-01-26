@@ -1,0 +1,140 @@
+<deck version="0.8">
+	<meta>
+		<title>Explore-space-v2</title>
+		<author>Scox</author>
+		<email>d99scox_dtek@yahoo.com</email>
+		<date>11-23-11</date>
+		<game>startrek1e</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="xepolitefreighter">% Xepolite Freighter</name><set>main</set></card>
+		<card><name id="xepolitefreighter">% Xepolite Freighter</name><set>main</set></card>
+		<card><name id="xepolitefreighter">% Xepolite Freighter</name><set>main</set></card>
+		<card><name id="datafc">Data *FC</name><set>main</set></card>
+		<card><name id="jeanlucpicardfc">Jean-Luc Picard *FC</name><set>main</set></card>
+		<card><name id="deannatroifc">Deanna Troi *FC</name><set>main</set></card>
+		<card><name id="geordilaforgefc">Geordi La Forge *FC</name><set>main</set></card>
+		<card><name id="williamtrikerfc">William T. Riker *FC</name><set>main</set></card>
+		<card><name id="alyssaogawafc">Alyssa Ogawa *FC</name><set>main</set></card>
+		<card><name id="engineeringpadd">ENGINEERING PADD</name><set>main</set></card>
+		<card><name id="medicalkit">MEDICAL KIT</name><set>main</set></card>
+		<card><name id="medicaltricorder">MEDICAL TRICORDER</name><set>main</set></card>
+		<card><name id="isomagneticdisintegrat">ISOMAGNETIC DISINTEGRATOR</name><set>main</set></card>
+		<card><name id="isomagneticdisintegrat">ISOMAGNETIC DISINTEGRATOR</name><set>main</set></card>
+		<card><name id="RR8V-Villagers-With-Torches">VILLAGERS WITH TORCHES</name><set>main_voy</set></card>
+		<card><name id="RR10V-Containment-Field">CONTAINMENT FIELD</name><set>main_voy</set></card>
+		<card><name id="handshake">HANDSHAKE</name><set>main_voy</set></card>
+		<card><name id="handshake">HANDSHAKE</name><set>main_voy</set></card>
+		<card><name id="handshake">HANDSHAKE</name><set>main_voy</set></card>
+		<card><name id="RR14V-Intruder-Alert">INTRUDER ALERT!</name><set>main</set></card>
+		<card><name id="RR16V-Obelisk-of-Masaka">OBELISK OF MASAKA</name><set>main</set></card>
+		<card><name id="RR21V-Strategema">STRATEGEMA</name><set>main</set></card>
+		<card><name id="mutation">MUTATION</name><set>main_voy</set></card>
+		<card><name id="mutation">MUTATION</name><set>main_voy</set></card>
+		<card><name id="mutation">MUTATION</name><set>main_voy</set></card>
+		<card><name id="RR25V-Scorched-Hand">SCORCHED HAND</name><set>main</set></card>
+		<card><name id="RR26V-The-Juggler">THE JUGGLER</name><set>main</set></card>
+		<card><name id="assignmissionspecialists">ASSIGN MISSION SPECIALISTS</name><set>main</set></card>
+		<card><name id="assignmissionspecialists">ASSIGN MISSION SPECIALISTS</name><set>main</set></card>
+		<card><name id="ussenterprisee">U.S.S. Enterprise-E</name><set>main</set></card>
+		<card><name id="ussdefiant">U.S.S. Defiant</name><set>main</set></card>
+		<card><name id="type18shuttlepod">% Type 18 Shuttlepod</name><set>main</set></card>
+		<card><name id="type18shuttlepod">% Type 18 Shuttlepod</name><set>main</set></card>
+		<card><name id="runabout">% Runabout</name><set>main</set></card>
+		<card><name id="admiralhayes">Admiral Hayes</name><set>main</set></card>
+		<card><name id="beverlycrusherfc">Beverly Crusher *FC</name><set>main</set></card>
+		<card><name id="deannatroiborg">Deanna Troi *BORG</name><set>main_voy</set></card>
+		<card><name id="hawk">Hawk</name><set>main</set></card>
+		<card><name id="6V_WilliamRiker">William T. Riker *CoC</name><set>main</set></card>
+		<card><name id="worffc">Worf *FC</name><set>main</set></card>
+		<card><name id="SoG_38">Worf *SoG</name><set>main</set></card>
+		<card><name id="ayalana">% Ayala*</name><set>main_voy</set></card>
+		<card><name id="captainchakotay">Captain Chakotay</name><set>main_voy</set></card>
+		<card><name id="gallatin">Gallatin</name><set>main</set></card>
+		<card><name id="joachim">Joachim</name><set>main</set></card>
+		<card><name id="rogadanar">Roga Danar</name><set>main</set></card>
+		<card><name id="ruafo">Ru&apos;afo</name><set>main</set></card>
+		<card><name id="suna">% Suna</name><set>main</set></card>
+		<card><name id="vekor">% Vekor</name><set>main</set></card>
+		<card><name id="lightner">Lightner</name><set>main</set></card>
+		<card><name id="paulporter">Paul Porter</name><set>main</set></card>
+		<card><name id="richardwilkins">% Richard Wilkins</name><set>main</set></card>
+		<card><name id="thomasmcclure">Thomas McClure</name><set>main</set></card>
+		<card><name id="RiF_14V">% Jae</name><set>main</set></card>
+		<card><name id="RiF_16V">% Suzanne Dumont</name><set>main</set></card>
+		<card><name id="RiF_18V">% U.S.S. Akira</name><set>main</set></card>
+		<card><name id="RiF_5V">Mission Briefing PADD</name><set>main</set></card>
+		<card><name id="RiF_15V">Jean-Luc</name><set>main</set></card>
+		<card><name id="thepower">THE POWER</name><set>main_voy</set></card>
+		<card><name id="thepower">THE POWER</name><set>main_voy</set></card>
+		<card><name id="thepower">THE POWER</name><set>main_voy</set></card>
+	</superzone>
+	<superzone name="Missions">
+		<card><name id="repairmission">REPAIR MISSION</name><set>main</set></card>
+		<card><name id="investigatedisappearance">INVESTIGATE DISAPPEARANCE</name><set>main</set></card>
+		<card><name id="exploredysonsphere">EXPLORE DYSON SPHERE</name><set>main</set></card>
+		<card><name id="exploreblackcluster">EXPLORE BLACK CLUSTER</name><set>main</set></card>
+		<card><name id="studynebula">STUDY NEBULA</name><set>main</set></card>
+		<card><name id="testpropulsionsystems">% TEST PROPULSION SYSTEMS</name><set>main</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="SoG_22">Federation Flagship: Relaunched</name><set>main</set></card>
+		<card><name id="HMF2_10">Temporal Micro-Wormhole *HMF2</name><set>main</set></card>
+		<card><name id="34VP">SPACE-TIME PORTAL *VP</name><set>main</set></card>
+		<card><name id="RR18V-Q-the-Referee">Q THE REFEREE</name><set>main</set></card>
+		<card><name id="VP2VP_Tribunal-of-Q">Tribunal of Q</name><set>main_voy</set></card>
+		<card><name id="assignmissionspecialistsvoy">ASSIGN MISSION SPECIALISTS *VOY</name><set>main_voy</set></card>
+		<card><name id="assignsupportpersonnel">ASSIGN SUPPORT PERSONNEL</name><set>main</set></card>
+		<card><name id="RR28V-Defend-Homeworld">DEFEND HOMEWORLD</name><set>main</set></card>
+		<card><name id="RR1V-Q&apos;s-Tent">Q&apos;S TENT</name><set>main</set></card>
+		<card><name id="spacedoor">SPACEDOOR</name><set>main</set></card>
+		<card><name id="empoknor">Empok Nor</name><set>main</set></card>
+		<card><name id="federationoutpost">% Federation Outpost</name><set>main</set></card>
+		<card><name id="god">GOD</name><set>main</set></card>
+		<card><name id="afastshipwouldbenice">A FAST SHIP WOULD BE NICE</name><set>main</set></card>
+		<card><name id="commonthief">COMMON THIEF</name><set>main</set></card>
+		<card><name id="deadend">DEAD END</name><set>main</set></card>
+		<card><name id="denevanneuralparasites">DENEVAN NEURAL PARASITES</name><set>main</set></card>
+		<card><name id="edoprobe">EDO PROBE</name><set>xlist</set></card>
+		<card><name id="ferengiinfestation">FERENGI INFESTATION</name><set>main</set></card>
+		<card><name id="firestorm">FIRESTORM</name><set>xlist</set></card>
+		<card><name id="foundersecret">FOUNDER SECRET</name><set>main</set></card>
+		<card><name id="friendlyfire">FRIENDLY FIRE</name><set>main</set></card>
+		<card><name id="hazardousdutytwt">HAZARDOUS DUTY *TWT</name><set>main</set></card>
+		<card><name id="kelvanshowofforce">KELVAN SHOW OF FORCE</name><set>main</set></card>
+		<card><name id="lackofpreparation">LACK OF PREPARATION</name><set>main</set></card>
+		<card><name id="linguisticlegerdemain">LINGUISTIC LEGERDEMAIN</name><set>main</set></card>
+		<card><name id="maglock">MAGLOCK</name><set>main</set></card>
+		<card><name id="19VP_PersonalDuty">Personal Duty</name><set>main</set></card>
+		<card><name id="22VP_TheClownBitterMedicine">The Clown: Bitter Medicine</name><set>main_voy</set></card>
+		<card><name id="thehigherthefewer">THE HIGHER ... THE FEWER</name><set>xlist</set></card>
+	</superzone>
+	<superzone name="QsTent">
+		<card><name id="ocularimplants">OCULAR IMPLANTS</name><set>main</set></card>
+		<card><name id="medicaltricorder">MEDICAL TRICORDER</name><set>main</set></card>
+		<card><name id="sciencekit">SCIENCE KIT</name><set>main</set></card>
+		<card><name id="sciencepadd">SCIENCE PADD</name><set>main</set></card>
+		<card><name id="SoG_15">Federation Flagship: Renewed</name><set>main</set></card>
+		<card><name id="intruderforcefield">INTRUDER FORCE FIELD</name><set>xlist</set></card>
+		<card><name id="masakatransformations">MASAKA TRANSFORMATIONS</name><set>xlist</set></card>
+		<card><name id="reflectiontherapy">REFLECTION THERAPY</name><set>main</set></card>
+		<card><name id="angelotassonina">% Angelo Tassoni*</name><set>main_voy</set></card>
+		<card><name id="hoganna">% Hogan*</name><set>main_voy</set></card>
+		<card><name id="drfarek">% Dr. Farek</name><set>main</set></card>
+		<card><name id="narik">% Narik</name><set>main</set></card>
+		<card><name id="drtelekrmor">Dr. Telek R&apos;Mor</name><set>main_voy</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="ops">OPS</name><set>main</set></card>
+		<card><name id="sciencelab">SCIENCE LAB</name><set>main</set></card>
+		<card><name id="dockingports">DOCKING PORTS</name><set>main</set></card>
+		<card><name id="guestquarters">% GUEST QUARTERS</name><set>main</set></card>
+		<card><name id="infirmary">INFIRMARY</name><set>main</set></card>
+		<card><name id="oreprocessingunit">ORE PROCESSING UNIT</name><set>main</set></card>
+		<card><name id="securityoffice">SECURITY OFFICE</name><set>main</set></card>
+		<card><name id="promenadeshops">PROMENADE SHOPS</name><set>main</set></card>
+		<card><name id="dockingpylons">DOCKING PYLONS</name><set>main</set></card>
+		<card><name id="commandersoffice">COMMANDER&apos;S OFFICE</name><set>main</set></card>
+		<card><name id="bajoranshrine">BAJORAN SHRINE</name><set>main</set></card>
+	</superzone>
+</deck>

@@ -1,4 +1,12 @@
 2	% Xepolite Freighter
+1	Thomas McClure
+1	Data *FC
+1	Jean-Luc Picard *FC
+1	Deanna Troi *FC
+1	Geordi La Forge *FC
+1	William T. Riker *FC
+1	Alyssa Ogawa *FC
+1	Dr. Telek R'Mor
 Missions:
 1	STUDY "HOLE IN SPACE"
 1	REPAIR MISSION
@@ -47,11 +55,13 @@ QsTent:
 1	45 DOM PERIGNON
 1	DEACTIVATION
 1	DIVERT POWER
-1	Make It So
+1	MAKE IT SO
 Aside:
 1	OPS
 1	SCIENCE LAB
-1	PROMENADE SHOPS
 1	DOCKING PORTS
 1	% GUEST QUARTERS
 1	Empok Nor*
+1	INFIRMARY
+1	ORE PROCESSING UNIT
+1	SECURITY OFFICE
