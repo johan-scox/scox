@@ -3,7 +3,7 @@
 		<title>talosIV-5-rnd1-v1</title>
 		<author>Scox</author>
 		<email>d99scox_dtek@yahoo.com</email>
-		<date>11-23-11</date>
+		<date>01-28-12</date>
 		<game>startrek1e</game>
 	</meta>
 	<superzone name="Deck">
@@ -13,12 +13,9 @@
 		<card><name id="kallisven">% Kallis Ven</name><set>main</set></card>
 		<card><name id="ministerrozahn">% Minister Rozahn</name><set>main</set></card>
 		<card><name id="ranodake">% Rano Dake</name><set>main</set></card>
-		<card><name id="ranodake">% Rano Dake</name><set>main</set></card>
 		<card><name id="vedeksorad">% Vedek Sorad</name><set>main</set></card>
 		<card><name id="vedeksorad">% Vedek Sorad</name><set>main</set></card>
 		<card><name id="anara">% Anara</name><set>main</set></card>
-		<card><name id="anara">% Anara</name><set>main</set></card>
-		<card><name id="orrenran">% Orren Ran</name><set>main</set></card>
 		<card><name id="grahamdavis">% Graham Davis</name><set>main</set></card>
 		<card><name id="karenloews">% Karen Loews</name><set>main</set></card>
 		<card><name id="paxtonreese">% Paxton Reese</name><set>main</set></card>
@@ -38,25 +35,16 @@
 		<card><name id="ussdanube">% U.S.S. Danube</name><set>main</set></card>
 		<card><name id="bajoranfreighter">% Bajoran Freighter</name><set>main</set></card>
 		<card><name id="assaultvessel">% Assault Vessel</name><set>main</set></card>
-		<card><name id="preparation">PREPARATION</name><set>main</set></card>
 		<card><name id="incomingmessagebajoran">INCOMING MESSAGE: BAJORAN</name><set>main</set></card>
 		<card><name id="dockingprocedures">DOCKING PROCEDURES</name><set>main</set></card>
-		<card><name id="bajoranwormhole">BAJORAN WORMHOLE</name><set>main</set></card>
-		<card><name id="bajoranwormhole">BAJORAN WORMHOLE</name><set>main</set></card>
-		<card><name id="baseball">BASEBALL</name><set>main</set></card>
 	</superzone>
 	<superzone name="Missions">
 		<card><name id="relocatesettlers">RELOCATE SETTLERS</name><set>main</set></card>
-		<card><name id="orbnegotiations">ORB NEGOTIATIONS</name><set>main</set></card>
 		<card><name id="rescueprisoners">RESCUE PRISONERS</name><set>main</set></card>
-		<card><name id="accessrelaystation">ACCESS RELAY STATION</name><set>main</set></card>
-		<card><name id="aidfugitives">AID FUGITIVES</name><set>main</set></card>
 		<card><name id="refuseimmigration">REFUSE IMMIGRATION</name><set>main</set></card>
-		<card><name id="characterizeneutrinoemiss">CHARACTERIZE NEUTRINO EMISSIONS</name><set>main</set></card>
-		<card><name id="studyplasmastorm">% STUDY PLASMA STORM</name><set>main</set></card>
-		<card><name id="reignitedeadstar">REIGNITE DEAD STAR</name><set>main</set></card>
-		<card><name id="surveystarsystem">% SURVEY STAR SYSTEM</name><set>main</set></card>
+		<card><name id="orbnegotiations">ORB NEGOTIATIONS</name><set>main</set></card>
 		<card><name id="studybadlands">% STUDY BADLANDS</name><set>main</set></card>
+		<card><name id="reignitedeadstar">REIGNITE DEAD STAR</name><set>main</set></card>
 	</superzone>
 	<superzone name="Seed+Dil">
 		<card><name id="angrymob">ANGRY MOB</name><set>main</set></card>
@@ -87,8 +75,8 @@
 		<card><name id="assignsupportpersonnel">ASSIGN SUPPORT PERSONNEL</name><set>main</set></card>
 		<card><name id="bewareofq">BEWARE OF Q</name><set>otfban</set></card>
 		<card><name id="exploregammaquadrant">EXPLORE GAMMA QUADRANT</name><set>main</set></card>
-		<card><name id="exploregammaquadrant">EXPLORE GAMMA QUADRANT</name><set>main</set></card>
-		<card><name id="exploregammaquadrant">EXPLORE GAMMA QUADRANT</name><set>main</set></card>
+		<card><name id="anara">% Anara</name><set>main</set></card>
+		<card><name id="ranodake">% Rano Dake</name><set>main</set></card>
 	</superzone>
 	<superzone name="Aside">
 		<card><name id="dockingports">DOCKING PORTS</name><set>main</set></card>
