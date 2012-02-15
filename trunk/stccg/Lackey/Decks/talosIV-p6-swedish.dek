@@ -1,0 +1,48 @@
+<deck version="0.8">
+	<meta>
+		<game>startrek1e-special-formats</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="wearetheborg">WE ARE THE BORG</name><set>main</set></card>
+		<card><name id="wearetheborg">WE ARE THE BORG</name><set>main</set></card>
+		<card><name id="wearetheborg">WE ARE THE BORG</name><set>main</set></card>
+		<card><name id="wearetheborg">WE ARE THE BORG</name><set>main</set></card>
+		<card><name id="assimilateplanet">ASSIMILATE PLANET</name><set>main</set></card>
+		<card><name id="gowronofborg">Gowron of Borg</name><set>main</set></card>
+		<card><name id="gowronofborg">Gowron of Borg</name><set>main</set></card>
+		<card><name id="borgqueen"># Borg Queen</name><set>main</set></card>
+		<card><name id="borgqueen"># Borg Queen</name><set>main</set></card>
+		<card><name id="borgqueen"># Borg Queen</name><set>main</set></card>
+		<card><name id="borgqueen"># Borg Queen</name><set>main</set></card>
+		<card><name id="sevenofnineborg">Seven of Nine *BORG</name><set>main_voy</set></card>
+		<card><name id="elevenofnineteen">% Eleven of Nineteen</name><set>main</set></card>
+		<card><name id="fifteenofseventeen">% Fifteen of Seventeen</name><set>main</set></card>
+		<card><name id="nineofeleven">% Nine of Eleven</name><set>main</set></card>
+		<card><name id="nineofeleven">% Nine of Eleven</name><set>main</set></card>
+	</superzone>
+	<superzone name="Missions">
+		<card><name id="secretsalvage">SECRET SALVAGE</name><set>main</set></card>
+		<card><name id="exposecovertsupply">EXPOSE COVERT SUPPLY</name><set>main</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="establishgateway">ESTABLISH GATEWAY</name><set>main</set></card>
+		<card><name id="RR1V-Q&apos;s-Tent">Q&apos;S TENT</name><set>main</set></card>
+		<card><name id="cryosatellite">CRYOSATELLITE</name><set>xlist</set></card>
+		<card><name id="betazoidgiftbox">BETAZOID GIFT BOX</name><set>xlist</set></card>
+		<card><name id="servicethecollective">SERVICE THE COLLECTIVE</name><set>main</set></card>
+		<card><name id="elevenofseventeen">% Eleven of Seventeen</name><set>main</set></card>
+		<card><name id="gowronofborg">Gowron of Borg</name><set>main</set></card>
+		<card><name id="borgoutpost">% Borg Outpost</name><set>main</set></card>
+		<card><name id="missiondebriefing">MISSION DEBRIEFING</name><set>main</set></card>
+		<card><name id="population9billionallborg">POPULATION 9 BILLION - ALL BORG</name><set>main</set></card>
+		<card><name id="transwarpnetworkgateway">TRANSWARP NETWORK GATEWAY</name><set>main</set></card>
+	</superzone>
+	<superzone name="QsTent">
+		<card><name id="salvagestarship">SALVAGE STARSHIP</name><set>main</set></card>
+		<card><name id="assimilateplanet">ASSIMILATE PLANET</name><set>main</set></card>
+		<card><name id="establishgateway">ESTABLISH GATEWAY</name><set>main</set></card>
+		<card><name id="assimilatehomeworld">ASSIMILATE HOMEWORLD</name><set>main</set></card>
+		<card><name id="borgoutpost">% Borg Outpost</name><set>main</set></card>
+		<card><name id="transwarpnetworkgateway">TRANSWARP NETWORK GATEWAY</name><set>main</set></card>
+	</superzone>
+</deck>
