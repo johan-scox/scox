@@ -1,6 +1,6 @@
 <deck version="0.8">
 	<meta>
-		<title>talosIV-p6-spoons</title>
+		<title>talosIV-p6-blue-spoons</title>
 		<author>Scox</author>
 		<email>scox_dd@hotmail.com</email>
 		<date>02-16-12</date>
@@ -71,6 +71,10 @@
 		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
 		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
 		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
+		<card><name id="hqreturnorbtobajor">HQ: RETURN ORB TO BAJOR</name><set>main</set></card>
+		<card><name id="hqreturnorbtobajor">HQ: RETURN ORB TO BAJOR</name><set>main</set></card>
+		<card><name id="reactioncontrolthrusters">REACTION CONTROL THRUSTERS</name><set>main</set></card>
+		<card><name id="reactioncontrolthrusters">REACTION CONTROL THRUSTERS</name><set>main</set></card>
 	</superzone>
 	<superzone name="Missions">
 		<card><name id="orbnegotiations">ORB NEGOTIATIONS</name><set>main</set></card>
@@ -79,6 +83,7 @@
 		<card><name id="exploredysonsphere">EXPLORE DYSON SPHERE</name><set>main</set></card>
 		<card><name id="reignitedeadstar">REIGNITE DEAD STAR</name><set>main</set></card>
 		<card><name id="reportedactivity">REPORTED ACTIVITY</name><set>main</set></card>
+		<card><name id="alterrecords">ALTER RECORDS</name><set>main</set></card>
 	</superzone>
 	<superzone name="Seed+Dil">
 		<card><name id="foundersecret">FOUNDER SECRET</name><set>main</set></card>
@@ -118,6 +123,8 @@
 		<card><name id="treatyfederationcardassian">TREATY: FEDERATION/CARDASSIAN</name><set>main</set></card>
 		<card><name id="quarksisolinearrods">QUARK&apos;S ISOLINEAR RODS</name><set>main</set></card>
 		<card><name id="RR5V-Mirror-Image">MIRROR IMAGE</name><set>main</set></card>
+		<card><name id="orbofwisdom">ORB OF WISDOM</name><set>main</set></card>
+		<card><name id="orbofprophecyandchange">ORB OF PROPHECY AND CHANGE</name><set>main</set></card>
 	</superzone>
 	<superzone name="QsTent">
 		<card><name id="dakol">% Dakol</name><set>main</set></card>
@@ -141,5 +148,6 @@
 		<card><name id="guestquarters">% GUEST QUARTERS</name><set>main</set></card>
 		<card><name id="securityoffice">SECURITY OFFICE</name><set>main</set></card>
 		<card><name id="sciencelab">SCIENCE LAB</name><set>main</set></card>
+		<card><name id="orbofwisdom">ORB OF WISDOM</name><set>main</set></card>
 	</superzone>
 </deck>
