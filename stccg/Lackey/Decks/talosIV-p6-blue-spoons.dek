@@ -32,6 +32,7 @@
 		<card><name id="parallaxarguers">PARALLAX ARGUERS</name><set>xlist</set></card>
 		<card><name id="parallaxarguers">PARALLAX ARGUERS</name><set>xlist</set></card>
 		<card><name id="parallaxarguers">PARALLAX ARGUERS</name><set>xlist</set></card>
+		<card><name id="parallaxarguers">PARALLAX ARGUERS</name><set>xlist</set></card>
 		<card><name id="espionagecardassianonbajora">ESPIONAGE: CARDASSIAN ON BAJORAN</name><set>main</set></card>
 		<card><name id="espionagecardassianonbajora">ESPIONAGE: CARDASSIAN ON BAJORAN</name><set>main</set></card>
 		<card><name id="espionagecardassianonfed">ESPIONAGE: CARDASSIAN ON FEDERATION</name><set>main</set></card>
@@ -52,9 +53,6 @@
 		<card><name id="morn">Morn</name><set>main</set></card>
 		<card><name id="morn">Morn</name><set>main</set></card>
 		<card><name id="morn">Morn</name><set>main</set></card>
-		<card><name id="processore">PROCESS ORE</name><set>main</set></card>
-		<card><name id="processore">PROCESS ORE</name><set>main</set></card>
-		<card><name id="processore">PROCESS ORE</name><set>main</set></card>
 		<card><name id="militaryfreighter">% Military Freighter</name><set>main</set></card>
 		<card><name id="militaryfreighter">% Military Freighter</name><set>main</set></card>
 		<card><name id="ussnebula">% U.S.S. Nebula</name><set>main</set></card>
@@ -67,6 +65,12 @@
 		<card><name id="hqsecurehomeworld">HQ: SECURE HOMEWORLD</name><set>main</set></card>
 		<card><name id="hqsecurehomeworld">HQ: SECURE HOMEWORLD</name><set>main</set></card>
 		<card><name id="dabo">DABO</name><set>main</set></card>
+		<card><name id="borad">Borad</name><set>main</set></card>
+		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
+		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
+		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
+		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
+		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
 	</superzone>
 	<superzone name="Missions">
 		<card><name id="orbnegotiations">ORB NEGOTIATIONS</name><set>main</set></card>
@@ -74,7 +78,7 @@
 		<card><name id="espionagemission">ESPIONAGE MISSION</name><set>main</set></card>
 		<card><name id="exploredysonsphere">EXPLORE DYSON SPHERE</name><set>main</set></card>
 		<card><name id="reignitedeadstar">REIGNITE DEAD STAR</name><set>main</set></card>
-		<card><name id="alterrecords">ALTER RECORDS</name><set>main</set></card>
+		<card><name id="reportedactivity">REPORTED ACTIVITY</name><set>main</set></card>
 	</superzone>
 	<superzone name="Seed+Dil">
 		<card><name id="foundersecret">FOUNDER SECRET</name><set>main</set></card>
@@ -108,7 +112,6 @@
 		<card><name id="spacedoor">SPACEDOOR</name><set>main</set></card>
 		<card><name id="sleepertrap">SLEEPER TRAP</name><set>main</set></card>
 		<card><name id="assignmissionspecialists">ASSIGN MISSION SPECIALISTS</name><set>main</set></card>
-		<card><name id="spacetimeportal">SPACE-TIME PORTAL</name><set>main</set></card>
 		<card><name id="plansoftheobsidianorder">PLANS OF THE OBSIDIAN ORDER</name><set>main</set></card>
 		<card><name id="missionfatigue">MISSION FATIGUE</name><set>main</set></card>
 		<card><name id="sisko197subroutine">SISKO 197 SUBROUTINE</name><set>main</set></card>
@@ -132,11 +135,11 @@
 		<card><name id="elim">Elim</name><set>main</set></card>
 	</superzone>
 	<superzone name="Aside">
-		<card><name id="sciencelab">SCIENCE LAB</name><set>main</set></card>
-		<card><name id="oreprocessingunit">ORE PROCESSING UNIT</name><set>main</set></card>
 		<card><name id="dockingports">DOCKING PORTS</name><set>main</set></card>
 		<card><name id="ops">OPS</name><set>main</set></card>
 		<card><name id="quarksbar">QUARK&apos;S BAR</name><set>main</set></card>
 		<card><name id="guestquarters">% GUEST QUARTERS</name><set>main</set></card>
+		<card><name id="securityoffice">SECURITY OFFICE</name><set>main</set></card>
+		<card><name id="sciencelab">SCIENCE LAB</name><set>main</set></card>
 	</superzone>
 </deck>
