@@ -1,0 +1,272 @@
+Homegrowntips:
+
+Junislaget:
+Leta efter kaptener/ledarförmåga.
+Leta SE-förmågor = Högt BI för att maximera SE-chanser.
+
+-----------
+Junislag:
+Scouter: 
+- Yttermitt -> Målvakt: ~s48v5
+
+Plocka när som:
+- Olof Högsten (Y)  *** Chosen one (YM)?
+- Kjell Hög (F)
+
+Osäker:
+- Anders Dehlskog
+
+Sparka:
+1) Birger Claesson
+2) Anders Alexandersson
+3) John Silfwergren 
+
+Ta upp:
+s48v02: Patric Martinsson (17.57)
+s48v03: Carl-Johan Matsson (17.001) *** Chosen one (IM)?
+s48v04: Karl-Johan Jörgensson (17.38)
+s48v05: 
+s48v06: Anders Myrborn (17.003)
+s48v07: Tomas Hökin (17.002)
+s48v08: 
+s48v09: Holger Risell (16.111)
+s48v10:
+s48v11:
+s48v12:
+s48v13:
+s48v14:
+s48v15:
+s48v16:
+s49v01: 
+
+Innerprospects:
+1) Carl-Johan Matsson [T]
+2) Patric Martinsson
+3) Karl-Johan Jörgensson
+
+Ytterprospects:
+1) Olof Högsten [S]
+2) Viking Flammo
+3) 
+
+Målvaktsprospects:
+1) 
+2) 
+3) 
+
+----- Statistik: -----
+
+36.11 år, 14% kond => bra->hyf kondis
+26.62 år, 14% kond => feno->ena kondis
+21.70 år, 14% kond => ena->feno kondis
+
+---- Tränare -----
+Adolfsson : 2011-12-30 (? säsonger)
+Dawson : 2010-01-12 (6,40 säsonger)
+Vaduva : 2008-03-03 (6,07 säsonger)
+Toresson : 2006-01-03 (7,04 säsonger)
+Månsson : 2002-02-xx
+
+Rutinsteg = 28 XP.
+T-match: 0,1p, Int t-match: 0,2p
+Serie: 1p, Cup/kval: 2pt
+
+----- Ekonomi -----
+25 XP / säsong (14x1+2x5+0,2x5) tränarprospects, 14 säsonger 
+=> 12,5 rutin => 30 mille för feno tränare.
+2xleg anfallare = ca 10 mille.
+20 mille / 6 säsonger => +3,33 mille/säsong.
+=> Målbalans / säsong = +4 mille.
+
+Historik:
+S48:
+S47: +4,05mkr (exkl. FW-TO + slutåterköp)
+
+*** ----- OLD ----- *** 
+
+Mina träningsobjekt:
+Def Uppdaterad 091208 (s40v14.2; HT-tid / s40v13.2 enligt nedan träningsöversikt)
+
+[u]Backar:[/u]
+Robert Telling
+Def +298% @26-27
+
+Diógenes Innaty
+Def +638% @24-25
+
+Michael Klærke
+Def +638% @24-25
+Wing +0% @25
+
+Aldo Fermín Rodríguez
+Def +808% @24-25
+Wing +310% @25
+
+Mark Kim
+Def +383% @22-23
+Wing +170% @22
+
+[u]Mittfältare:[/u]
+
+[u]Yttrar:[/u]
+Henrique Cachinho
+Def +0% @22
+Wing +353% @22
+
+Lars-Erik Strandlind
+Wing +128% @21
+
+Silviu Maican
+Def +0% @24
+Wing +0% @24
+
+Ubaid Haddad
+Wing +0% @26
+
+[u]Forwards:[/u]
+
+
+--- Traning:
+vecka (vXX) = traning som gavs av spel i seriematch nr [veckonummer]
+s16v0x : Forsvar
+s16v16 : Kondition 
+s17v01 : Kondition 
+(v02 : t-match=&gt;forvirring=&gt;ingen traning)
+s17v03 : Forsvar
+s17v05 : Kondition
+s17v06 : Forsvar
+s17v15 : Kondition
+s18v01 : Forsvar
+(v01 : s-match=&gt;forvirring=&gt;ingen traning)
+s18v02 : Kondition
+s18v03 : Forsvar
+s18v05 : Kondition
+s18v06 : Forsvar
+s18v07 : Kondition
+s18v08 : Forsvar
+(v09 : t-match=&gt;forvirring=&gt;ingen traning)
+s18v15 : Kondition
+s19v01 : Forsvar
+s19v04 : Kondition
+s19v05 : Forsvar
+s19v14 : Målvakt
+s19v15 : Frisparkar
+s19v16 : Kondition
+s20v03 : SU
+s20v16 : Kondition
+s21v01 : SU
+s21v14 : Målvakt
+s21v16 : SU
+s22v11 : Forsvar
+s22v15 : SU
+s22v16 : Försvar
+s24v15 : Genomskärare
+s24v16 : Försvar
+s25v03 : Kortpassningar
+s25v05 : Genomskärare
+s25v07 : Kortpassningar
+s25v08 : Försvar
+s25v09 : Kortpassningar
+s25v10 : Försvar
+s25v11 : Kortpassningar
+s25v12 : Genomskärare
+s25v13 : Försvar
+s26v00 : Kortpassningar
+s26v01 : Avslut
+s26v11 : Kortpassningar
+s26v14 : Försvar
+s27v02 : Avslut
+v12 : s-match=&gt;forvirring=&gt;ingen traning)
+s27v14 : Kortpassningar
+s28v02: Avslut
+s28v13: Kortpassningar
+v29v01: Avslut
+v29v13: Kortpassningar
+s29v14: Avslut
+s30v05: Inlägg
+s30v14: Kondition
+s30v15: Kortpassningar
+s31v00: Kantanfall
+s31v01: Inlägg
+s31v14: Kondition
+s31v15: Kortpassningar
+s32v02: Inlägg
+s32v14: Kondition
+s32v15: Kortpassningar
+s33v00: Kantanfall
+s33v01: Inlägg (Kondition 17%)
+s34v00: Kantanfall
+s34v01: Inlägg (kondition 20%)
+s34v15: Kortpassningar (kondition 20%)
+s35v00: Inlägg (kondition 40%)
+s35v05: Inlägg (kondition 20%)
+s35v06: Försvarspositioner
+s35v07: Inlägg (kondition 20%)
+s35v11: Försvar (kondition 20%)
+s35v15: Genomskärare (kondition 20%)
+s36v01: Försvar (kondition 20%)
+s36v15: Kortpassningar (kondition 20%)
+s37v00: Inlägg (kondition 20%)
+s37v01: Försvar (kondition 25%)
+s37v04: Försvar (kondition 20%)
+s37v13: Försvar (kondition 10%)
+s37v14: Försvar (kondition 20%)
+s37v15: Kortpassningar (kondition 20%)
+s38v01: Försvar(kondition 20%)
+s38v09: Försvar (kondition 15%)
+s39v09: Fasta situationer (kondition 15%)
+s39v11: Inlägg (kondition 15%)
+s39v15: Fasta (kondition 15%)
+s40v01: Inlägg (kondition 15%)
+s40v04: Försvarspositioner (kondition 15%)
+s40v05: Inlägg (kondition 15%)
+s40v06: Kantanfall (kondition 15%)
+s40v07: Inlägg (kondition 15%)
+s40v12: Försvar (kondition 15%)
+s40vxx: 
+---- Ny tidsräkning, enligt HT; sXXv1.1 = måndag innan cupmatch.. End. kondisändringar noterade.
+s41v01: Försvar (kondition 15%)
+s41v03.2 - Ny tränare - B-Å, usel ledarfömåga.
+s41v03: Genomskärare (kondition 20%)
+s41v04: Inlägg
+s41v06: Fasta (kondition 17%)
+s41v07: Inlägg (kondition 17%)
+
+--- Junis
+Salde senast 051005
+
+Totalt antal salda junisar: 69 (+3)
+Intakt junisar: 44.470 Mkr (+16.590 Mkr)
+Utespelare: 62 (+2)
+Malvakter: 7 (+1)
+
+Utespelare:
+Hogst varderade: 1 650 kkr (39079421)
+  ena målgörare, bra framspel, 17 år
+Hogsta forsaljning: 4 950 kkr (29525019)
+  ena SU, hyf kond, ypp för, bra fram, 
+  18 år , varderad till 1 160 kkr
+
+Malvakt:
+Hogst varderade: 3 970 kkr (25832273)
+  Ena, 18 år, såld för 2 230 
+Hogsta forsaljning: 2 230 kkr (25832273)
+  Ena, 18 år, varderad till 3 970 kkr
+
+--- Arena
+21->25 : 60.6%, 27.68%, 9.44%, 2.28%
+25->40 : 61.25%, 27% 9.4375%, 2.23125%
+40->50 : 61.25%, 27%, 9.5%, 2.5%
+50->60 : 61%, 27%, 9.5%, 2.5%
+
+--- Supportrar
+Max: 2784, s40v13
+
+--- Förbundet Försvar
+
+--- Löner:
+Löner w3009: 2 482 760 kr / week
+Utlandsbonus: ca 160K / week
+
+Löner w3114: 2 583 640 kr / week
+Utlandsbonus (5 spelare): 158 840 kr / week
