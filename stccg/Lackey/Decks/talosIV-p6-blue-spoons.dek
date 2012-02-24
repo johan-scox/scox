@@ -18,6 +18,7 @@
 		<card><name id="norahsatie">Norah Satie</name><set>main</set></card>
 		<card><name id="admiralmccoy">Admiral McCoy</name><set>main</set></card>
 		<card><name id="gulmadred">Gul Madred</name><set>main</set></card>
+		<card><name id="gulmadred">Gul Madred</name><set>main</set></card>
 		<card><name id="legatedamar">Legate Damar</name><set>main</set></card>
 		<card><name id="macet">Macet</name><set>main</set></card>
 		<card><name id="lemec">Lemec</name><set>main</set></card>
@@ -28,7 +29,7 @@
 		<card><name id="kivasfajocollector">KIVAS FAJO - COLLECTOR</name><set>xlist</set></card>
 		<card><name id="kivasfajocollector">KIVAS FAJO - COLLECTOR</name><set>xlist</set></card>
 		<card><name id="kivasfajocollector">KIVAS FAJO - COLLECTOR</name><set>xlist</set></card>
-		<card><name id="parallaxarguers">PARALLAX ARGUERS</name><set>xlist</set></card>
+		<card><name id="kivasfajocollector">KIVAS FAJO - COLLECTOR</name><set>xlist</set></card>
 		<card><name id="parallaxarguers">PARALLAX ARGUERS</name><set>xlist</set></card>
 		<card><name id="parallaxarguers">PARALLAX ARGUERS</name><set>xlist</set></card>
 		<card><name id="parallaxarguers">PARALLAX ARGUERS</name><set>xlist</set></card>
@@ -39,12 +40,9 @@
 		<card><name id="espionagecardassianonfed">ESPIONAGE: CARDASSIAN ON FEDERATION</name><set>main</set></card>
 		<card><name id="espionagecardassianonfed">ESPIONAGE: CARDASSIAN ON FEDERATION</name><set>main</set></card>
 		<card><name id="espionagecardassianonfed">ESPIONAGE: CARDASSIAN ON FEDERATION</name><set>main</set></card>
-		<card><name id="soren">Soren</name><set>main</set></card>
-		<card><name id="hannahbates">Hannah Bates</name><set>main</set></card>
+		<card><name id="jasad">% Jasad</name><set>main</set></card>
 		<card><name id="jasad">% Jasad</name><set>main</set></card>
 		<card><name id="turrel">Turrel</name><set>main</set></card>
-		<card><name id="turrel">Turrel</name><set>main</set></card>
-		<card><name id="entek">Entek</name><set>main</set></card>
 		<card><name id="aluura">Aluura</name><set>main</set></card>
 		<card><name id="aluura">Aluura</name><set>main</set></card>
 		<card><name id="leeta">Leeta</name><set>main</set></card>
@@ -55,26 +53,34 @@
 		<card><name id="morn">Morn</name><set>main</set></card>
 		<card><name id="militaryfreighter">% Military Freighter</name><set>main</set></card>
 		<card><name id="militaryfreighter">% Military Freighter</name><set>main</set></card>
-		<card><name id="ussnebula">% U.S.S. Nebula</name><set>main</set></card>
-		<card><name id="runabout">% Runabout</name><set>main</set></card>
-		<card><name id="groumall">Groumall</name><set>main</set></card>
-		<card><name id="quark">Quark</name><set>main</set></card>
+		<card><name id="militaryfreighter">% Military Freighter</name><set>main</set></card>
 		<card><name id="quark">Quark</name><set>main</set></card>
 		<card><name id="alynnanechayev">Alynna Nechayev</name><set>main</set></card>
 		<card><name id="sarek">Sarek</name><set>main</set></card>
 		<card><name id="hqsecurehomeworld">HQ: SECURE HOMEWORLD</name><set>main</set></card>
 		<card><name id="hqsecurehomeworld">HQ: SECURE HOMEWORLD</name><set>main</set></card>
 		<card><name id="dabo">DABO</name><set>main</set></card>
-		<card><name id="borad">Borad</name><set>main</set></card>
 		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
 		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
 		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
 		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
 		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
-		<card><name id="hqreturnorbtobajor">HQ: RETURN ORB TO BAJOR</name><set>main</set></card>
-		<card><name id="hqreturnorbtobajor">HQ: RETURN ORB TO BAJOR</name><set>main</set></card>
-		<card><name id="reactioncontrolthrusters">REACTION CONTROL THRUSTERS</name><set>main</set></card>
-		<card><name id="reactioncontrolthrusters">REACTION CONTROL THRUSTERS</name><set>main</set></card>
+		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
+		<card><name id="thetravelertranscendence">THE TRAVELER: TRANSCENDENCE</name><set>xlist</set></card>
+		<card><name id="thetravelertranscendence">THE TRAVELER: TRANSCENDENCE</name><set>xlist</set></card>
+		<card><name id="goldpressedlatinum">GOLD-PRESSED LATINUM</name><set>main</set></card>
+		<card><name id="goldpressedlatinum">GOLD-PRESSED LATINUM</name><set>main</set></card>
+		<card><name id="hiddenfighter">HIDDEN FIGHTER</name><set>main</set></card>
+		<card><name id="hiddenfighter">HIDDEN FIGHTER</name><set>main</set></card>
+		<card><name id="hiddenfighter">HIDDEN FIGHTER</name><set>main</set></card>
+		<card><name id="dolak">Dolak</name><set>main</set></card>
+		<card><name id="entek">Entek</name><set>main</set></card>
+		<card><name id="smallcloakingdevice">SMALL CLOAKING DEVICE</name><set>main</set></card>
+		<card><name id="tricorder">TRICORDER</name><set>main</set></card>
+		<card><name id="kasidyyates">Kasidy Yates</name><set>main</set></card>
+		<card><name id="sciencekit">SCIENCE KIT</name><set>main</set></card>
+		<card><name id="jovis">Jovis</name><set>main</set></card>
+		<card><name id="jovis">Jovis</name><set>main</set></card>
 	</superzone>
 	<superzone name="Missions">
 		<card><name id="orbnegotiations">ORB NEGOTIATIONS</name><set>main</set></card>
@@ -83,7 +89,6 @@
 		<card><name id="exploredysonsphere">EXPLORE DYSON SPHERE</name><set>main</set></card>
 		<card><name id="reignitedeadstar">REIGNITE DEAD STAR</name><set>main</set></card>
 		<card><name id="reportedactivity">REPORTED ACTIVITY</name><set>main</set></card>
-		<card><name id="alterrecords">ALTER RECORDS</name><set>main</set></card>
 	</superzone>
 	<superzone name="Seed+Dil">
 		<card><name id="foundersecret">FOUNDER SECRET</name><set>main</set></card>
@@ -123,31 +128,31 @@
 		<card><name id="treatyfederationcardassian">TREATY: FEDERATION/CARDASSIAN</name><set>main</set></card>
 		<card><name id="quarksisolinearrods">QUARK&apos;S ISOLINEAR RODS</name><set>main</set></card>
 		<card><name id="RR5V-Mirror-Image">MIRROR IMAGE</name><set>main</set></card>
-		<card><name id="orbofwisdom">ORB OF WISDOM</name><set>main</set></card>
-		<card><name id="orbofprophecyandchange">ORB OF PROPHECY AND CHANGE</name><set>main</set></card>
+		<card><name id="establishlandingprotocols">ESTABLISH LANDING PROTOCOLS</name><set>main</set></card>
 	</superzone>
 	<superzone name="QsTent">
 		<card><name id="dakol">% Dakol</name><set>main</set></card>
-		<card><name id="jasad">% Jasad</name><set>main</set></card>
 		<card><name id="telle">% Telle</name><set>main</set></card>
 		<card><name id="cardassiandisruptorrifle">CARDASSIAN DISRUPTOR RIFLE</name><set>main</set></card>
-		<card><name id="alyssaogawa">Alyssa Ogawa</name><set>main</set></card>
 		<card><name id="benjaminmaxwell">Benjamin Maxwell</name><set>main</set></card>
-		<card><name id="drlaforge">Dr. La Forge</name><set>main</set></card>
 		<card><name id="leahbrahms">Leah Brahms</name><set>main</set></card>
 		<card><name id="gibson">% Gibson</name><set>main</set></card>
 		<card><name id="reginaldbarclay">Reginald Barclay</name><set>main</set></card>
 		<card><name id="richardwilkins">% Richard Wilkins</name><set>main</set></card>
-		<card><name id="darianwallace">% Darian Wallace</name><set>main</set></card>
-		<card><name id="elim">Elim</name><set>main</set></card>
+		<card><name id="ussnebula">% U.S.S. Nebula</name><set>main</set></card>
+		<card><name id="runabout">% Runabout</name><set>main</set></card>
+		<card><name id="cardassianshuttle">% Cardassian Shuttle</name><set>main</set></card>
+		<card><name id="enabrantain">Enabran Tain</name><set>main</set></card>
+		<card><name id="kivasfajo">Kivas Fajo</name><set>main</set></card>
 	</superzone>
 	<superzone name="Aside">
 		<card><name id="dockingports">DOCKING PORTS</name><set>main</set></card>
 		<card><name id="ops">OPS</name><set>main</set></card>
 		<card><name id="quarksbar">QUARK&apos;S BAR</name><set>main</set></card>
 		<card><name id="guestquarters">% GUEST QUARTERS</name><set>main</set></card>
-		<card><name id="securityoffice">SECURITY OFFICE</name><set>main</set></card>
-		<card><name id="sciencelab">SCIENCE LAB</name><set>main</set></card>
-		<card><name id="orbofwisdom">ORB OF WISDOM</name><set>main</set></card>
+		<card><name id="promenadeshops">PROMENADE SHOPS</name><set>main</set></card>
+		<card><name id="soren">Soren</name><set>main</set></card>
+		<card><name id="hannahbates">Hannah Bates</name><set>main</set></card>
+		<card><name id="cargobay">% CARGO BAY</name><set>main</set></card>
 	</superzone>
 </deck>
