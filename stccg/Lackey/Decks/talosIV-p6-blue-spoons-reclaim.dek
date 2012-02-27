@@ -4,7 +4,7 @@
 		<author>Scox</author>
 		<email>scox_dd@hotmail.com</email>
 		<date>02-16-12</date>
-		<game>StarTrek1E</game>
+		<game>startrek1e-special-formats</game>
 	</meta>
 	<superzone name="Deck">
 		<card><name id="assignmissionspecialists">ASSIGN MISSION SPECIALISTS</name><set>main</set></card>
@@ -17,6 +17,7 @@
 		<card><name id="jareshinyo">Jaresh-Inyo</name><set>main</set></card>
 		<card><name id="norahsatie">Norah Satie</name><set>main</set></card>
 		<card><name id="admiralmccoy">Admiral McCoy</name><set>main</set></card>
+		<card><name id="admiralmccoy">Admiral McCoy</name><set>main</set></card>
 		<card><name id="gulmadred">Gul Madred</name><set>main</set></card>
 		<card><name id="legatedamar">Legate Damar</name><set>main</set></card>
 		<card><name id="macet">Macet</name><set>main</set></card>
@@ -28,7 +29,6 @@
 		<card><name id="kivasfajocollector">KIVAS FAJO - COLLECTOR</name><set>xlist</set></card>
 		<card><name id="kivasfajocollector">KIVAS FAJO - COLLECTOR</name><set>xlist</set></card>
 		<card><name id="kivasfajocollector">KIVAS FAJO - COLLECTOR</name><set>xlist</set></card>
-		<card><name id="jasad">% Jasad</name><set>main</set></card>
 		<card><name id="turrel">Turrel</name><set>main</set></card>
 		<card><name id="militaryfreighter">% Military Freighter</name><set>main</set></card>
 		<card><name id="militaryfreighter">% Military Freighter</name><set>main</set></card>
@@ -43,6 +43,7 @@
 		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
 		<card><name id="thetravelertranscendence">THE TRAVELER: TRANSCENDENCE</name><set>xlist</set></card>
 		<card><name id="thetravelertranscendence">THE TRAVELER: TRANSCENDENCE</name><set>xlist</set></card>
+		<card><name id="goldpressedlatinum">GOLD-PRESSED LATINUM</name><set>main</set></card>
 		<card><name id="goldpressedlatinum">GOLD-PRESSED LATINUM</name><set>main</set></card>
 		<card><name id="goldpressedlatinum">GOLD-PRESSED LATINUM</name><set>main</set></card>
 		<card><name id="hiddenfighter">HIDDEN FIGHTER</name><set>main</set></card>
@@ -62,7 +63,20 @@
 		<card><name id="quark">Quark</name><set>main</set></card>
 		<card><name id="morn">Morn</name><set>main</set></card>
 		<card><name id="kasidyyates">Kasidy Yates</name><set>main</set></card>
-		<card><name id="silaranprin">Silaran Prin</name><set>main</set></card>
+		<card><name id="parallaxarguers">PARALLAX ARGUERS</name><set>xlist</set></card>
+		<card><name id="parallaxarguers">PARALLAX ARGUERS</name><set>xlist</set></card>
+		<card><name id="parallaxarguers">PARALLAX ARGUERS</name><set>xlist</set></card>
+		<card><name id="transwarpconduit">TRANSWARP CONDUIT</name><set>xlist</set></card>
+		<card><name id="transwarpconduit">TRANSWARP CONDUIT</name><set>xlist</set></card>
+		<card><name id="dixonhillsbusinesscard">DIXON HILL&apos;S BUSINESS CARD</name><set>main</set></card>
+		<card><name id="regenerate">REGENERATE</name><set>main</set></card>
+		<card><name id="ussnebula">% U.S.S. Nebula</name><set>main</set></card>
+		<card><name id="keldonadvanced">% Keldon Advanced</name><set>main</set></card>
+		<card><name id="jasad">% Jasad</name><set>main</set></card>
+		<card><name id="jasad">% Jasad</name><set>main</set></card>
+		<card><name id="parn">% Parn</name><set>main</set></card>
+		<card><name id="luthersloan">Luther Sloan</name><set>main</set></card>
+		<card><name id="benil">Benil</name><set>main</set></card>
 	</superzone>
 	<superzone name="Missions">
 		<card><name id="orbnegotiations">ORB NEGOTIATIONS</name><set>main</set></card>
@@ -111,23 +125,22 @@
 		<card><name id="RR5V-Mirror-Image">MIRROR IMAGE</name><set>main</set></card>
 		<card><name id="teroknor">Terok Nor</name><set>main</set></card>
 		<card><name id="battlebridgedoor">BATTLE BRIDGE DOOR</name><set>main</set></card>
+		<card><name id="establishlandingprotocols">ESTABLISH LANDING PROTOCOLS</name><set>main</set></card>
 	</superzone>
 	<superzone name="QsTent">
-		<card><name id="benjaminmaxwell">Benjamin Maxwell</name><set>main</set></card>
-		<card><name id="leahbrahms">Leah Brahms</name><set>main</set></card>
 		<card><name id="gibson">% Gibson</name><set>main</set></card>
 		<card><name id="reginaldbarclay">Reginald Barclay</name><set>main</set></card>
 		<card><name id="richardwilkins">% Richard Wilkins</name><set>main</set></card>
-		<card><name id="ussnebula">% U.S.S. Nebula</name><set>main</set></card>
-		<card><name id="runabout">% Runabout</name><set>main</set></card>
-		<card><name id="cardassianshuttle">% Cardassian Shuttle</name><set>main</set></card>
 		<card><name id="kivasfajo">Kivas Fajo</name><set>main</set></card>
 		<card><name id="darianwallace">% Darian Wallace</name><set>main</set></card>
 		<card><name id="alyssaogawa">Alyssa Ogawa</name><set>main</set></card>
 		<card><name id="hannahbates">Hannah Bates</name><set>main</set></card>
-		<card><name id="establishlandingprotocols">ESTABLISH LANDING PROTOCOLS</name><set>main</set></card>
-		<card><name id="soren">Soren</name><set>main</set></card>
-		<card><name id="keldonadvanced">% Keldon Advanced</name><set>main</set></card>
+		<card><name id="cardassiandisruptorrifle">CARDASSIAN DISRUPTOR RIFLE</name><set>main</set></card>
+		<card><name id="telle">% Telle</name><set>main</set></card>
+		<card><name id="benjaminmaxwell">Benjamin Maxwell</name><set>main</set></card>
+		<card><name id="enabrantain">Enabran Tain</name><set>main</set></card>
+		<card><name id="runabout">% Runabout</name><set>main</set></card>
+		<card><name id="cardassianshuttle">% Cardassian Shuttle</name><set>main</set></card>
 	</superzone>
 	<superzone name="Aside">
 		<card><name id="dockingports">DOCKING PORTS</name><set>main</set></card>
@@ -142,5 +155,7 @@
 		<card><name id="evasivemaneuvers">Evasive Maneuvers</name><set>main</set></card>
 		<card><name id="evasivemaneuvers">Evasive Maneuvers</name><set>main</set></card>
 		<card><name id="strafingrun">Strafing Run</name><set>main</set></card>
+		<card><name id="soren">Soren</name><set>main</set></card>
+		<card><name id="leahbrahms">Leah Brahms</name><set>main</set></card>
 	</superzone>
 </deck>
