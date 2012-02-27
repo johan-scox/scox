@@ -1,10 +1,10 @@
 <deck version="0.8">
 	<meta>
-		<title>talosIV-p6-blue-spoons</title>
+		<title>talosIV-p6-blue-spoons-reclaim</title>
 		<author>Scox</author>
 		<email>scox_dd@hotmail.com</email>
 		<date>02-16-12</date>
-		<game>startrek1e-special-formats</game>
+		<game>StarTrek1E</game>
 	</meta>
 	<superzone name="Deck">
 		<card><name id="assignmissionspecialists">ASSIGN MISSION SPECIALISTS</name><set>main</set></card>
@@ -111,6 +111,7 @@
 		<card><name id="quarksisolinearrods">QUARK&apos;S ISOLINEAR RODS</name><set>main</set></card>
 		<card><name id="RR5V-Mirror-Image">MIRROR IMAGE</name><set>main</set></card>
 		<card><name id="teroknor">Terok Nor</name><set>main</set></card>
+		<card><name id="battlebridgedoor">BATTLE BRIDGE DOOR</name><set>main</set></card>
 	</superzone>
 	<superzone name="QsTent">
 		<card><name id="benjaminmaxwell">Benjamin Maxwell</name><set>main</set></card>
@@ -136,5 +137,11 @@
 		<card><name id="guestquarters">% GUEST QUARTERS</name><set>main</set></card>
 		<card><name id="promenadeshops">PROMENADE SHOPS</name><set>main</set></card>
 		<card><name id="cargobay">% CARGO BAY</name><set>main</set></card>
+		<card><name id="evasivemaneuvers">Evasive Maneuvers</name><set>main</set></card>
+		<card><name id="evasivemaneuvers">Evasive Maneuvers</name><set>main</set></card>
+		<card><name id="evasivemaneuvers">Evasive Maneuvers</name><set>main</set></card>
+		<card><name id="evasivemaneuvers">Evasive Maneuvers</name><set>main</set></card>
+		<card><name id="evasivemaneuvers">Evasive Maneuvers</name><set>main</set></card>
+		<card><name id="evasivemaneuvers">Evasive Maneuvers</name><set>main</set></card>
 	</superzone>
 </deck>
