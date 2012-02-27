@@ -1,0 +1,141 @@
+<deck version="0.8">
+	<meta>
+		<title>talosIV-p6-blue-spoons</title>
+		<author>Scox</author>
+		<email>scox_dd@hotmail.com</email>
+		<date>02-16-12</date>
+		<game>startrek1e-special-formats</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="assignmissionspecialists">ASSIGN MISSION SPECIALISTS</name><set>main</set></card>
+		<card><name id="assignmissionspecialists">ASSIGN MISSION SPECIALISTS</name><set>main</set></card>
+		<card><name id="assignmissionspecialists">ASSIGN MISSION SPECIALISTS</name><set>main</set></card>
+		<card><name id="assignmissionspecialists">ASSIGN MISSION SPECIALISTS</name><set>main</set></card>
+		<card><name id="admiralleyton">Admiral Leyton</name><set>main</set></card>
+		<card><name id="VP1VP_Spock">Spock</name><set>main</set></card>
+		<card><name id="ambassadorkrajensky">Ambassador Krajensky</name><set>main</set></card>
+		<card><name id="jareshinyo">Jaresh-Inyo</name><set>main</set></card>
+		<card><name id="norahsatie">Norah Satie</name><set>main</set></card>
+		<card><name id="admiralmccoy">Admiral McCoy</name><set>main</set></card>
+		<card><name id="kivasfajocollector">KIVAS FAJO - COLLECTOR</name><set>xlist</set></card>
+		<card><name id="kivasfajocollector">KIVAS FAJO - COLLECTOR</name><set>xlist</set></card>
+		<card><name id="kivasfajocollector">KIVAS FAJO - COLLECTOR</name><set>xlist</set></card>
+		<card><name id="kivasfajocollector">KIVAS FAJO - COLLECTOR</name><set>xlist</set></card>
+		<card><name id="kivasfajocollector">KIVAS FAJO - COLLECTOR</name><set>xlist</set></card>
+		<card><name id="parallaxarguers">PARALLAX ARGUERS</name><set>xlist</set></card>
+		<card><name id="parallaxarguers">PARALLAX ARGUERS</name><set>xlist</set></card>
+		<card><name id="parallaxarguers">PARALLAX ARGUERS</name><set>xlist</set></card>
+		<card><name id="parallaxarguers">PARALLAX ARGUERS</name><set>xlist</set></card>
+		<card><name id="aluura">Aluura</name><set>main</set></card>
+		<card><name id="leeta">Leeta</name><set>main</set></card>
+		<card><name id="morn">Morn</name><set>main</set></card>
+		<card><name id="quark">Quark</name><set>main</set></card>
+		<card><name id="alynnanechayev">Alynna Nechayev</name><set>main</set></card>
+		<card><name id="sarek">Sarek</name><set>main</set></card>
+		<card><name id="hqsecurehomeworld">HQ: SECURE HOMEWORLD</name><set>main</set></card>
+		<card><name id="hqsecurehomeworld">HQ: SECURE HOMEWORLD</name><set>main</set></card>
+		<card><name id="dabo">DABO</name><set>main</set></card>
+		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
+		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
+		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
+		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
+		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
+		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
+		<card><name id="thetravelertranscendence">THE TRAVELER: TRANSCENDENCE</name><set>xlist</set></card>
+		<card><name id="thetravelertranscendence">THE TRAVELER: TRANSCENDENCE</name><set>xlist</set></card>
+		<card><name id="goldpressedlatinum">GOLD-PRESSED LATINUM</name><set>main</set></card>
+		<card><name id="goldpressedlatinum">GOLD-PRESSED LATINUM</name><set>main</set></card>
+		<card><name id="hiddenfighter">HIDDEN FIGHTER</name><set>main</set></card>
+		<card><name id="hiddenfighter">HIDDEN FIGHTER</name><set>main</set></card>
+		<card><name id="hiddenfighter">HIDDEN FIGHTER</name><set>main</set></card>
+		<card><name id="smallcloakingdevice">SMALL CLOAKING DEVICE</name><set>main</set></card>
+		<card><name id="tricorder">TRICORDER</name><set>main</set></card>
+		<card><name id="kasidyyates">Kasidy Yates</name><set>main</set></card>
+		<card><name id="sciencekit">SCIENCE KIT</name><set>main</set></card>
+		<card><name id="jovis">Jovis</name><set>main</set></card>
+		<card><name id="jovis">Jovis</name><set>main</set></card>
+		<card><name id="bajoranfreighter">% Bajoran Freighter</name><set>main</set></card>
+		<card><name id="bajoranfreighter">% Bajoran Freighter</name><set>main</set></card>
+		<card><name id="bajoranfreighter">% Bajoran Freighter</name><set>main</set></card>
+		<card><name id="vedekwinn">Vedek Winn</name><set>main</set></card>
+		<card><name id="vedekdax">Vedek Dax</name><set>main</set></card>
+		<card><name id="kaiwinn">Kai Winn</name><set>main</set></card>
+		<card><name id="kaiopaka">Kai Opaka</name><set>main</set></card>
+		<card><name id="jaroessa">Jaro Essa</name><set>main</set></card>
+		<card><name id="bareilantos">Bareil Antos</name><set>main</set></card>
+		<card><name id="vedeksorad">% Vedek Sorad</name><set>main</set></card>
+		<card><name id="ministerrozahn">% Minister Rozahn</name><set>main</set></card>
+		<card><name id="rom">Rom</name><set>main</set></card>
+		<card><name id="odo">Odo</name><set>main</set></card>
+		<card><name id="kiranerys">Kira Nerys</name><set>main</set></card>
+	</superzone>
+	<superzone name="Missions">
+		<card><name id="characterizeneutrinoemiss">CHARACTERIZE NEUTRINO EMISSIONS</name><set>main</set></card>
+		<card><name id="espionagemission">ESPIONAGE MISSION</name><set>main</set></card>
+		<card><name id="exploredysonsphere">EXPLORE DYSON SPHERE</name><set>main</set></card>
+		<card><name id="reignitedeadstar">REIGNITE DEAD STAR</name><set>main</set></card>
+		<card><name id="reportedactivity">REPORTED ACTIVITY</name><set>main</set></card>
+		<card><name id="alterrecords">ALTER RECORDS</name><set>main</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="foundersecret">FOUNDER SECRET</name><set>main</set></card>
+		<card><name id="primitiveculture">PRIMITIVE CULTURE</name><set>main</set></card>
+		<card><name id="scoutencounter">SCOUT ENCOUNTER</name><set>main</set></card>
+		<card><name id="firestorm">FIRESTORM</name><set>xlist</set></card>
+		<card><name id="hazardousduty">HAZARDOUS DUTY</name><set>main</set></card>
+		<card><name id="friendlyfire">FRIENDLY FIRE</name><set>main</set></card>
+		<card><name id="assassinsblade">ASSASSIN&apos;S BLADE</name><set>main</set></card>
+		<card><name id="lackofpreparation">LACK OF PREPARATION</name><set>main</set></card>
+		<card><name id="scientificmethod">SCIENTIFIC METHOD</name><set>main</set></card>
+		<card><name id="hippocraticoath">HIPPOCRATIC OATH</name><set>main</set></card>
+		<card><name id="unscientificmethod">UNSCIENTIFIC METHOD</name><set>main</set></card>
+		<card><name id="edoprobe">EDO PROBE</name><set>xlist</set></card>
+		<card><name id="thehigherthefewer">THE HIGHER ... THE FEWER</name><set>xlist</set></card>
+		<card><name id="deadend">DEAD END</name><set>main</set></card>
+		<card><name id="shakawhenthewallsfell">SHAKA, WHEN THE WALLS FELL</name><set>xlist</set></card>
+		<card><name id="inthepalemoonlight">IN THE PALE MOONLIGHT</name><set>main</set></card>
+		<card><name id="tarellianplagueship">TARELLIAN PLAGUE SHIP</name><set>xlist</set></card>
+		<card><name id="radioactivegarbagescow">RADIOACTIVE GARBAGE SCOW</name><set>xlist</set></card>
+		<card><name id="maglock">MAGLOCK</name><set>main</set></card>
+		<card><name id="aphasiadevice">APHASIA DEVICE</name><set>main</set></card>
+		<card><name id="navigationalhazards">NAVIGATIONAL HAZARDS</name><set>main</set></card>
+		<card><name id="punishmentbox">PUNISHMENT BOX</name><set>main</set></card>
+		<card><name id="odoscousin">ODO&apos;S &quot;COUSIN&quot;</name><set>main</set></card>
+		<card><name id="shotintheback">SHOT IN THE BACK</name><set>main</set></card>
+		<card><name id="commonthief">COMMON THIEF</name><set>main</set></card>
+		<card><name id="officeofthepresident">Office of The President</name><set>main</set></card>
+		<card><name id="spacedoor">SPACEDOOR</name><set>main</set></card>
+		<card><name id="sleepertrap">SLEEPER TRAP</name><set>main</set></card>
+		<card><name id="assignmissionspecialists">ASSIGN MISSION SPECIALISTS</name><set>main</set></card>
+		<card><name id="missionfatigue">MISSION FATIGUE</name><set>main</set></card>
+		<card><name id="sisko197subroutine">SISKO 197 SUBROUTINE</name><set>main</set></card>
+		<card><name id="quarksisolinearrods">QUARK&apos;S ISOLINEAR RODS</name><set>main</set></card>
+		<card><name id="RR5V-Mirror-Image">MIRROR IMAGE</name><set>main</set></card>
+		<card><name id="treatyfederationbajoran">TREATY: FEDERATION/BAJORAN</name><set>main</set></card>
+		<card><name id="deepspace9">Deep Space 9</name><set>main</set></card>
+		<card><name id="chamberofministers">Chamber of Ministers</name><set>main</set></card>
+	</superzone>
+	<superzone name="QsTent">
+		<card><name id="benjaminmaxwell">Benjamin Maxwell</name><set>main</set></card>
+		<card><name id="leahbrahms">Leah Brahms</name><set>main</set></card>
+		<card><name id="gibson">% Gibson</name><set>main</set></card>
+		<card><name id="reginaldbarclay">Reginald Barclay</name><set>main</set></card>
+		<card><name id="richardwilkins">% Richard Wilkins</name><set>main</set></card>
+		<card><name id="ussnebula">% U.S.S. Nebula</name><set>main</set></card>
+		<card><name id="runabout">% Runabout</name><set>main</set></card>
+		<card><name id="kivasfajo">Kivas Fajo</name><set>main</set></card>
+		<card><name id="establishlandingprotocols">ESTABLISH LANDING PROTOCOLS</name><set>main</set></card>
+		<card><name id="bajoraninterceptor">% Bajoran Interceptor</name><set>main</set></card>
+		<card><name id="assaultvessel">% Assault Vessel</name><set>main</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="dockingports">DOCKING PORTS</name><set>main</set></card>
+		<card><name id="ops">OPS</name><set>main</set></card>
+		<card><name id="quarksbar">QUARK&apos;S BAR</name><set>main</set></card>
+		<card><name id="guestquarters">% GUEST QUARTERS</name><set>main</set></card>
+		<card><name id="promenadeshops">PROMENADE SHOPS</name><set>main</set></card>
+		<card><name id="soren">Soren</name><set>main</set></card>
+		<card><name id="hannahbates">Hannah Bates</name><set>main</set></card>
+		<card><name id="cargobay">% CARGO BAY</name><set>main</set></card>
+	</superzone>
+</deck>
