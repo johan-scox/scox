@@ -41,8 +41,6 @@
 		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
 		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
 		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
-		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
-		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
 		<card><name id="thetravelertranscendence">THE TRAVELER: TRANSCENDENCE</name><set>xlist</set></card>
 		<card><name id="thetravelertranscendence">THE TRAVELER: TRANSCENDENCE</name><set>xlist</set></card>
 		<card><name id="goldpressedlatinum">GOLD-PRESSED LATINUM</name><set>main</set></card>
@@ -64,6 +62,7 @@
 		<card><name id="quark">Quark</name><set>main</set></card>
 		<card><name id="morn">Morn</name><set>main</set></card>
 		<card><name id="kasidyyates">Kasidy Yates</name><set>main</set></card>
+		<card><name id="silaranprin">Silaran Prin</name><set>main</set></card>
 	</superzone>
 	<superzone name="Missions">
 		<card><name id="orbnegotiations">ORB NEGOTIATIONS</name><set>main</set></card>
@@ -123,12 +122,12 @@
 		<card><name id="runabout">% Runabout</name><set>main</set></card>
 		<card><name id="cardassianshuttle">% Cardassian Shuttle</name><set>main</set></card>
 		<card><name id="kivasfajo">Kivas Fajo</name><set>main</set></card>
-		<card><name id="silaranprin">Silaran Prin</name><set>main</set></card>
 		<card><name id="darianwallace">% Darian Wallace</name><set>main</set></card>
 		<card><name id="alyssaogawa">Alyssa Ogawa</name><set>main</set></card>
 		<card><name id="hannahbates">Hannah Bates</name><set>main</set></card>
 		<card><name id="establishlandingprotocols">ESTABLISH LANDING PROTOCOLS</name><set>main</set></card>
 		<card><name id="soren">Soren</name><set>main</set></card>
+		<card><name id="keldonadvanced">% Keldon Advanced</name><set>main</set></card>
 	</superzone>
 	<superzone name="Aside">
 		<card><name id="dockingports">DOCKING PORTS</name><set>main</set></card>
@@ -142,6 +141,6 @@
 		<card><name id="evasivemaneuvers">Evasive Maneuvers</name><set>main</set></card>
 		<card><name id="evasivemaneuvers">Evasive Maneuvers</name><set>main</set></card>
 		<card><name id="evasivemaneuvers">Evasive Maneuvers</name><set>main</set></card>
-		<card><name id="evasivemaneuvers">Evasive Maneuvers</name><set>main</set></card>
+		<card><name id="strafingrun">Strafing Run</name><set>main</set></card>
 	</superzone>
 </deck>
