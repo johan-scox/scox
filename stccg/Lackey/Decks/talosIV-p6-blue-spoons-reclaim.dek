@@ -13,6 +13,7 @@
 		<card><name id="assignmissionspecialists">ASSIGN MISSION SPECIALISTS</name><set>main</set></card>
 		<card><name id="admiralleyton">Admiral Leyton</name><set>main</set></card>
 		<card><name id="VP1VP_Spock">Spock</name><set>main</set></card>
+		<card><name id="VP1VP_Spock">Spock</name><set>main</set></card>
 		<card><name id="ambassadorkrajensky">Ambassador Krajensky</name><set>main</set></card>
 		<card><name id="jareshinyo">Jaresh-Inyo</name><set>main</set></card>
 		<card><name id="norahsatie">Norah Satie</name><set>main</set></card>
@@ -56,7 +57,6 @@
 		<card><name id="jovis">Jovis</name><set>main</set></card>
 		<card><name id="jovis">Jovis</name><set>main</set></card>
 		<card><name id="borad">Borad</name><set>main</set></card>
-		<card><name id="rogadanar">Roga Danar</name><set>main</set></card>
 		<card><name id="aluura">Aluura</name><set>main</set></card>
 		<card><name id="leeta">Leeta</name><set>main</set></card>
 		<card><name id="leeta">Leeta</name><set>main</set></card>
@@ -76,7 +76,6 @@
 		<card><name id="jasad">% Jasad</name><set>main</set></card>
 		<card><name id="parn">% Parn</name><set>main</set></card>
 		<card><name id="luthersloan">Luther Sloan</name><set>main</set></card>
-		<card><name id="benil">Benil</name><set>main</set></card>
 	</superzone>
 	<superzone name="Missions">
 		<card><name id="orbnegotiations">ORB NEGOTIATIONS</name><set>main</set></card>
@@ -89,27 +88,18 @@
 	<superzone name="Seed+Dil">
 		<card><name id="foundersecret">FOUNDER SECRET</name><set>main</set></card>
 		<card><name id="primitiveculture">PRIMITIVE CULTURE</name><set>main</set></card>
-		<card><name id="scoutencounter">SCOUT ENCOUNTER</name><set>main</set></card>
 		<card><name id="firestorm">FIRESTORM</name><set>xlist</set></card>
 		<card><name id="hazardousduty">HAZARDOUS DUTY</name><set>main</set></card>
 		<card><name id="friendlyfire">FRIENDLY FIRE</name><set>main</set></card>
 		<card><name id="assassinsblade">ASSASSIN&apos;S BLADE</name><set>main</set></card>
 		<card><name id="lackofpreparation">LACK OF PREPARATION</name><set>main</set></card>
 		<card><name id="scientificmethod">SCIENTIFIC METHOD</name><set>main</set></card>
-		<card><name id="hippocraticoath">HIPPOCRATIC OATH</name><set>main</set></card>
-		<card><name id="unscientificmethod">UNSCIENTIFIC METHOD</name><set>main</set></card>
 		<card><name id="edoprobe">EDO PROBE</name><set>xlist</set></card>
 		<card><name id="thehigherthefewer">THE HIGHER ... THE FEWER</name><set>xlist</set></card>
 		<card><name id="deadend">DEAD END</name><set>main</set></card>
 		<card><name id="shakawhenthewallsfell">SHAKA, WHEN THE WALLS FELL</name><set>xlist</set></card>
 		<card><name id="inthepalemoonlight">IN THE PALE MOONLIGHT</name><set>main</set></card>
-		<card><name id="tarellianplagueship">TARELLIAN PLAGUE SHIP</name><set>xlist</set></card>
-		<card><name id="radioactivegarbagescow">RADIOACTIVE GARBAGE SCOW</name><set>xlist</set></card>
 		<card><name id="maglock">MAGLOCK</name><set>main</set></card>
-		<card><name id="aphasiadevice">APHASIA DEVICE</name><set>main</set></card>
-		<card><name id="navigationalhazards">NAVIGATIONAL HAZARDS</name><set>main</set></card>
-		<card><name id="punishmentbox">PUNISHMENT BOX</name><set>main</set></card>
-		<card><name id="odoscousin">ODO&apos;S &quot;COUSIN&quot;</name><set>main</set></card>
 		<card><name id="shotintheback">SHOT IN THE BACK</name><set>main</set></card>
 		<card><name id="commonthief">COMMON THIEF</name><set>main</set></card>
 		<card><name id="centralcommand">Central Command</name><set>main</set></card>
@@ -118,29 +108,29 @@
 		<card><name id="spacedoor">SPACEDOOR</name><set>main</set></card>
 		<card><name id="sleepertrap">SLEEPER TRAP</name><set>main</set></card>
 		<card><name id="assignmissionspecialists">ASSIGN MISSION SPECIALISTS</name><set>main</set></card>
-		<card><name id="missionfatigue">MISSION FATIGUE</name><set>main</set></card>
 		<card><name id="sisko197subroutine">SISKO 197 SUBROUTINE</name><set>main</set></card>
 		<card><name id="treatyfederationcardassian">TREATY: FEDERATION/CARDASSIAN</name><set>main</set></card>
 		<card><name id="quarksisolinearrods">QUARK&apos;S ISOLINEAR RODS</name><set>main</set></card>
 		<card><name id="RR5V-Mirror-Image">MIRROR IMAGE</name><set>main</set></card>
 		<card><name id="teroknor">Terok Nor</name><set>main</set></card>
 		<card><name id="battlebridgedoor">BATTLE BRIDGE DOOR</name><set>main</set></card>
-		<card><name id="establishlandingprotocols">ESTABLISH LANDING PROTOCOLS</name><set>main</set></card>
+		<card><name id="strictdresscode">STRICT DRESS CODE</name><set>main</set></card>
+		<card><name id="berserkchangeling">BERSERK CHANGELING</name><set>main</set></card>
 	</superzone>
 	<superzone name="QsTent">
 		<card><name id="gibson">% Gibson</name><set>main</set></card>
 		<card><name id="reginaldbarclay">Reginald Barclay</name><set>main</set></card>
 		<card><name id="richardwilkins">% Richard Wilkins</name><set>main</set></card>
 		<card><name id="kivasfajo">Kivas Fajo</name><set>main</set></card>
-		<card><name id="darianwallace">% Darian Wallace</name><set>main</set></card>
 		<card><name id="alyssaogawa">Alyssa Ogawa</name><set>main</set></card>
 		<card><name id="hannahbates">Hannah Bates</name><set>main</set></card>
 		<card><name id="cardassiandisruptorrifle">CARDASSIAN DISRUPTOR RIFLE</name><set>main</set></card>
-		<card><name id="telle">% Telle</name><set>main</set></card>
 		<card><name id="benjaminmaxwell">Benjamin Maxwell</name><set>main</set></card>
 		<card><name id="enabrantain">Enabran Tain</name><set>main</set></card>
 		<card><name id="runabout">% Runabout</name><set>main</set></card>
 		<card><name id="cardassianshuttle">% Cardassian Shuttle</name><set>main</set></card>
+		<card><name id="establishlandingprotocols">ESTABLISH LANDING PROTOCOLS</name><set>main</set></card>
+		<card><name id="dakol">% Dakol</name><set>main</set></card>
 	</superzone>
 	<superzone name="Aside">
 		<card><name id="dockingports">DOCKING PORTS</name><set>main</set></card>
