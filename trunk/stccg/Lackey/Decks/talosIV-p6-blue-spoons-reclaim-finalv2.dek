@@ -77,6 +77,8 @@
 		<card><name id="jasad">% Jasad</name><set>main</set></card>
 		<card><name id="parn">% Parn</name><set>main</set></card>
 		<card><name id="luthersloan">Luther Sloan</name><set>main</set></card>
+		<card><name id="leahbrahms">Leah Brahms</name><set>main</set></card>
+		<card><name id="soren">Soren</name><set>main</set></card>
 	</superzone>
 	<superzone name="Missions">
 		<card><name id="orbnegotiations">ORB NEGOTIATIONS</name><set>main</set></card>
@@ -132,7 +134,6 @@
 		<card><name id="cardassianshuttle">% Cardassian Shuttle</name><set>main</set></card>
 		<card><name id="establishlandingprotocols">ESTABLISH LANDING PROTOCOLS</name><set>main</set></card>
 		<card><name id="dakol">% Dakol</name><set>main</set></card>
-		<card><name id="RR1V-Q&apos;s-Tent">Q&apos;S TENT</name><set>main</set></card>
 	</superzone>
 	<superzone name="Aside">
 		<card><name id="dockingports">DOCKING PORTS</name><set>main</set></card>
@@ -147,7 +148,5 @@
 		<card><name id="evasivemaneuvers">Evasive Maneuvers</name><set>main</set></card>
 		<card><name id="evasivemaneuvers">Evasive Maneuvers</name><set>main</set></card>
 		<card><name id="strafingrun">Strafing Run</name><set>main</set></card>
-		<card><name id="soren">Soren</name><set>main</set></card>
-		<card><name id="leahbrahms">Leah Brahms</name><set>main</set></card>
 	</superzone>
 </deck>
