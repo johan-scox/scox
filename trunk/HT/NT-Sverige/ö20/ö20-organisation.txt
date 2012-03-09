@@ -1,0 +1,69 @@
+Lika bra att ta tag i organisationsbiten av det här känner jag. Hur skall vi organisera Ö20? Jag ser ju gärna en så FK-oberoende organisation som möjligt, för att dels avlasta Fk så mycket som möjligt, samt även för att jobba så FK-oberoende som möjligt; med kontinuitet, oavsett aktuell FK's inställning till truppen (eller kanske med mindre inflytande - FK bör ju ha visst inflytande ändå).
+
+Nåväl, uppenbart att nuvarande organisation med en ansvarig för varje position inte funkar tokbra i alla lägen; finns de som funkar och de som inte gör det lika bra (sett till levande trådar - målvakt + mittfält funkar, de andra inte). Jag lägger ingen skuld på någon, eller klagar, alla har varierande intrese och tid att lägga här, och posterna skall inte vara någon börda. jag föreslår därmed att minst två personer tar på sig ansvar för varje position, och gärna sen 2 till "hjälpredor" därtill, där alla kan kliva in ifall någon mer försvinner. Hjälpredorna behöver ingen förkunskap över huvudtaget; de bumpar trådar för att se så de inte försvinner, har viktigaste spelarna inom positionen bokmärkta för att övervaka eventuella försäljningar osv. Och lär sig positionen, för att kunna framöver ta över en av huvudposterna.
+
+Därutöver kan man ha en generell tråd för allmänna diskussioner, såsom rutin, kondis, generationsplanering, osv, kort sagt "nästa generationstråden" som vi har nu. Där alla kan diskutera alla, men 2-3 personer har huvuudansvaret att hålla den uppdaterad.
+
+Gamla liknande trådar: [Ö20] Intresseanmälan [post=14955490.1], Ö20-listan [post=14115852.1]. Räcker med en tråd om generella saker, nästa generationstråden [post=15427869.1], eller skall vi ha en generell diskussionstråd om Ö20, samt en generationstråd (f.d. Ö20-listan)?
+
+Jag anser denna tråd vara såpass viktig att jag gör den sticky även om det är en diskussionstråd, men förhoppningen är att när vi fått mer klarhet i hur vi jobbar, samt fått in nedan information till fulla så kan detta inlägg innehålla viktigaste informationen för just Ö20, var man hittar info, anmäler sig intresserad att hjälpa till, osv.
+
+De jag satt som ansvariga är de som i nuläget är ansvariga, eller var de som var det senast trådarna var aktiva. Hojta här i tråden ifall ni inte vill vara ansvariga längre, eller vill hjälpa till.
+
+[b][u]Organisation:[/u][/b]
+
+[u]Generellt Ö20[/u]
+[post=15427869.1]
+Ansvarig: scox_ [userid=36489]
+Hjälpredor: 
+Vice ansvarig: ?? [i]Kontrollera att trådar hålls uppdaterade, kolla "avhopp" från poster, osv. Har tid att lägga på att surfa runt och vara behjälplig i allmänhet kort sagt.[/i]
+FK: Prinskorv [userid=17546] 
+Prestation: maesterOwain [userid=5413957] [i] (kond, form, rutin, mm)[/i]
+Tracker: HT-Bodin [i][/i] [i]Feature requests, buggrapporter, mm[/i]
+Allmän support: Trolle [userid=21292] [i]Kunskap[/i]
+Allmän support: Seppukusaint [i]Kunskap, tracker viktningar[/i]
+
+
+
+Transfertråd Ö20/LL: [post=15408099.1]
+Ansvarig: Alla! :-)
+
+[u]Målvakter[/u] 
+[post=15153715.1] [b](Aktiv)[/b]
+Ansvarig: Lindvalls [userid=3201123]
+Hjälpredor:
+- FoC-MrBridgeflax [userid=6298951]
+- ??
+- ??
+
+[u]Backar[/u] 
+[post=15152228.1] [b](Arkiverad)[/b] - behöver skapa ny.
+Ansvarig: -SIK- [userid=11184275]
+Hjälpredor: 
+- Ehlana [userid=10952707]
+- blurk [userid=170042] 
+- scox_ [userid=36489] Bokmärken, ålder ??.
+
+[u]Innrar[/u] 
+[post=15520010.1]  [b](Aktiv)[/b]
+Ansvarig: mrburt [userid=687162]
+Hjälpredor: 
+- Yurichi [userid=9631170]
+- maesterOwain [userid=5413957] (DFW)
+- Krych [userid=109346] (imupk)
+
+[u]Yttrar[/u] 
+[post=15153455.1]  [b](Arkiverad)[/b] - behöver skapa ny.
+Ansvarig: masterkaj [userid=3621363]
+Hjälpredor: 
+- Wiktor_HT34 [userid=7249625]
+- Krych [userid=109346] (IMUPK)
+- ??
+
+[u]Anfallare[/u] 
+[post=15153958.1] [b](Arkiverad)[/b] - behöver skapa ny.
+Ansvarig: Widemountain [userid=474364]
+Hjälpredor:
+- EdEng [userid=10720178]
+- Trolle [userid=21292] (bokmärken)
+- maesterOwain [userid=5413957] (DFW)
