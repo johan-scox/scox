@@ -1,0 +1,82 @@
+<deck version="0.8">
+	<meta>
+		<title>talosIV-p7-basics</title>
+		<author>Scox</author>
+		<email>johan.skoglund@yahoo.com</email>
+		<date>03-08-12</date>
+		<game>startrek1e-special-formats</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="temporalinvestigations">TEMPORAL INVESTIGATIONS</name><set>main</set></card>
+		<card><name id="35thruleofacquisition">35TH RULE OF ACQUISITION</name><set>main</set></card>
+		<card><name id="livelongandprosper">LIVE LONG AND PROSPER</name><set>main</set></card>
+		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
+		<card><name id="imadoctor">I&apos;M A DOCTOR, NOT A BRICKLAYER</name><set>main</set></card>
+		<card><name id="starshipconstitution">% Starship Constitution</name><set>main</set></card>
+		<card><name id="starshipenterprise">Starship Enterprise</name><set>main</set></card>
+		<card><name id="runabout">% Runabout</name><set>main</set></card>
+		<card><name id="ussnebula">% U.S.S. Nebula</name><set>main</set></card>
+		<card><name id="ussdanube">% U.S.S. Danube</name><set>main</set></card>
+		<card><name id="mrspock">Mr. Spock</name><set>main</set></card>
+		<card><name id="mrscott">Mr. Scott</name><set>main</set></card>
+		<card><name id="lucsly">Lucsly</name><set>main</set></card>
+		<card><name id="ltwatley">Lt. Watley</name><set>main</set></card>
+		<card><name id="ltsulu">Lt. Sulu</name><set>main</set></card>
+		<card><name id="ltsisko">Lt. Sisko</name><set>main</set></card>
+		<card><name id="ltgrant">% Lt. Grant</name><set>main</set></card>
+		<card><name id="ltdax">Lt. Dax</name><set>main</set></card>
+		<card><name id="ltbashir">Lt. Bashir</name><set>main</set></card>
+		<card><name id="ensignobrien">Ensign O&apos;Brien</name><set>main</set></card>
+		<card><name id="ensignchekov">Ensign Chekov</name><set>main</set></card>
+		<card><name id="dulmer">Dulmer</name><set>main</set></card>
+		<card><name id="drmccoy">Dr. McCoy</name><set>main</set></card>
+		<card><name id="ruk">Ruk</name><set>main</set></card>
+		<card><name id="ltbailey">Lt. Bailey</name><set>main</set></card>
+		<card><name id="coutu">% Coutu</name><set>main</set></card>
+		<card><name id="starfleettype1phasertwt">STARFLEET TYPE I PHASER *TWT</name><set>main</set></card>
+		<card><name id="nursechapel">Nurse Chapel</name><set>main</set></card>
+		<card><name id="captainkirk">Captain Kirk</name><set>main</set></card>
+	</superzone>
+	<superzone name="Missions">
+		<card><name id="agriculturalassessment">AGRICULTURAL ASSESSMENT</name><set>main</set></card>
+		<card><name id="reportedactivity">REPORTED ACTIVITY</name><set>main</set></card>
+		<card><name id="exploredysonsphere">EXPLORE DYSON SPHERE</name><set>main</set></card>
+		<card><name id="investigatedisappearance">INVESTIGATE DISAPPEARANCE</name><set>main</set></card>
+		<card><name id="distressmission">DISTRESS MISSION</name><set>main</set></card>
+		<card><name id="cargorendezvous">CARGO RENDEZVOUS</name><set>main</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="deadend">DEAD END</name><set>main</set></card>
+		<card><name id="maglock">MAGLOCK</name><set>main</set></card>
+		<card><name id="afastshipwouldbenice">A FAST SHIP WOULD BE NICE</name><set>main</set></card>
+		<card><name id="denevanneuralparasites">DENEVAN NEURAL PARASITES</name><set>main</set></card>
+		<card><name id="horta">HORTA</name><set>main</set></card>
+		<card><name id="kelvanshowofforce">KELVAN SHOW OF FORCE</name><set>main</set></card>
+		<card><name id="executiveauthorization">EXECUTIVE AUTHORIZATION</name><set>main</set></card>
+		<card><name id="ferengiinfestation">FERENGI INFESTATION</name><set>main</set></card>
+		<card><name id="hazardousdutytwt">HAZARDOUS DUTY *TWT</name><set>main</set></card>
+		<card><name id="lackofpreparationtwt">LACK OF PREPARATION *TWT</name><set>main</set></card>
+		<card><name id="oops">OOPS!</name><set>main</set></card>
+		<card><name id="primitiveculturetwt">PRIMITIVE CULTURE *TWT</name><set>main</set></card>
+		<card><name id="scientificmethodtwt">SCIENTIFIC METHOD *TWT</name><set>main</set></card>
+		<card><name id="RR1V-Q&apos;s-Tent">Q&apos;S TENT</name><set>main</set></card>
+		<card><name id="VP2VP_Tribunal-of-Q">Tribunal of Q</name><set>main_voy</set></card>
+		<card><name id="RR18V-Q-the-Referee">Q THE REFEREE</name><set>main</set></card>
+		<card><name id="makeitso">Make It So</name><set>main</set></card>
+		<card><name id="assignsupportpersonnel">ASSIGN SUPPORT PERSONNEL</name><set>main</set></card>
+		<card><name id="assignmissionspecialists">ASSIGN MISSION SPECIALISTS</name><set>main</set></card>
+		<card><name id="shermanspeak">SHERMAN&apos;S PEAK</name><set>main</set></card>
+		<card><name id="federationoutpost">% Federation Outpost</name><set>main</set></card>
+		<card><name id="RR28V-Defend-Homeworld">DEFEND HOMEWORLD</name><set>main</set></card>
+		<card><name id="alternateuniversedoortwt">ALTERNATE UNIVERSE DOOR *TWT</name><set>xlist</set></card>
+	</superzone>
+	<superzone name="QsTent">
+		<card><name id="deepspacestationk7">Deep Space Station K-7</name><set>main</set></card>
+		<card><name id="saritacarson">% Sarita Carson</name><set>main</set></card>
+		<card><name id="mendon">% Mendon</name><set>main</set></card>
+		<card><name id="gibson">% Gibson</name><set>main</set></card>
+		<card><name id="kira">Kira</name><set>main</set></card>
+		<card><name id="ensigndavis">% Ensign Davis</name><set>main</set></card>
+		<card><name id="calloway">% Calloway</name><set>main</set></card>
+	</superzone>
+</deck>
