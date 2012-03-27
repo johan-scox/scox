@@ -1,0 +1,68 @@
+1	TEMPORAL INVESTIGATIONS
+1	35TH RULE OF ACQUISITION
+1	LIVE LONG AND PROSPER
+1	REMODULATION
+1	I'M A DOCTOR, NOT A BRICKLAYER
+1	% Starship Constitution
+1	Starship Enterprise
+1	% Runabout
+1	% U.S.S. Nebula
+1	% U.S.S. Danube
+1	Alyssa Ogawa *TWT
+1	Montgomery Scott *TWT
+1	Mr. Spock
+1	Mr. Scott
+1	Dr. Farallon
+1	Lucsly
+1	Lt. Watley
+1	Lt. Uhura
+1	Lt. Sulu
+1	Lt. Sisko
+1	% Lt. Grant
+1	Lt. Dax
+1	Lt. Bashir
+1	Ensign O'Brien
+1	Ensign Chekov
+1	Dulmer
+1	Dr. McCoy
+1	Captain Kirk
+1	Kira
+Missions:
+1	AGRICULTURAL ASSESSMENT
+Seed+Dil:
+1	DEAD END
+1	MAGLOCK
+1	A FAST SHIP WOULD BE NICE
+1	DENEVAN NEURAL PARASITES
+1	HORTA
+1	KELVAN SHOW OF FORCE
+1	EXECUTIVE AUTHORIZATION
+1	FERENGI INFESTATION
+1	HAZARDOUS DUTY *TWT
+1	LACK OF PREPARATION *TWT
+1	OOPS!
+1	PRIMITIVE CULTURE *TWT
+1	SCIENTIFIC METHOD *TWT
+1	Q'S TENT
+1	Tribunal of Q
+1	Q THE REFEREE
+1	Make It So
+1	ASSIGN SUPPORT PERSONNEL
+1	ASSIGN MISSION SPECIALISTS
+1	SHERMAN'S PEAK
+1	% Federation Outpost
+1	DEFEND HOMEWORLD
+1	ALTERNATE UNIVERSE DOOR *TWT
+QsTent:
+1	Deep Space Station K-7
+1	% Sarita Carson
+1	% Orren Ran
+1	% Calloway
+1	% Taitt
+1	% Mendon
+1	% Gibson
+1	Dr. Selar
+2	Fleet Admiral Shanthi *TWT
+1	Thomas McClure *TWT
+1	Lt. Moreau
+1	Lt. D'Amato
