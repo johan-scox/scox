@@ -1,0 +1,70 @@
+<deck version="0.8">
+	<meta>
+		<title>talosIV-p7-basics</title>
+		<author>Scox</author>
+		<email>johan.skoglund@yahoo.com</email>
+		<date>03-08-12</date>
+		<game>startrek1e-special-formats</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="livelongandprosper">LIVE LONG AND PROSPER</name><set>main</set></card>
+		<card><name id="livelongandprosper">LIVE LONG AND PROSPER</name><set>main</set></card>
+		<card><name id="livelongandprosper">LIVE LONG AND PROSPER</name><set>main</set></card>
+		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
+		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
+		<card><name id="remodulation">REMODULATION</name><set>main</set></card>
+		<card><name id="imadoctor">I&apos;M A DOCTOR, NOT A BRICKLAYER</name><set>main</set></card>
+		<card><name id="ruk">Ruk</name><set>main</set></card>
+		<card><name id="coutu">% Coutu</name><set>main</set></card>
+		<card><name id="balok">Balok</name><set>main</set></card>
+		<card><name id="worftwt">Worf *TWT</name><set>main</set></card>
+		<card><name id="sciencepadd">SCIENCE PADD</name><set>main</set></card>
+		<card><name id="medicalpadd">MEDICAL PADD</name><set>main</set></card>
+		<card><name id="engineeringpadd">ENGINEERING PADD</name><set>main</set></card>
+		<card><name id="liambilby">Liam Bilby</name><set>main</set></card>
+		<card><name id="raxna">% Rax&apos;Na</name><set>main</set></card>
+		<card><name id="wyattearp">Wyatt Earp</name><set>main</set></card>
+		<card><name id="drrogerkorby">Dr. Roger Korby</name><set>main</set></card>
+		<card><name id="yint">% Yint</name><set>main</set></card>
+		<card><name id="gorta">% Gorta</name><set>main</set></card>
+		<card><name id="danderdag">% Danderdag</name><set>main</set></card>
+		<card><name id="thomasparis">Thomas Paris</name><set>main_voy</set></card>
+		<card><name id="odotwt">Odo *TWT</name><set>main</set></card>
+		<card><name id="barrywaddle">Barry Waddle</name><set>main</set></card>
+		<card><name id="grebnedlog">Grebnedlog</name><set>main</set></card>
+		<card><name id="vekortwt">% Vekor *TWT</name><set>main</set></card>
+		<card><name id="gem">Gem</name><set>main</set></card>
+		<card><name id="reginod">Reginod</name><set>main</set></card>
+		<card><name id="tshonra">T&apos;Shonra</name><set>main</set></card>
+		<card><name id="devinoniral">Devinoni Ral</name><set>main</set></card>
+	</superzone>
+	<superzone name="Missions">
+		<card><name id="historicalresearch">HISTORICAL RESEARCH</name><set>main</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="deadend">DEAD END</name><set>main</set></card>
+		<card><name id="maglock">MAGLOCK</name><set>main</set></card>
+		<card><name id="afastshipwouldbenice">A FAST SHIP WOULD BE NICE</name><set>main</set></card>
+		<card><name id="denevanneuralparasites">DENEVAN NEURAL PARASITES</name><set>main</set></card>
+		<card><name id="horta">HORTA</name><set>main</set></card>
+		<card><name id="kelvanshowofforce">KELVAN SHOW OF FORCE</name><set>main</set></card>
+		<card><name id="executiveauthorization">EXECUTIVE AUTHORIZATION</name><set>main</set></card>
+		<card><name id="ferengiinfestation">FERENGI INFESTATION</name><set>main</set></card>
+		<card><name id="hazardousdutytwt">HAZARDOUS DUTY *TWT</name><set>main</set></card>
+		<card><name id="lackofpreparationtwt">LACK OF PREPARATION *TWT</name><set>main</set></card>
+		<card><name id="oops">OOPS!</name><set>main</set></card>
+		<card><name id="primitiveculturetwt">PRIMITIVE CULTURE *TWT</name><set>main</set></card>
+		<card><name id="scientificmethodtwt">SCIENTIFIC METHOD *TWT</name><set>main</set></card>
+		<card><name id="RR1V-Q&apos;s-Tent">Q&apos;S TENT</name><set>main</set></card>
+		<card><name id="VP2VP_Tribunal-of-Q">Tribunal of Q</name><set>main_voy</set></card>
+		<card><name id="RR18V-Q-the-Referee">Q THE REFEREE</name><set>main</set></card>
+		<card><name id="assignsupportpersonnel">ASSIGN SUPPORT PERSONNEL</name><set>main</set></card>
+		<card><name id="assignmissionspecialists">ASSIGN MISSION SPECIALISTS</name><set>main</set></card>
+		<card><name id="RR28V-Defend-Homeworld">DEFEND HOMEWORLD</name><set>main</set></card>
+		<card><name id="alternateuniversedoortwt">ALTERNATE UNIVERSE DOOR *TWT</name><set>xlist</set></card>
+		<card><name id="constructstarship">CONSTRUCT STARSHIP</name><set>main</set></card>
+	</superzone>
+	<superzone name="QsTent">
+		<card><name id="spacedock">SPACEDOCK</name><set>xlist</set></card>
+	</superzone>
+</deck>
