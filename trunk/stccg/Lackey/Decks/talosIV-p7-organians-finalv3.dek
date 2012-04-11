@@ -1,6 +1,6 @@
 <deck version="0.8">
 	<meta>
-		<title>talosIV-p7-organians-superslim</title>
+		<title>talosIV-p7-organians-finalv4</title>
 		<author>Scox</author>
 		<email>johan.skoglund@yahoo.com</email>
 		<date>03-30-12</date>
@@ -11,9 +11,7 @@
 		<card><name id="korax">Korax</name><set>main</set></card>
 		<card><name id="arnedarvin">Arne Darvin</name><set>main</set></card>
 		<card><name id="daval">% Daval</name><set>main</set></card>
-		<card><name id="ltsisko">Lt. Sisko</name><set>main</set></card>
 		<card><name id="drmccoy">Dr. McCoy</name><set>main</set></card>
-		<card><name id="odotwt">Odo *TWT</name><set>main</set></card>
 		<card><name id="starshipconstitution">% Starship Constitution</name><set>main</set></card>
 		<card><name id="starshipenterprise">Starship Enterprise</name><set>main</set></card>
 		<card><name id="ikcgroth">I.K.C. Gr&apos;oth</name><set>main</set></card>
@@ -24,24 +22,25 @@
 		<card><name id="RR1V-Q&apos;s-Tent">Q&apos;S TENT</name><set>main</set></card>
 		<card><name id="ltdax">Lt. Dax</name><set>main</set></card>
 		<card><name id="RR2V-Temporal-Vortex">TEMPORAL VORTEX</name><set>main</set></card>
-		<card><name id="ltbailey">Lt. Bailey</name><set>main</set></card>
 		<card><name id="mrspock">Mr. Spock</name><set>main</set></card>
-		<card><name id="nursechapel">Nurse Chapel</name><set>main</set></card>
 		<card><name id="captainkoloth">Captain Koloth</name><set>main</set></card>
-		<card><name id="balok">Balok</name><set>main</set></card>
-		<card><name id="worftwt">Worf *TWT</name><set>main</set></card>
+		<card><name id="kered">% Kered</name><set>main</set></card>
 		<card><name id="kered">% Kered</name><set>main</set></card>
 		<card><name id="mrscott">Mr. Scott</name><set>main</set></card>
-		<card><name id="RR10V-Containment-Field">CONTAINMENT FIELD</name><set>main_voy</set></card>
-		<card><name id="RR18V-Q-the-Referee">Q THE REFEREE</name><set>main</set></card>
 		<card><name id="theguardianofforever">THE GUARDIAN OF FOREVER</name><set>main</set></card>
 		<card><name id="theguardianofforever">THE GUARDIAN OF FOREVER</name><set>main</set></card>
 		<card><name id="theguardianofforever">THE GUARDIAN OF FOREVER</name><set>main</set></card>
 		<card><name id="theguardianofforever">THE GUARDIAN OF FOREVER</name><set>main</set></card>
 		<card><name id="theguardianofforever">THE GUARDIAN OF FOREVER</name><set>main</set></card>
 		<card><name id="imadoctor">I&apos;M A DOCTOR, NOT A BRICKLAYER</name><set>main</set></card>
-		<card><name id="classictype2phaser">CLASSIC TYPE II PHASER</name><set>main</set></card>
 		<card><name id="dktahg">D&apos;K TAHG</name><set>main</set></card>
+		<card><name id="RR18V-Q-the-Referee">Q THE REFEREE</name><set>main</set></card>
+		<card><name id="ltbailey">Lt. Bailey</name><set>main</set></card>
+		<card><name id="RR10V-Containment-Field">CONTAINMENT FIELD</name><set>main_voy</set></card>
+		<card><name id="ltsisko">Lt. Sisko</name><set>main</set></card>
+		<card><name id="worftwt">Worf *TWT</name><set>main</set></card>
+		<card><name id="ensignobrien">Ensign O&apos;Brien</name><set>main</set></card>
+		<card><name id="odotwt">Odo *TWT</name><set>main</set></card>
 	</superzone>
 	<superzone name="Missions">
 		<card><name id="agriculturalassessment">AGRICULTURAL ASSESSMENT</name><set>main</set></card>
@@ -85,18 +84,11 @@
 	</superzone>
 	<superzone name="QsTent">
 		<card><name id="ikcgroth">I.K.C. Gr&apos;oth</name><set>main</set></card>
-		<card><name id="ltgrant">% Lt. Grant</name><set>main</set></card>
-		<card><name id="klingonpadd">KLINGON PADD</name><set>main</set></card>
 		<card><name id="classiccommunicator">CLASSIC COMMUNICATOR</name><set>main</set></card>
 		<card><name id="classictricorder">CLASSIC TRICORDER</name><set>main</set></card>
 		<card><name id="ikcvorcha">% I.K.C. Vor&apos;Cha</name><set>main</set></card>
-		<card><name id="ltdax">Lt. Dax</name><set>main</set></card>
-		<card><name id="mrscott">Mr. Scott</name><set>main</set></card>
-		<card><name id="kras">Kras</name><set>main</set></card>
-		<card><name id="morkatwt">Morka *TWT</name><set>main</set></card>
-		<card><name id="daval">% Daval</name><set>main</set></card>
-		<card><name id="thopok">Thopok</name><set>main</set></card>
-		<card><name id="batleth">BAT&apos;LETH</name><set>main</set></card>
+		<card><name id="medicalpadd">MEDICAL PADD</name><set>main</set></card>
+		<card><name id="classictype2phaser">CLASSIC TYPE II PHASER</name><set>main</set></card>
 	</superzone>
 	<superzone name="Aside">
 		<card><name id="organianpeacetreaty">ORGANIAN PEACE TREATY</name><set>main</set></card>
