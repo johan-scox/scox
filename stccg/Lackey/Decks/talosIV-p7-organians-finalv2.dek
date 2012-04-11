@@ -1,6 +1,6 @@
 <deck version="0.8">
 	<meta>
-		<title>talosIV-p7-organians-superslim</title>
+		<title>talosIV-p7-organians-finalv2</title>
 		<author>Scox</author>
 		<email>johan.skoglund@yahoo.com</email>
 		<date>03-30-12</date>
@@ -28,7 +28,6 @@
 		<card><name id="mrspock">Mr. Spock</name><set>main</set></card>
 		<card><name id="nursechapel">Nurse Chapel</name><set>main</set></card>
 		<card><name id="captainkoloth">Captain Koloth</name><set>main</set></card>
-		<card><name id="balok">Balok</name><set>main</set></card>
 		<card><name id="worftwt">Worf *TWT</name><set>main</set></card>
 		<card><name id="kered">% Kered</name><set>main</set></card>
 		<card><name id="mrscott">Mr. Scott</name><set>main</set></card>
@@ -42,6 +41,7 @@
 		<card><name id="imadoctor">I&apos;M A DOCTOR, NOT A BRICKLAYER</name><set>main</set></card>
 		<card><name id="classictype2phaser">CLASSIC TYPE II PHASER</name><set>main</set></card>
 		<card><name id="dktahg">D&apos;K TAHG</name><set>main</set></card>
+		<card><name id="captainkirk">Captain Kirk</name><set>main</set></card>
 	</superzone>
 	<superzone name="Missions">
 		<card><name id="agriculturalassessment">AGRICULTURAL ASSESSMENT</name><set>main</set></card>
@@ -86,17 +86,17 @@
 	<superzone name="QsTent">
 		<card><name id="ikcgroth">I.K.C. Gr&apos;oth</name><set>main</set></card>
 		<card><name id="ltgrant">% Lt. Grant</name><set>main</set></card>
-		<card><name id="klingonpadd">KLINGON PADD</name><set>main</set></card>
 		<card><name id="classiccommunicator">CLASSIC COMMUNICATOR</name><set>main</set></card>
 		<card><name id="classictricorder">CLASSIC TRICORDER</name><set>main</set></card>
 		<card><name id="ikcvorcha">% I.K.C. Vor&apos;Cha</name><set>main</set></card>
 		<card><name id="ltdax">Lt. Dax</name><set>main</set></card>
 		<card><name id="mrscott">Mr. Scott</name><set>main</set></card>
-		<card><name id="kras">Kras</name><set>main</set></card>
 		<card><name id="morkatwt">Morka *TWT</name><set>main</set></card>
 		<card><name id="daval">% Daval</name><set>main</set></card>
 		<card><name id="thopok">Thopok</name><set>main</set></card>
 		<card><name id="batleth">BAT&apos;LETH</name><set>main</set></card>
+		<card><name id="medicalpadd">MEDICAL PADD</name><set>main</set></card>
+		<card><name id="thomasparis">Thomas Paris</name><set>main_voy</set></card>
 	</superzone>
 	<superzone name="Aside">
 		<card><name id="organianpeacetreaty">ORGANIAN PEACE TREATY</name><set>main</set></card>
