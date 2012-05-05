@@ -1,0 +1,54 @@
+<deck version="0.8">
+	<meta>
+		<title>tngblock-release-ferengi</title>
+		<author>Scox</author>
+		<email>johan.skoglund@yahoo.com</email>
+		<date>04-11-12</date>
+		<game>startrek1e-alpha-dev</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="allamill">Allamill</name><set>block_b00</set></card>
+		<card><name id="tngsup_33V">Baran</name><set>block_b01</set></card>
+		<card><name id="carolmarcus_lfl">Carol Marcus (Life From Lifelessness)</name><set>block_b00</set></card>
+		<card><name id="SAS_31V">D&apos;Nesh</name><set>block_b00</set></card>
+		<card><name id="SAS_41Valt">Daniels*</name><set>block_b00</set></card>
+		<card><name id="davidmarcus_lfl">David Marcus (Life From Lifelessness)</name><set>block_b00</set></card>
+		<card><name id="tng_92V">Dr. Syrus</name><set>block_b01</set></card>
+		<card><name id="falow">Falow</name><set>block_b00</set></card>
+		<card><name id="SAS_37Valt">Gareb*</name><set>block_b00</set></card>
+		<card><name id="SAS_32V">Harrad-Sar</name><set>block_b00</set></card>
+		<card><name id="illandra">Ilandra</name><set>block_b00</set></card>
+		<card><name id="tngsup_34V">Jo&apos;Bril</name><set>block_b01</set></card>
+		<card><name id="tng_93V">Koral (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="SAS_33V">Maras</name><set>block_b00</set></card>
+		<card><name id="SAS_34V">Navaar</name><set>block_b00</set></card>
+		<card><name id="SoG_45">Neras</name><set>block_b00</set></card>
+		<card><name id="SoG_46">Rishon</name><set>block_b00</set></card>
+		<card><name id="SAS_35V">Silik</name><set>block_b00</set></card>
+		<card><name id="tngsup_35V">Sunad</name><set>block_b01</set></card>
+		<card><name id="tngsup_36V">Tallera</name><set>block_b01</set></card>
+		<card><name id="SoG_47">The Bellboy</name><set>block_b00</set></card>
+		<card><name id="SoG_48">The Foragers</name><set>block_b00</set></card>
+		<card><name id="vash_lfl">Vash (Life From Lifelessness)</name><set>block_b00</set></card>
+		<card><name id="tng_94V">Vash (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tngsup_37V">Vekor</name><set>block_b01</set></card>
+		<card><name id="SoG_49">Vina</name><set>block_b00</set></card>
+		<card><name id="tng_95V">Will Riker</name><set>block_b01</set></card>
+	</superzone>
+	<superzone name="Missions">
+		<card><name id="tng_39V">Host Metaphasic Shielding Test</name><set>block_b01</set></card>
+		<card><name id="tng_40V">Intercept Sleeper Ship</name><set>block_b01</set></card>
+		<card><name id="SoG_29">Investigate Anachronism</name><set>block_b00</set></card>
+		<card><name id="SAS_20V">Prevent Rebellion</name><set>block_b00</set></card>
+		<card><name id="tng_42V">Raid Ancient Burial Site</name><set>block_b01</set></card>
+		<card><name id="tng_43V">Revenge Plot</name><set>block_b01</set></card>
+		<card><name id="tng_48V">Treat Plague Ship</name><set>block_b01</set></card>
+		<card><name id="tng_49V">Visit Tranquil Colony</name><set>block_b01</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="tngsup_18V">Assign Mission Specialists (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_22V">Continuing Mission</name><set>block_b01</set></card>
+		<card><name id="tng_21V">Attention All Hands</name><set>block_b01</set></card>
+		<card><name id="HMF2_10">Temporal Micro-Wormhole (Homefront II)</name><set>block_core</set></card>
+	</superzone>
+</deck>

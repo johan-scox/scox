@@ -1,0 +1,75 @@
+<deck version="0.8">
+	<meta>
+		<title>tngblock-release-ferengi</title>
+		<author>Scox</author>
+		<email>johan.skoglund@yahoo.com</email>
+		<date>04-11-12</date>
+		<game>startrek1e-alpha-dev</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="tng_97V">Kurdon</name><set>block_b01</set></card>
+		<card><name id="tng_34V">Business Gambit</name><set>block_b01</set></card>
+		<card><name id="tng_95V">Will Riker</name><set>block_b01</set></card>
+		<card><name id="tngsup_37V">Vekor</name><set>block_b01</set></card>
+		<card><name id="tng_94V">Vash (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_93V">Koral (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_92V">Dr. Syrus</name><set>block_b01</set></card>
+		<card><name id="tng_67V">Captain Picard</name><set>block_b01</set></card>
+		<card><name id="tng_76V">Quark (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_68V">Daimon Bok</name><set>block_b01</set></card>
+		<card><name id="tng_74V">Mordoc (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_69V">Dr. Arridor (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_72V">Kol (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_71V">Kayron</name><set>block_b01</set></card>
+		<card><name id="tngsup_26V">Dr. Reyga (Life From Lifelessness)</name><set>block_b01</set></card>
+		<card><name id="tng_73V">Levin</name><set>block_b01</set></card>
+		<card><name id="tng_73V">Levin</name><set>block_b01</set></card>
+		<card><name id="tng_75V">Obol</name><set>block_b01</set></card>
+		<card><name id="tng_75V">Obol</name><set>block_b01</set></card>
+		<card><name id="tng_77V">Rata</name><set>block_b01</set></card>
+		<card><name id="tng_77V">Rata</name><set>block_b01</set></card>
+		<card><name id="tng_66V">Baht</name><set>block_b01</set></card>
+		<card><name id="tng_66V">Baht</name><set>block_b01</set></card>
+		<card><name id="tng_96V">Ferengi Scout Vessel</name><set>block_b01</set></card>
+		<card><name id="tng_96V">Ferengi Scout Vessel</name><set>block_b01</set></card>
+		<card><name id="tng_26V">Get It Done</name><set>block_b01</set></card>
+		<card><name id="tng_26V">Get It Done</name><set>block_b01</set></card>
+		<card><name id="tng_70V">Gozar</name><set>block_b01</set></card>
+		<card><name id="tng_70V">Gozar</name><set>block_b01</set></card>
+		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
+		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
+	</superzone>
+	<superzone name="Missions">
+		<card><name id="tng_47V">The Last Outpost</name><set>block_b01</set></card>
+		<card><name id="tng_46V">Steal Technology</name><set>block_b01</set></card>
+		<card><name id="tngsup_17V">Search for Weapons</name><set>block_b01</set></card>
+		<card><name id="tng_43V">Revenge Plot</name><set>block_b01</set></card>
+		<card><name id="tng_39V">Host Metaphasic Shielding Test</name><set>block_b01</set></card>
+		<card><name id="tng_35V">Acquire Surplus Ships</name><set>block_b01</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="HMF2_4">Dignitaries and Witnesses</name><set>block_core</set></card>
+		<card><name id="tng_8V">Magnetic Field Disruptions</name><set>block_b01</set></card>
+		<card><name id="HMF_09V">Maglock (Homefront)</name><set>block_core</set></card>
+		<card><name id="tngsup_3V">Radioactive Garbage Scow</name><set>block_b01</set></card>
+		<card><name id="tngsup_6V">Topological Anomaly 4747</name><set>block_b01</set></card>
+		<card><name id="HMF2_8">Gomtuu Shock Wave</name><set>block_core</set></card>
+		<card><name id="HMF_07V">Friendly Fire (Homefront)</name><set>block_core</set></card>
+		<card><name id="tng_10V">Pinned Down</name><set>block_b01</set></card>
+		<card><name id="HMF_02V">Chula: The Chandra (Homefront)</name><set>block_core</set></card>
+		<card><name id="HMF2_9">Linguistic Legerdemain (Homefront II)</name><set>block_core</set></card>
+		<card><name id="HMF_10V">Murder Investigation</name><set>block_core</set></card>
+		<card><name id="HMF_03V">Chula: The Lights (Homefront)</name><set>block_core</set></card>
+		<card><name id="HMF2_2">Dangerous Climb</name><set>block_core</set></card>
+		<card><name id="HMF_13V">Picking Up the Pieces</name><set>block_core</set></card>
+		<card><name id="HMF_06V">Flim-Flam Artist</name><set>block_core</set></card>
+		<card><name id="tng_5V">Ferengi Ambush</name><set>block_b01</set></card>
+		<card><name id="tngsup_1V">Armus - Skin of Evil</name><set>block_b01</set></card>
+		<card><name id="HMF_14V">Punishment Box (Homefront)</name><set>block_core</set></card>
+		<card><name id="tngsup_18V">Assign Mission Specialists (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_22V">Continuing Mission</name><set>block_b01</set></card>
+		<card><name id="tng_21V">Attention All Hands</name><set>block_b01</set></card>
+		<card><name id="tngsup_12V">Ferengi Trading Post</name><set>block_b01</set></card>
+		<card><name id="HMF2_10">Temporal Micro-Wormhole (Homefront II)</name><set>block_core</set></card>
+	</superzone>
+</deck>
