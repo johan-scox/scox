@@ -1,0 +1,75 @@
+<deck version="0.8">
+	<meta>
+		<title>tng_starter_deck_klingon</title>
+		<author>Scox</author>
+		<email>johan.skoglund@yahoo.com</email>
+		<date>04-11-12</date>
+		<game>startrek1e-alpha-dev</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="tngsup_43V">I.K.S. K&apos;Vort</name><set>block_b01</set></card>
+		<card><name id="tngsup_42V">I.K.S. Bortas</name><set>block_b01</set></card>
+		<card><name id="tng_98V">Batris</name><set>block_b01</set></card>
+		<card><name id="tngsup_37V">Vekor</name><set>block_b01</set></card>
+		<card><name id="tng_94V">Vash (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_93V">Koral (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_92V">Dr. Syrus</name><set>block_b01</set></card>
+		<card><name id="tng_79V">Captain Worf</name><set>block_b01</set></card>
+		<card><name id="tng_89V">William T. Riker (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_88V">Q&apos;elyn</name><set>block_b01</set></card>
+		<card><name id="tng_80V">Commander K&apos;Ehleyr</name><set>block_b01</set></card>
+		<card><name id="tngsup_31V">Kurak</name><set>block_b01</set></card>
+		<card><name id="tng_86V">Korris (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_85V">Koroth (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_84V">Konmel (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_83V">Kitrik (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_82V">Kahless (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tngsup_29V">K&apos;Temoc</name><set>block_b01</set></card>
+		<card><name id="tng_81V">Jean-Luc Picard (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tngsup_27V">Duras (Life From Lifelessness)</name><set>block_b01</set></card>
+		<card><name id="tng_18V">Heart of Glory</name><set>block_b01</set></card>
+		<card><name id="tng_78V">B&apos;Somgh</name><set>block_b01</set></card>
+		<card><name id="tng_78V">B&apos;Somgh</name><set>block_b01</set></card>
+		<card><name id="tng_26V">Get It Done</name><set>block_b01</set></card>
+		<card><name id="tng_26V">Get It Done</name><set>block_b01</set></card>
+		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
+		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
+		<card><name id="tng_90V">Zegov</name><set>block_b01</set></card>
+		<card><name id="tng_90V">Zegov</name><set>block_b01</set></card>
+		<card><name id="tng_87V">Losta</name><set>block_b01</set></card>
+		<card><name id="tng_87V">Losta</name><set>block_b01</set></card>
+	</superzone>
+	<superzone name="Missions">
+		<card><name id="tng_45V">Seize Freighter</name><set>block_b01</set></card>
+		<card><name id="tng_40V">Intercept Sleeper Ship</name><set>block_b01</set></card>
+		<card><name id="tngsup_16V">Impose Order</name><set>block_b01</set></card>
+		<card><name id="HMF_30V">Cloaked Mission (Homefront)</name><set>block_core</set></card>
+		<card><name id="tng_36V">Amnesty Talks</name><set>block_b01</set></card>
+		<card><name id="tng_35V">Acquire Surplus Ships</name><set>block_b01</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="HMF2_4">Dignitaries and Witnesses</name><set>block_core</set></card>
+		<card><name id="tng_8V">Magnetic Field Disruptions</name><set>block_b01</set></card>
+		<card><name id="HMF_09V">Maglock (Homefront)</name><set>block_core</set></card>
+		<card><name id="tng_15V">Warp Bubble Mishap</name><set>block_b01</set></card>
+		<card><name id="tng_9V">Microbrain</name><set>block_b01</set></card>
+		<card><name id="tngsup_4V">The Arsenal: Divided</name><set>block_b01</set></card>
+		<card><name id="HMF_07V">Friendly Fire (Homefront)</name><set>block_core</set></card>
+		<card><name id="tng_10V">Pinned Down</name><set>block_b01</set></card>
+		<card><name id="HMF_02V">Chula: The Chandra (Homefront)</name><set>block_core</set></card>
+		<card><name id="tng_1V">A Good Day to Lie</name><set>block_b01</set></card>
+		<card><name id="HMF2_5">Forsaken</name><set>block_core</set></card>
+		<card><name id="tng_11V">Temptation</name><set>block_b01</set></card>
+		<card><name id="HMF2_2">Dangerous Climb</name><set>block_core</set></card>
+		<card><name id="HMF_13V">Picking Up the Pieces</name><set>block_core</set></card>
+		<card><name id="HMF_06V">Flim-Flam Artist</name><set>block_core</set></card>
+		<card><name id="tngsup_8V">Wind Dancer</name><set>block_b01</set></card>
+		<card><name id="tng_13V">Triage</name><set>block_b01</set></card>
+		<card><name id="HMF_15V">Q&apos;s Vicious Animal Things (Homefront)</name><set>block_core</set></card>
+		<card><name id="tngsup_18V">Assign Mission Specialists (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_22V">Continuing Mission</name><set>block_b01</set></card>
+		<card><name id="tng_21V">Attention All Hands</name><set>block_b01</set></card>
+		<card><name id="tngsup_13V">Klingon Outpost</name><set>block_b01</set></card>
+		<card><name id="HMF2_10">Temporal Micro-Wormhole (Homefront II)</name><set>block_core</set></card>
+	</superzone>
+</deck>
