@@ -1,0 +1,48 @@
+<deck version="0.8">
+	<meta>
+		<title>talosIV-part8</title>
+		<author>Scox</author>
+		<email>johan.skoglund@yahoo.com</email>
+		<date>04-11-12</date>
+		<game>startrek1e-alpha-dev</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="seskacar">Seska</name><set>main</set></card>
+		<card><name id="rollins">Rollins</name><set>main</set></card>
+		<card><name id="vorik">Vorik</name><set>main</set></card>
+		<card><name id="williamtelfer">William Telfer</name><set>main</set></card>
+		<card><name id="chellfed">Chell</name><set>main</set></card>
+		<card><name id="paxim">Paxim</name><set>main</set></card>
+		<card><name id="paxim">Paxim</name><set>main</set></card>
+		<card><name id="sethis">Sethis</name><set>main</set></card>
+		<card><name id="sorum">Sorum</name><set>main</set></card>
+		<card><name id="thaden">Thaden</name><set>main</set></card>
+		<card><name id="nimira">Nimira</name><set>main</set></card>
+		<card><name id="stadi">Stadi</name><set>main</set></card>
+		<card><name id="stadi">Stadi</name><set>main</set></card>
+		<card><name id="thompsonna">Thompson*</name><set>main</set></card>
+		<card><name id="narret">Narret</name><set>main</set></card>
+		<card><name id="loran">Loran</name><set>main</set></card>
+		<card><name id="type9shuttlecraft">Type 9 Shuttlecraft</name><set>main</set></card>
+		<card><name id="type9shuttlecraft">Type 9 Shuttlecraft</name><set>main</set></card>
+		<card><name id="ussintrepid">U.S.S. Intrepid</name><set>main</set></card>
+		<card><name id="bioneuralgelpack">Bio-neural Gel Pack</name><set>main</set></card>
+	</superzone>
+	<superzone name="Missions">
+		<card><name id="reinitializewarpreaction">Reinitialize Warp Reaction</name><set>main</set></card>
+		<card><name id="studyintermentsite">Study Interment Site</name><set>main</set></card>
+		<card><name id="heallifeform">Heal Life-form</name><set>main</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="nekritsupplydepot">Nekrit Supply Depot</name><set>main</set></card>
+		<card><name id="gravimetricdistortionvoy">Gravimetric Distortion (Voyager)</name><set>main</set></card>
+		<card><name id="implication">Implication</name><set>main</set></card>
+		<card><name id="komarpossession">Komar Possession</name><set>main</set></card>
+		<card><name id="lackofpreparationvoy">Lack of Preparation (Voyager)</name><set>main</set></card>
+		<card><name id="astraleddy">Astral Eddy</name><set>main</set></card>
+		<card><name id="civilunrest">Civil Unrest</name><set>main</set></card>
+		<card><name id="commonthiefvoy">Common Thief (Voyager)</name><set>main</set></card>
+		<card><name id="RR8V-Villagers-With-Torches">Villagers With Torches</name><set>main</set></card>
+		<card><name id="ussvoyager">U.S.S. Voyager</name><set>main</set></card>
+	</superzone>
+</deck>
