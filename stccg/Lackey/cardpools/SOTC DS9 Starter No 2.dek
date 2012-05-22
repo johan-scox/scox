@@ -1,0 +1,254 @@
+<deck version="0.8">
+	<meta>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="dockingports">DOCKING PORTS</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="derell">% Derell</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="parn">% Parn</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="grahamdavis">% Graham Davis</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="jural">% Jural</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="jural">% Jural</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="cardassianshuttle">% Cardassian Shuttle</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="weaponslocker">WEAPONS LOCKER</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="drnydom">% Dr. Nydom</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="engineeringtricorder">ENGINEERING TRICORDER</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="engineeringtricorder">ENGINEERING TRICORDER</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="engineeringtricorder">ENGINEERING TRICORDER</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="reactioncontrolthrusters">REACTION CONTROL THRUSTERS</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="itriedtowarnyou">I TRIED TO WARN YOU</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="exploregammaquadrant">EXPLORE GAMMA QUADRANT</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="armsdeal">ARMS DEAL</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="magneticnorth">MAGNETIC NORTH</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="punishmentbox">PUNISHMENT BOX</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="bajoranscoutvessel">% Bajoran Scout Vessel</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="RR24V-Oof">OOF!</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="espionagebajoranoncardass">ESPIONAGE: BAJORAN ON CARDASSIAN</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="untrustworthyassociate">UNTRUSTWORTHY ASSOCIATE</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="treatyromulancardass">TREATY: ROMULAN/CARDASSIAN</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="studybadlands">% STUDY BADLANDS</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="bajoranwormhole">BAJORAN WORMHOLE</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="processore">PROCESS ORE</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="linalas">Li Nalas</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="rescuepersonnel">RESCUE PERSONNEL</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="paxtonreese">% Paxton Reese</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="ussdanube">% U.S.S. Danube</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="karenloews">% Karen Loews</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="kidnappers">KIDNAPPERS</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="reignitedeadstar">REIGNITE DEAD STAR</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="taylormoore">% Taylor Moore</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="orrenran">% Orren Ran</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="lojal">% Lojal</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="skullduggery">SKULLDUGGERY</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="rescueprisoners">RESCUE PRISONERS</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="treatyfederationbajoran">TREATY: FEDERATION/BAJORAN</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="bajoranfreighter">% Bajoran Freighter</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="ranodake">% Rano Dake</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="ranodake">% Rano Dake</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="briefromance">BRIEF ROMANCE</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="refuseimmigration">REFUSE IMMIGRATION</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="rasenorvan">% Rase Norvan</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="vedeksorad">% Vedek Sorad</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="anara">% Anara</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="garanianbolites">GARANIAN BOLITES</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="studyplasmastorm">% STUDY PLASMA STORM</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="bajoranphaser">BAJORAN PHASER</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="rinnakpire">% Rinnak Pire</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="kallisven">% Kallis Ven</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="angrymob">ANGRY MOB</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="relocatesettlers">RELOCATE SETTLERS</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="bajoranoutpost">% Bajoran Outpost</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="assaultvessel">% Assault Vessel</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="ministerrozahn">% Minister Rozahn</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="misguidedactivist">MISGUIDED ACTIVIST</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="characterizeneutrinoemiss">CHARACTERIZE NEUTRINO EMISSIONS</name>
+			<set>main</set>
+		</card>
+		<card>
+			<name id="bajoranpadd">BAJORAN PADD</name>
+			<set>main</set>
+		</card>
+	</superzone>
+	<superzone name="Missions">
+	</superzone>
+	<superzone name="Seed+Dil">
+	</superzone>
+	<superzone name="QsTent">
+	</superzone>
+	<superzone name="Aside">
+	</superzone>
+</deck>
