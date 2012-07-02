@@ -50,11 +50,10 @@
 		<card><name id="gibson">Gibson</name><set>main</set></card>
 		<card><name id="tngsup_21V">Shelby</name><set>block_b01</set></card>
 		<card><name id="tngsup_21V">Shelby</name><set>block_b01</set></card>
-		<card><name id="RR16V-Obelisk-of-Masaka">Obelisk of Masaka</name><set>main</set></card>
 		<card><name id="RR28V-Defend-Homeworld">Defend Homeworld</name><set>main</set></card>
 		<card><name id="tng_25V">Finest Crew in the Fleet</name><set>block_b01</set></card>
 		<card><name id="tng_59V">Dr. Christopher</name><set>block_b01</set></card>
-		<card><name id="tng_92V">Dr. Syrus</name><set>block_b01</set></card>
+		<card><name id="RR16V-Obelisk-of-Masaka">Obelisk of Masaka</name><set>main</set></card>
 	</superzone>
 	<superzone name="Missions">
 		<card><name id="ReportedActivity">Reported Activity</name><set>main</set></card>
@@ -105,11 +104,11 @@
 		<card><name id="YellowAlert">Yellow Alert</name><set>xlist</set></card>
 		<card><name id="LowerDecks">Lower Decks</name><set>xlist</set></card>
 		<card><name id="drleahbrahms">Dr. Leah Brahms</name><set>main</set></card>
-		<card><name id="simontarses">Simon Tarses</name><set>main</set></card>
 		<card><name id="lindalarson">Linda Larson</name><set>main</set></card>
 		<card><name id="christopherhobson">Christopher Hobson</name><set>main</set></card>
 		<card><name id="47VP">Wall of Ships (Virtual Promo)</name><set>main</set></card>
 		<card><name id="tngsup_35V">Sunad</name><set>block_b01</set></card>
+		<card><name id="simontarses">Simon Tarses</name><set>main</set></card>
 	</superzone>
 	<superzone name="Aside">
 		<card><name id="phaserbanks">Phaser Banks</name><set>block_b00</set></card>
