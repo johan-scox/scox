@@ -1,0 +1,40 @@
+<deck version="0.8">
+	<meta>
+		<title>otf-dq-fed</title>
+		<author>Scox</author>
+		<email>johan.skoglund@yahoo.com</email>
+		<date>04-11-12</date>
+		<game>startrek1e-alpha-dev</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="RiF_8V">Optimize Drones</name><set>block_b00</set></card>
+		<card><name id="activatesubcommands">Activate Subcommands</name><set>main</set></card>
+		<card><name id="wearetheborg">We are the Borg</name><set>main</set></card>
+		<card><name id="wearetheborg">We are the Borg</name><set>main</set></card>
+		<card><name id="resistanceisfutile">Resistance is Futile</name><set>main</set></card>
+		<card><name id="achangeofplans">A Change of Plans</name><set>main</set></card>
+		<card><name id="AdaptNegateObstruction">Adapt: Negate Obstruction</name><set>main</set></card>
+		<card><name id="awaken">Awaken</name><set>main</set></card>
+		<card><name id="threedimensionalthinking">Three-dimensional Thinking</name><set>main</set></card>
+		<card><name id="salvagestarship">Salvage Starship</name><set>main</set></card>
+		<card><name id="assimilateplanetborg">Assimilate Planet (The Borg)</name><set>main</set></card>
+		<card><name id="establishgatewayborg">Establish Gateway (The Borg)</name><set>main</set></card>
+		<card><name id="HMF2_23">Service the Collective (Homefront II)</name><set>block_core</set></card>
+		<card><name id="assimilatehomeworld">Assimilate Homeworld</name><set>main</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="TranswarpNetworkGateway">Transwarp Network Gateway</name><set>main</set></card>
+		<card><name id="EstablishGateway">Establish Gateway</name><set>main</set></card>
+		<card><name id="HMF2_19">Transwarp Hub (Homefront II)</name><set>block_core</set></card>
+		<card><name id="unicomplex">Unicomplex</name><set>main</set></card>
+		<card><name id="elevenofseventeen">Eleven of Seventeen</name><set>main</set></card>
+		<card><name id="QtheReferee">Q the Referee</name><set>main</set></card>
+		<card><name id="VP2VP_Tribunal-of-Q">Tribunal of Q</name><set>main</set></card>
+		<card><name id="RR28V-Defend-Homeworld">Defend Homeworld</name><set>main</set></card>
+	</superzone>
+	<superzone name="QsTent">
+		<card><name id="borgvinculum">Borg Vinculum</name><set>main</set></card>
+		<card><name id="maturationchamber">Maturation Chamber</name><set>main</set></card>
+		<card><name id="RiF_7V">Adapt: Allocate Resources</name><set>block_b00</set></card>
+	</superzone>
+</deck>

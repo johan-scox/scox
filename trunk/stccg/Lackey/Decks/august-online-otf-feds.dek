@@ -1,0 +1,35 @@
+<deck version="0.8">
+	<meta>
+		<title>august-online-otf-feds</title>
+		<author>Scox</author>
+		<email>johan.skoglund@yahoo.com</email>
+		<date>04-11-12</date>
+		<game>startrek1e-alpha-dev</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="AssignMissionSpecialists">Assign Mission Specialists</name><set>main</set></card>
+		<card><name id="AssignMissionSpecialists">Assign Mission Specialists</name><set>main</set></card>
+		<card><name id="AssignMissionSpecialists">Assign Mission Specialists</name><set>main</set></card>
+		<card><name id="AssignMissionSpecialists">Assign Mission Specialists</name><set>main</set></card>
+		<card><name id="starfleettype1phaser">Starfleet Type I Phaser</name><set>main</set></card>
+		<card><name id="starfleettype1phaser">Starfleet Type I Phaser</name><set>main</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="VP2VP_Tribunal-of-Q">Tribunal of Q</name><set>main</set></card>
+		<card><name id="QtheReferee">Q the Referee</name><set>main</set></card>
+		<card><name id="AssignMissionSpecialists">Assign Mission Specialists</name><set>main</set></card>
+		<card><name id="assignsupportpersonnel">Assign Support Personnel</name><set>main</set></card>
+		<card><name id="tng_23V">Equipment Replicator</name><set>block_b01</set></card>
+		<card><name id="spacedoor">Spacedoor</name><set>main</set></card>
+		<card><name id="hqdefensivemeasures">HQ: Defensive Measures</name><set>main</set></card>
+		<card><name id="officeofthepresident">Office of the President</name><set>main</set></card>
+		<card><name id="campkhitomer">Camp Khitomer</name><set>main</set></card>
+		<card><name id="tngsup_11V">Federation Outpost</name><set>block_b01</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="RR28V-Defend-Homeworld">Defend Homeworld</name><set>main</set></card>
+		<card><name id="RR16V-Obelisk-of-Masaka">Obelisk of Masaka</name><set>main</set></card>
+		<card><name id="RR15V-Its-Only-A-Game">It&apos;s Only a Game</name><set>main</set></card>
+		<card><name id="tng_17V">General Quarters</name><set>block_b01</set></card>
+	</superzone>
+</deck>

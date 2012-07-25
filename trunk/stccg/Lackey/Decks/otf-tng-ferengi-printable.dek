@@ -1,0 +1,137 @@
+<deck version="0.8">
+	<meta>
+		<title>otf-tng-ferengi-printable</title>
+		<author>Scox</author>
+		<email>johan.skoglund@yahoo.com</email>
+		<date>04-11-12</date>
+		<game>startrek1e-alpha-dev</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
+		<card><name id="tngsup_18V">Assign Mission Specialists (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tngsup_18V">Assign Mission Specialists (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tngsup_18V">Assign Mission Specialists (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="ReadyRoomDoor">Ready Room Door</name><set>main</set></card>
+		<card><name id="ReadyRoomDoor">Ready Room Door</name><set>main</set></card>
+		<card><name id="ReadyRoomDoor">Ready Room Door</name><set>main</set></card>
+		<card><name id="ReadyRoomDoor">Ready Room Door</name><set>main</set></card>
+		<card><name id="LowerDecks">Lower Decks</name><set>xlist</set></card>
+		<card><name id="tng_19V">Let&apos;s See What&apos;s Out There</name><set>block_b01</set></card>
+		<card><name id="tng_19V">Let&apos;s See What&apos;s Out There</name><set>block_b01</set></card>
+		<card><name id="Remodulation">Remodulation</name><set>main</set></card>
+		<card><name id="Remodulation">Remodulation</name><set>main</set></card>
+		<card><name id="Remodulation">Remodulation</name><set>main</set></card>
+		<card><name id="Q2">Q2</name><set>xlist</set></card>
+		<card><name id="KevinUxbridge">Kevin Uxbridge</name><set>xlist</set></card>
+		<card><name id="DisruptorOverload">Disruptor Overload</name><set>xlist</set></card>
+		<card><name id="AmandaRogers">Amanda Rogers</name><set>xlist</set></card>
+		<card><name id="tng_32V">&quot;Tag!&quot;</name><set>block_b01</set></card>
+		<card><name id="VP6VP_Handshake">Handshake (Virtual Promo)</name><set>main</set></card>
+		<card><name id="VP6VP_Handshake">Handshake (Virtual Promo)</name><set>main</set></card>
+		<card><name id="VP6VP_Handshake">Handshake (Virtual Promo)</name><set>main</set></card>
+		<card><name id="thegenesiseffect">The Genesis Effect</name><set>block_b00</set></card>
+		<card><name id="HMF2_15">HQ: War Room (Homefront II)</name><set>block_core</set></card>
+		<card><name id="HMF2_16">Isomagnetic Disintegrator (Homefront II)</name><set>block_core</set></card>
+		<card><name id="HMF2_16">Isomagnetic Disintegrator (Homefront II)</name><set>block_core</set></card>
+		<card><name id="HMF2_17">Masaka Transformations (Homefront II)</name><set>block_core</set></card>
+		<card><name id="HMF2_17">Masaka Transformations (Homefront II)</name><set>block_core</set></card>
+		<card><name id="MetaphasicShields">Metaphasic Shields</name><set>xlist</set></card>
+		<card><name id="NutationalShields">Nutational Shields</name><set>xlist</set></card>
+		<card><name id="calandra">Calandra</name><set>main</set></card>
+		<card><name id="tng_66V">Baht</name><set>block_b01</set></card>
+		<card><name id="tng_67V">Captain Picard</name><set>block_b01</set></card>
+		<card><name id="tng_68V">Daimon Bok</name><set>block_b01</set></card>
+		<card><name id="tng_69V">Dr. Arridor (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tngsup_26V">Dr. Reyga (Life From Lifelessness)</name><set>block_b01</set></card>
+		<card><name id="tng_70V">Gozar</name><set>block_b01</set></card>
+		<card><name id="tng_72V">Kol (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_73V">Levin</name><set>block_b01</set></card>
+		<card><name id="tng_74V">Mordoc (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_75V">Obol</name><set>block_b01</set></card>
+		<card><name id="tng_76V">Quark (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_77V">Rata</name><set>block_b01</set></card>
+		<card><name id="IC13V-The-Trois">The Trois (Identity Crisis)</name><set>main</set></card>
+		<card><name id="krunk">Krunk</name><set>main</set></card>
+		<card><name id="letek">Letek</name><set>main</set></card>
+		<card><name id="prak">Prak</name><set>main</set></card>
+		<card><name id="solok">Solok</name><set>main</set></card>
+		<card><name id="taar">Taar</name><set>main</set></card>
+		<card><name id="IC19V-Prot">Prot (Identity Crisis)</name><set>main</set></card>
+	</superzone>
+	<superzone name="Missions">
+		<card><name id="tng_44V">Salvage Borg Ship</name><set>block_b01</set></card>
+		<card><name id="DiplomaticConference">Diplomatic Conference</name><set>main</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="tngsup_18V">Assign Mission Specialists (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_22V">Continuing Mission</name><set>block_b01</set></card>
+		<card><name id="SoG_14">Duck Blind</name><set>block_b00</set></card>
+		<card><name id="tng_21V">Attention All Hands</name><set>block_b01</set></card>
+		<card><name id="VP2VP_Tribunal-of-Q">Tribunal of Q</name><set>main</set></card>
+		<card><name id="QtheReferee">Q the Referee</name><set>main</set></card>
+		<card><name id="QtheReferee">Q the Referee</name><set>main</set></card>
+		<card><name id="RR1V-Q&apos;s-Tent">Q&apos;s Tent</name><set>xlist</set></card>
+		<card><name id="HMF_05V">Dead End (Homefront)</name><set>block_core</set></card>
+		<card><name id="HMF_07V">Friendly Fire (Homefront)</name><set>block_core</set></card>
+		<card><name id="HMF2_6">Founder Secret (Homefront II)</name><set>block_core</set></card>
+		<card><name id="HMF_09V">Maglock (Homefront)</name><set>block_core</set></card>
+		<card><name id="tngsup_5V">The Arsenal: Separated</name><set>block_b01</set></card>
+		<card><name id="tngsup_4V">The Arsenal: Divided</name><set>block_b01</set></card>
+		<card><name id="RR28V-Defend-Homeworld">Defend Homeworld</name><set>main</set></card>
+		<card><name id="45VP">A Fast Ship Would Be Nice (Virtual Promo)</name><set>main</set></card>
+		<card><name id="HMF_08V">God (Homefront)</name><set>block_core</set></card>
+		<card><name id="HMF2_9">Linguistic Legerdemain (Homefront II)</name><set>block_core</set></card>
+		<card><name id="AnkariSpirits">Ankari &quot;Spirits&quot;</name><set>main</set></card>
+		<card><name id="tngsup_1V">Armus - Skin of Evil</name><set>block_b01</set></card>
+		<card><name id="SoG_1">Armus: Energy Field</name><set>block_b00</set></card>
+		<card><name id="SoG_2">Armus: Roulette</name><set>block_b00</set></card>
+		<card><name id="HMF2_1">Cardassian Processing</name><set>block_core</set></card>
+		<card><name id="HMF_02V">Chula: The Chandra (Homefront)</name><set>block_core</set></card>
+		<card><name id="HMF_03V">Chula: The Lights (Homefront)</name><set>block_core</set></card>
+		<card><name id="HMF_04V">Dal&apos;Rok (Homefront)</name><set>block_core</set></card>
+		<card><name id="HMF2_2">Dangerous Climb</name><set>block_core</set></card>
+		<card><name id="SAS_03V">Difference of Opinion</name><set>block_b00</set></card>
+		<card><name id="HMF2_4">Dignitaries and Witnesses</name><set>block_core</set></card>
+		<card><name id="distractedbythoughtsofhome">Distracted by Thoughts of Home</name><set>block_b00</set></card>
+		<card><name id="EdoProbe">Edo Probe</name><set>xlist</set></card>
+		<card><name id="Firestorm">Firestorm</name><set>xlist</set></card>
+		<card><name id="HMF_06V">Flim-Flam Artist</name><set>block_core</set></card>
+		<card><name id="HMF2_5">Forsaken</name><set>block_core</set></card>
+		<card><name id="HMF2_8">Gomtuu Shock Wave</name><set>block_core</set></card>
+		<card><name id="importantguests">Important Guests</name><set>block_b00</set></card>
+		<card><name id="medicalcrisis">Medical Crisis</name><set>block_b00</set></card>
+		<card><name id="SAS_04Va">Mimetic Simbiot</name><set>block_b00</set></card>
+		<card><name id="HMF_11V">New Essentialists (Homefront)</name><set>block_core</set></card>
+		<card><name id="HMF_12V">Now Would Be a Good Time (Homefront)</name><set>block_core</set></card>
+		<card><name id="19VP_PersonalDuty">Personal Duty</name><set>main</set></card>
+		<card><name id="HMF_14V">Punishment Box (Homefront)</name><set>block_core</set></card>
+		<card><name id="39VP">HQ: Secure Homeworld (Virtual Promo)</name><set>main</set></card>
+		<card><name id="tngsup_9V">Alternate Universe Door</name><set>block_b01</set></card>
+		<card><name id="HMF_25V">Tower of Commerce (Homefront)</name><set>block_core</set></card>
+		<card><name id="tngsup_12V">Ferengi Trading Post</name><set>block_b01</set></card>
+	</superzone>
+	<superzone name="QsTent">
+		<card><name id="HMF2_21">Dig</name><set>block_core</set></card>
+		<card><name id="tng_26V">Get It Done</name><set>block_b01</set></card>
+		<card><name id="RR16V-Obelisk-of-Masaka">Obelisk of Masaka</name><set>main</set></card>
+		<card><name id="tng_20V">You Are a Monument</name><set>block_b01</set></card>
+		<card><name id="tng_17V">General Quarters</name><set>block_b01</set></card>
+		<card><name id="RR8V-Villagers-With-Torches">Villagers With Torches</name><set>main</set></card>
+		<card><name id="RR13V-In-the-Zone">In the Zone</name><set>xlist</set></card>
+		<card><name id="QtheReferee">Q the Referee</name><set>main</set></card>
+		<card><name id="QtheReferee">Q the Referee</name><set>main</set></card>
+		<card><name id="55VP">Defiant Dedication Plaque (Virtual Promo)</name><set>main</set></card>
+		<card><name id="CaptainsLog">Captain&apos;s Log</name><set>xlist</set></card>
+		<card><name id="47VP">Wall of Ships (Virtual Promo)</name><set>main</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="qol">Qol</name><set>main</set></card>
+		<card><name id="mordoc">Mordoc</name><set>main</set></card>
+		<card><name id="tng_71V">Kayron</name><set>block_b01</set></card>
+		<card><name id="drborts">Dr. Borts</name><set>main</set></card>
+		<card><name id="narik">Narik</name><set>main</set></card>
+		<card><name id="tng_92V">Dr. Syrus</name><set>block_b01</set></card>
+		<card><name id="drfarek">Dr. Farek</name><set>main</set></card>
+		<card><name id="tng_24V">Ferengi Military Operations</name><set>block_b01</set></card>
+	</superzone>
+</deck>

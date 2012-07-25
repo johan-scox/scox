@@ -1,35 +1,26 @@
 <deck version="0.8">
 	<meta>
-		<title>tngblock-fast-kli</title>
+		<title>tngblock-fast-fer</title>
 		<author>Scox</author>
 		<email>johan.skoglund@yahoo.com</email>
 		<date>04-11-12</date>
 		<game>startrek1e-alpha-dev</game>
 	</meta>
 	<superzone name="Deck">
-		<card><name id="tng_94V">Vash (The Next Generation)</name><set>block_b01</set></card>
 		<card><name id="tng_26V">Get It Done</name><set>block_b01</set></card>
 		<card><name id="tng_26V">Get It Done</name><set>block_b01</set></card>
-		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
 		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
 		<card><name id="HMF2_21">Dig</name><set>block_core</set></card>
-		<card><name id="HMF2_16">Isomagnetic Disintegrator (Homefront II)</name><set>block_core</set></card>
-		<card><name id="HMF2_16">Isomagnetic Disintegrator (Homefront II)</name><set>block_core</set></card>
-		<card><name id="HMF2_22">Diplomatic Contact</name><set>block_core</set></card>
-		<card><name id="45thruleofacquisition">45th Rule of Acquisition</name><set>block_b00</set></card>
-		<card><name id="tngsup_33V">Baran</name><set>block_b01</set></card>
 		<card><name id="tng_93V">Koral (The Next Generation)</name><set>block_b01</set></card>
-		<card><name id="tngsup_36V">Tallera</name><set>block_b01</set></card>
-		<card><name id="tngsup_37V">Vekor</name><set>block_b01</set></card>
-		<card><name id="tng_95V">Will Riker</name><set>block_b01</set></card>
 		<card><name id="tng_66V">Baht</name><set>block_b01</set></card>
 		<card><name id="tng_67V">Captain Picard</name><set>block_b01</set></card>
 		<card><name id="tng_68V">Daimon Bok</name><set>block_b01</set></card>
+		<card><name id="tng_68V">Daimon Bok</name><set>block_b01</set></card>
 		<card><name id="tng_69V">Dr. Arridor (The Next Generation)</name><set>block_b01</set></card>
-		<card><name id="tngsup_26V">Dr. Reyga (Life From Lifelessness)</name><set>block_b01</set></card>
 		<card><name id="tng_70V">Gozar</name><set>block_b01</set></card>
 		<card><name id="tng_70V">Gozar</name><set>block_b01</set></card>
-		<card><name id="tng_72V">Kol (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_70V">Gozar</name><set>block_b01</set></card>
+		<card><name id="tng_70V">Gozar</name><set>block_b01</set></card>
 		<card><name id="tng_73V">Levin</name><set>block_b01</set></card>
 		<card><name id="tng_73V">Levin</name><set>block_b01</set></card>
 		<card><name id="tng_73V">Levin</name><set>block_b01</set></card>
@@ -37,56 +28,71 @@
 		<card><name id="tng_75V">Obol</name><set>block_b01</set></card>
 		<card><name id="tng_76V">Quark (The Next Generation)</name><set>block_b01</set></card>
 		<card><name id="tng_77V">Rata</name><set>block_b01</set></card>
-		<card><name id="tng_77V">Rata</name><set>block_b01</set></card>
 		<card><name id="tng_97V">Kurdon</name><set>block_b01</set></card>
 		<card><name id="tng_96V">Ferengi Scout Vessel</name><set>block_b01</set></card>
 		<card><name id="tng_96V">Ferengi Scout Vessel</name><set>block_b01</set></card>
+		<card><name id="tng_96V">Ferengi Scout Vessel</name><set>block_b01</set></card>
 		<card><name id="tngsup_41V">D&apos;Kora Transport</name><set>block_b01</set></card>
+		<card><name id="tng_94V">Vash (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_19V">Let&apos;s See What&apos;s Out There</name><set>block_b01</set></card>
+		<card><name id="tng_19V">Let&apos;s See What&apos;s Out There</name><set>block_b01</set></card>
+		<card><name id="tng_19V">Let&apos;s See What&apos;s Out There</name><set>block_b01</set></card>
+		<card><name id="tngsup_35V">Sunad</name><set>block_b01</set></card>
+		<card><name id="tng_71V">Kayron</name><set>block_b01</set></card>
+		<card><name id="tng_24V">Ferengi Military Operations</name><set>block_b01</set></card>
+		<card><name id="tng_92V">Dr. Syrus</name><set>block_b01</set></card>
+		<card><name id="SoG_12">All-Consuming Evil</name><set>block_b00</set></card>
 	</superzone>
 	<superzone name="Missions">
 		<card><name id="tng_36V">Amnesty Talks</name><set>block_b01</set></card>
 		<card><name id="tng_46V">Steal Technology</name><set>block_b01</set></card>
 		<card><name id="tng_47V">The Last Outpost</name><set>block_b01</set></card>
-		<card><name id="tng_44V">Salvage Borg Ship</name><set>block_b01</set></card>
 		<card><name id="tng_43V">Revenge Plot</name><set>block_b01</set></card>
 		<card><name id="tng_35V">Acquire Surplus Ships</name><set>block_b01</set></card>
+		<card><name id="SoG_30">Save Stranded Crew</name><set>block_b00</set></card>
 	</superzone>
 	<superzone name="Seed+Dil">
-		<card><name id="HMF2_4">Dignitaries and Witnesses</name><set>block_core</set></card>
-		<card><name id="HMF_09V">Maglock (Homefront)</name><set>block_core</set></card>
-		<card><name id="HMF_07V">Friendly Fire (Homefront)</name><set>block_core</set></card>
-		<card><name id="HMF_02V">Chula: The Chandra (Homefront)</name><set>block_core</set></card>
-		<card><name id="tngsup_5V">The Arsenal: Separated</name><set>block_b01</set></card>
 		<card><name id="tngsup_18V">Assign Mission Specialists (The Next Generation)</name><set>block_b01</set></card>
 		<card><name id="tng_22V">Continuing Mission</name><set>block_b01</set></card>
 		<card><name id="tng_31V">Strategic Base</name><set>block_b01</set></card>
-		<card><name id="SoG_14">Duck Blind</name><set>block_b00</set></card>
-		<card><name id="HMF_08V">God (Homefront)</name><set>block_core</set></card>
-		<card><name id="HMF_04V">Dal&apos;Rok (Homefront)</name><set>block_core</set></card>
-		<card><name id="HMF_05V">Dead End (Homefront)</name><set>block_core</set></card>
-		<card><name id="HMF2_6">Founder Secret (Homefront II)</name><set>block_core</set></card>
-		<card><name id="HMF2_8">Gomtuu Shock Wave</name><set>block_core</set></card>
-		<card><name id="HMF2_9">Linguistic Legerdemain (Homefront II)</name><set>block_core</set></card>
-		<card><name id="importantguests">Important Guests</name><set>block_b00</set></card>
-		<card><name id="medicalcrisis">Medical Crisis</name><set>block_b00</set></card>
-		<card><name id="HMF_14V">Punishment Box (Homefront)</name><set>block_core</set></card>
-		<card><name id="tngsup_3V">Radioactive Garbage Scow</name><set>block_b01</set></card>
-		<card><name id="skeletoncrew">Skeleton Crew</name><set>block_b00</set></card>
-		<card><name id="HMF_17V">Subspace Shock Wave (Homefront)</name><set>block_core</set></card>
-		<card><name id="tngsup_4V">The Arsenal: Divided</name><set>block_b01</set></card>
-		<card><name id="HMF_03V">Chula: The Lights (Homefront)</name><set>block_core</set></card>
 		<card><name id="tng_21V">Attention All Hands</name><set>block_b01</set></card>
-		<card><name id="SAS_04V">Mimetic Simbiot</name><set>block_b00</set></card>
-		<card><name id="SAS_03V">Difference of Opinion</name><set>block_b00</set></card>
-		<card><name id="tngsup_9V">Alternate Universe Door</name><set>block_b01</set></card>
 		<card><name id="battlebridgedoor">Battle Bridge Door</name><set>block_b00</set></card>
-		<card><name id="tng_28V">Mercenary Raiders</name><set>block_b01</set></card>
 		<card><name id="tngsup_12V">Ferengi Trading Post</name><set>block_b01</set></card>
 		<card><name id="tngsup_41V">D&apos;Kora Transport</name><set>block_b01</set></card>
+		<card><name id="SoG_2">Armus: Roulette</name><set>block_b00</set></card>
+		<card><name id="SoG_1">Armus: Energy Field</name><set>block_b00</set></card>
+		<card><name id="tngsup_1V">Armus - Skin of Evil</name><set>block_b01</set></card>
+		<card><name id="tng_14V">War Games</name><set>block_b01</set></card>
+		<card><name id="HMF_03V">Chula: The Lights (Homefront)</name><set>block_core</set></card>
+		<card><name id="HMF_04V">Dal&apos;Rok (Homefront)</name><set>block_core</set></card>
+		<card><name id="HMF_05V">Dead End (Homefront)</name><set>block_core</set></card>
+		<card><name id="HMF2_4">Dignitaries and Witnesses</name><set>block_core</set></card>
+		<card><name id="tng_5V">Ferengi Ambush</name><set>block_b01</set></card>
+		<card><name id="HMF2_6">Founder Secret (Homefront II)</name><set>block_core</set></card>
+		<card><name id="HMF_07V">Friendly Fire (Homefront)</name><set>block_core</set></card>
+		<card><name id="HMF_08V">God (Homefront)</name><set>block_core</set></card>
+		<card><name id="HMF2_8">Gomtuu Shock Wave</name><set>block_core</set></card>
+		<card><name id="importantguests">Important Guests</name><set>block_b00</set></card>
+		<card><name id="HMF2_9">Linguistic Legerdemain (Homefront II)</name><set>block_core</set></card>
+		<card><name id="HMF_09V">Maglock (Homefront)</name><set>block_core</set></card>
+		<card><name id="tng_8V">Magnetic Field Disruptions</name><set>block_b01</set></card>
+		<card><name id="medicalcrisis">Medical Crisis</name><set>block_b00</set></card>
+		<card><name id="HMF_12V">Now Would Be a Good Time (Homefront)</name><set>block_core</set></card>
+		<card><name id="tngsup_3V">Radioactive Garbage Scow</name><set>block_b01</set></card>
+		<card><name id="tngsup_4V">The Arsenal: Divided</name><set>block_b01</set></card>
+		<card><name id="tngsup_5V">The Arsenal: Separated</name><set>block_b01</set></card>
+		<card><name id="tngsup_9V">Alternate Universe Door</name><set>block_b01</set></card>
 	</superzone>
-	<superzone name="Aside">
-		<card><name id="tng_92V">Dr. Syrus</name><set>block_b01</set></card>
-		<card><name id="tng_24V">Ferengi Military Operations</name><set>block_b01</set></card>
-		<card><name id="tng_71V">Kayron</name><set>block_b01</set></card>
+	<superzone name="QsTent">
+		<card><name id="ferengienergyweapon">Ferengi Energy Weapon</name><set>block_b00</set></card>
+		<card><name id="ferengienergyweapon">Ferengi Energy Weapon</name><set>block_b00</set></card>
+		<card><name id="ferengienergyweapon">Ferengi Energy Weapon</name><set>block_b00</set></card>
+		<card><name id="ferengienergyweapon">Ferengi Energy Weapon</name><set>block_b00</set></card>
+		<card><name id="maximumfirepower">Maximum Firepower</name><set>block_b00</set></card>
+		<card><name id="photontorpedo">Photon Torpedo</name><set>block_b00</set></card>
+		<card><name id="photontorpedo">Photon Torpedo</name><set>block_b00</set></card>
+		<card><name id="photontorpedo">Photon Torpedo</name><set>block_b00</set></card>
+		<card><name id="plasmaenergyburst">Plasma Energy Burst</name><set>block_b00</set></card>
+		<card><name id="plasmaenergyburst">Plasma Energy Burst</name><set>block_b00</set></card>
 	</superzone>
 </deck>

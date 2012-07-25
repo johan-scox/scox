@@ -4,7 +4,7 @@
 		<author>Scox</author>
 		<email>johan.skoglund@yahoo.com</email>
 		<date>04-11-12</date>
-		<game>startrek1e-alpha</game>
+		<game>startrek1e-alpha-dev</game>
 	</meta>
 	<superzone name="Deck">
 		<card><name id="tng_65V">Seth Mendoza</name><set>block_b01</set></card>
@@ -31,29 +31,38 @@
 		<card><name id="tngsup_18V">Assign Mission Specialists (The Next Generation)</name><set>block_b01</set></card>
 		<card><name id="tngsup_18V">Assign Mission Specialists (The Next Generation)</name><set>block_b01</set></card>
 		<card><name id="runabout">Runabout</name><set>main</set></card>
-		<card><name id="runabout">Runabout</name><set>main</set></card>
 		<card><name id="ussnebula">U.S.S. Nebula</name><set>main</set></card>
 		<card><name id="ReadyRoomDoor">Ready Room Door</name><set>main</set></card>
 		<card><name id="ReadyRoomDoor">Ready Room Door</name><set>main</set></card>
 		<card><name id="ReadyRoomDoor">Ready Room Door</name><set>main</set></card>
 		<card><name id="ReadyRoomDoor">Ready Room Door</name><set>main</set></card>
-		<card><name id="tngsup_39V">U.S.S. Enterprise (Chain of Command)</name><set>block_b01</set></card>
-		<card><name id="tngsup_23V">Spock</name><set>block_b01</set></card>
 		<card><name id="Remodulation">Remodulation</name><set>main</set></card>
 		<card><name id="Remodulation">Remodulation</name><set>main</set></card>
 		<card><name id="Remodulation">Remodulation</name><set>main</set></card>
 		<card><name id="Remodulation">Remodulation</name><set>main</set></card>
-		<card><name id="51VP">James T. Kirk (Virtual Promo)</name><set>main</set></card>
 		<card><name id="Mendon">Mendon</name><set>main</set></card>
 		<card><name id="darianwallace">Darian Wallace</name><set>main</set></card>
 		<card><name id="calloway">Calloway</name><set>main</set></card>
 		<card><name id="gibson">Gibson</name><set>main</set></card>
 		<card><name id="tngsup_21V">Shelby</name><set>block_b01</set></card>
 		<card><name id="tngsup_21V">Shelby</name><set>block_b01</set></card>
-		<card><name id="RR28V-Defend-Homeworld">Defend Homeworld</name><set>main</set></card>
-		<card><name id="tng_25V">Finest Crew in the Fleet</name><set>block_b01</set></card>
-		<card><name id="tng_59V">Dr. Christopher</name><set>block_b01</set></card>
 		<card><name id="RR16V-Obelisk-of-Masaka">Obelisk of Masaka</name><set>main</set></card>
+		<card><name id="RR28V-Defend-Homeworld">Defend Homeworld</name><set>main</set></card>
+		<card><name id="ussenterprise">U.S.S. Enterprise</name><set>main</set></card>
+		<card><name id="beverlycrusher">Beverly Crusher</name><set>main</set></card>
+		<card><name id="geordilaforge">Geordi La Forge</name><set>main</set></card>
+		<card><name id="guinan">Guinan</name><set>main</set></card>
+		<card><name id="hannahbates">Hannah Bates</name><set>main</set></card>
+		<card><name id="keikoobrien">Keiko O&apos;Brien</name><set>main</set></card>
+		<card><name id="montgomeryscott">Montgomery Scott</name><set>main</set></card>
+		<card><name id="norahsatie">Norah Satie</name><set>main</set></card>
+		<card><name id="rager">Rager</name><set>main</set></card>
+		<card><name id="tashayar">Tasha Yar</name><set>main</set></card>
+		<card><name id="hiddenfighter">Hidden Fighter</name><set>main</set></card>
+		<card><name id="hiddenfighter">Hidden Fighter</name><set>main</set></card>
+		<card><name id="christopherhobson">Christopher Hobson</name><set>main</set></card>
+		<card><name id="lindalarson">Linda Larson</name><set>main</set></card>
+		<card><name id="simontarses">Simon Tarses</name><set>main</set></card>
 	</superzone>
 	<superzone name="Missions">
 		<card><name id="ReportedActivity">Reported Activity</name><set>main</set></card>
@@ -88,12 +97,12 @@
 		<card><name id="HMF_11V">New Essentialists (Homefront)</name><set>block_core</set></card>
 		<card><name id="HMF_12V">Now Would Be a Good Time (Homefront)</name><set>block_core</set></card>
 		<card><name id="19VP_PersonalDuty">Personal Duty</name><set>main</set></card>
+		<card><name id="battlebridgedoor">Battle Bridge Door</name><set>block_b00</set></card>
 		<card><name id="22VP_TheClownBitterMedicine">The Clown: Bitter Medicine</name><set>main</set></card>
 		<card><name id="HMF_17V">Subspace Shock Wave (Homefront)</name><set>block_core</set></card>
 		<card><name id="HMF_16V">Restricted Area</name><set>block_core</set></card>
 		<card><name id="tng_31V">Strategic Base</name><set>block_b01</set></card>
 		<card><name id="TarellianPlagueShip">Tarellian Plague Ship</name><set>xlist</set></card>
-		<card><name id="battlebridgedoor">Battle Bridge Door</name><set>main</set></card>
 	</superzone>
 	<superzone name="QsTent">
 		<card><name id="tng_26V">Get It Done</name><set>block_b01</set></card>
@@ -103,25 +112,27 @@
 		<card><name id="RR13V-In-the-Zone">In the Zone</name><set>xlist</set></card>
 		<card><name id="YellowAlert">Yellow Alert</name><set>xlist</set></card>
 		<card><name id="LowerDecks">Lower Decks</name><set>xlist</set></card>
-		<card><name id="drleahbrahms">Dr. Leah Brahms</name><set>main</set></card>
-		<card><name id="lindalarson">Linda Larson</name><set>main</set></card>
-		<card><name id="christopherhobson">Christopher Hobson</name><set>main</set></card>
-		<card><name id="47VP">Wall of Ships (Virtual Promo)</name><set>main</set></card>
 		<card><name id="tngsup_35V">Sunad</name><set>block_b01</set></card>
-		<card><name id="simontarses">Simon Tarses</name><set>main</set></card>
+		<card><name id="runabout">Runabout</name><set>main</set></card>
+		<card><name id="alyssaogawa">Alyssa Ogawa</name><set>main</set></card>
+		<card><name id="riva">Riva</name><set>main</set></card>
+		<card><name id="tng_59V">Dr. Christopher</name><set>block_b01</set></card>
 	</superzone>
 	<superzone name="Aside">
-		<card><name id="evasivemaneuvers">Evasive Maneuvers</name><set>main</set></card>
-		<card><name id="evasivemaneuvers">Evasive Maneuvers</name><set>main</set></card>
-		<card><name id="evasivemaneuvers">Evasive Maneuvers</name><set>main</set></card>
-		<card><name id="evasivemaneuvers">Evasive Maneuvers</name><set>main</set></card>
-		<card><name id="phaserbanks">Phaser Banks</name><set>main</set></card>
-		<card><name id="phaserbanks">Phaser Banks</name><set>main</set></card>
-		<card><name id="phaserbanks">Phaser Banks</name><set>main</set></card>
-		<card><name id="phaserbanks">Phaser Banks</name><set>main</set></card>
-		<card><name id="phaserbanks">Phaser Banks</name><set>main</set></card>
-		<card><name id="phaserbanks">Phaser Banks</name><set>main</set></card>
-		<card><name id="quantumtorpedo">Quantum Torpedo</name><set>main</set></card>
-		<card><name id="quantumtorpedo">Quantum Torpedo</name><set>main</set></card>
+		<card><name id="phaserbanks">Phaser Banks</name><set>block_b00</set></card>
+		<card><name id="phaserbanks">Phaser Banks</name><set>block_b00</set></card>
+		<card><name id="phaserbanks">Phaser Banks</name><set>block_b00</set></card>
+		<card><name id="phaserbanks">Phaser Banks</name><set>block_b00</set></card>
+		<card><name id="phaserbanks">Phaser Banks</name><set>block_b00</set></card>
+		<card><name id="phaserbanks">Phaser Banks</name><set>block_b00</set></card>
+		<card><name id="evasivemaneuvers">Evasive Maneuvers</name><set>block_b00</set></card>
+		<card><name id="evasivemaneuvers">Evasive Maneuvers</name><set>block_b00</set></card>
+		<card><name id="evasivemaneuvers">Evasive Maneuvers</name><set>block_b00</set></card>
+		<card><name id="evasivemaneuvers">Evasive Maneuvers</name><set>block_b00</set></card>
+		<card><name id="quantumtorpedo">Quantum Torpedo</name><set>block_b00</set></card>
+		<card><name id="quantumtorpedo">Quantum Torpedo</name><set>block_b00</set></card>
+		<card><name id="reginaldbarclay">Reginald Barclay</name><set>main</set></card>
+		<card><name id="tng_25V">Finest Crew in the Fleet</name><set>block_b01</set></card>
+		<card><name id="leahbrahms">Leah Brahms</name><set>main</set></card>
 	</superzone>
 </deck>

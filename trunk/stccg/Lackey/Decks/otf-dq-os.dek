@@ -1,0 +1,74 @@
+<deck version="0.8">
+	<meta>
+		<title>otf-dq-fed</title>
+		<author>Scox</author>
+		<email>johan.skoglund@yahoo.com</email>
+		<date>04-11-12</date>
+		<game>startrek1e-alpha-dev</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="belannatorresfed">B&apos;Elanna Torres</name><set>main</set></card>
+		<card><name id="deltaflyer">Delta Flyer</name><set>main</set></card>
+		<card><name id="baxial">Baxial</name><set>xlist</set></card>
+		<card><name id="hiddenfighter">Hidden Fighter</name><set>main</set></card>
+		<card><name id="hiddenfighter">Hidden Fighter</name><set>main</set></card>
+		<card><name id="hiddenfighter">Hidden Fighter</name><set>main</set></card>
+		<card><name id="62ndruleofacquisition">62nd Rule of Acquisition</name><set>main</set></card>
+		<card><name id="62ndruleofacquisition">62nd Rule of Acquisition</name><set>main</set></card>
+		<card><name id="62ndruleofacquisition">62nd Rule of Acquisition</name><set>main</set></card>
+		<card><name id="type9shuttlecraft">Type 9 Shuttlecraft</name><set>main</set></card>
+		<card><name id="harrykim">Harry Kim</name><set>main</set></card>
+		<card><name id="taborfed">Tabor*</name><set>main</set></card>
+		<card><name id="kesfed">Kes*</name><set>main</set></card>
+		<card><name id="sevenofninefed">Seven of Nine*</name><set>main</set></card>
+		<card><name id="tomparis">Tom Paris</name><set>main</set></card>
+		<card><name id="tuvok">Tuvok</name><set>main</set></card>
+		<card><name id="kathrynjaneway">Kathryn Janeway</name><set>main</set></card>
+		<card><name id="rudolphransomfed">Rudolph Ransom</name><set>main</set></card>
+		<card><name id="maxwellburkefed">Maxwell Burke</name><set>main</set></card>
+		<card><name id="thedoctor">The Doctor</name><set>main</set></card>
+	</superzone>
+	<superzone name="Missions">
+		<card><name id="liberation">Liberation</name><set>main</set></card>
+		<card><name id="HMF_32V">Espionage Mission (Homefront)</name><set>block_core</set></card>
+		<card><name id="inversionmystery">Inversion Mystery</name><set>main</set></card>
+		<card><name id="reinitializewarpreaction">Reinitialize Warp Reaction</name><set>main</set></card>
+		<card><name id="repairmission">Repair Mission</name><set>main</set></card>
+		<card><name id="ReportedActivity">Reported Activity</name><set>main</set></card>
+		<card><name id="heallifeform">Heal Life-form</name><set>main</set></card>
+		<card><name id="catalogphenomena">Catalog Phenomena</name><set>main</set></card>
+		<card><name id="exploredysonsphere">Explore Dyson Sphere</name><set>main</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="43VP">U.S.S. Voyager (Virtual Promo)</name><set>main</set></card>
+		<card><name id="homeawayfromhome">Home Away From Home</name><set>main</set></card>
+		<card><name id="CaretakersArray">Caretaker&apos;s Array</name><set>main</set></card>
+		<card><name id="HMF2_10">Temporal Micro-Wormhole (Homefront II)</name><set>block_core</set></card>
+		<card><name id="assignsupportpersonnel">Assign Support Personnel</name><set>main</set></card>
+		<card><name id="RR28V-Defend-Homeworld">Defend Homeworld</name><set>main</set></card>
+		<card><name id="assignmissionspecialistsvoy">Assign Mission Specialists (Voyager)</name><set>main</set></card>
+		<card><name id="HMF_23V">Office of the President (Homefront)</name><set>block_core</set></card>
+		<card><name id="nekritsupplydepot">Nekrit Supply Depot</name><set>main</set></card>
+		<card><name id="tngsup_9V">Alternate Universe Door</name><set>block_b01</set></card>
+	</superzone>
+	<superzone name="QsTent">
+		<card><name id="hqsecurehomeworld">HQ: Secure Homeworld</name><set>main</set></card>
+		<card><name id="establishlandingprotocols">Establish Landing Protocols</name><set>main</set></card>
+		<card><name id="flaxianscoutvessel">Flaxian Scout Vessel</name><set>main</set></card>
+		<card><name id="runabout">Runabout</name><set>main</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="ayalafed">Ayala</name><set>main</set></card>
+		<card><name id="bluealert">Blue Alert</name><set>main</set></card>
+		<card><name id="bioneuralgelpack">Bio-neural Gel Pack</name><set>main</set></card>
+		<card><name id="reginaldbarclay">Reginald Barclay</name><set>main</set></card>
+		<card><name id="angelotassonifed">Angelo Tassoni</name><set>main</set></card>
+		<card><name id="leahbrahms">Leah Brahms</name><set>main</set></card>
+		<card><name id="gibson">Gibson</name><set>main</set></card>
+		<card><name id="hannahbates">Hannah Bates</name><set>main</set></card>
+		<card><name id="josephcarey">Joseph Carey</name><set>main</set></card>
+		<card><name id="richardwilkins">Richard Wilkins</name><set>main</set></card>
+		<card><name id="soren">Soren</name><set>main</set></card>
+		<card><name id="tobyrussell">Toby Russell</name><set>main</set></card>
+	</superzone>
+</deck>
