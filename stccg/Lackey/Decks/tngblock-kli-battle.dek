@@ -1,0 +1,72 @@
+<deck version="0.8">
+	<meta>
+		<title>tngblock-fast-kli</title>
+		<author>Scox</author>
+		<email>johan.skoglund@yahoo.com</email>
+		<date>04-11-12</date>
+		<game>startrek1e-alpha-dev</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="tng_94V">Vash (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_26V">Get It Done</name><set>block_b01</set></card>
+		<card><name id="tng_26V">Get It Done</name><set>block_b01</set></card>
+		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
+		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
+		<card><name id="HMF2_21">Dig</name><set>block_core</set></card>
+		<card><name id="HMF2_16">Isomagnetic Disintegrator (Homefront II)</name><set>block_core</set></card>
+		<card><name id="HMF2_16">Isomagnetic Disintegrator (Homefront II)</name><set>block_core</set></card>
+		<card><name id="HMF2_22">Diplomatic Contact</name><set>block_core</set></card>
+		<card><name id="tngsup_27V">Duras (Life From Lifelessness)</name><set>block_b01</set></card>
+		<card><name id="tng_78V">B&apos;Somgh</name><set>block_b01</set></card>
+		<card><name id="tng_78V">B&apos;Somgh</name><set>block_b01</set></card>
+		<card><name id="tng_79V">Captain Worf</name><set>block_b01</set></card>
+		<card><name id="tng_80V">Commander K&apos;Ehleyr</name><set>block_b01</set></card>
+		<card><name id="tngsup_28V">Gowron</name><set>block_b01</set></card>
+		<card><name id="tng_81V">Jean-Luc Picard (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tngsup_29V">K&apos;Temoc</name><set>block_b01</set></card>
+		<card><name id="tng_82V">Kahless (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tngsup_30V">Kargan</name><set>block_b01</set></card>
+		<card><name id="tng_83V">Kitrik (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_84V">Konmel (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_93V">Koral (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_85V">Koroth (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_86V">Korris (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tngsup_31V">Kurak</name><set>block_b01</set></card>
+		<card><name id="tng_87V">Losta</name><set>block_b01</set></card>
+		<card><name id="tng_87V">Losta</name><set>block_b01</set></card>
+		<card><name id="HMF2_45">Nu&apos;Daq (Homefront II)</name><set>block_core</set></card>
+		<card><name id="tng_89V">William T. Riker (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_90V">Zegov</name><set>block_b01</set></card>
+		<card><name id="tng_90V">Zegov</name><set>block_b01</set></card>
+		<card><name id="tng_98V">Batris</name><set>block_b01</set></card>
+		<card><name id="tngsup_42V">I.K.S. Bortas</name><set>block_b01</set></card>
+		<card><name id="tng_99V">I.K.S. Pagh</name><set>block_b01</set></card>
+		<card><name id="tngsup_43V">I.K.S. K&apos;Vort</name><set>block_b01</set></card>
+		<card><name id="tngsup_43V">I.K.S. K&apos;Vort</name><set>block_b01</set></card>
+	</superzone>
+	<superzone name="Missions">
+		<card><name id="tng_36V">Amnesty Talks</name><set>block_b01</set></card>
+		<card><name id="tng_46V">Steal Technology</name><set>block_b01</set></card>
+		<card><name id="tng_42V">Raid Ancient Burial Site</name><set>block_b01</set></card>
+		<card><name id="SoG_30">Save Stranded Crew</name><set>block_b00</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="tngsup_18V">Assign Mission Specialists (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_22V">Continuing Mission</name><set>block_b01</set></card>
+		<card><name id="tng_31V">Strategic Base</name><set>block_b01</set></card>
+		<card><name id="SoG_14">Duck Blind</name><set>block_b00</set></card>
+		<card><name id="tng_21V">Attention All Hands</name><set>block_b01</set></card>
+		<card><name id="tngsup_9V">Alternate Universe Door</name><set>block_b01</set></card>
+		<card><name id="battlebridgedoor">Battle Bridge Door</name><set>block_b00</set></card>
+		<card><name id="tngsup_13V">Klingon Outpost</name><set>block_b01</set></card>
+		<card><name id="HMF_26V">The Great Hall (Homefront)</name><set>block_core</set></card>
+		<card><name id="tng_28V">Mercenary Raiders</name><set>block_b01</set></card>
+		<card><name id="tng_29V">Officer Exchange Program</name><set>block_b01</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="tng_92V">Dr. Syrus</name><set>block_b01</set></card>
+		<card><name id="tng_88V">Q&apos;elyn</name><set>block_b01</set></card>
+		<card><name id="tngsup_32V">Vekma</name><set>block_b01</set></card>
+		<card><name id="tng_27V">Legitimate Leader of the Empire</name><set>block_b01</set></card>
+	</superzone>
+</deck>

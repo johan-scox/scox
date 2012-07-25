@@ -1,0 +1,8 @@
+<deck version="0.8">
+	<meta>
+		<game>startrek1e-alpha-dev</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="1tribblebonus">1 Tribble - Bonus</name><set>main</set></card>
+	</superzone>
+</deck>

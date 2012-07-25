@@ -1,0 +1,96 @@
+<deck version="0.8">
+	<meta>
+		<title>otf-dq-fed</title>
+		<author>Scox</author>
+		<email>johan.skoglund@yahoo.com</email>
+		<date>04-11-12</date>
+		<game>startrek1e-alpha-dev</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="hiddenfighter">Hidden Fighter</name><set>main</set></card>
+		<card><name id="hiddenfighter">Hidden Fighter</name><set>main</set></card>
+		<card><name id="hiddenfighter">Hidden Fighter</name><set>main</set></card>
+		<card><name id="62ndruleofacquisition">62nd Rule of Acquisition</name><set>main</set></card>
+		<card><name id="62ndruleofacquisition">62nd Rule of Acquisition</name><set>main</set></card>
+		<card><name id="62ndruleofacquisition">62nd Rule of Acquisition</name><set>main</set></card>
+		<card><name id="classictricorder">Classic Tricorder</name><set>main</set></card>
+		<card><name id="RR1V-Q&apos;s-Tent">Q&apos;s Tent</name><set>xlist</set></card>
+		<card><name id="RR1V-Q&apos;s-Tent">Q&apos;s Tent</name><set>xlist</set></card>
+		<card><name id="RR1V-Q&apos;s-Tent">Q&apos;s Tent</name><set>xlist</set></card>
+		<card><name id="RR1V-Q&apos;s-Tent">Q&apos;s Tent</name><set>xlist</set></card>
+		<card><name id="TemporalVortex">Temporal Vortex</name><set>main</set></card>
+		<card><name id="theguardianofforever">The Guardian of Forever</name><set>main</set></card>
+		<card><name id="theguardianofforever">The Guardian of Forever</name><set>main</set></card>
+		<card><name id="theguardianofforever">The Guardian of Forever</name><set>main</set></card>
+		<card><name id="theguardianofforever">The Guardian of Forever</name><set>main</set></card>
+		<card><name id="theguardianofforever">The Guardian of Forever</name><set>main</set></card>
+		<card><name id="theguardianofforever">The Guardian of Forever</name><set>main</set></card>
+		<card><name id="dktahg">D&apos;k Tahg</name><set>main</set></card>
+		<card><name id="imadoctor">I&apos;m a Doctor, Not a Bricklayer</name><set>main</set></card>
+		<card><name id="arnedarvin">Arne Darvin</name><set>main</set></card>
+		<card><name id="odotwt">Odo (The Trouble with Tribbles)</name><set>main</set></card>
+		<card><name id="worftwt">Worf (The Trouble with Tribbles)</name><set>main</set></card>
+		<card><name id="mrscott">Mr. Scott</name><set>main</set></card>
+		<card><name id="drmccoy">Dr. McCoy</name><set>main</set></card>
+		<card><name id="captainkoloth">Captain Koloth</name><set>main</set></card>
+		<card><name id="korax">Korax</name><set>main</set></card>
+		<card><name id="kras">Kras</name><set>main</set></card>
+		<card><name id="ltbailey">Lt. Bailey</name><set>main</set></card>
+		<card><name id="ltsisko">Lt. Sisko</name><set>main</set></card>
+		<card><name id="daval">Daval</name><set>main</set></card>
+		<card><name id="daval">Daval</name><set>main</set></card>
+		<card><name id="ltdax">Lt. Dax</name><set>main</set></card>
+		<card><name id="ltmoreau">Lt. Moreau</name><set>main</set></card>
+		<card><name id="mrspock">Mr. Spock</name><set>main</set></card>
+		<card><name id="kered">Kered</name><set>main</set></card>
+		<card><name id="kered">Kered</name><set>main</set></card>
+		<card><name id="starshipconstitution">Starship Constitution</name><set>main</set></card>
+		<card><name id="starshipenterprise">Starship Enterprise</name><set>main</set></card>
+		<card><name id="IC23V-Battle-Cruiser">Battle Cruiser (Identity Crisis)</name><set>main</set></card>
+		<card><name id="ikcgroth">I.K.C. Gr&apos;oth</name><set>main</set></card>
+		<card><name id="SoG_49">Vina</name><set>block_b00</set></card>
+		<card><name id="christopherpike">Christopher Pike</name><set>main</set></card>
+		<card><name id="captainkirk">Captain Kirk</name><set>main</set></card>
+		<card><name id="yeomanrand">Yeoman Rand</name><set>main</set></card>
+		<card><name id="ltkyle">Lt. Kyle</name><set>main</set></card>
+		<card><name id="nursechapel">Nurse Chapel</name><set>main</set></card>
+		<card><name id="ruk">Ruk</name><set>main</set></card>
+		<card><name id="balok">Balok</name><set>main</set></card>
+	</superzone>
+	<superzone name="Missions">
+		<card><name id="ReportedActivity">Reported Activity</name><set>main</set></card>
+		<card><name id="agriculturalassessment">Agricultural Assessment</name><set>main</set></card>
+		<card><name id="historicalresearch">Historical Research</name><set>main</set></card>
+		<card><name id="EspionageMission">Espionage Mission</name><set>main</set></card>
+		<card><name id="exploredysonsphere">Explore Dyson Sphere</name><set>main</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="assignsupportpersonnel">Assign Support Personnel</name><set>main</set></card>
+		<card><name id="RR28V-Defend-Homeworld">Defend Homeworld</name><set>main</set></card>
+		<card><name id="assignmissionspecialistsvoy">Assign Mission Specialists (Voyager)</name><set>main</set></card>
+		<card><name id="tngsup_9V">Alternate Universe Door</name><set>block_b01</set></card>
+		<card><name id="shermanspeak">Sherman&apos;s Peak</name><set>main</set></card>
+		<card><name id="RR1V-Q&apos;s-Tent">Q&apos;s Tent</name><set>xlist</set></card>
+		<card><name id="VP2VP_Tribunal-of-Q">Tribunal of Q</name><set>main</set></card>
+		<card><name id="QtheReferee">Q the Referee</name><set>main</set></card>
+		<card><name id="tngsup_11V">Federation Outpost</name><set>block_b01</set></card>
+		<card><name id="spacedoor">Spacedoor</name><set>main</set></card>
+		<card><name id="officeofthepresident">Office of the President</name><set>main</set></card>
+	</superzone>
+	<superzone name="QsTent">
+		<card><name id="classictricorder">Classic Tricorder</name><set>main</set></card>
+		<card><name id="classictype2phaser">Classic Type II Phaser</name><set>main</set></card>
+		<card><name id="classiccommunicator">Classic Communicator</name><set>main</set></card>
+		<card><name id="federationpadd">Federation PADD</name><set>main</set></card>
+		<card><name id="ikcgroth">I.K.C. Gr&apos;oth</name><set>main</set></card>
+		<card><name id="saritacarson">Sarita Carson</name><set>main</set></card>
+		<card><name id="SAS_41Valt">Daniels*</name><set>block_b00</set></card>
+		<card><name id="ltgrant">Lt. Grant</name><set>main</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="organianpeacetreaty">Organian Peace Treaty</name><set>main</set></card>
+		<card><name id="deepspacestationk7">Deep Space Station K-7</name><set>main</set></card>
+		<card><name id="drroyse">Dr. Royse</name><set>main</set></card>
+		<card><name id="darianwallace">Darian Wallace</name><set>main</set></card>
+	</superzone>
+</deck>

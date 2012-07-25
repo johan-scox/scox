@@ -1,0 +1,28 @@
+<deck version="0.8">
+	<meta>
+		<title>july-online-otf-virtual-tng_fed_agility</title>
+		<author>Scox</author>
+		<email>johan.skoglund@yahoo.com</email>
+		<date>04-11-12</date>
+		<game>startrek1e-alpha-dev</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="AdaptNegateObstruction">Adapt: Negate Obstruction</name><set>main</set></card>
+		<card><name id="AssimilatePlanet">Assimilate Planet</name><set>main</set></card>
+		<card><name id="EstablishGateway">Establish Gateway</name><set>main</set></card>
+		<card><name id="SoG_32">Borg Queen (Shades of Gray)</name><set>block_b00</set></card>
+		<card><name id="SoG_32">Borg Queen (Shades of Gray)</name><set>block_b00</set></card>
+		<card><name id="SoG_32">Borg Queen (Shades of Gray)</name><set>block_b00</set></card>
+		<card><name id="SoG_32">Borg Queen (Shades of Gray)</name><set>block_b00</set></card>
+		<card><name id="bruntofborg">Brunt of Borg</name><set>block_b00</set></card>
+		<card><name id="RiF_11V">Data of Borg</name><set>block_b00</set></card>
+		<card><name id="borgtacticalcube">Borg Tactical Cube</name><set>main</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="TranswarpNetworkGateway">Transwarp Network Gateway</name><set>main</set></card>
+		<card><name id="HMF2_23">Service the Collective (Homefront II)</name><set>block_core</set></card>
+		<card><name id="EstablishGateway">Establish Gateway</name><set>main</set></card>
+		<card><name id="HMF2_19">Transwarp Hub (Homefront II)</name><set>block_core</set></card>
+		<card><name id="BorgOutpost">Borg Outpost</name><set>main</set></card>
+	</superzone>
+</deck>
