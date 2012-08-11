@@ -1,0 +1,132 @@
+<deck version="0.8">
+	<meta>
+		<title>2012-09-online-aff-au-film-feds</title>
+		<author>Scox</author>
+		<email>johan.skoglund@yahoo.com</email>
+		<date>04-11-12</date>
+		<game>startrek1e-alpha-dev</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="captainsulu">Captain Sulu</name><set>main</set></card>
+		<card><name id="ensigntuvok">Ensign Tuvok</name><set>main</set></card>
+		<card><name id="dmitrivaltane">Dmitri Valtane</name><set>main</set></card>
+		<card><name id="commanderrand">Commander Rand</name><set>main</set></card>
+		<card><name id="johnharriman">John Harriman</name><set>main</set></card>
+		<card><name id="marktobiaston">Mark Tobiaston</name><set>main</set></card>
+		<card><name id="marktobiaston">Mark Tobiaston</name><set>main</set></card>
+		<card><name id="demorasulu">Demora Sulu</name><set>main</set></card>
+		<card><name id="mrscotttmp">Mr. Scott (The Motion Pictures)</name><set>main</set></card>
+		<card><name id="drmccoytmp">Dr. McCoy (The Motion Pictures)</name><set>main</set></card>
+		<card><name id="commanderuhura">Commander Uhura</name><set>main</set></card>
+		<card><name id="HMF2_39">Ambassador Sarek (Homefront II)</name><set>block_core</set></card>
+		<card><name id="admiralcartwright">Admiral Cartwright</name><set>main</set></card>
+		<card><name id="admiralcartwright">Admiral Cartwright</name><set>main</set></card>
+		<card><name id="stjohntalbot">St. John Talbot</name><set>main</set></card>
+		<card><name id="drchapel">Dr. Chapel</name><set>main</set></card>
+		<card><name id="amandagrayson">Amanda Grayson</name><set>main</set></card>
+		<card><name id="jtesteban">J. T. Esteban</name><set>main</set></card>
+		<card><name id="tlar">T&apos;Lar</name><set>main</set></card>
+		<card><name id="admiralkirk_lfl">Admiral Kirk (Life From Lifelessness)</name><set>block_b00</set></card>
+		<card><name id="admiralkirk">Admiral Kirk</name><set>main</set></card>
+		<card><name id="saavik">Saavik</name><set>main</set></card>
+		<card><name id="commanderchekov">Commander Chekov</name><set>main</set></card>
+		<card><name id="captainspock">Captain Spock</name><set>main</set></card>
+		<card><name id="willarddecker">Willard Decker</name><set>main</set></card>
+		<card><name id="jacobson">Jacobson</name><set>main</set></card>
+		<card><name id="starshipconstitutiontmp">Starship Constitution (The Motion Pictures)</name><set>main</set></card>
+		<card><name id="starshipenterprisetmp">Starship Enterprise (The Motion Pictures)</name><set>main</set></card>
+		<card><name id="ussgrissom">U.S.S. Grissom</name><set>main</set></card>
+		<card><name id="hmsbountyfed">H.M.S. Bounty*</name><set>main</set></card>
+		<card><name id="ussenterprisea">U.S.S. Enterprise-A</name><set>main</set></card>
+		<card><name id="whatdoesgodneedwitha">What Does God Need with a Starship?</name><set>main</set></card>
+		<card><name id="whatdoesgodneedwitha">What Does God Need with a Starship?</name><set>main</set></card>
+		<card><name id="ussenterpriseb">U.S.S. Enterprise-B</name><set>main</set></card>
+		<card><name id="starshipexcelsior">Starship Excelsior</name><set>main</set></card>
+		<card><name id="SoG_15">Federation Flagship: Renewed</name><set>block_b00</set></card>
+		<card><name id="ReadyRoomDoor">Ready Room Door</name><set>main</set></card>
+		<card><name id="ReadyRoomDoor">Ready Room Door</name><set>main</set></card>
+		<card><name id="ReadyRoomDoor">Ready Room Door</name><set>main</set></card>
+		<card><name id="ReadyRoomDoor">Ready Room Door</name><set>main</set></card>
+		<card><name id="wallofships">Wall of Ships</name><set>main</set></card>
+		<card><name id="wallofships">Wall of Ships</name><set>main</set></card>
+		<card><name id="wallofships">Wall of Ships</name><set>main</set></card>
+		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
+		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
+		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
+		<card><name id="VP6VP_Handshake">Handshake (Virtual Promo)</name><set>main</set></card>
+		<card><name id="VP6VP_Handshake">Handshake (Virtual Promo)</name><set>main</set></card>
+		<card><name id="VP6VP_Handshake">Handshake (Virtual Promo)</name><set>main</set></card>
+		<card><name id="VP6VP_Handshake">Handshake (Virtual Promo)</name><set>main</set></card>
+		<card><name id="tahglio">Tahglio</name><set>main</set></card>
+		<card><name id="livelongandprosper">Live Long And Prosper</name><set>main</set></card>
+		<card><name id="livelongandprosper">Live Long And Prosper</name><set>main</set></card>
+		<card><name id="livelongandprosper">Live Long And Prosper</name><set>main</set></card>
+		<card><name id="hqwarroom">HQ: War Room</name><set>main</set></card>
+		<card><name id="mutation">Mutation</name><set>main</set></card>
+		<card><name id="mutation">Mutation</name><set>main</set></card>
+		<card><name id="mutation">Mutation</name><set>main</set></card>
+		<card><name id="mutation">Mutation</name><set>main</set></card>
+		<card><name id="HMF2_16">Isomagnetic Disintegrator (Homefront II)</name><set>block_core</set></card>
+		<card><name id="HMF2_16">Isomagnetic Disintegrator (Homefront II)</name><set>block_core</set></card>
+		<card><name id="TemporalVortex">Temporal Vortex</name><set>main</set></card>
+		<card><name id="39VP">HQ: Secure Homeworld (Virtual Promo)</name><set>main</set></card>
+		<card><name id="davidmarcus">David Marcus</name><set>main</set></card>
+		<card><name id="espionagefederationonkling">Espionage: Federation on Klingon</name><set>xlist</set></card>
+		<card><name id="thegenesiseffect">The Genesis Effect</name><set>block_b00</set></card>
+	</superzone>
+	<superzone name="Missions">
+		<card><name id="HMF_32V">Espionage Mission (Homefront)</name><set>block_core</set></card>
+		<card><name id="KhitomerResearch">Khitomer Research</name><set>main</set></card>
+		<card><name id="tng_37V">Avert Solar Implosion</name><set>block_b01</set></card>
+		<card><name id="observeritual">Observe Ritual</name><set>main</set></card>
+		<card><name id="fissureresearch">Fissure Research</name><set>main</set></card>
+		<card><name id="studynebula">Study Nebula</name><set>main</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="tngsup_9V">Alternate Universe Door</name><set>block_b01</set></card>
+		<card><name id="engineimbalance">Engine Imbalance</name><set>main</set></card>
+		<card><name id="vger">V&apos;ger</name><set>main</set></card>
+		<card><name id="HMF2_3">Dedication to Duty</name><set>block_core</set></card>
+		<card><name id="kobayashimaruscenario">Kobayashi Maru Scenario</name><set>main</set></card>
+		<card><name id="45VP">A Fast Ship Would Be Nice (Virtual Promo)</name><set>main</set></card>
+		<card><name id="ihateyou">I Hate You</name><set>main</set></card>
+		<card><name id="nowwouldbeagoodtime">Now Would Be a Good Time</name><set>main</set></card>
+		<card><name id="thewhaleprobe">The Whale Probe</name><set>main</set></card>
+		<card><name id="linguisticlegerdemain">Linguistic Legerdemain</name><set>main</set></card>
+		<card><name id="HMF_17V">Subspace Shock Wave (Homefront)</name><set>block_core</set></card>
+		<card><name id="thenexus">The Nexus</name><set>main</set></card>
+		<card><name id="campkhitomer">Camp Khitomer</name><set>main</set></card>
+		<card><name id="assignsupportpersonnel">Assign Support Personnel</name><set>main</set></card>
+		<card><name id="tngsup_11V">Federation Outpost</name><set>block_b01</set></card>
+		<card><name id="HMF_23V">Office of the President (Homefront)</name><set>block_core</set></card>
+		<card><name id="RR28V-Defend-Homeworld">Defend Homeworld</name><set>main</set></card>
+		<card><name id="spacetimeportal">Space-time Portal</name><set>main</set></card>
+		<card><name id="VP2VP_Tribunal-of-Q">Tribunal of Q</name><set>main</set></card>
+		<card><name id="god">God</name><set>main</set></card>
+		<card><name id="spacedoor">Spacedoor</name><set>main</set></card>
+		<card><name id="SoG_14">Duck Blind</name><set>block_b00</set></card>
+		<card><name id="QtheReferee">Q the Referee</name><set>main</set></card>
+		<card><name id="denevanneuralparasites">Denevan Neural Parasites</name><set>main</set></card>
+		<card><name id="emergencyconversion">Emergency Conversion</name><set>main</set></card>
+		<card><name id="HMF_07V">Friendly Fire (Homefront)</name><set>block_core</set></card>
+		<card><name id="kelvanshowofforce">Kelvan Show of Force</name><set>main</set></card>
+		<card><name id="19VP_PersonalDuty">Personal Duty</name><set>main</set></card>
+		<card><name id="talosiancage">Talosian Cage</name><set>xlist</set></card>
+		<card><name id="artilleryattack">Artillery Attack</name><set>main</set></card>
+	</superzone>
+	<superzone name="QsTent">
+		<card><name id="faltorpan">Fal-tor-pan</name><set>main</set></card>
+		<card><name id="kobayashimaruscenario">Kobayashi Maru Scenario</name><set>main</set></card>
+		<card><name id="divertpower">Divert Power</name><set>main</set></card>
+		<card><name id="crewreassignment">Crew Reassignment</name><set>main</set></card>
+		<card><name id="55VP">Defiant Dedication Plaque (Virtual Promo)</name><set>main</set></card>
+		<card><name id="CaptainsLog">Captain&apos;s Log</name><set>xlist</set></card>
+		<card><name id="tng_17V">General Quarters</name><set>block_b01</set></card>
+		<card><name id="RR8V-Villagers-With-Torches">Villagers With Torches</name><set>main</set></card>
+		<card><name id="RR13V-In-the-Zone">In the Zone</name><set>xlist</set></card>
+		<card><name id="RR15V-Its-Only-A-Game">It&apos;s Only a Game</name><set>main</set></card>
+		<card><name id="missiondebriefing">Mission Debriefing</name><set>main</set></card>
+		<card><name id="HMF2_17">Masaka Transformations (Homefront II)</name><set>block_core</set></card>
+		<card><name id="RR16V-Obelisk-of-Masaka">Obelisk of Masaka</name><set>main</set></card>
+	</superzone>
+</deck>
