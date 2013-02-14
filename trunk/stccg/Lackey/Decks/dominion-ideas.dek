@@ -1,0 +1,48 @@
+<deck version="0.8">
+	<meta>
+		<game>StarTrek1E</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="postgarrison">Post Garrison</name><set>main</set></card>
+		<card><name id="23-VP_friction">Friction</name><set>main_conv</set></card>
+		<card><name id="33-VP_dominionbattleship">Dominion Battleship (Things Past)</name><set>main_conv</set></card>
+		<card><name id="dominionbattleship">Dominion Battleship</name><set>main</set></card>
+		<card><name id="jemhadarwarship">Jem&apos;Hadar Warship</name><set>main</set></card>
+		<card><name id="youngjemhadar">Young Jem&apos;Hadar</name><set>main</set></card>
+		<card><name id="youngjemhadar">Young Jem&apos;Hadar</name><set>main</set></card>
+		<card><name id="youngjemhadar">Young Jem&apos;Hadar</name><set>main</set></card>
+		<card><name id="youngjemhadar">Young Jem&apos;Hadar</name><set>main</set></card>
+		<card><name id="jemhadarsacrifice">Jem&apos;Hadar Sacrifice</name><set>main</set></card>
+		<card><name id="jemhadardisruptorrifle">Jem&apos;Hadar Disruptor Rifle</name><set>main</set></card>
+		<card><name id="jemhadardisruptor">Jem&apos;Hadar Disruptor</name><set>main</set></card>
+		<card><name id="jemhadarbirthingchamber">Jem&apos;Hadar Birthing Chamber</name><set>main</set></card>
+		<card><name id="enhancedattackship">Enhanced Attack Ship</name><set>main</set></card>
+	</superzone>
+	<superzone name="Missions">
+		<card><name id="SAS_18V">Free Orion Slaves</name><set>block_b00</set></card>
+		<card><name id="029insurrection">Insurrection</name><set>main</set></card>
+		<card><name id="engage_20">Abduction Plot</name><set>block_b01</set></card>
+		<card><name id="aidfugitives">Aid Fugitives</name><set>main</set></card>
+		<card><name id="tulaberrywinenegotiations">Tulaberry Wine Negotiations</name><set>main</set></card>
+		<card><name id="collectsample">Collect Sample</name><set>main</set></card>
+		<card><name id="betazedinvasion">Betazed Invasion</name><set>main</set></card>
+		<card><name id="reignitedeadstar">Reignite Dead Star</name><set>main</set></card>
+		<card><name id="constructdepot">Construct Depot</name><set>main</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="establishdominionfoothold">Establish Dominion Foothold</name><set>main</set></card>
+		<card><name id="ultimatum">Ultimatum</name><set>main</set></card>
+		<card><name id="subjugateplanet">Subjugate Planet</name><set>main</set></card>
+		<card><name id="LFL_01V">Off-Zel Vase</name><set>block_b00</set></card>
+		<card><name id="18dominionwarefforts">Dominion War Efforts</name><set>xlist</set></card>
+		<card><name id="jemhadarbirthingchamber">Jem&apos;Hadar Birthing Chamber</name><set>main</set></card>
+		<card><name id="Primary-Supply-Depot">Primary Supply Depot</name><set>main</set></card>
+		<card><name id="HMF_22V">The Great Link (Homefront)</name><set>block_core</set></card>
+	</superzone>
+	<superzone name="QsTent">
+		<card><name id="subjugateplanet">Subjugate Planet</name><set>main</set></card>
+		<card><name id="engageshuttleoperationsdominion">Engage Shuttle Operations: Dominion</name><set>main</set></card>
+		<card><name id="Remote-Supply-Depot">Remote Supply Depot</name><set>main</set></card>
+		<card><name id="jemhadarbirthingchamber">Jem&apos;Hadar Birthing Chamber</name><set>main</set></card>
+	</superzone>
+</deck>
