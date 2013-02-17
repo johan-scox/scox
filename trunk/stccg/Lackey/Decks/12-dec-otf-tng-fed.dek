@@ -1,0 +1,137 @@
+<deck version="0.8">
+	<meta>
+		<title>12-dec-otf-tng-fed</title>
+		<author>Scox</author>
+		<date>04-11-12</date>
+		<game>startrek1e</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="tngsup_19V">Jean-Luc Picard (Chain of Command)</name><set>block_b01</set></card>
+		<card><name id="tng_26V">Get It Done</name><set>block_b01</set></card>
+		<card><name id="tng_26V">Get It Done</name><set>block_b01</set></card>
+		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
+		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
+		<card><name id="tngsup_25V">Worf</name><set>block_b01</set></card>
+		<card><name id="beverlycrusher">Beverly Crusher</name><set>main</set></card>
+		<card><name id="67edwardjellico">Edward Jellico</name><set>xlist</set></card>
+		<card><name id="geordilaforge">Geordi La Forge</name><set>main</set></card>
+		<card><name id="gibson">Gibson</name><set>main</set></card>
+		<card><name id="hannahbates">Hannah Bates</name><set>main</set></card>
+		<card><name id="tng_63V">Lopez</name><set>block_b01_conv</set></card>
+		<card><name id="tng_63V">Lopez</name><set>block_b01_conv</set></card>
+		<card><name id="tng_64V">Martin</name><set>block_b01_conv</set></card>
+		<card><name id="tng_64V">Martin</name><set>block_b01_conv</set></card>
+		<card><name id="tng_64V">Martin</name><set>block_b01_conv</set></card>
+		<card><name id="montgomeryscott">Montgomery Scott</name><set>main</set></card>
+		<card><name id="taitt">Taitt</name><set>main</set></card>
+		<card><name id="williamtriker">William T. Riker</name><set>main</set></card>
+		<card><name id="056jamestkirk">James T. Kirk</name><set>main</set></card>
+		<card><name id="tng_55V">Daniel Kwan</name><set>block_b01_conv</set></card>
+		<card><name id="tng_55V">Daniel Kwan</name><set>block_b01_conv</set></card>
+		<card><name id="tng_56V">Data (The Next Generation)</name><set>block_b01_conv</set></card>
+		<card><name id="tng_57V">Davies</name><set>block_b01_conv</set></card>
+		<card><name id="julianatainer">Juliana Tainer</name><set>main</set></card>
+		<card><name id="lal">Lal</name><set>main</set></card>
+		<card><name id="tng_65V">Seth Mendoza</name><set>block_b01_conv</set></card>
+		<card><name id="tng_65V">Seth Mendoza</name><set>block_b01_conv</set></card>
+		<card><name id="tngsup_23V">Spock</name><set>block_b01</set></card>
+		<card><name id="soongtypeandroid">Soong-type Android</name><set>main</set></card>
+		<card><name id="soongtypeandroid">Soong-type Android</name><set>main</set></card>
+		<card><name id="soongtypeandroid">Soong-type Android</name><set>main</set></card>
+		<card><name id="soongtypeandroid">Soong-type Android</name><set>main</set></card>
+		<card><name id="soongtypeandroid">Soong-type Android</name><set>main</set></card>
+		<card><name id="soongtypeandroid">Soong-type Android</name><set>main</set></card>
+		<card><name id="soongtypeandroid">Soong-type Android</name><set>main</set></card>
+		<card><name id="drsoong">Dr. Soong</name><set>main</set></card>
+		<card><name id="drsoong">Dr. Soong</name><set>main</set></card>
+		<card><name id="drsoong">Dr. Soong</name><set>main</set></card>
+		<card><name id="etanajol">Etana Jol</name><set>main</set></card>
+		<card><name id="iragraves">Ira Graves</name><set>main</set></card>
+		<card><name id="tngsup_34V">Jo&apos;Bril</name><set>block_b01</set></card>
+		<card><name id="parallaxarguers">Parallax Arguers</name><set>xlist</set></card>
+		<card><name id="parallaxarguers">Parallax Arguers</name><set>xlist</set></card>
+		<card><name id="parallaxarguers">Parallax Arguers</name><set>xlist</set></card>
+		<card><name id="parallaxarguers">Parallax Arguers</name><set>xlist</set></card>
+		<card><name id="parallaxarguers">Parallax Arguers</name><set>xlist</set></card>
+		<card><name id="kivasfajocollector">Kivas Fajo - Collector</name><set>xlist</set></card>
+		<card><name id="kivasfajocollector">Kivas Fajo - Collector</name><set>xlist</set></card>
+		<card><name id="ocularimplants">Ocular Implants</name><set>main</set></card>
+		<card><name id="Lower-Decks">Lower Decks</name><set>xlist</set></card>
+		<card><name id="mutation">Mutation</name><set>main</set></card>
+		<card><name id="mutation">Mutation</name><set>main</set></card>
+		<card><name id="mutation">Mutation</name><set>main</set></card>
+		<card><name id="mutation">Mutation</name><set>main</set></card>
+		<card><name id="ussnebula">U.S.S. Nebula</name><set>main</set></card>
+		<card><name id="ussenterprise">U.S.S. Enterprise</name><set>main</set></card>
+		<card><name id="runabout">Runabout</name><set>main</set></card>
+		<card><name id="starfleettype1phaser">Starfleet Type I Phaser</name><set>main</set></card>
+		<card><name id="starfleettype1phaser">Starfleet Type I Phaser</name><set>main</set></card>
+		<card><name id="starfleettype1phaser">Starfleet Type I Phaser</name><set>main</set></card>
+		<card><name id="62ndruleofacquisition">62nd Rule of Acquisition</name><set>main</set></card>
+		<card><name id="62ndruleofacquisition">62nd Rule of Acquisition</name><set>main</set></card>
+		<card><name id="62ndruleofacquisition">62nd Rule of Acquisition</name><set>main</set></card>
+		<card><name id="tngsup_18V">Assign Mission Specialists (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tngsup_18V">Assign Mission Specialists (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tngsup_18V">Assign Mission Specialists (The Next Generation)</name><set>block_b01</set></card>
+	</superzone>
+	<superzone name="Missions">
+		<card><name id="repairmission">Repair Mission</name><set>main</set></card>
+		<card><name id="exploredysonsphere">Explore Dyson Sphere</name><set>main</set></card>
+		<card><name id="investigatedisappearance">Investigate Disappearance</name><set>main</set></card>
+		<card><name id="Reported-Activity">Reported Activity</name><set>main</set></card>
+		<card><name id="tng_37V">Avert Solar Implosion</name><set>block_b01_conv</set></card>
+		<card><name id="Cargo-Rendezvous">Cargo Rendezvous</name><set>main</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="HMF_09V">Maglock (Homefront)</name><set>block_core</set></card>
+		<card><name id="HMF_07V">Friendly Fire (Homefront)</name><set>block_core</set></card>
+		<card><name id="tng_22V">Continuing Mission</name><set>block_b01</set></card>
+		<card><name id="tngsup_11V">Federation Outpost</name><set>block_b01</set></card>
+		<card><name id="tng_31V">Strategic Base</name><set>block_b01</set></card>
+		<card><name id="SoG_14">Duck Blind</name><set>block_b00</set></card>
+		<card><name id="HMF_04V">Dal&apos;Rok (Homefront)</name><set>block_core</set></card>
+		<card><name id="HMF_05V">Dead End (Homefront)</name><set>block_core</set></card>
+		<card><name id="HMF2_6">Founder Secret (Homefront II)</name><set>block_core</set></card>
+		<card><name id="LFL_05V">Important Guests</name><set>block_b00</set></card>
+		<card><name id="LFL_06V">Medical Crisis</name><set>block_b00</set></card>
+		<card><name id="tng_21V">Attention All Hands</name><set>block_b01</set></card>
+		<card><name id="1V-Q&apos;s-Tent">Q&apos;s Tent</name><set>xlist</set></card>
+		<card><name id="spacedoor">Spacedoor</name><set>main</set></card>
+		<card><name id="tngsup_18V">Assign Mission Specialists (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="2VP_Tribunal-of-Q">Tribunal of Q</name><set>main</set></card>
+		<card><name id="25cyberneticsexpertise">Cybernetics Expertise</name><set>xlist</set></card>
+		<card><name id="afastshipwouldbenice">A Fast Ship Would Be Nice</name><set>main</set></card>
+		<card><name id="HMF2_1">Cardassian Processing</name><set>block_core_conv</set></card>
+		<card><name id="denevanneuralparasites">Denevan Neural Parasites</name><set>main</set></card>
+		<card><name id="executiveauthorization">Executive Authorization</name><set>main</set></card>
+		<card><name id="femalescow">Female&apos;s Love Interest &amp; Garbage Scow</name><set>main</set></card>
+		<card><name id="Firestorm">Firestorm</name><set>xlist</set></card>
+		<card><name id="HMF2_5">Forsaken</name><set>block_core_conv</set></card>
+		<card><name id="hanonianlandeel">Hanonian Land Eel</name><set>main</set></card>
+		<card><name id="inthepalemoonlight">In the Pale Moonlight</name><set>main</set></card>
+		<card><name id="kelvanshowofforce">Kelvan Show of Force</name><set>main</set></card>
+		<card><name id="22-VP_theclownbittermedicine">The Clown: Bitter Medicine</name><set>main_conv</set></card>
+		<card><name id="tngsup_6V">Topological Anomaly 4747</name><set>block_b01</set></card>
+		<card><name id="malesplague">Male&apos;s Love Interest &amp; Plague Ship</name><set>main</set></card>
+	</superzone>
+	<superzone name="QsTent">
+		<card><name id="leahbrahms">Leah Brahms</name><set>main</set></card>
+		<card><name id="soren">Soren</name><set>main</set></card>
+		<card><name id="runabout">Runabout</name><set>main</set></card>
+		<card><name id="tng_20V">You Are a Monument</name><set>block_b01</set></card>
+		<card><name id="8V-Villagers-With-Torches">Villagers With Torches</name><set>main</set></card>
+		<card><name id="tng_17V">General Quarters</name><set>block_b01</set></card>
+		<card><name id="Obelisk-of-Masaka-RefReprint">Obelisk of Masaka</name><set>main</set></card>
+		<card><name id="18V-Q-the-Referee">Q the Referee</name><set>main</set></card>
+		<card><name id="13V-In-the-Zone">In the Zone</name><set>xlist</set></card>
+		<card><name id="28V-Defend-Homeworld">Defend Homeworld</name><set>main</set></card>
+		<card><name id="masakatransformations">Masaka Transformations</name><set>xlist</set></card>
+		<card><name id="federationpadd">Federation PADD</name><set>main</set></card>
+		<card><name id="darianwallace">Darian Wallace</name><set>main</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="tng_25V">Finest Crew in the Fleet</name><set>block_b01</set></card>
+		<card><name id="darianwallace">Darian Wallace</name><set>main</set></card>
+		<card><name id="reginaldbarclay">Reginald Barclay</name><set>main</set></card>
+	</superzone>
+</deck>

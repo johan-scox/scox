@@ -1,0 +1,109 @@
+<deck version="0.8">
+	<meta>
+		<title>august-online-otf-klaestrons_in_the_patch_final</title>
+		<author>YourName</author>
+		<date>04-11-12</date>
+		<game>startrek1e-alpha</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="HMF2_33">Ocett (Homefront II)</name><set>block_core</set></card>
+		<card><name id="macet">Macet</name><set>main</set></card>
+		<card><name id="lemec">Lemec</name><set>main</set></card>
+		<card><name id="rrd_fc">Ready Room Door</name><set>main</set></card>
+		<card><name id="rrd_fc">Ready Room Door</name><set>main</set></card>
+		<card><name id="rrd_fc">Ready Room Door</name><set>main</set></card>
+		<card><name id="rrd_fc">Ready Room Door</name><set>main</set></card>
+		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
+		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
+		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
+		<card><name id="HMF2_16">Isomagnetic Disintegrator (Homefront II)</name><set>block_core</set></card>
+		<card><name id="HMF2_16">Isomagnetic Disintegrator (Homefront II)</name><set>block_core</set></card>
+		<card><name id="kivasfajocollector">Kivas Fajo - Collector</name><set>xlist</set></card>
+		<card><name id="kivasfajocollector">Kivas Fajo - Collector</name><set>xlist</set></card>
+		<card><name id="kivasfajocollector">Kivas Fajo - Collector</name><set>xlist</set></card>
+		<card><name id="62ndruleofacquisition">62nd Rule of Acquisition</name><set>main</set></card>
+		<card><name id="62ndruleofacquisition">62nd Rule of Acquisition</name><set>main</set></card>
+		<card><name id="parallaxarguers">Parallax Arguers</name><set>xlist</set></card>
+		<card><name id="parallaxarguers">Parallax Arguers</name><set>xlist</set></card>
+		<card><name id="parallaxarguers">Parallax Arguers</name><set>xlist</set></card>
+		<card><name id="parallaxarguers">Parallax Arguers</name><set>xlist</set></card>
+		<card><name id="HMF2_15">HQ: War Room (Homefront II)</name><set>block_core</set></card>
+		<card><name id="CaptainsLog">Captain&apos;s Log</name><set>xlist</set></card>
+		<card><name id="55VP">Defiant Dedication Plaque (Virtual Promo)</name><set>main</set></card>
+		<card><name id="LowerDecks">Lower Decks</name><set>xlist</set></card>
+		<card><name id="trager">Trager</name><set>main</set></card>
+		<card><name id="mutation">Mutation</name><set>main</set></card>
+		<card><name id="mutation">Mutation</name><set>main</set></card>
+		<card><name id="mutation">Mutation</name><set>main</set></card>
+		<card><name id="VP6VP_Handshake">Handshake (Virtual Promo)</name><set>main</set></card>
+		<card><name id="VP6VP_Handshake">Handshake (Virtual Promo)</name><set>main</set></card>
+		<card><name id="VP6VP_Handshake">Handshake (Virtual Promo)</name><set>main</set></card>
+		<card><name id="VP6VP_Handshake">Handshake (Virtual Promo)</name><set>main</set></card>
+		<card><name id="hiddenfighter">Hidden Fighter</name><set>main</set></card>
+		<card><name id="hiddenfighter">Hidden Fighter</name><set>main</set></card>
+		<card><name id="hiddenfighter">Hidden Fighter</name><set>main</set></card>
+		<card><name id="engage_33">Corak</name><set>block_b01</set></card>
+		<card><name id="engage_33">Corak</name><set>block_b01</set></card>
+		<card><name id="reklar">Reklar</name><set>main</set></card>
+		<card><name id="HMF3_33">Bralek</name><set>block_core</set></card>
+		<card><name id="daro">Daro</name><set>main</set></card>
+		<card><name id="telle">Telle</name><set>main</set></card>
+		<card><name id="telle">Telle</name><set>main</set></card>
+		<card><name id="engage_34">Gollek</name><set>block_b01</set></card>
+		<card><name id="dolak">Dolak</name><set>main</set></card>
+		<card><name id="gulmadred">Gul Madred</name><set>main</set></card>
+		<card><name id="engage_35">Joret Dal</name><set>block_b01</set></card>
+	</superzone>
+	<superzone name="Missions">
+		<card><name id="characterizeneutrinoemiss">Characterize Neutrino Emissions</name><set>main</set></card>
+		<card><name id="orbnegotiations">Orb Negotiations</name><set>main</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="VP2VP_Tribunal-of-Q">Tribunal of Q</name><set>main</set></card>
+		<card><name id="assignsupportpersonnel">Assign Support Personnel</name><set>main</set></card>
+		<card><name id="RR1V-Q&apos;s-Tent">Q&apos;s Tent</name><set>xlist</set></card>
+		<card><name id="SoG_14">Duck Blind</name><set>block_b00</set></card>
+		<card><name id="HMF2_1">Cardassian Processing</name><set>block_core</set></card>
+		<card><name id="HMF_05V">Dead End (Homefront)</name><set>block_core</set></card>
+		<card><name id="denevanneuralparasites">Denevan Neural Parasites</name><set>main</set></card>
+		<card><name id="executiveauthorization">Executive Authorization</name><set>main</set></card>
+		<card><name id="foundersecret">Founder Secret</name><set>main</set></card>
+		<card><name id="HMF_07V">Friendly Fire (Homefront)</name><set>block_core</set></card>
+		<card><name id="hanonianlandeel">Hanonian Land Eel</name><set>main</set></card>
+		<card><name id="inthepalemoonlight">In the Pale Moonlight</name><set>main</set></card>
+		<card><name id="kelvanshowofforce">Kelvan Show of Force</name><set>main</set></card>
+		<card><name id="malesplague">Male&apos;s Love Interest &amp; Plague Ship</name><set>main</set></card>
+		<card><name id="medicalcrisis">Medical Crisis</name><set>block_b00</set></card>
+		<card><name id="tngsup_6V">Topological Anomaly 4747</name><set>block_b01</set></card>
+		<card><name id="EdoProbe">Edo Probe</name><set>xlist</set></card>
+		<card><name id="hazardousduty">Hazardous Duty</name><set>main</set></card>
+		<card><name id="lackofpreparation">Lack of Preparation</name><set>main</set></card>
+		<card><name id="thehigherthefewer">The Higher... The Fewer</name><set>xlist</set></card>
+		<card><name id="19VP_PersonalDuty">Personal Duty</name><set>main</set></card>
+		<card><name id="femalescow">Female&apos;s Love Interest &amp; Garbage Scow</name><set>main</set></card>
+		<card><name id="QtheReferee">Q the Referee</name><set>main</set></card>
+		<card><name id="IC1V-Klaestron-Outpost">Klaestron Outpost (Identity Crisis)</name><set>main</set></card>
+		<card><name id="spacedoor">Spacedoor</name><set>main</set></card>
+		<card><name id="tng_22V">Continuing Mission</name><set>block_b01</set></card>
+		<card><name id="tng_25V">Finest Crew in the Fleet</name><set>block_b01</set></card>
+		<card><name id="tng_31V">Strategic Base</name><set>block_b01</set></card>
+	</superzone>
+	<superzone name="QsTent">
+		<card><name id="forcardassia">For Cardassia!</name><set>main</set></card>
+		<card><name id="HMF2_17">Masaka Transformations (Homefront II)</name><set>block_core</set></card>
+		<card><name id="establishlandingprotocols">Establish Landing Protocols</name><set>main</set></card>
+		<card><name id="escapepod">Escape Pod</name><set>xlist</set></card>
+		<card><name id="counterintelligence">Counterintelligence</name><set>main</set></card>
+		<card><name id="torture">Torture</name><set>main</set></card>
+		<card><name id="HMF2_21">Dig</name><set>block_core</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="cargobay">Cargo Bay</name><set>main</set></card>
+		<card><name id="dockingports">Docking Ports</name><set>main</set></card>
+		<card><name id="guestquarters">Guest Quarters</name><set>main</set></card>
+		<card><name id="ops">Ops</name><set>main</set></card>
+		<card><name id="oreprocessingunit">Ore Processing Unit</name><set>main</set></card>
+		<card><name id="promenadeshops">Promenade Shops</name><set>main</set></card>
+		<card><name id="sciencelab">Science Lab</name><set>main</set></card>
+	</superzone>
+</deck>
