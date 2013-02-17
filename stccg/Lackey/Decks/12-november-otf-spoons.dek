@@ -1,0 +1,132 @@
+<deck version="0.8">
+	<meta>
+		<title>august-online-otf-klaestrons_in_the_patch_final</title>
+		<author>YourName</author>
+		<date>04-11-12</date>
+		<game>startrek1e-alpha</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="jasad">Jasad</name><set>main</set></card>
+		<card><name id="seskal">Seskal</name><set>xlist</set></card>
+		<card><name id="HMF2_33">Ocett (Homefront II)</name><set>block_core</set></card>
+		<card><name id="macet">Macet</name><set>main</set></card>
+		<card><name id="lemec">Lemec</name><set>main</set></card>
+		<card><name id="dukat">Dukat</name><set>main</set></card>
+		<card><name id="danar">Danar</name><set>main</set></card>
+		<card><name id="broca">Broca</name><set>main</set></card>
+		<card><name id="legatedamar">Legate Damar</name><set>main</set></card>
+		<card><name id="legatedamar">Legate Damar</name><set>main</set></card>
+		<card><name id="rrd_fc">Ready Room Door</name><set>main</set></card>
+		<card><name id="rrd_fc">Ready Room Door</name><set>main</set></card>
+		<card><name id="rrd_fc">Ready Room Door</name><set>main</set></card>
+		<card><name id="rrd_fc">Ready Room Door</name><set>main</set></card>
+		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
+		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
+		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
+		<card><name id="HMF2_16">Isomagnetic Disintegrator (Homefront II)</name><set>block_core</set></card>
+		<card><name id="HMF2_16">Isomagnetic Disintegrator (Homefront II)</name><set>block_core</set></card>
+		<card><name id="kivasfajocollector">Kivas Fajo - Collector</name><set>xlist</set></card>
+		<card><name id="kivasfajocollector">Kivas Fajo - Collector</name><set>xlist</set></card>
+		<card><name id="kivasfajocollector">Kivas Fajo - Collector</name><set>xlist</set></card>
+		<card><name id="62ndruleofacquisition">62nd Rule of Acquisition</name><set>main</set></card>
+		<card><name id="62ndruleofacquisition">62nd Rule of Acquisition</name><set>main</set></card>
+		<card><name id="parallaxarguers">Parallax Arguers</name><set>xlist</set></card>
+		<card><name id="parallaxarguers">Parallax Arguers</name><set>xlist</set></card>
+		<card><name id="parallaxarguers">Parallax Arguers</name><set>xlist</set></card>
+		<card><name id="parallaxarguers">Parallax Arguers</name><set>xlist</set></card>
+		<card><name id="parallaxarguers">Parallax Arguers</name><set>xlist</set></card>
+		<card><name id="HMF2_15">HQ: War Room (Homefront II)</name><set>block_core</set></card>
+		<card><name id="tng_20V">You Are a Monument</name><set>block_b01</set></card>
+		<card><name id="CaptainsLog">Captain&apos;s Log</name><set>xlist</set></card>
+		<card><name id="55VP">Defiant Dedication Plaque (Virtual Promo)</name><set>main</set></card>
+		<card><name id="LowerDecks">Lower Decks</name><set>xlist</set></card>
+		<card><name id="tng_17V">General Quarters</name><set>block_b01</set></card>
+		<card><name id="RR8V-Villagers-With-Torches">Villagers With Torches</name><set>main</set></card>
+		<card><name id="RR16V-Obelisk-of-Masaka">Obelisk of Masaka</name><set>main</set></card>
+		<card><name id="QtheReferee">Q the Referee</name><set>main</set></card>
+		<card><name id="RR13V-In-the-Zone">In the Zone</name><set>xlist</set></card>
+		<card><name id="RR15V-Its-Only-A-Game">It&apos;s Only a Game</name><set>main</set></card>
+		<card><name id="naprem">Naprem</name><set>main</set></card>
+		<card><name id="trager">Trager</name><set>main</set></card>
+		<card><name id="stolenattackship">Stolen Attack Ship</name><set>main</set></card>
+		<card><name id="mutation">Mutation</name><set>main</set></card>
+		<card><name id="mutation">Mutation</name><set>main</set></card>
+		<card><name id="mutation">Mutation</name><set>main</set></card>
+		<card><name id="VP6VP_Handshake">Handshake (Virtual Promo)</name><set>main</set></card>
+		<card><name id="VP6VP_Handshake">Handshake (Virtual Promo)</name><set>main</set></card>
+		<card><name id="VP6VP_Handshake">Handshake (Virtual Promo)</name><set>main</set></card>
+		<card><name id="VP6VP_Handshake">Handshake (Virtual Promo)</name><set>main</set></card>
+		<card><name id="derell">Derell</name><set>main</set></card>
+		<card><name id="RR28V-Defend-Homeworld">Defend Homeworld</name><set>main</set></card>
+		<card><name id="hiddenfighter">Hidden Fighter</name><set>main</set></card>
+		<card><name id="hiddenfighter">Hidden Fighter</name><set>main</set></card>
+		<card><name id="hiddenfighter">Hidden Fighter</name><set>main</set></card>
+		<card><name id="cardassianshuttle">Cardassian Shuttle</name><set>main</set></card>
+		<card><name id="engage_33">Corak</name><set>block_b01</set></card>
+		<card><name id="ekoor">Ekoor</name><set>xlist</set></card>
+		<card><name id="keldonadvanced">Keldon Advanced</name><set>main</set></card>
+		<card><name id="keldonadvanced">Keldon Advanced</name><set>main</set></card>
+		<card><name id="militaryfreighter">Military Freighter</name><set>main</set></card>
+		<card><name id="militaryfreighter">Military Freighter</name><set>main</set></card>
+		<card><name id="militaryfreighter">Military Freighter</name><set>main</set></card>
+		<card><name id="groumall">Groumall</name><set>main</set></card>
+		<card><name id="reklar">Reklar</name><set>main</set></card>
+		<card><name id="vetar_a">Vetar</name><set>block_b00</set></card>
+		<card><name id="prakesh">Prakesh</name><set>main</set></card>
+		<card><name id="kraxon">Kraxon</name><set>main</set></card>
+		<card><name id="HMF3_33">Bralek</name><set>block_core</set></card>
+		<card><name id="aldara">Aldara</name><set>main</set></card>
+		<card><name id="boknor">Bok&apos;Nor</name><set>main</set></card>
+	</superzone>
+	<superzone name="Missions">
+		<card><name id="characterizeneutrinoemiss">Characterize Neutrino Emissions</name><set>main</set></card>
+		<card><name id="orbnegotiations">Orb Negotiations</name><set>main</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="VP2VP_Tribunal-of-Q">Tribunal of Q</name><set>main</set></card>
+		<card><name id="assignsupportpersonnel">Assign Support Personnel</name><set>main</set></card>
+		<card><name id="centralcommand">Central Command</name><set>main</set></card>
+		<card><name id="dominionwarefforts">Dominion War Efforts</name><set>xlist</set></card>
+		<card><name id="RR1V-Q&apos;s-Tent">Q&apos;s Tent</name><set>xlist</set></card>
+		<card><name id="SoG_14">Duck Blind</name><set>block_b00</set></card>
+		<card><name id="hqsecurehomeworld">HQ: Secure Homeworld</name><set>main</set></card>
+		<card><name id="HMF2_1">Cardassian Processing</name><set>block_core</set></card>
+		<card><name id="HMF_05V">Dead End (Homefront)</name><set>block_core</set></card>
+		<card><name id="denevanneuralparasites">Denevan Neural Parasites</name><set>main</set></card>
+		<card><name id="executiveauthorization">Executive Authorization</name><set>main</set></card>
+		<card><name id="foundersecret">Founder Secret</name><set>main</set></card>
+		<card><name id="HMF_07V">Friendly Fire (Homefront)</name><set>block_core</set></card>
+		<card><name id="hanonianlandeel">Hanonian Land Eel</name><set>main</set></card>
+		<card><name id="inthepalemoonlight">In the Pale Moonlight</name><set>main</set></card>
+		<card><name id="kelvanshowofforce">Kelvan Show of Force</name><set>main</set></card>
+		<card><name id="malesplague">Male&apos;s Love Interest &amp; Plague Ship</name><set>main</set></card>
+		<card><name id="medicalcrisis">Medical Crisis</name><set>block_b00</set></card>
+		<card><name id="tngsup_6V">Topological Anomaly 4747</name><set>block_b01</set></card>
+		<card><name id="EdoProbe">Edo Probe</name><set>xlist</set></card>
+		<card><name id="hazardousduty">Hazardous Duty</name><set>main</set></card>
+		<card><name id="lackofpreparation">Lack of Preparation</name><set>main</set></card>
+		<card><name id="thehigherthefewer">The Higher... The Fewer</name><set>xlist</set></card>
+		<card><name id="19VP_PersonalDuty">Personal Duty</name><set>main</set></card>
+		<card><name id="femalescow">Female&apos;s Love Interest &amp; Garbage Scow</name><set>main</set></card>
+		<card><name id="nor">Nor</name><set>main</set></card>
+	</superzone>
+	<superzone name="QsTent">
+		<card><name id="daro">Daro</name><set>main</set></card>
+		<card><name id="emok">Emok</name><set>block_b00</set></card>
+		<card><name id="jural">Jural</name><set>main</set></card>
+		<card><name id="ulanibelor">Ulani Belor</name><set>main</set></card>
+		<card><name id="telle">Telle</name><set>main</set></card>
+		<card><name id="forcardassia">For Cardassia!</name><set>main</set></card>
+		<card><name id="HMF2_17">Masaka Transformations (Homefront II)</name><set>block_core</set></card>
+		<card><name id="establishlandingprotocols">Establish Landing Protocols</name><set>main</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="cargobay">Cargo Bay</name><set>main</set></card>
+		<card><name id="dockingports">Docking Ports</name><set>main</set></card>
+		<card><name id="guestquarters">Guest Quarters</name><set>main</set></card>
+		<card><name id="ops">Ops</name><set>main</set></card>
+		<card><name id="oreprocessingunit">Ore Processing Unit</name><set>main</set></card>
+		<card><name id="promenadeshops">Promenade Shops</name><set>main</set></card>
+		<card><name id="sciencelab">Science Lab</name><set>main</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,63 @@
+<deck version="0.8">
+	<meta>
+		<title>13-feburary-otf-klaestron-slim</title>
+		<author>Scox</author>
+		<date>04-11-12</date>
+		<game>startrek1e</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="mutation">Mutation</name><set>main</set></card>
+		<card><name id="mutation">Mutation</name><set>main</set></card>
+		<card><name id="mutation">Mutation</name><set>main</set></card>
+		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
+		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
+		<card><name id="HMF2_16">Isomagnetic Disintegrator (Homefront II)</name><set>block_core</set></card>
+		<card><name id="HMF2_16">Isomagnetic Disintegrator (Homefront II)</name><set>block_core</set></card>
+		<card><name id="62ndruleofacquisition">62nd Rule of Acquisition</name><set>main</set></card>
+		<card><name id="62ndruleofacquisition">62nd Rule of Acquisition</name><set>main</set></card>
+		<card><name id="62ndruleofacquisition">62nd Rule of Acquisition</name><set>main</set></card>
+		<card><name id="parallaxarguers">Parallax Arguers</name><set>xlist</set></card>
+		<card><name id="parallaxarguers">Parallax Arguers</name><set>xlist</set></card>
+		<card><name id="parallaxarguers">Parallax Arguers</name><set>xlist</set></card>
+		<card><name id="parallaxarguers">Parallax Arguers</name><set>xlist</set></card>
+		<card><name id="parallaxarguers">Parallax Arguers</name><set>xlist</set></card>
+		<card><name id="HMF2_15">HQ: War Room (Homefront II)</name><set>block_core</set></card>
+		<card><name id="hiddenfighter">Hidden Fighter</name><set>main</set></card>
+		<card><name id="hiddenfighter">Hidden Fighter</name><set>main</set></card>
+		<card><name id="18V-Q-the-Referee">Q the Referee</name><set>main</set></card>
+		<card><name id="kivasfajocollector">Kivas Fajo - Collector</name><set>xlist</set></card>
+		<card><name id="kivasfajocollector">Kivas Fajo - Collector</name><set>xlist</set></card>
+		<card><name id="thetravelertranscendence">The Traveler: Transcendence</name><set>xlist</set></card>
+		<card><name id="thetravelertranscendence">The Traveler: Transcendence</name><set>xlist</set></card>
+	</superzone>
+	<superzone name="Missions">
+		<card><name id="reignitedeadstar">Reignite Dead Star</name><set>main</set></card>
+		<card><name id="tng_36V">Amnesty Talks</name><set>block_b01_conv</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="2VP_Tribunal-of-Q">Tribunal of Q</name><set>main</set></card>
+		<card><name id="Assign-Mission-Specialists">Assign Mission Specialists</name><set>main</set></card>
+		<card><name id="assignsupportpersonnel">Assign Support Personnel</name><set>main</set></card>
+		<card><name id="18dominionwarefforts">Dominion War Efforts</name><set>xlist</set></card>
+		<card><name id="hqsecurehomeworld">HQ: Secure Homeworld</name><set>main</set></card>
+		<card><name id="SoG_14">Duck Blind</name><set>block_b00</set></card>
+		<card><name id="93VP">Q&apos;s Tent: Civil War</name><set>main</set></card>
+	</superzone>
+	<superzone name="QsTent">
+		<card><name id="tng_20V">You Are a Monument</name><set>block_b01</set></card>
+		<card><name id="8V-Villagers-With-Torches">Villagers With Torches</name><set>main</set></card>
+		<card><name id="tng_17V">General Quarters</name><set>block_b01</set></card>
+		<card><name id="18V-Q-the-Referee">Q the Referee</name><set>main</set></card>
+		<card><name id="15V-Its-Only-A-Game">It&apos;s Only a Game</name><set>main</set></card>
+		<card><name id="13V-In-the-Zone">In the Zone</name><set>xlist</set></card>
+		<card><name id="Obelisk-of-Masaka-RefReprint">Obelisk of Masaka</name><set>main</set></card>
+		<card><name id="28V-Defend-Homeworld">Defend Homeworld</name><set>main</set></card>
+		<card><name id="26V-The-Juggler">The Juggler</name><set>xlist</set></card>
+		<card><name id="27V-The-Wake-of-the-Borg">The Wake of the Borg</name><set>main</set></card>
+		<card><name id="2V-Temporal-Vortex">Temporal Vortex</name><set>main</set></card>
+		<card><name id="25V-Scorched-Hand">Scorched Hand</name><set>main</set></card>
+		<card><name id="19V-Reactor-Overload">Reactor Overload</name><set>main</set></card>
+		<card><name id="establishlandingprotocols">Establish Landing Protocols</name><set>main</set></card>
+		<card><name id="HMF2_17">Masaka Transformations (Homefront II)</name><set>block_core</set></card>
+	</superzone>
+</deck>
