@@ -94,11 +94,8 @@
 		<card><name id="tngsup_18V">Assign Mission Specialists (The Next Generation)</name><set>block_b01</set></card>
 		<card><name id="2VP_Tribunal-of-Q">Tribunal of Q</name><set>main</set></card>
 		<card><name id="25cyberneticsexpertise">Cybernetics Expertise</name><set>xlist</set></card>
-		<card><name id="afastshipwouldbenice">A Fast Ship Would Be Nice</name><set>main</set></card>
 		<card><name id="HMF2_1">Cardassian Processing</name><set>block_core_conv</set></card>
 		<card><name id="denevanneuralparasites">Denevan Neural Parasites</name><set>main</set></card>
-		<card><name id="executiveauthorization">Executive Authorization</name><set>main</set></card>
-		<card><name id="HMF2_5">Forsaken</name><set>block_core_conv</set></card>
 		<card><name id="hanonianlandeel">Hanonian Land Eel</name><set>main</set></card>
 		<card><name id="inthepalemoonlight">In the Pale Moonlight</name><set>main</set></card>
 		<card><name id="kelvanshowofforce">Kelvan Show of Force</name><set>main</set></card>
@@ -108,16 +105,12 @@
 		<card><name id="93VP">Q&apos;s Tent: Civil War</name><set>main</set></card>
 		<card><name id="assignsupportpersonnel">Assign Support Personnel</name><set>main</set></card>
 		<card><name id="tng_31V">Strategic Base</name><set>block_b01</set></card>
-		<card><name id="engage_10">Trilithium Raid</name><set>block_b01</set></card>
 		<card><name id="chulathegame">Chula: The Game</name><set>main</set></card>
-		<card><name id="19-VP_personalduty">Personal Duty</name><set>main_conv</set></card>
-		<card><name id="subspacefracture">Subspace Fracture</name><set>main</set></card>
 		<card><name id="strictdresscode">Strict Dress Code</name><set>main</set></card>
-		<card><name id="implication">Implication</name><set>main</set></card>
 		<card><name id="scoutencounter">Scout Encounter</name><set>main</set></card>
 		<card><name id="malesplague">Male&apos;s Love Interest &amp; Plague Ship</name><set>main</set></card>
-		<card><name id="HMF_12V">Now Would Be a Good Time (Homefront)</name><set>block_core</set></card>
 		<card><name id="shotintheback">Shot in the Back</name><set>main</set></card>
+		<card><name id="HMF2_8">Gomtuu Shock Wave</name><set>block_core_conv</set></card>
 	</superzone>
 	<superzone name="QsTent">
 		<card><name id="runabout">Runabout</name><set>main</set></card>
@@ -143,13 +136,14 @@
 		<card><name id="22V-White-Deprivation">White Deprivation</name><set>xlist</set></card>
 		<card><name id="26V-The-Juggler">The Juggler</name><set>xlist</set></card>
 		<card><name id="25V-Scorched-Hand">Scorched Hand</name><set>main</set></card>
-		<card><name id="flaxianscoutvessel">Flaxian Scout Vessel</name><set>main</set></card>
-		<card><name id="tngsup_35V">Sunad</name><set>block_b01_conv</set></card>
-		<card><name id="ussgalaxy">U.S.S. Galaxy</name><set>main</set></card>
+		<card><name id="pi">Pi</name><set>main</set></card>
+		<card><name id="galathon">Galathon</name><set>main</set></card>
+		<card><name id="jaron">Jaron</name><set>main</set></card>
 	</superzone>
 	<superzone name="Aside">
 		<card><name id="tng_25V">Finest Crew in the Fleet</name><set>block_b01</set></card>
 		<card><name id="darianwallace">Darian Wallace</name><set>main</set></card>
 		<card><name id="leahbrahms">Leah Brahms</name><set>main</set></card>
+		<card><name id="shotintheback">Shot in the Back</name><set>main</set></card>
 	</superzone>
 </deck>
