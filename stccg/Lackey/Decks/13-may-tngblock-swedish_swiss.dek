@@ -1,0 +1,95 @@
+<deck version="0.8">
+	<meta>
+		<title>13-may-tngblock-blue_speed_and_agility</title>
+		<author>Scox</author>
+		<date>04-11-12</date>
+		<game>startrek1e</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="tngsup_39V">U.S.S. Enterprise (Chain of Command)</name><set>block_b01</set></card>
+		<card><name id="tngsup_19V">Jean-Luc Picard (Chain of Command)</name><set>block_b01</set></card>
+		<card><name id="tngsup_19V">Jean-Luc Picard (Chain of Command)</name><set>block_b01</set></card>
+		<card><name id="tngsup_40V">U.S.S. Oberth</name><set>block_b01</set></card>
+		<card><name id="tng_26V">Get It Done</name><set>block_b01</set></card>
+		<card><name id="tng_26V">Get It Done</name><set>block_b01</set></card>
+		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
+		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
+		<card><name id="tngsup_25V">Worf</name><set>block_b01</set></card>
+		<card><name id="tngsup_25V">Worf</name><set>block_b01</set></card>
+		<card><name id="tngsup_21V">Shelby</name><set>block_b01</set></card>
+		<card><name id="tngsup_21V">Shelby</name><set>block_b01</set></card>
+		<card><name id="tngsup_38V">U.S.S. Drake</name><set>block_b01</set></card>
+		<card><name id="tngsup_22V">Sito Jaxa</name><set>block_b01</set></card>
+		<card><name id="tng_95V">Will Riker</name><set>block_b01</set></card>
+		<card><name id="tngsup_37V">Vekor</name><set>block_b01</set></card>
+		<card><name id="tngsup_37V">Vekor</name><set>block_b01</set></card>
+		<card><name id="tngsup_36V">Tallera*</name><set>block_b01</set></card>
+		<card><name id="engage_37">Rybak</name><set>block_b01</set></card>
+		<card><name id="tng_93V">Koral (The Next Generation)</name><set>block_b01_conv</set></card>
+		<card><name id="tngsup_33V">Baran</name><set>block_b01</set></card>
+		<card><name id="tng_64V">Martin</name><set>block_b01_conv</set></card>
+		<card><name id="tng_64V">Martin</name><set>block_b01_conv</set></card>
+		<card><name id="tng_64V">Martin</name><set>block_b01_conv</set></card>
+		<card><name id="tng_55V">Daniel Kwan</name><set>block_b01_conv</set></card>
+		<card><name id="tng_55V">Daniel Kwan</name><set>block_b01_conv</set></card>
+		<card><name id="tng_55V">Daniel Kwan</name><set>block_b01_conv</set></card>
+		<card><name id="tng_65V">Seth Mendoza</name><set>block_b01_conv</set></card>
+		<card><name id="tng_65V">Seth Mendoza</name><set>block_b01_conv</set></card>
+		<card><name id="tng_65V">Seth Mendoza</name><set>block_b01_conv</set></card>
+		<card><name id="tng_65V">Seth Mendoza</name><set>block_b01_conv</set></card>
+		<card><name id="tng_62V">Lian T&apos;su</name><set>block_b01_conv</set></card>
+		<card><name id="tng_56V">Data (The Next Generation)</name><set>block_b01_conv</set></card>
+		<card><name id="tng_63V">Lopez</name><set>block_b01_conv</set></card>
+		<card><name id="tng_63V">Lopez</name><set>block_b01_conv</set></card>
+		<card><name id="tng_63V">Lopez</name><set>block_b01_conv</set></card>
+		<card><name id="tng_53V">Barron</name><set>block_b01_conv</set></card>
+		<card><name id="tng_60V">Geordi La Forge (The Next Generation)</name><set>block_b01_conv</set></card>
+		<card><name id="TSTL_54">Stolen Ship</name><set>block_b01</set></card>
+		<card><name id="engage_51">U.S.S. Excalibur</name><set>block_b01</set></card>
+	</superzone>
+	<superzone name="Missions">
+		<card><name id="tng_49V">Visit Tranquil Colony</name><set>block_b01</set></card>
+		<card><name id="tng_47V">The Last Outpost</name><set>block_b01</set></card>
+		<card><name id="tng_36V">Amnesty Talks</name><set>block_b01_conv</set></card>
+		<card><name id="tng_37V">Avert Solar Implosion</name><set>block_b01_conv</set></card>
+		<card><name id="engage_22">Assist Damaged Vessel</name><set>block_b01</set></card>
+		<card><name id="tng_42V">Raid Ancient Burial Site</name><set>block_b01</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="HMF_09V">Maglock (Homefront)</name><set>block_core</set></card>
+		<card><name id="HMF_07V">Friendly Fire (Homefront)</name><set>block_core</set></card>
+		<card><name id="tngsup_18V">Assign Mission Specialists (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tng_22V">Continuing Mission</name><set>block_b01</set></card>
+		<card><name id="tngsup_11V">Federation Outpost</name><set>block_b01</set></card>
+		<card><name id="tng_31V">Strategic Base</name><set>block_b01</set></card>
+		<card><name id="SoG_14">Duck Blind</name><set>block_b00</set></card>
+		<card><name id="HMF_04V">Dal&apos;Rok (Homefront)</name><set>block_core</set></card>
+		<card><name id="HMF_05V">Dead End (Homefront)</name><set>block_core</set></card>
+		<card><name id="LFL_05V">Important Guests</name><set>block_b00</set></card>
+		<card><name id="HMF_17V">Subspace Shock Wave (Homefront)</name><set>block_core</set></card>
+		<card><name id="tng_21V">Attention All Hands</name><set>block_b01</set></card>
+		<card><name id="SAS_04Va">Mimetic Simbiot</name><set>block_b00</set></card>
+		<card><name id="HMF_12V">Now Would Be a Good Time (Homefront)</name><set>block_core</set></card>
+		<card><name id="HMF_11V">New Essentialists (Homefront)</name><set>block_core</set></card>
+		<card><name id="tng_28V">Mercenary Raiders</name><set>block_b01</set></card>
+		<card><name id="tngsup_44V">Mercenary Ship</name><set>block_b01</set></card>
+		<card><name id="tngsup_9V">Alternate Universe Door</name><set>xlist_block_b01</set></card>
+		<card><name id="battlebridgedoor">Battle Bridge Door</name><set>block_b00</set></card>
+		<card><name id="TSTL_14">Repurposed Outpost</name><set>block_b01</set></card>
+		<card><name id="SoG_1">Armus: Energy Field</name><set>block_b00</set></card>
+		<card><name id="HMF2_1">Cardassian Processing</name><set>block_core_conv</set></card>
+		<card><name id="HMF2_2">Dangerous Climb</name><set>block_core_conv</set></card>
+		<card><name id="engage_4">Devastating Communique</name><set>block_b01</set></card>
+		<card><name id="HMF2_5">Forsaken</name><set>block_core_conv</set></card>
+		<card><name id="HMF2_8">Gomtuu Shock Wave</name><set>block_core_conv</set></card>
+		<card><name id="TSTL_04">Hunter Probe</name><set>block_b01</set></card>
+		<card><name id="TSTL_08">Paralyzed by Fear</name><set>block_b01</set></card>
+		<card><name id="TSTL_10">Remat Detonator</name><set>block_b01</set></card>
+		<card><name id="HMF_08V">&quot;God&quot; (Homefront)</name><set>block_core</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="tng_25V">Finest Crew in the Fleet</name><set>block_b01</set></card>
+		<card><name id="tng_59V">Dr. Christopher</name><set>block_b01</set></card>
+		<card><name id="tng_92V">Dr. Syrus</name><set>block_b01</set></card>
+	</superzone>
+</deck>
