@@ -1,9 +1,13 @@
 <deck version="0.8">
 	<meta>
-		<title>13-mars-full-otf-tng-fed-andriods</title>
-		<author>Scox</author>
+		<title>12-dec-otf-tng-fed</title>
+		<author>Scox2</author>
+		<email>johan.skoglund@yahoo.com</email>
+
+
 		<date>04-11-12</date>
-		<game>startrek1e</game>
+		<game>StarTrek1E</game>
+
 	</meta>
 	<superzone name="Deck">
 		<card><name id="tngsup_19V">Jean-Luc Picard (Chain of Command)</name><set>block_b01</set></card>
@@ -92,12 +96,14 @@
 		<card><name id="spacedoor">Spacedoor</name><set>main</set></card>
 		<card><name id="tngsup_18V">Assign Mission Specialists (The Next Generation)</name><set>block_b01</set></card>
 		<card><name id="2VP_Tribunal-of-Q">Tribunal of Q</name><set>main</set></card>
-		<card><name id="25cyberneticsexpertiseA">Cybernetics Expertise</name><set>xlist</set></card>
+		<card><name id="25cyberneticsexpertise">Cybernetics Expertise</name><set>xlist</set></card>
+
 		<card><name id="HMF2_1">Cardassian Processing</name><set>block_core_conv</set></card>
 		<card><name id="denevanneuralparasites">Denevan Neural Parasites</name><set>main</set></card>
 		<card><name id="hanonianlandeel">Hanonian Land Eel</name><set>main</set></card>
 		<card><name id="inthepalemoonlight">In the Pale Moonlight</name><set>main</set></card>
 		<card><name id="kelvanshowofforce">Kelvan Show of Force</name><set>main</set></card>
+		<card><name id="tngsup_6V">Topological Anomaly 4747</name><set>block_b01</set></card>
 		<card><name id="SoG_1">Armus: Energy Field</name><set>block_b00</set></card>
 		<card><name id="18V-Q-the-Referee">Q the Referee</name><set>main</set></card>
 		<card><name id="93VP">Q&apos;s Tent: Civil War</name><set>main</set></card>
@@ -109,20 +115,17 @@
 		<card><name id="malesplague">Male&apos;s Love Interest &amp; Plague Ship</name><set>main</set></card>
 		<card><name id="shotintheback">Shot in the Back</name><set>main</set></card>
 		<card><name id="HMF2_8">Gomtuu Shock Wave</name><set>block_core_conv</set></card>
+
+
 		<card><name id="cardassiantrap">Cardassian Trap</name><set>xlist</set></card>
 		<card><name id="impressivetrophies">Impressive Trophies</name><set>main</set></card>
-		<card><name id="palukoo">Palukoo</name><set>main</set></card>
-		<card><name id="armsdeal">Arms Deal</name><set>main</set></card>
 		<card><name id="letheantelepathicattack">Lethean Telepathic Attack</name><set>main</set></card>
+		<card><name id="palukoo">Palukoo</name><set>main</set></card>
+		<card><name id="10theclownguillotine">The Clown: Guillotine</name><set>xlist</set></card>
 		<card><name id="twisted">Twisted</name><set>main</set></card>
-		<card><name id="19-VP_personalduty">Personal Duty</name><set>main_conv</set></card>
-		<card><name id="drumhead">Drumhead</name><set>main</set></card>
-		<card><name id="engage_10">Trilithium Raid</name><set>block_b01</set></card>
-		<card><name id="HMF_04V">Dal&apos;Rok (Homefront)</name><set>block_core</set></card>
-		<card><name id="executiveauthorization">Executive Authorization</name><set>main</set></card>
-		<card><name id="ferengiinfestation">Ferengi Infestation</name><set>main</set></card>
-		<card><name id="HMF2_5">Forsaken</name><set>block_core_conv</set></card>
-		<card><name id="hippocraticoath">Hippocratic Oath</name><set>main</set></card>
+		<card><name id="armsdeal">Arms Deal</name><set>main</set></card>
+		<card><name id="nagilum">Nagilum</name><set>xlist</set></card>
+		<card><name id="LFL_06V">Medical Crisis</name><set>block_b00</set></card>
 	</superzone>
 	<superzone name="QsTent">
 		<card><name id="runabout">Runabout</name><set>main</set></card>
@@ -148,6 +151,9 @@
 		<card><name id="22V-White-Deprivation">White Deprivation</name><set>xlist</set></card>
 		<card><name id="26V-The-Juggler">The Juggler</name><set>xlist</set></card>
 		<card><name id="25V-Scorched-Hand">Scorched Hand</name><set>main</set></card>
+		<card><name id="pi">Pi</name><set>main</set></card>
+		<card><name id="galathon">Galathon</name><set>main</set></card>
+		<card><name id="jaron">Jaron</name><set>main</set></card>
 	</superzone>
 	<superzone name="Aside">
 		<card><name id="tng_25V">Finest Crew in the Fleet</name><set>block_b01</set></card>
