@@ -1,6 +1,6 @@
 <deck version="0.8">
 	<meta>
-		<title>13-june-regionals-virtual-swedish_swiss</title>
+		<title>13-june-regionals-virtual-not_swedish</title>
 		<author>Scox2</author>
 		<email>johan.skoglund@yahoo.com</email>
 		<date>04-11-12</date>
@@ -17,14 +17,6 @@
 		<card><name id="tngsup_21V">Shelby</name><set>block_b01</set></card>
 		<card><name id="tngsup_21V">Shelby</name><set>block_b01</set></card>
 		<card><name id="tngsup_22V">Sito Jaxa</name><set>block_b01</set></card>
-		<card><name id="tng_95V">Will Riker</name><set>block_b01</set></card>
-		<card><name id="tng_95V">Will Riker</name><set>block_b01</set></card>
-		<card><name id="tngsup_37V">Vekor</name><set>block_b01</set></card>
-		<card><name id="tngsup_37V">Vekor</name><set>block_b01</set></card>
-		<card><name id="tngsup_36V">Tallera*</name><set>block_b01</set></card>
-		<card><name id="engage_37">Rybak</name><set>block_b01</set></card>
-		<card><name id="tng_93V">Koral (The Next Generation)</name><set>block_b01_conv</set></card>
-		<card><name id="tngsup_33V">Baran</name><set>block_b01</set></card>
 		<card><name id="tng_64V">Martin</name><set>block_b01_conv</set></card>
 		<card><name id="tng_64V">Martin</name><set>block_b01_conv</set></card>
 		<card><name id="tng_64V">Martin</name><set>block_b01_conv</set></card>
@@ -44,7 +36,6 @@
 		<card><name id="runabout">Runabout</name><set>main</set></card>
 		<card><name id="ussnebula">U.S.S. Nebula</name><set>main</set></card>
 		<card><name id="ussnebula">U.S.S. Nebula</name><set>main</set></card>
-		<card><name id="narik">Narik</name><set>main</set></card>
 		<card><name id="71samlavelle">Sam Lavelle</name><set>xlist</set></card>
 		<card><name id="drsoong">Dr. Soong</name><set>main</set></card>
 		<card><name id="drsoong">Dr. Soong</name><set>main</set></card>
@@ -59,8 +50,6 @@
 		<card><name id="soongtypeandroid">Soong-type Android</name><set>main</set></card>
 		<card><name id="soongtypeandroid">Soong-type Android</name><set>main</set></card>
 		<card><name id="soongtypeandroid">Soong-type Android</name><set>main</set></card>
-		<card><name id="soongtypeandroid">Soong-type Android</name><set>main</set></card>
-		<card><name id="soongtypeandroid">Soong-type Android</name><set>main</set></card>
 		<card><name id="darianwallace">Darian Wallace</name><set>main</set></card>
 		<card><name id="Mendon">Mendon</name><set>main</set></card>
 		<card><name id="gibson">Gibson</name><set>main</set></card>
@@ -68,15 +57,24 @@
 		<card><name id="HMF2_40">Andrea Brand</name><set>block_core_conv</set></card>
 		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
 		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
-		<card><name id="tngsup_44V">Mercenary Ship</name><set>block_b01</set></card>
+		<card><name id="TSTL_53">Assimilator</name><set>block_b01</set></card>
+		<card><name id="TSTL_53">Assimilator</name><set>block_b01</set></card>
+		<card><name id="TSTL_48">Third of Five (The Sky&apos;s the Limit)</name><set>block_b01</set></card>
+		<card><name id="TSTL_46">Morik</name><set>block_b01</set></card>
+		<card><name id="TSTL_46">Morik</name><set>block_b01</set></card>
+		<card><name id="TSTL_44">Lieutenant Crosis</name><set>block_b01</set></card>
+		<card><name id="TSTL_42">Goval</name><set>block_b01</set></card>
+		<card><name id="TSTL_42">Goval</name><set>block_b01</set></card>
+		<card><name id="TSTL_40">Bosus</name><set>block_b01</set></card>
+		<card><name id="TSTL_40">Bosus</name><set>block_b01</set></card>
 	</superzone>
 	<superzone name="Missions">
 		<card><name id="tng_36V">Amnesty Talks</name><set>block_b01_conv</set></card>
-		<card><name id="tng_42V">Raid Ancient Burial Site</name><set>block_b01</set></card>
 		<card><name id="exploredysonsphere">Explore Dyson Sphere</name><set>main</set></card>
 		<card><name id="repairmission">Repair Mission</name><set>main</set></card>
 		<card><name id="Reported-Activity">Reported Activity</name><set>main</set></card>
 		<card><name id="029insurrection">Insurrection</name><set>main</set></card>
+		<card><name id="TSTL_21">Foster New Collective</name><set>block_b01</set></card>
 	</superzone>
 	<superzone name="Seed+Dil">
 		<card><name id="HMF_09V">Maglock (Homefront)</name><set>block_core</set></card>
@@ -91,8 +89,6 @@
 		<card><name id="LFL_05V">Important Guests</name><set>block_b00</set></card>
 		<card><name id="tng_21V">Attention All Hands</name><set>block_b01</set></card>
 		<card><name id="HMF_11V">New Essentialists (Homefront)</name><set>block_core</set></card>
-		<card><name id="tng_28V">Mercenary Raiders</name><set>block_b01</set></card>
-		<card><name id="tngsup_44V">Mercenary Ship</name><set>block_b01</set></card>
 		<card><name id="TSTL_14">Repurposed Outpost</name><set>block_b01</set></card>
 		<card><name id="HMF2_1">Cardassian Processing</name><set>block_core_conv</set></card>
 		<card><name id="HMF2_2">Dangerous Climb</name><set>block_core_conv</set></card>
@@ -109,6 +105,7 @@
 		<card><name id="25cyberneticsexpertiseA">Cybernetics Expertise</name><set>xlist</set></card>
 		<card><name id="1V-Q&apos;s-Tent">Q&apos;s Tent</name><set>xlist</set></card>
 		<card><name id="45VP">A Fast Ship Would Be Nice (Virtual Promo)</name><set>main</set></card>
+		<card><name id="TSTL_15">Followers of the One</name><set>block_b01</set></card>
 	</superzone>
 	<superzone name="QsTent">
 		<card><name id="Obelisk-of-Masaka-RefReprint">Obelisk of Masaka</name><set>main</set></card>
