@@ -1,0 +1,58 @@
+<deck version="0.8">
+	<meta>
+		<title>Regionals-2012</title>
+		<author>Scox</author>
+		<email>johan.skoglund@yahoo.com</email>
+		<date>04-11-12</date>
+		<game>tribbles</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="13V">10,000 Tribbles - Antidote</name><set>MTMT</set></card>
+		<card><name id="13V">10,000 Tribbles - Antidote</name><set>MTMT</set></card>
+		<card><name id="13V">10,000 Tribbles - Antidote</name><set>MTMT</set></card>
+		<card><name id="16V">100,000 Tribbles - Antidote</name><set>MTMT</set></card>
+		<card><name id="16V">100,000 Tribbles - Antidote</name><set>MTMT</set></card>
+		<card><name id="16V">100,000 Tribbles - Antidote</name><set>MTMT</set></card>
+		<card><name id="100000tribblesclone">100,000 Tribbles - Clone</name><set>TwT</set></card>
+		<card><name id="54V">100,000 Tribbles - Freeze</name><set>TaTa</set></card>
+		<card><name id="39V">1 Tribble - Go</name><set>Tribble,TaTa</set></card>
+		<card><name id="39V">1 Tribble - Go</name><set>Tribble,TaTa</set></card>
+		<card><name id="39V">1 Tribble - Go</name><set>Tribble,TaTa</set></card>
+		<card><name id="42V">10 Tribbles - Go</name><set>Tribble,TaTa</set></card>
+		<card><name id="42V">10 Tribbles - Go</name><set>Tribble,TaTa</set></card>
+		<card><name id="42V">10 Tribbles - Go</name><set>Tribble,TaTa</set></card>
+		<card><name id="31V">10,000 Tribbles - Go</name><set>NTAA</set></card>
+		<card><name id="31V">10,000 Tribbles - Go</name><set>NTAA</set></card>
+		<card><name id="10000tribblesrescue">10,000 Tribbles - Rescue</name><set>TwT,TaTa</set></card>
+		<card><name id="1VTP">10,000 Tribbles - Clone</name><set>Tribble,VTP</set></card>
+		<card><name id="28V">1,000 Tribbles - Freeze</name><set>NTAA</set></card>
+		<card><name id="28V">1,000 Tribbles - Freeze</name><set>NTAA</set></card>
+		<card><name id="51V">1,000 Tribbles - Rescue</name><set>Tribble</set></card>
+		<card><name id="51V">1,000 Tribbles - Rescue</name><set>Tribble</set></card>
+		<card><name id="29V">1,000 Tribbles - Process</name><set>NTAA</set></card>
+		<card><name id="29V">1,000 Tribbles - Process</name><set>NTAA</set></card>
+		<card><name id="29V">1,000 Tribbles - Process</name><set>NTAA</set></card>
+		<card><name id="30V">1,000 Tribbles - Safety</name><set>NTAA</set></card>
+		<card><name id="46V">100 Tribbles - Rescue</name><set>Tribble,TaTa</set></card>
+		<card><name id="46V">100 Tribbles - Rescue</name><set>Tribble,TaTa</set></card>
+		<card><name id="46V">100 Tribbles - Rescue</name><set>Tribble,TaTa</set></card>
+		<card><name id="47V">100 Tribbles - Stampede</name><set>TaTa</set></card>
+		<card><name id="47V">100 Tribbles - Stampede</name><set>TaTa</set></card>
+		<card><name id="47V">100 Tribbles - Stampede</name><set>TaTa</set></card>
+		<card><name id="5V">10 Tribbles - Cycle</name><set>MTMT</set></card>
+		<card><name id="5V">10 Tribbles - Cycle</name><set>MTMT</set></card>
+		<card><name id="5V">10 Tribbles - Cycle</name><set>MTMT</set></card>
+		<card><name id="23V">10 Tribbles - Evolve</name><set>NTAA</set></card>
+		<card><name id="23V">10 Tribbles - Evolve</name><set>NTAA</set></card>
+		<card><name id="23V">10 Tribbles - Evolve</name><set>NTAA</set></card>
+		<card><name id="20V">1 Tribble - Evolve</name><set>NTAA</set></card>
+		<card><name id="20V">1 Tribble - Evolve</name><set>NTAA</set></card>
+		<card><name id="20V">1 Tribble - Evolve</name><set>NTAA</set></card>
+		<card><name id="21V">1 Tribble - Process</name><set>NTAA</set></card>
+		<card><name id="21V">1 Tribble - Process</name><set>NTAA</set></card>
+		<card><name id="21V">1 Tribble - Process</name><set>NTAA</set></card>
+		<card><name id="7V">100 Tribbles - Copy</name><set>MTMT</set></card>
+		<card><name id="7V">100 Tribbles - Copy</name><set>MTMT</set></card>
+		<card><name id="100000tribblesrescue">100,000 Tribbles - Rescue</name><set>TwT</set></card>
+	</superzone>
+</deck>
