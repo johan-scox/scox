@@ -1,0 +1,105 @@
+<deck version="0.8">
+	<meta>
+		<title>13-june-virtual-dominion</title>
+		<author>Scox</author>
+		<date>04-11-12</date>
+		<game>startrek1e</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="HMF2_16">Isomagnetic Disintegrator (Homefront II)</name><set>block_core</set></card>
+		<card><name id="HMF2_16">Isomagnetic Disintegrator (Homefront II)</name><set>block_core</set></card>
+		<card><name id="karemmanvessel">Karemman Vessel</name><set>main</set></card>
+		<card><name id="enhancedattackship">Enhanced Attack Ship</name><set>main</set></card>
+		<card><name id="enhancedattackship">Enhanced Attack Ship</name><set>main</set></card>
+		<card><name id="33-VP_dominionbattleship">Dominion Battleship (Things Past)</name><set>main_conv</set></card>
+		<card><name id="33-VP_dominionbattleship">Dominion Battleship (Things Past)</name><set>main_conv</set></card>
+		<card><name id="HMF2_37">Odo (Homefront II)</name><set>block_core_conv</set></card>
+		<card><name id="LFL_28V">Tholun</name><set>block_b00_conv</set></card>
+		<card><name id="jemhadarattackship">Jem&apos;Hadar Attack Ship</name><set>main</set></card>
+		<card><name id="alphaattackship">Alpha Attack Ship</name><set>main</set></card>
+		<card><name id="28-VP_founderarchitect">Founder Architect</name><set>main_conv</set></card>
+		<card><name id="inglatu">Inglatu</name><set>main</set></card>
+		<card><name id="inglatu">Inglatu</name><set>main</set></card>
+		<card><name id="eris">Eris</name><set>main</set></card>
+		<card><name id="eris">Eris</name><set>main</set></card>
+		<card><name id="founder">Founder</name><set>main</set></card>
+		<card><name id="founder">Founder</name><set>main</set></card>
+		<card><name id="HMF2_35">Founder Agitator</name><set>block_core</set></card>
+		<card><name id="HMF2_36">Founder Leader (Homefront II)</name><set>block_core</set></card>
+		<card><name id="lam">Lam</name><set>main</set></card>
+		<card><name id="lam">Lam</name><set>main</set></card>
+		<card><name id="ornithar">Ornithar</name><set>main</set></card>
+		<card><name id="ornithar">Ornithar</name><set>main</set></card>
+		<card><name id="zyree">Zyree</name><set>main</set></card>
+		<card><name id="zyree">Zyree</name><set>main</set></card>
+		<card><name id="Remote-Supply-Depot">Remote Supply Depot</name><set>main</set></card>
+		<card><name id="125sonashuttle">Son&apos;a Shuttle</name><set>main</set></card>
+		<card><name id="124sonabattleship">Son&apos;a Battleship</name><set>main</set></card>
+		<card><name id="103sampo">Sam&apos;po</name><set>main</set></card>
+		<card><name id="103sampo">Sam&apos;po</name><set>main</set></card>
+		<card><name id="67VP">Ru&apos;afo (Virtual Promo)</name><set>main</set></card>
+		<card><name id="101raealin">Rae&apos;alin</name><set>main</set></card>
+		<card><name id="101raealin">Rae&apos;alin</name><set>main</set></card>
+		<card><name id="100parena">Pa&apos;rena</name><set>main</set></card>
+		<card><name id="100parena">Pa&apos;rena</name><set>main</set></card>
+		<card><name id="76VP">Anij (Virtual Promo)</name><set>main</set></card>
+	</superzone>
+	<superzone name="Missions">
+		<card><name id="tng_36V">Amnesty Talks</name><set>block_b01_conv</set></card>
+		<card><name id="protectshipment">Protect Shipment</name><set>main</set></card>
+		<card><name id="betazedinvasion">Betazed Invasion</name><set>main</set></card>
+		<card><name id="HMF_34V">Intelligence Operation (Homefront)</name><set>block_core</set></card>
+		<card><name id="constructdepot">Construct Depot</name><set>main</set></card>
+		<card><name id="reignitedeadstar">Reignite Dead Star</name><set>main</set></card>
+		<card><name id="feldomiterush">Feldomite Rush</name><set>main</set></card>
+		<card><name id="historicalresearch">Historical Research</name><set>main</set></card>
+		<card><name id="SoG_30">Save Stranded Crew</name><set>block_b00</set></card>
+		<card><name id="archanisdispute">Archanis Dispute</name><set>main</set></card>
+		<card><name id="HMF_31V">Deliver Message (Homefront)</name><set>block_core</set></card>
+		<card><name id="HMF3_12">Find Hidden Base (Homefront III)</name><set>block_core</set></card>
+		<card><name id="engage_29">Recover Prisoner</name><set>block_b01</set></card>
+		<card><name id="rescuefounder">Rescue Founder</name><set>main</set></card>
+		<card><name id="029insurrection">Insurrection</name><set>main</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="2VP_Tribunal-of-Q">Tribunal of Q</name><set>main</set></card>
+		<card><name id="18V-Q-the-Referee">Q the Referee</name><set>main</set></card>
+		<card><name id="Primary-Supply-Depot">Primary Supply Depot</name><set>main</set></card>
+		<card><name id="HMF2_5">Forsaken</name><set>block_core_conv</set></card>
+		<card><name id="Ankari-Spirits">Ankari &quot;Spirits&quot;</name><set>main</set></card>
+		<card><name id="SoG_1">Armus: Energy Field</name><set>block_b00</set></card>
+		<card><name id="LFL_06V">Medical Crisis</name><set>block_b00</set></card>
+		<card><name id="HMF2_6">Founder Secret (Homefront II)</name><set>block_core</set></card>
+		<card><name id="HMF_05V">Dead End (Homefront)</name><set>block_core</set></card>
+		<card><name id="bajoranwormholemirror_a">Bajoran Wormhole: Mirror Universe</name><set>main</set></card>
+		<card><name id="1V-Q&apos;s-Tent">Q&apos;s Tent</name><set>xlist</set></card>
+		<card><name id="HMF_22V">The Great Link (Homefront)</name><set>block_core</set></card>
+		<card><name id="39VP">HQ: Secure Homeworld (Virtual Promo)</name><set>main</set></card>
+		<card><name id="HMF2_15">HQ: War Room (Homefront II)</name><set>block_core</set></card>
+		<card><name id="SoG_11">Emergency Transport Unit</name><set>block_b00_conv</set></card>
+		<card><name id="ST1E-ENAGT001">Environmental Suit</name><set>block_b00</set></card>
+		<card><name id="HMF2_11">Ablative Armor (Homefront II)</name><set>block_core</set></card>
+		<card><name id="HMF3_4">El-Aurian Phaser</name><set>block_core</set></card>
+		<card><name id="HMF3_6">Trilithium Weapon Control PADD</name><set>block_core</set></card>
+		<card><name id="SoG_20">Son&apos;a Observatory</name><set>block_b00</set></card>
+	</superzone>
+	<superzone name="QsTent">
+		<card><name id="HMF2_17">Masaka Transformations (Homefront II)</name><set>block_core</set></card>
+		<card><name id="28V-Defend-Homeworld">Defend Homeworld</name><set>main</set></card>
+		<card><name id="26V-The-Juggler">The Juggler</name><set>xlist</set></card>
+		<card><name id="25V-Scorched-Hand">Scorched Hand</name><set>main</set></card>
+		<card><name id="18V-Q-the-Referee">Q the Referee</name><set>main</set></card>
+		<card><name id="17V-Panel-Overload">Panel Overload</name><set>main</set></card>
+		<card><name id="Obelisk-of-Masaka-RefReprint">Obelisk of Masaka</name><set>main</set></card>
+		<card><name id="15V-Its-Only-A-Game">It&apos;s Only a Game</name><set>main</set></card>
+		<card><name id="13V-In-the-Zone">In the Zone</name><set>xlist</set></card>
+		<card><name id="tng_20V">You Are a Monument</name><set>block_b01</set></card>
+		<card><name id="8V-Villagers-With-Torches">Villagers With Torches</name><set>main</set></card>
+		<card><name id="tng_17V">General Quarters</name><set>block_b01</set></card>
+		<card><name id="2V-Temporal-Vortex">Temporal Vortex</name><set>main</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="4VP_Bajoran-Wormhole">Bajoran Wormhole (Virtual Promo)</name><set>main</set></card>
+		<card><name id="4VP_Bajoran-Wormhole">Bajoran Wormhole (Virtual Promo)</name><set>main</set></card>
+	</superzone>
+</deck>
