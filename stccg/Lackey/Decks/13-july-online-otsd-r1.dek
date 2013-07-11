@@ -1,0 +1,81 @@
+<deck version="0.8">
+	<meta>
+		<game>StarTrek1E</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="engineeringkit">Engineering Kit</name><set>main</set></card>
+		<card><name id="staticwarpbubble">Static Warp Bubble</name><set>xlist</set></card>
+		<card><name id="Distortion-Field">Distortion Field</name><set>xlist</set></card>
+		<card><name id="qnet">Q-Net</name><set>xlist</set></card>
+		<card><name id="subspacewarprift">Subspace Warp Rift</name><set>xlist</set></card>
+		<card><name id="subspacewarprift">Subspace Warp Rift</name><set>xlist</set></card>
+		<card><name id="Kevin-Uxbridge">Kevin Uxbridge</name><set>xlist</set></card>
+		<card><name id="palortoffalientrader">Palor Toff - Alien Trader</name><set>xlist_otfban</set></card>
+		<card><name id="ussgalaxy">U.S.S. Galaxy</name><set>main</set></card>
+		<card><name id="runabout">Runabout</name><set>main</set></card>
+		<card><name id="ikcvorcha">I.K.C. Vor&apos;Cha</name><set>main</set></card>
+		<card><name id="ikcvorcha">I.K.C. Vor&apos;Cha</name><set>main</set></card>
+		<card><name id="darmok">Darmok</name><set>main</set></card>
+		<card><name id="reflectiontherapy">Reflection Therapy</name><set>main</set></card>
+		<card><name id="suna">Suna</name><set>main</set></card>
+		<card><name id="drfarek">Dr. Farek</name><set>main</set></card>
+		<card><name id="drfarek">Dr. Farek</name><set>main</set></card>
+		<card><name id="maques">Maques</name><set>main</set></card>
+		<card><name id="lkor">L&apos;Kor</name><set>main</set></card>
+		<card><name id="divok">Divok</name><set>main</set></card>
+		<card><name id="betor">B&apos;Etor</name><set>main</set></card>
+		<card><name id="tngsup_22V">Sito Jaxa</name><set>block_b01</set></card>
+		<card><name id="rolaren">Ro Laren</name><set>main</set></card>
+		<card><name id="montgomeryscott">Montgomery Scott</name><set>main</set></card>
+		<card><name id="tebok">Tebok</name><set>main</set></card>
+		<card><name id="nvek">N&apos;Vek</name><set>main</set></card>
+		<card><name id="varel">Varel</name><set>main</set></card>
+		<card><name id="jaron">Jaron</name><set>main</set></card>
+		<card><name id="dukath">Dukath</name><set>main</set></card>
+		<card><name id="jennadsora">Jenna D&apos;Sora</name><set>main</set></card>
+		<card><name id="riva">Riva</name><set>main</set></card>
+		<card><name id="exocomp">Exocomp</name><set>main</set></card>
+		<card><name id="palteth">Palteth</name><set>main</set></card>
+		<card><name id="mirok">Mirok</name><set>main</set></card>
+	</superzone>
+	<superzone name="Missions">
+		<card><name id="repairmission">Repair Mission</name><set>main</set></card>
+		<card><name id="diplomacymission">Diplomacy Mission</name><set>main</set></card>
+		<card><name id="establishrelations">Establish Relations</name><set>main</set></card>
+		<card><name id="tngsup_16V">Impose Order</name><set>block_b01</set></card>
+		<card><name id="testpropulsionsystems">Test Propulsion Systems</name><set>main</set></card>
+		<card><name id="exploreinterstellarmatter">Explore Interstellar Matter</name><set>main</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="Husnock-Outpost">Husnock Outpost</name><set>main</set></card>
+		<card><name id="opendiplomaticrelations">Open Diplomatic Relations</name><set>main</set></card>
+		<card><name id="armusstickysituation">Armus - Sticky Situation</name><set>main</set></card>
+		<card><name id="alienlabyrinth">Alien Labyrinth</name><set>xlist</set></card>
+		<card><name id="anaphasicorganism">Anaphasic Organism</name><set>xlist</set></card>
+		<card><name id="anaphasicorganism">Anaphasic Organism</name><set>xlist</set></card>
+		<card><name id="hippocraticoath">Hippocratic Oath</name><set>main</set></card>
+		<card><name id="microbioticcolony">Microbiotic Colony</name><set>xlist</set></card>
+		<card><name id="interphasicplasmacreatures">Interphasic Plasma Creatures</name><set>xlist</set></card>
+		<card><name id="worshiper">Worshiper</name><set>xlist</set></card>
+		<card><name id="makeusgo">Make Us Go</name><set>main</set></card>
+		<card><name id="empathicecho">Empathic Echo</name><set>xlist</set></card>
+		<card><name id="punishmentzone">Punishment Zone</name><set>xlist</set></card>
+		<card><name id="unscientificmethod">Unscientific Method</name><set>main</set></card>
+		<card><name id="cosmicstringfragment">Cosmic String Fragment</name><set>xlist</set></card>
+		<card><name id="abandonship">Abandon Ship!</name><set>main</set></card>
+		<card><name id="spacetimeportal">Space-Time Portal</name><set>main</set></card>
+		<card><name id="tngsup_9V">Alternate Universe Door</name><set>xlist_block_b01</set></card>
+		<card><name id="spacedoor">Spacedoor</name><set>main</set></card>
+		<card><name id="treatyfederationromulanklingon">Treaty: Federation/Romulan/Klingon</name><set>main</set></card>
+		<card><name id="hideandseek">Hide and Seek</name><set>main</set></card>
+		<card><name id="Captain&apos;s-Log">Captain&apos;s Log</name><set>xlist</set></card>
+		<card><name id="resq">Res-Q</name><set>xlist</set></card>
+		<card><name id="particlescatteringfield">Particle Scattering Field</name><set>xlist</set></card>
+		<card><name id="plasmafire">Plasma Fire</name><set>xlist</set></card>
+		<card><name id="espionagefederationonkling">Espionage: Federation on Klingon</name><set>xlist</set></card>
+		<card><name id="shipseizure">Ship Seizure</name><set>xlist</set></card>
+		<card><name id="devidianforagers">Devidian Foragers</name><set>xlist</set></card>
+		<card><name id="escapepod">Escape Pod</name><set>xlist</set></card>
+		<card><name id="Wormhole">Wormhole</name><set>xlist</set></card>
+	</superzone>
+</deck>
