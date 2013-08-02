@@ -1,0 +1,17 @@
+<deck version="0.8">
+	<meta>
+		<game>startrek1e</game>
+	</meta>
+	<superzone name="Missions">
+		<card><name id="tng_42V">Raid Ancient Burial Site</name><set>block_b01</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="Noimage">Trillion Dollar War *Test</name><set>block_b02</set></card>
+		<card><name id="tng_21V">Attention All Hands</name><set>block_b01</set></card>
+		<card><name id="tng_22V">Continuing Mission</name><set>block_b01</set></card>
+		<card><name id="tng_28V">Mercenary Raiders</name><set>block_b01</set></card>
+		<card><name id="tng_31V">Strategic Base</name><set>block_b01</set></card>
+		<card><name id="tngsup_18V">Assign Mission Specialists (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="tngsup_9V">Alternate Universe Door</name><set>xlist_block_b01</set></card>
+	</superzone>
+</deck>
