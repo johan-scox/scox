@@ -13,6 +13,7 @@
 		<card><name id="tngsup_21V">Shelby</name><set>block_b01</set></card>
 		<card><name id="tngsup_37V">Vekor</name><set>block_b01</set></card>
 		<card><name id="tngsup_37V">Vekor</name><set>block_b01</set></card>
+		<card><name id="tngsup_37V">Vekor</name><set>block_b01</set></card>
 		<card><name id="engage_37">Rybak</name><set>block_b01</set></card>
 		<card><name id="tng_93V">Koral (The Next Generation)</name><set>block_b01_conv</set></card>
 		<card><name id="tngsup_33V">Baran</name><set>block_b01</set></card>
@@ -23,6 +24,7 @@
 		<card><name id="tng_65V">Seth Mendoza</name><set>block_b01_conv</set></card>
 		<card><name id="tng_65V">Seth Mendoza</name><set>block_b01_conv</set></card>
 		<card><name id="tng_62V">Lian T&apos;su</name><set>block_b01_conv</set></card>
+		<card><name id="tng_62V">Lian T&apos;su</name><set>block_b01_conv</set></card>
 		<card><name id="tng_56V">Data (The Next Generation)</name><set>block_b01_conv</set></card>
 		<card><name id="tng_63V">Lopez</name><set>block_b01_conv</set></card>
 		<card><name id="tng_63V">Lopez</name><set>block_b01_conv</set></card>
@@ -32,21 +34,9 @@
 		<card><name id="narik">Narik</name><set>main</set></card>
 		<card><name id="71samlavelle">Sam Lavelle</name><set>xlist</set></card>
 		<card><name id="71samlavelle">Sam Lavelle</name><set>xlist</set></card>
-		<card><name id="drsoong">Dr. Soong</name><set>main</set></card>
-		<card><name id="drsoong">Dr. Soong</name><set>main</set></card>
-		<card><name id="drsoong">Dr. Soong</name><set>main</set></card>
-		<card><name id="drsoong">Dr. Soong</name><set>main</set></card>
-		<card><name id="soongtypeandroid">Soong-type Android</name><set>main</set></card>
-		<card><name id="soongtypeandroid">Soong-type Android</name><set>main</set></card>
-		<card><name id="soongtypeandroid">Soong-type Android</name><set>main</set></card>
-		<card><name id="soongtypeandroid">Soong-type Android</name><set>main</set></card>
-		<card><name id="soongtypeandroid">Soong-type Android</name><set>main</set></card>
-		<card><name id="soongtypeandroid">Soong-type Android</name><set>main</set></card>
 		<card><name id="Mendon">Mendon</name><set>main</set></card>
 		<card><name id="gibson">Gibson</name><set>main</set></card>
 		<card><name id="tngsup_44V">Mercenary Ship</name><set>block_b01</set></card>
-		<card><name id="lal">Lal</name><set>main</set></card>
-		<card><name id="julianatainer">Juliana Tainer</name><set>main</set></card>
 		<card><name id="hiddenfighter">Hidden Fighter</name><set>main</set></card>
 		<card><name id="hiddenfighter">Hidden Fighter</name><set>main</set></card>
 		<card><name id="starfleettype1phaser">Starfleet Type I Phaser</name><set>main</set></card>
@@ -62,10 +52,11 @@
 		<card><name id="6VP_Handshake">Handshake (Virtual Promo)</name><set>main</set></card>
 		<card><name id="6VP_Handshake">Handshake (Virtual Promo)</name><set>main</set></card>
 		<card><name id="6VP_Handshake">Handshake (Virtual Promo)</name><set>main</set></card>
-		<card><name id="tng_95V">Will Riker</name><set>block_b01</set></card>
 		<card><name id="HMF2_40">Andrea Brand</name><set>block_core_conv</set></card>
-		<card><name id="bgrobinson">B.G. Robinson</name><set>main</set></card>
 		<card><name id="ussenterprise">U.S.S. Enterprise</name><set>main</set></card>
+		<card><name id="keikoobrien">Keiko O&apos;Brien</name><set>main</set></card>
+		<card><name id="etanajol">Etana Jol</name><set>main</set></card>
+		<card><name id="tngsup_34V">Jo&apos;Bril</name><set>block_b01</set></card>
 	</superzone>
 	<superzone name="Missions">
 		<card><name id="tng_36V">Amnesty Talks</name><set>block_b01_conv</set></card>
@@ -83,6 +74,7 @@
 		<card><name id="tngsup_11V">Federation Outpost</name><set>block_b01</set></card>
 		<card><name id="tng_31V">Strategic Base</name><set>block_b01</set></card>
 		<card><name id="SoG_14">Duck Blind</name><set>block_b00</set></card>
+		<card><name id="HMF_04V">Dal&apos;Rok (Homefront)</name><set>block_core</set></card>
 		<card><name id="HMF_05V">Dead End (Homefront)</name><set>block_core</set></card>
 		<card><name id="LFL_05V">Important Guests</name><set>block_b00</set></card>
 		<card><name id="tng_21V">Attention All Hands</name><set>block_b01</set></card>
@@ -93,19 +85,22 @@
 		<card><name id="HMF2_5">Forsaken</name><set>block_core_conv</set></card>
 		<card><name id="HMF2_8">Gomtuu Shock Wave</name><set>block_core_conv</set></card>
 		<card><name id="2VP_Tribunal-of-Q">Tribunal of Q</name><set>main</set></card>
+		<card><name id="Ankari-Spirits">Ankari &quot;Spirits&quot;</name><set>main</set></card>
 		<card><name id="60VP">Denevan Neural Parasites (Virtual Promo)</name><set>main</set></card>
 		<card><name id="HMF2_6">Founder Secret (Homefront II)</name><set>block_core</set></card>
 		<card><name id="70VP">Hanonian Land Eel (Virtual Promo)</name><set>main</set></card>
 		<card><name id="LFL_06V">Medical Crisis</name><set>block_b00</set></card>
 		<card><name id="19-VP_personalduty">Personal Duty</name><set>main_conv</set></card>
-		<card><name id="25cyberneticsexpertiseA">Cybernetics Expertise</name><set>xlist</set></card>
+		<card><name id="45VP">A Fast Ship Would Be Nice (Virtual Promo)</name><set>main</set></card>
 		<card><name id="spacedoor">Spacedoor</name><set>main</set></card>
 		<card><name id="93VP">Q&apos;s Tent: Civil War</name><set>main</set></card>
-		<card><name id="inthepalemoonlight">In the Pale Moonlight</name><set>main</set></card>
-		<card><name id="impressivetrophies">Impressive Trophies</name><set>main</set></card>
+		<card><name id="twisted">Twisted</name><set>main</set></card>
+		<card><name id="scientificmethod">Scientific Method</name><set>main</set></card>
 		<card><name id="malesplague">Male&apos;s Love Interest &amp; Plague Ship</name><set>main</set></card>
-		<card><name id="Ankari-Spirits">Ankari &quot;Spirits&quot;</name><set>main</set></card>
-		<card><name id="HMF_04V">Dal&apos;Rok (Homefront)</name><set>block_core</set></card>
+		<card><name id="kelvanshowofforce">Kelvan Show of Force</name><set>main</set></card>
+		<card><name id="inthepalemoonlight">In the Pale Moonlight</name><set>main</set></card>
+		<card><name id="executiveauthorization">Executive Authorization</name><set>main</set></card>
+		<card><name id="chulathegame">Chula: The Game</name><set>main</set></card>
 	</superzone>
 	<superzone name="QsTent">
 		<card><name id="Obelisk-of-Masaka-RefReprint">Obelisk of Masaka</name><set>main</set></card>
