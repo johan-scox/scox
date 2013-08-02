@@ -1,0 +1,73 @@
+<deck version="0.8">
+	<meta>
+		<title>starbuck_maquis_starter_B</title>
+		<author>Nava</author>
+		<email>nekrit.nava@googlemail.com</email>
+		<date>04-11-12</date>
+		<game>startrek1e</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Noimage">Niles *Test</name><set>main</set></card>
+		<card><name id="Noimage">Niles *Test</name><set>main</set></card>
+		<card><name id="Noimage">Cal Hudson *Test</name><set>main</set></card>
+		<card><name id="michaeleddington">Michael Eddington</name><set>main</set></card>
+		<card><name id="Noimage">Rebecca Sullivan *Test</name><set>main</set></card>
+		<card><name id="Noimage">Tamal *Test</name><set>main</set></card>
+		<card><name id="Noimage">Thomas Riker *Test</name><set>main</set></card>
+		<card><name id="Noimage">William Patrick Samuels *Test</name><set>main</set></card>
+		<card><name id="amaros">Amaros</name><set>main</set></card>
+		<card><name id="Noimage">Harana *Test</name><set>main</set></card>
+		<card><name id="kalita">Kalita</name><set>main</set></card>
+		<card><name id="Noimage">Kobb *Test</name><set>main</set></card>
+		<card><name id="Noimage">M&apos;vil *Test</name><set>main</set></card>
+		<card><name id="Noimage">Reide *Test</name><set>main</set></card>
+		<card><name id="Noimage">Sark *Test</name><set>main</set></card>
+		<card><name id="Noimage">Brathaw *Test</name><set>main</set></card>
+		<card><name id="etyshra">E&apos;Tyshra</name><set>main</set></card>
+		<card><name id="Noimage">Kasidy Yates *Test</name><set>main</set></card>
+		<card><name id="sharat">Sharat</name><set>main</set></card>
+		<card><name id="tykajada">Ty Kajada</name><set>main</set></card>
+		<card><name id="Noimage">Plowshares to Swords *Test</name><set>main</set></card>
+		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
+		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
+		<card><name id="Noimage">Sisko&apos;s Catchphrase *Test</name><set>main</set></card>
+		<card><name id="Noimage">Sisko&apos;s Catchphrase *Test</name><set>main</set></card>
+		<card><name id="Noimage">U.S.S. Defiant *Test</name><set>main</set></card>
+		<card><name id="Noimage">Maquis Raider *Test</name><set>main</set></card>
+		<card><name id="Noimage">Maquis Raider *Test</name><set>main</set></card>
+		<card><name id="Noimage">Quark (Fer) *Test</name><set>main</set></card>
+		<card><name id="Noimage">Set Condition One *Test</name><set>main</set></card>
+	</superzone>
+	<superzone name="Missions">
+		<card><name id="studybadlands">Study Badlands</name><set>main</set></card>
+		<card><name id="HMF3_12">Find Hidden Base (Homefront III)</name><set>block_core</set></card>
+		<card><name id="searchandrescue">Search and Rescue</name><set>main</set></card>
+		<card><name id="verifyevidence">Verify Evidence</name><set>main</set></card>
+		<card><name id="Noimage">Destroy Secret Buildup *Test</name><set>main</set></card>
+		<card><name id="Noimage">Supply Terrorist Activity *Test</name><set>main</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="Noimage">Team of Bad Guys *Test</name><set>main</set></card>
+		<card><name id="HMF2_10">Temporal Micro-Wormhole (Homefront II)</name><set>block_core</set></card>
+		<card><name id="assignsupportpersonnel">Assign Support Personnel</name><set>main</set></card>
+		<card><name id="Noimage">Distant Exploration *Test</name><set>main</set></card>
+		<card><name id="Noimage">Breech of Etiquette *Test</name><set>main</set></card>
+		<card><name id="Noimage">A Pleasant Surprise *Test</name><set>main</set></card>
+		<card><name id="Noimage">Newtonian Roadblock *Test</name><set>main</set></card>
+		<card><name id="palukoo">Palukoo</name><set>main</set></card>
+		<card><name id="Noimage">Malfunctioning Implant *Test</name><set>main</set></card>
+		<card><name id="HMF_01V">Blended (Homefront)</name><set>block_core</set></card>
+		<card><name id="Noimage">Chula: The Pants *Test</name><set>main</set></card>
+		<card><name id="Noimage">Recurring Injury *Test</name><set>main</set></card>
+		<card><name id="oops">Oops!</name><set>main</set></card>
+		<card><name id="HMF_06V">Flim-Flam Artist</name><set>block_core_conv</set></card>
+		<card><name id="HMF_13V">Picking Up the Pieces</name><set>block_core_conv</set></card>
+		<card><name id="HMF2_2">Dangerous Climb</name><set>block_core_conv</set></card>
+		<card><name id="HMF_02V">Chula: The Chandra (Homefront)</name><set>block_core</set></card>
+		<card><name id="Noimage">Hard Time *Test</name><set>main</set></card>
+		<card><name id="HMF_07V">Friendly Fire (Homefront)</name><set>block_core</set></card>
+		<card><name id="HMF_09V">Maglock (Homefront)</name><set>block_core</set></card>
+		<card><name id="Noimage">Back Room Dealings *Test</name><set>main</set></card>
+		<card><name id="HMF2_4">Dignitaries and Witnesses</name><set>block_core_conv</set></card>
+	</superzone>
+</deck>

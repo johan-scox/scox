@@ -1,0 +1,81 @@
+<deck version="0.8">
+	<meta>
+		<title>starbuck_bajoran_fed_starter_B</title>
+		<author>Nava</author>
+		<email>nekrit.nava@googlemail.com</email>
+		<date>04-11-12</date>
+		<game>startrek1e</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Noimage">Dohlem *Test</name><set>main</set></card>
+		<card><name id="Noimage">Dohlem *Test</name><set>main</set></card>
+		<card><name id="jaroessa">Jaro Essa</name><set>main</set></card>
+		<card><name id="ministerrozahn">Minister Rozahn</name><set>main</set></card>
+		<card><name id="Noimage">Minister Toran *Test</name><set>main</set></card>
+		<card><name id="HMF2_28">Ranjen Koral</name><set>block_core_conv</set></card>
+		<card><name id="vedeksorad">Vedek Sorad</name><set>main</set></card>
+		<card><name id="HMF2_30">Winn Adami</name><set>block_core_conv</set></card>
+		<card><name id="Noimage">Yarka *Test</name><set>main</set></card>
+		<card><name id="Noimage">Apprentice Sisko *Test</name><set>main</set></card>
+		<card><name id="Noimage">CMO Bashir *Test</name><set>main</set></card>
+		<card><name id="Noimage">Commander Sisko *Test</name><set>main</set></card>
+		<card><name id="enriquemuniz">Enrique Muniz</name><set>main</set></card>
+		<card><name id="ST1E-ENAGT019">Gideon Seyetik</name><set>main_conv</set></card>
+		<card><name id="Noimage">Hoya *Test</name><set>main</set></card>
+		<card><name id="jacemichaels">Jace Michaels</name><set>main</set></card>
+		<card><name id="Noimage">Lieutenant j.g. Dax *Test</name><set>main</set></card>
+		<card><name id="Noimage">Mills *Test</name><set>main</set></card>
+		<card><name id="Noimage">Paulson *Test</name><set>main</set></card>
+		<card><name id="Noimage">Quark (Baj/Fer) *Test</name><set>main</set></card>
+		<card><name id="etyshra">E&apos;Tyshra</name><set>main</set></card>
+		<card><name id="sharat">Sharat</name><set>main</set></card>
+		<card><name id="tykajada">Ty Kajada</name><set>main</set></card>
+		<card><name id="Noimage">Sisko&apos;s Catchphrase *Test</name><set>main</set></card>
+		<card><name id="Noimage">Sisko&apos;s Catchphrase *Test</name><set>main</set></card>
+		<card><name id="Noimage">DS9 Themed Bonus Card *Test</name><set>main</set></card>
+		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
+		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
+		<card><name id="assaultvessel">Assault Vessel</name><set>main</set></card>
+		<card><name id="assaultvessel">Assault Vessel</name><set>main</set></card>
+		<card><name id="Noimage">U.S.S. Orinoco *Test</name><set>main</set></card>
+		<card><name id="Noimage">That Procedure Is Not Reccomen *Test</name><set>main</set></card>
+	</superzone>
+	<superzone name="Missions">
+		<card><name id="accessrelaystation">Access Relay Station</name><set>main</set></card>
+		<card><name id="surveystarsystem">Survey Star System</name><set>main</set></card>
+		<card><name id="searchandrescue">Search and Rescue</name><set>main</set></card>
+		<card><name id="HMF_29V">Alter Records (Homefront)</name><set>block_core</set></card>
+		<card><name id="Noimage">Obtain Vital Clue *Test</name><set>main</set></card>
+		<card><name id="Noimage">Verify Legendary Journey *Test</name><set>main</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="Noimage">Distant Exploration *Test</name><set>main</set></card>
+		<card><name id="HMF2_10">Temporal Micro-Wormhole (Homefront II)</name><set>block_core</set></card>
+		<card><name id="assignsupportpersonnel">Assign Support Personnel</name><set>main</set></card>
+		<card><name id="HMF_19V">Chamber of Ministers (Homefront)</name><set>block_core</set></card>
+		<card><name id="hqsecurehomeworld">HQ: Secure Homeworld</name><set>main</set></card>
+		<card><name id="angrymob">Angry Mob</name><set>main</set></card>
+		<card><name id="flaxianassassin">Flaxian Assassin</name><set>main</set></card>
+		<card><name id="Noimage">Too Many Chiefs *Test</name><set>main</set></card>
+		<card><name id="Noimage">Chula: Unfortunate Roll *Test</name><set>main</set></card>
+		<card><name id="briefromance">Brief Romance</name><set>main</set></card>
+		<card><name id="Noimage">Socializing With The Staff *Test</name><set>main</set></card>
+		<card><name id="thethreevipers">The Three Vipers</name><set>main</set></card>
+		<card><name id="Noimage">Too Many Pilots *Test</name><set>main</set></card>
+		<card><name id="Noimage">Precision Piloting *Test</name><set>main</set></card>
+		<card><name id="HMF_06V">Flim-Flam Artist</name><set>block_core_conv</set></card>
+		<card><name id="HMF_13V">Picking Up the Pieces</name><set>block_core_conv</set></card>
+		<card><name id="HMF2_2">Dangerous Climb</name><set>block_core_conv</set></card>
+		<card><name id="HMF_02V">Chula: The Chandra (Homefront)</name><set>block_core</set></card>
+		<card><name id="Noimage">Hard Time *Test</name><set>main</set></card>
+		<card><name id="HMF_07V">Friendly Fire (Homefront)</name><set>block_core</set></card>
+		<card><name id="HMF_09V">Maglock (Homefront)</name><set>block_core</set></card>
+		<card><name id="Noimage">Back Room Dealings *Test</name><set>main</set></card>
+		<card><name id="HMF2_4">Dignitaries and Witnesses</name><set>block_core_conv</set></card>
+		<card><name id="treatyfederationbajoran">Treaty: Federation/Bajoran</name><set>main</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="bajoranwormhole">Bajoran Wormhole</name><set>main</set></card>
+		<card><name id="bajoranwormhole">Bajoran Wormhole</name><set>main</set></card>
+	</superzone>
+</deck>

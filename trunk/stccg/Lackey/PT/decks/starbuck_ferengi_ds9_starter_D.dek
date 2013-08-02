@@ -1,0 +1,81 @@
+<deck version="0.8">
+	<meta>
+		<title>starbuck_ferengi_ds9_starter_B</title>
+		<author>Nava</author>
+		<email>nekrit.nava@googlemail.com</email>
+		<date>04-11-12</date>
+		<game>startrek1e</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="gral">Gral</name><set>main</set></card>
+		<card><name id="grandnaguszek">Grand Nagus Zek</name><set>main</set></card>
+		<card><name id="maihardu">Maihar&apos;du</name><set>main</set></card>
+		<card><name id="nava">Nava</name><set>main</set></card>
+		<card><name id="nava">Nava</name><set>main</set></card>
+		<card><name id="pel">Pel</name><set>main</set></card>
+		<card><name id="Noimage">Ferengi Guy 1 *Test</name><set>main</set></card>
+		<card><name id="tykajada">Ty Kajada</name><set>main</set></card>
+		<card><name id="Noimage">Sisko&apos;s Catchphrase *Test</name><set>main</set></card>
+		<card><name id="Noimage">Sisko&apos;s Catchphrase *Test</name><set>main</set></card>
+		<card><name id="Noimage">DS9 Themed Bonus Card *Test</name><set>main</set></card>
+		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
+		<card><name id="tngsup_10V">Surprise Party</name><set>block_b01</set></card>
+		<card><name id="Noimage">Ferengi Freighter *Test</name><set>main</set></card>
+		<card><name id="Noimage">Ferengi Freighter *Test</name><set>main</set></card>
+		<card><name id="Noimage">That Procedure Is Not Reccomen *Test</name><set>main</set></card>
+		<card><name id="Noimage">Administrator Borath *Test</name><set>main</set></card>
+		<card><name id="Noimage">Administrator Weyoun *Test</name><set>main</set></card>
+		<card><name id="Noimage">Administrator Kilana *Test</name><set>main</set></card>
+		<card><name id="Noimage">&quot;Ambassador&quot; Talak&apos;talan *Test</name><set>main</set></card>
+		<card><name id="Noimage">Bodyguard *Test</name><set>main</set></card>
+		<card><name id="Noimage">Bodyguard *Test</name><set>main</set></card>
+		<card><name id="eris">Eris</name><set>main</set></card>
+		<card><name id="hanok">Hanok</name><set>main</set></card>
+		<card><name id="inglatu">Inglatu</name><set>main</set></card>
+		<card><name id="ornithar">Ornithar</name><set>main</set></card>
+		<card><name id="zyree">Zyree</name><set>main</set></card>
+		<card><name id="Noimage">Krax *Test</name><set>main</set></card>
+		<card><name id="Noimage">Quark (Dom/Fer) *Test</name><set>main</set></card>
+		<card><name id="etyshra">E&apos;Tyshra</name><set>main</set></card>
+		<card><name id="sharat">Sharat</name><set>main</set></card>
+		<card><name id="karemmanvessel">Karemman Vessel</name><set>main</set></card>
+	</superzone>
+	<superzone name="Missions">
+		<card><name id="HMF_31V">Deliver Message (Homefront)</name><set>block_core</set></card>
+		<card><name id="surveystarsystem">Survey Star System</name><set>main</set></card>
+		<card><name id="Noimage">Supply Terrorist Activity *Test</name><set>main</set></card>
+		<card><name id="Noimage">Obtain Vital Clue *Test</name><set>main</set></card>
+		<card><name id="acquireillicitexplosives">Acquire Illicit Explosives</name><set>main</set></card>
+		<card><name id="Noimage">New Forty Point Mission *Test</name><set>main</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="Noimage">Distant Exploration *Test</name><set>main</set></card>
+		<card><name id="HMF2_10">Temporal Micro-Wormhole (Homefront II)</name><set>block_core</set></card>
+		<card><name id="assignsupportpersonnel">Assign Support Personnel</name><set>main</set></card>
+		<card><name id="hqsecurehomeworld">HQ: Secure Homeworld</name><set>main</set></card>
+		<card><name id="HMF_25V">Tower of Commerce (Homefront)</name><set>block_core</set></card>
+		<card><name id="Noimage">Misidentification *Test</name><set>main</set></card>
+		<card><name id="Noimage">Recurring Injury *Test</name><set>main</set></card>
+		<card><name id="Noimage">Harvester Hazards *Test</name><set>main</set></card>
+		<card><name id="thethreevipers">The Three Vipers</name><set>main</set></card>
+		<card><name id="Noimage">Subspace Accident *Test</name><set>main</set></card>
+		<card><name id="Noimage">Graviton Wave *Test</name><set>main</set></card>
+		<card><name id="lockbox">Lockbox</name><set>main</set></card>
+		<card><name id="Noimage">Close Call *Test</name><set>main</set></card>
+		<card><name id="seismicquake">Seismic Quake</name><set>main</set></card>
+		<card><name id="HMF_06V">Flim-Flam Artist</name><set>block_core_conv</set></card>
+		<card><name id="HMF_13V">Picking Up the Pieces</name><set>block_core_conv</set></card>
+		<card><name id="HMF2_2">Dangerous Climb</name><set>block_core_conv</set></card>
+		<card><name id="HMF_02V">Chula: The Chandra (Homefront)</name><set>block_core</set></card>
+		<card><name id="Noimage">Hard Time *Test</name><set>main</set></card>
+		<card><name id="HMF_07V">Friendly Fire (Homefront)</name><set>block_core</set></card>
+		<card><name id="HMF_09V">Maglock (Homefront)</name><set>block_core</set></card>
+		<card><name id="Noimage">Back Room Dealings *Test</name><set>main</set></card>
+		<card><name id="HMF2_4">Dignitaries and Witnesses</name><set>block_core_conv</set></card>
+		<card><name id="Noimage">Treaty: Dominion/Ferengi *Test</name><set>main</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="bajoranwormhole">Bajoran Wormhole</name><set>main</set></card>
+		<card><name id="bajoranwormhole">Bajoran Wormhole</name><set>main</set></card>
+	</superzone>
+</deck>
