@@ -1,0 +1,68 @@
+<deck version="0.8">
+	<meta>
+		<title>Regionals-2013</title>
+		<author>Scox2</author>
+		<email>johan.skoglund@yahoo.com</email>
+		<date>04-11-12</date>
+		<game>tribbles</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="100000tribblesclone">100,000 Tribbles - Clone</name><set>TwT</set></card>
+		<card><name id="100000tribblesclone">100,000 Tribbles - Clone</name><set>TwT</set></card>
+		<card><name id="100000tribblesclone">100,000 Tribbles - Clone</name><set>TwT</set></card>
+		<card><name id="39V">1 Tribble - Go</name><set>Tribble,TaTa</set></card>
+		<card><name id="39V">1 Tribble - Go</name><set>Tribble,TaTa</set></card>
+		<card><name id="39V">1 Tribble - Go</name><set>Tribble,TaTa</set></card>
+		<card><name id="39V">1 Tribble - Go</name><set>Tribble,TaTa</set></card>
+		<card><name id="42V">10 Tribbles - Go</name><set>Tribble,TaTa</set></card>
+		<card><name id="42V">10 Tribbles - Go</name><set>Tribble,TaTa</set></card>
+		<card><name id="42V">10 Tribbles - Go</name><set>Tribble,TaTa</set></card>
+		<card><name id="42V">10 Tribbles - Go</name><set>Tribble,TaTa</set></card>
+		<card><name id="31V">10,000 Tribbles - Go</name><set>NTAA</set></card>
+		<card><name id="31V">10,000 Tribbles - Go</name><set>NTAA</set></card>
+		<card><name id="31V">10,000 Tribbles - Go</name><set>NTAA</set></card>
+		<card><name id="28V">1,000 Tribbles - Freeze</name><set>NTAA</set></card>
+		<card><name id="28V">1,000 Tribbles - Freeze</name><set>NTAA</set></card>
+		<card><name id="84V">1,000 Tribbles - Sabotage</name><set>BTLQ</set></card>
+		<card><name id="84V">1,000 Tribbles - Sabotage</name><set>BTLQ</set></card>
+		<card><name id="84V">1,000 Tribbles - Sabotage</name><set>BTLQ</set></card>
+		<card><name id="45V">100 Tribbles - Poison</name><set>Tribble,TaTa</set></card>
+		<card><name id="45V">100 Tribbles - Poison</name><set>Tribble,TaTa</set></card>
+		<card><name id="56V">1 Tribble - IDIC</name><set>NBT</set></card>
+		<card><name id="56V">1 Tribble - IDIC</name><set>NBT</set></card>
+		<card><name id="56V">1 Tribble - IDIC</name><set>NBT</set></card>
+		<card><name id="3V">1 Tribble - Replay</name><set>MTMT</set></card>
+		<card><name id="3V">1 Tribble - Replay</name><set>MTMT</set></card>
+		<card><name id="4V">10 Tribbles - Copy</name><set>MTMT</set></card>
+		<card><name id="4V">10 Tribbles - Copy</name><set>MTMT</set></card>
+		<card><name id="4V">10 Tribbles - Copy</name><set>MTMT</set></card>
+		<card><name id="43V">10 Tribbles - Poison</name><set>Tribble,TaTa</set></card>
+		<card><name id="43V">10 Tribbles - Poison</name><set>Tribble,TaTa</set></card>
+		<card><name id="43V">10 Tribbles - Poison</name><set>Tribble,TaTa</set></card>
+		<card><name id="36V">100,000 Tribbles - Tally</name><set>NTAA</set></card>
+		<card><name id="36V">100,000 Tribbles - Tally</name><set>NTAA</set></card>
+		<card><name id="7V">100 Tribbles - Copy</name><set>MTMT</set></card>
+		<card><name id="7V">100 Tribbles - Copy</name><set>MTMT</set></card>
+		<card><name id="63V">100 Tribbles - Utilize</name><set>NBT</set></card>
+		<card><name id="63V">100 Tribbles - Utilize</name><set>NBT</set></card>
+		<card><name id="47V">100 Tribbles - Stampede</name><set>TaTa</set></card>
+		<card><name id="47V">100 Tribbles - Stampede</name><set>TaTa</set></card>
+		<card><name id="64V">1,000 Tribbles - Masaka</name><set>NBT</set></card>
+		<card><name id="64V">1,000 Tribbles - Masaka</name><set>NBT</set></card>
+		<card><name id="27V">100 Tribbles - Recycle &amp; Reverse</name><set>NTAA</set></card>
+		<card><name id="27V">100 Tribbles - Recycle &amp; Reverse</name><set>NTAA</set></card>
+		<card><name id="33V">10,000 Tribbles - Toxin</name><set>NTAA</set></card>
+		<card><name id="33V">10,000 Tribbles - Toxin</name><set>NTAA</set></card>
+		<card><name id="72V">100,000 Tribbles - Time Warp</name><set>NBT</set></card>
+		<card><name id="35V">100,000 Tribbles - Safety</name><set>NTAA</set></card>
+		<card><name id="12V">1,000 Tribbles - Score</name><set>MTMT</set></card>
+		<card><name id="12V">1,000 Tribbles - Score</name><set>MTMT</set></card>
+		<card><name id="55V">1 Tribble - Convert</name><set>NBT</set></card>
+		<card><name id="55V">1 Tribble - Convert</name><set>NBT</set></card>
+		<card><name id="6V">10 Tribbles - Draw</name><set>MTMT</set></card>
+		<card><name id="6V">10 Tribbles - Draw</name><set>MTMT</set></card>
+		<card><name id="2VTP">10,000 Tribbles - Rescue</name><set>TwT,VTP</set></card>
+		<card><name id="2VTP">10,000 Tribbles - Rescue</name><set>TwT,VTP</set></card>
+		<card><name id="2VTP">10,000 Tribbles - Rescue</name><set>TwT,VTP</set></card>
+	</superzone>
+</deck>
