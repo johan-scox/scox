@@ -1,0 +1,244 @@
+[q=GM-Ronny][post=15662165.1]
+[b]Q. How often does team spirit drop/rise?[/b]
+A. Every daily update. A commonly used source for approximating your team spirit before and after a drop can be found at 
+(http://1.bp.blogspot.com/_VhyLzKPbrY0/S3DWIqy...p.gif) [link=http://1.bp.blogspot.com/_VhyLzKPbrY0/S3DWIqyIvjI/AAAAAAAAAAg/Ukb5KtOeVbc/s1600-h/ts_drop.gif]
+
+
+Q: Is there an automatic way to track the team spirit and confidence changes for national teams?
+A: Yes. Hattrick Portal supports tracking of these variables. Visit (http://hattrickportal.pro/Data/NT/NationalTeam....) [link=http://hattrickportal.pro/Data/NT/NationalTeam.aspx] and select your country of interest from the drop-down menu.
+
+[b]Q. How often does confidence drop?[/b]
+A. It works similar as team spirit. It drops daily depending on the current level of confidence.
+
+[b]Q. How often are team formations updated?[/b]
+A. After each game played.
+
+[b]Q. What time of the day do daily updates take place for national teams?[/b]
+A. 5:30 AM HT-time unless the game is experiencing delays.
+
+[b]Q. How much team spirit does one lose when removing a player from the national team?[/b]
+A. This is hard to quantify but it is related to the agreeability of the player you are removing. 
+
+Nasty: 0.0% - 4.5%
+Contro: 4.5% - 9.0%
+Pleasant: 9.0% - 13.5%
+Symp: 13.5% - 18.0%
+Popular: 18.0% - 22.5%
+
+A very close approximation (if not even the exact one) of the formula for TS decrease when dropping a NT player is 
+
+TS% Drop= Gentleness /(PI * SQRT(2))
+
+where Gentleness is between 0 and 1, where 0 is the nastiest of the nastiest players and every level takes 0.2.
+
+[b]Q. If a player plays only 1 minute in an U20 match, will he still get the full salary deduction?[/b]
+A. Yes.
+
+[b]Q. How old does a player have to be to participate in U20 matches?[/b]
+A. Please refer to the following table: (http://kebab.haapakangas.net/u20schedule.php) [link=http://kebab.haapakangas.net/u20schedule.php].
+
+[b]Q. One of my players has low stamina. What intensity should its owner set his stamina level at in order for him to reach satisfactory levels?[/b]
+A. Please refer to the following table: (http://iht.smdesign.es/en/Studies/Stamina-table) [link=http://iht.smdesign.es/en/Studies/Stamina-table]. Note that this table does not provide accurate percentages for older players. It works fine for U20 players.
+
+[b]Q. If I have already made three substitutions and my keeper gets injured who would replace him?[/b]
+A. The player with the lowest player ID.
+
+[b]Q. What weather would the game be played at?[/b]
+A. It would be the weather for the region in which the host country plays its matches as of the last local daily update before the game starts.
+
+[b]Q. How does home field advantage work?[/b]
+A. During the first phase of the World Cup, home teams get a bonus to their midfield equal to the derby away bonus in club teams. Away teams play the same way away club team games are played. During the next stages of the WC, only the host nation receives the derby away bonus. All others play as if they play away from home.
+
+[b]Q. How long before the game could I send lineup orders in?[/b]
+A. Although orders close at 19:45, it is recommended you submit your orders by 19:40.
+
+[b]Q. How late before a game can I change my coach in order for the change to be reflected in the game ratings?[/b]
+A. You could do this up to the very start of the game at 19:59:59.
+
+[b]Q. When does the team spirit/confidence reset take place for national teams?[/b]
+A. Around 4AM on the Monday before the first competitive date of the campaign.
+
+[b]Q. What is the procedure for releasing a player on the transfer market?[/b]
+A. Please refer to [post=15769542.1]
+
+[b]Q. What is the maximum number of players I could enroll?[/b]
+A. 26. However, at least one of these has to be a coach. Ideally, you should save space for three coaches- a defensive-minded, an attacking-minded, and a neutral one. This would allow tactical diversity.[/q]
+
+[q=GM-Ronny][post=15662165.2]
+[b]Q. When would I lose control as a national manager and the new one would step into office?[/b]
+A. At the first daily update for national teams after the end of the election.
+
+[b]Q. What are the starting and equilibrium levels of national teams' team spirit?[/b]
+A. Composed. However, starting level is believed to be around 4.65 and the equilibrium level is 4.5.
+
+[b]Q. What are the starting and equilibrium levels of national teams' confidence?[/b]
+A. Same as for team spirit. 
+
+[b]Q. How can I determine the sublevel of my coach?[/b]
+A. You can only figure it out once he has been a coach in your national team for a while and following how your team spirit moves compared to other teams who play the same sequence of PIC/Normal [sometimes referred to as PIN]/MOTS.
+
+[b]Q. Do I lose anything when enrolling a player to the team?[/b]
+A. No. You only lose team spirit when removing a player.
+
+[b]Q. What is the maximum level for TS in NT/U-20?[/b]
+A. There is no fixed maximum level as in club teams.
+
+[b]Q. How much experience points does a player get in an NT/U-20 game?[/b]
+A. For 90 minutes, an NT/U-20 friendly gives you the equivalent of 2 league matches (or 1 cup match), an NT/U-20 official match earns the player the equivalent of 10 league matches (or 5 cup matches). Semi-finals and finals of the NT/U-20 World Cups count as 20 league matches.
+
+[b]Q. What happens if I a player gets injured but I have not specified an injury-related substitution?[/b]
+A. For the various positions, a player would come in from another substitute position that you have defined in the following order:
+1. Goalkeeper injury
+1.1. Substitute goalkeeper comes in
+1.2. If no substitute goalkeeper was selected, the substitute defender comes in
+1.3. If none of the above was selected, the substitute inner midfielder comes in
+1.4. If none of the above was selected, the substitute winger comes in
+1.5. If none of the above was selected, the substitute forward comes in
+2. Defender injury
+2.1. Substitute defender comes in
+2.2. If no substitute defender was selected, the substitute inner midfielder comes in
+2.3. If none of the above was selected, the substitute winger comes in
+2.4. If none of the above was selected, the substitute forward comes in
+2.5. If none of the above was selected, the substitute goalkeeper comes in
+3. Inner midfielder injury
+3.1. Substitute inner midfielder comes in
+3.2. If no substitute inner midfielder was selected, the substitute defender comes in
+3.3. If none of the above was selected, the substitute winger comes in
+3.4. If none of the above was selected, the substitute forward comes in
+3.5. If none of the above was selected, the substitute goalkeeper comes in
+4. Winger injury
+4.1. Substitute winger comes in
+4.2. If no substitute winger was selected, the substitute forward comes in
+4.3. If none of the above was selected, the substitute inner midfielder comes in
+4.4. If none of the above was selected, the substitute defender comes in
+4.5. If none of the above was selected, the substitute goalkeeper comes in
+5. Forward injury
+5.1. Substitute forward comes in
+5.2. If no substitute forward was selected, the substitute winger comes in
+5.3. If none of the above was selected, the substitute inner midfielder comes in
+5.4. If none of the above was selected, the substitute defender comes in
+5.5. If none of the above was selected, the substitute goalkeeper comes in
+
+[b]Q. Is there a way to define a second set piece taker, if my starting one leaves the pitch?[/b]
+A. Yes. If your starting set piece taker leaves the pitch, then the first available person on your penalty takers list will take over the responsibility of executing set pieces. Note that if you have not specified penalty takers, the player with the lowest player ID will be appointed set piece taker.[/q]
+
+
+[q=GM-Ronny][post=15662165.3]
+[b]Q. Who takes over as captain, if the one I had appointed leaves the pitch?[/b]
+A. The player on the pitch who would best serve as captain is automatically selected for captaincy.
+
+[b]Q. Is it possible to release players from the squad without damaging my team spirit?[/b]
+A. Removing players from the team will always lower your TS. However, as the team spirit is reset the Monday before the qualification starts, you can remove as many players as you would like without negative impact on your team spirit as long as you do it prior to the reset.
+
+[b]Q. Are there any CHPP-approved programs I can use to help me with managing my U20/national team?[/b]
+A. Yes. You could use Hattrick Organizer. For instructions on how to use it, please refer to: [post=9586154.90].
+
+[b]Q. I am in charge of a U20 team. What happens if I select a player who is 21.000 years old or above to start a game?[/b]
+A. He would not play. The substitution for the given position would start the match instead.
+
+[b]Q. Can I use Hattrick's ratings predictor in the national teams?[/b]
+A. Not at the moment. You could use Hattrick Organizer's one instead until Hattrick implements the ratings predictor.
+
+[b]Q. Is there a way to compare the skills of players who are not currently enrolled in the national team?[/b]
+A. No. You will have to rely on the word of the player's owner or an outside database such as (http://www.ht-world.org) null.
+
+[b]Q. When do I receive the National Hero / Headmaster of the Nation achievements?[/b]
+A. You will be awarded the achievement at the end of your term.
+
+[b]Q. I would like to change the national team banner. What are the maximum dimensions I can use?[/b]
+A. 550 x 110 pixels.
+
+[b]Q. A young player dropped a skill today. Is this a bug?[/b]
+A. Even 20 year olds can drop (and have dropped) skills as long as they are above titanic.
+
+[b]Q. Why do my players receive less stars and perform weaker than they do in their club teams?[/b]
+A. Players receive a loyalty bonus in their club teams but not in the national teams.
+
+[b]Q. How is possession determined?[/b]
+A. Midfield rating of Team A / (Midfield rating of Team A + Midfield Rating of Team B). Note that ratings are averaged over the length of the match. Possession numbers, however, are as of that point in time and not averaged.
+
+[b]Q. I lost a player/coach due to its owner becoming a bot team. Did I lose team spirit because of that?[/b]
+A. No. Players that are not removed manually from the national team squads do not cause loss of team spirit.
+
+[b]Q. How big is the TS advantage at start of the world cup if I finish qualifications at POE? [/b]
+A. The TS will drop back to high composed, as there is a few weeks between end of qualifications and the beginning of the world cup.
+
+[b]Q. What will happen with confidence at the end of qualifiers and before the world cup?[/b]
+A. In the theoretical case that you end qualifiers with 0.0 confidence and have qualified for the world cup, you will get back to decent with 1.5 weeks to go, to around 4.2 confidence.
+
+In case you are on completely exaggerated - high after qualifiers, you'll start qualifiers with 5.25 confidence (ie strong)
+
+[b]Q. How is formation experience updated?[/b]
+A. Formation experience is updated as games are played. If no friendlies are scheduled, the formation experience will not change.[/q]
+
+
+[q=GM-Kitto][post=15662165.4]
+[b]Q. How do I make a Hattrick United blog for my NT/U20 team?[/b]
+A. There is a link on the Home section of the dashboard.
+
+[b]Q: Can I add players in Hattrick Organizer, who are not currently enrolled?[/b]
+A: Yes. You would need to open your hrf file using WordPad (attention: NotePad does not work) or some other text editor. Then scroll down until you reach the section containing tags such as [player123456789]. Copy the bit between two player tags, paste it immediately before a player tag and then edit the information accordingly. The skills tags translate as follows
+for= form
+uth=stamina
+spe=playmaking
+mal=scoring
+fra=passing
+ytt=winger
+fas=set pieces
+bac=defending
+mlv=goalkeeping
+rut=experience
+led= leadership
+
+The editing in HO does not get saved, so if you exit the program, you lose the information. Editing the hrf allows you to save your work.
+
+[b]Q. How can I find a coach for my national team?[/b]
+A. Two possibilities:
+1. Click through every team until you find the right one. 
+2. Open a thread in your national forum and hope that people would write to you with suggestions.[/q]
+
+
+[q=GM-Kitto][post=15662165.5]
+The fixture schedule:
+[table] [tr] [td align=center][/td][th colspan=4 align=center] [b] Schedule[/b][/th][/tr]
+[tr] [td align=center][/td][th align=center] 1[/th][th align=center] 2[/th][th align=center] 3[/th][th align=center] 4[/th][/tr]
+[tr] [th] 1[/th][td] 1-4[/td][td] 6-2[/td][td] 3-7[/td][td] 8-5[/td][/tr]
+[tr] [th] 2[/th][td] 7-1[/td][td] 2-3[/td][td] 4-8[/td][td] 5-6[/td][/tr]
+[tr] [th] 3[/th][td] 1-6[/td][td] 4-2[/td][td] 8-3[/td][td] 7-5[/td][/tr]
+[tr] [th] 4[/th][td] 5-1[/td][td] 2-7[/td][td] 6-8[/td][td] 3-4[/td][/tr]
+[tr] [th] 5[/th][td] 1-8[/td][td] 2-5[/td][td] 6-3[/td][td] 4-7[/td][/tr]
+[tr] [th] 6[/th][td] 3-1[/td][td] 8-2[/td][td] 5-4[/td][td] 7-6[/td][/tr]
+[tr] [th] 7[/th][td] 1-2[/td][td] 3-5[/td][td] 6-4[/td][td] 8-7[/td][/tr]
+[tr] [th] 8[/th][td] 4-1[/td][td] 2-6[/td][td] 7-3[/td][td] 5-8[/td][/tr]
+[tr] [th] 9[/th][td] 1-7[/td][td] 3-2[/td][td] 8-4[/td][td] 6-5[/td][/tr]
+[tr] [th] 10[/th][td] 6-1[/td][td] 2-4[/td][td] 3-8[/td][td] 5-7[/td][/tr]
+[tr] [th] 11[/th][td] 1-5[/td][td] 7-2[/td][td] 8-6[/td][td] 4-3[/td][/tr]
+[tr] [th] 12[/th][td] 8-1[/td][td] 5-2[/td][td] 3-6[/td][td] 7-4[/td][/tr]
+[tr] [th] 13[/th][td] 1-3[/td][td] 2-8[/td][td] 4-5[/td][td] 6-7[/td][/tr]
+[tr] [th] 14[/th][td] 2-1[/td][td] 5-3[/td][td] 4-6[/td][td] 7-8[/td][/tr]
+[/table]
+
+
+
+[table] [tr] [th colspan=8 align=center] [b] Matches per team[/b][/th][/tr]
+[tr] [th align=center] 1[/th][th align=center] 2[/th][th align=center] 3[/th][th align=center] 4[/th][th align=center] 5[/th][th align=center] 6[/th][th align=center] 7[/th][th align=center] 8[/th][/tr]
+[tr] [td] 1-4[/td][td] 6-2[/td][td] 3-7[/td][td] 1-4[/td][td] 8-5[/td][td] 6-2[/td][td] 3-7[/td][td] 8-5[/td][/tr]
+[tr] [td] 7-1[/td][td] 2-3[/td][td] 2-3[/td][td] 4-8[/td][td] 5-6[/td][td] 5-6[/td][td] 7-1[/td][td] 4-8[/td][/tr]
+[tr] [td] 1-6[/td][td] 4-2[/td][td] 8-3[/td][td] 4-2[/td][td] 7-5[/td][td] 1-6[/td][td] 7-5[/td][td] 8-3[/td][/tr]
+[tr] [td] 5-1[/td][td] 2-7[/td][td] 3-4[/td][td] 3-4[/td][td] 5-1[/td][td] 6-8[/td][td] 2-7[/td][td] 6-8[/td][/tr]
+[tr] [td] 1-8[/td][td] 2-5[/td][td] 6-3[/td][td] 4-7[/td][td] 2-5[/td][td] 6-3[/td][td] 4-7[/td][td] 1-8[/td][/tr]
+[tr] [td] 3-1[/td][td] 8-2[/td][td] 3-1[/td][td] 5-4[/td][td] 5-4[/td][td] 7-6[/td][td] 7-6[/td][td] 8-2[/td][/tr]
+[tr] [td] 1-2[/td][td] 1-2[/td][td] 3-5[/td][td] 6-4[/td][td] 3-5[/td][td] 6-4[/td][td] 8-7[/td][td] 8-7[/td][/tr]
+[tr] [td] 4-1[/td][td] 2-6[/td][td] 7-3[/td][td] 4-1[/td][td] 5-8[/td][td] 2-6[/td][td] 7-3[/td][td] 5-8[/td][/tr]
+[tr] [td] 1-7[/td][td] 3-2[/td][td] 3-2[/td][td] 8-4[/td][td] 6-5[/td][td] 6-5[/td][td] 1-7[/td][td] 8-4[/td][/tr]
+[tr] [td] 6-1[/td][td] 2-4[/td][td] 3-8[/td][td] 2-4[/td][td] 5-7[/td][td] 6-1[/td][td] 5-7[/td][td] 3-8[/td][/tr]
+[tr] [td] 1-5[/td][td] 7-2[/td][td] 4-3[/td][td] 4-3[/td][td] 1-5[/td][td] 8-6[/td][td] 7-2[/td][td] 8-6[/td][/tr]
+[tr] [td] 8-1[/td][td] 5-2[/td][td] 3-6[/td][td] 7-4[/td][td] 5-2[/td][td] 3-6[/td][td] 7-4[/td][td] 8-1[/td][/tr]
+[tr] [td] 1-3[/td][td] 2-8[/td][td] 1-3[/td][td] 4-5[/td][td] 4-5[/td][td] 6-7[/td][td] 6-7[/td][td] 2-8[/td][/tr]
+[tr] [td] 2-1[/td][td] 2-1[/td][td] 5-3[/td][td] 4-6[/td][td] 5-3[/td][td] 4-6[/td][td] 7-8[/td][td] 7-8[/td][/tr]
+[/table]
+
+
+
+(http://radix.cmi.ua.ac.be/~p051648/HT/WC_sche....xlsx) [link=http://radix.cmi.ua.ac.be/~p051648/HT/WC_schedule2.xlsx][/q]
+
