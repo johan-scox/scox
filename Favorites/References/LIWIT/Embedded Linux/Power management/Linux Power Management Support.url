@@ -1,0 +1,6 @@
+[DEFAULT]
+BASEURL=http://www.handhelds.org/cgi-bin/viewcvs.cgi/~checkout~/linux/kernel/Documentation/pm.txt?rev=1.2&content-type=text/plain
+
+[InternetShortcut]
+URL=http://www.handhelds.org/cgi-bin/viewcvs.cgi/~checkout~/linux/kernel/Documentation/pm.txt?rev=1.2&content-type=text/plain
+Modified=A02023C30CEBC30161

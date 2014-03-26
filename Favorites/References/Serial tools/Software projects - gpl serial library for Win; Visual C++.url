@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://home.ict.nl/~ramklein/Projects/Serial.html
+[InternetShortcut]
+URL=http://home.ict.nl/~ramklein/Projects/Serial.html
+IDList=
+IconFile=http://home.ict.nl/favicon.ico
+IconIndex=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2

@@ -1,0 +1,6 @@
+[DEFAULT]
+BASEURL=http://lists.debian.org/debian-embedded/
+
+[InternetShortcut]
+URL=http://lists.debian.org/debian-embedded/
+Modified=201AB578D2EBC301E8

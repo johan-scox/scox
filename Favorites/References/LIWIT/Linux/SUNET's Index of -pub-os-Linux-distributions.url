@@ -1,0 +1,6 @@
+[DEFAULT]
+BASEURL=http://ftp.sunet.se/pub/os/Linux/distributions/
+
+[InternetShortcut]
+URL=http://ftp.sunet.se/pub/os/Linux/distributions/
+Modified=00A229E96EE9C301CF

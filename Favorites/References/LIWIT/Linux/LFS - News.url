@@ -1,0 +1,6 @@
+[DEFAULT]
+BASEURL=http://www.se.linuxfromscratch.org/lfs/news.html
+
+[InternetShortcut]
+URL=http://www.se.linuxfromscratch.org/lfs/news.html
+Modified=808957EE6EF4C30174

@@ -1,0 +1,8 @@
+[DEFAULT]
+BASEURL=http://www.bostad.dn.se/bostadsborsen/sok/results/NPI-object_Frame.asp?objektid=3148764&service=hemnettogp&caller=main&area=5&tipurl=http://www.hemnet.se/
+[DOC#7#9#3#4]
+BASEURL=http://helins.capitex.se/objcard.aspx?OBJGUID=36TJLM8ANC7INDMS&OBJTYPE=CMBoLgh&hemnet=1
+ORIGURL=http://helins.capitex.se/objcard.aspx?OBJGUID=36TJLM8ANC7INDMS&OBJTYPE=CMBoLgh&hemnet=1
+[InternetShortcut]
+URL=http://www.bostad.dn.se/bostadsborsen/sok/results/NPI-object_Frame.asp?objektid=3148764&service=hemnettogp&caller=main&area=5&tipurl=http://www.hemnet.se/
+Modified=7046C482A4F5C5015B

@@ -1,0 +1,13 @@
+[DEFAULT]
+BASEURL=http://medlem.spray.se/mecher/Fotboll/Fotboll%202006/Serien/
+[DOC#4#5#9#13]
+BASEURL=http://medlem.spray.se/mecher/Fotboll/Fotboll%202006/Serien/7K22.htm
+ORIGURL=D.htm
+[DOC#4#6]
+BASEURL=http://ads.tripod.spray.se/ad/google/frame.php?_url=http%3A//medlem.spray.se/mecher/Fotboll/Fotboll%25202006/Serien/7K22.htm%23Klass%205G&gg_bg=&gg_template=&mkw=&cat=sport
+ORIGURL=http://ads.tripod.spray.se/ad/google/frame.php?_url=http%3A//medlem.spray.se/mecher/Fotboll/Fotboll%25202006/Serien/&gg_bg=&gg_template=&mkw=&cat=sport
+[InternetShortcut]
+URL=http://medlem.spray.se/mecher/Fotboll/Fotboll%202006/Serien/
+IDList=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2

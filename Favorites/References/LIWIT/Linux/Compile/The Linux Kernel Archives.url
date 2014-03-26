@@ -1,0 +1,6 @@
+[DEFAULT]
+BASEURL=http://www.kernel.org/
+
+[InternetShortcut]
+URL=http://www.kernel.org/
+Modified=60E2D36913F2C30147

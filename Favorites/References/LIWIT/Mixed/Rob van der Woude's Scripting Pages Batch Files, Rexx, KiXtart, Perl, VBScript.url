@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://www.robvanderwoude.com/index.html
+[DOC#11#12#13]
+BASEURL=http://www.robvanderwoude.com/robnav.html
+ORIGURL=robnav.html
+[DOC#11#15]
+BASEURL=http://www.robvanderwoude.com/robmain.html
+ORIGURL=robmain.html
+[InternetShortcut]
+URL=http://www.robvanderwoude.com/index.html
+Modified=70CE806642F5C3011F

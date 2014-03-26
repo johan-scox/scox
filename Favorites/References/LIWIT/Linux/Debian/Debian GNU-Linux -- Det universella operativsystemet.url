@@ -1,0 +1,7 @@
+[DEFAULT]
+BASEURL=http://www.debian.org/
+[InternetShortcut]
+URL=http://www.debian.org/
+Modified=B03BB779EE0BC401D9
+IconFile=http://www.debian.org/favicon.ico
+IconIndex=1

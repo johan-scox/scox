@@ -1,0 +1,6 @@
+[DEFAULT]
+BASEURL=http://www.uclibc.org/
+
+[InternetShortcut]
+URL=http://www.uclibc.org/
+Modified=80E4F6D078F4C3015A

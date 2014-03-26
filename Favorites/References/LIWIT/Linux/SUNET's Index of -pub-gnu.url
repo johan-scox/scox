@@ -1,0 +1,6 @@
+[DEFAULT]
+BASEURL=http://ftp.sunet.se/pub/gnu/
+
+[InternetShortcut]
+URL=http://ftp.sunet.se/pub/gnu/
+Modified=00914F2CF6EBC301B1

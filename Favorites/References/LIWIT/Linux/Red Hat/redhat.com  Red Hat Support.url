@@ -1,0 +1,7 @@
+[DEFAULT]
+BASEURL=http://www.redhat.com/docs/manuals/linux/RHL-9-Manual/
+[InternetShortcut]
+URL=http://www.redhat.com/docs/manuals/linux/RHL-9-Manual/
+Modified=D08550E4C40DC4011F
+IconFile=http://www.redhat.com/favicon.ico
+IconIndex=1

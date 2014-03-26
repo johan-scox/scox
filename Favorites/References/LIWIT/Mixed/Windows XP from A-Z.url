@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=http://www.kellys-korner-xp.com/xp_abc.htm
+[DOC#12#14]
+BASEURL=http://www.kellys-korner-xp.com/xp_b.htm
+ORIGURL=xp_a.htm
+[InternetShortcut]
+URL=http://www.kellys-korner-xp.com/xp_abc.htm
+Modified=D0096B7242F5C301B1
+IconFile=http://www.kellys-korner-xp.com/abc.ico
+IconIndex=1

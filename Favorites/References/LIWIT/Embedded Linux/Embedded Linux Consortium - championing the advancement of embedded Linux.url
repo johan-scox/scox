@@ -1,0 +1,6 @@
+[DEFAULT]
+BASEURL=http://www.embedded-linux.org/
+
+[InternetShortcut]
+URL=http://www.embedded-linux.org/
+Modified=60C9C1239BE5C30151

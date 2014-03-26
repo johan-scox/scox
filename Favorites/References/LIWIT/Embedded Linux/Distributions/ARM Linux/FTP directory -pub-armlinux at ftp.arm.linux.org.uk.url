@@ -1,0 +1,6 @@
+[DEFAULT]
+BASEURL=ftp://ftp.arm.linux.org.uk/pub/armlinux
+
+[InternetShortcut]
+URL=ftp://ftp.arm.linux.org.uk/pub/armlinux
+Modified=00F8830075E9C3019D

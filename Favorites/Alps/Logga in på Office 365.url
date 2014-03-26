@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://login.microsoftonline.com/ppsecure/post.srf?wa=wsignin1.0&rpsnv=2&ct=1385708625&rver=6.1.6206.0&wp=MBI_KEY&wreply=https:%2F%2Fwww.outlook.com:443%2Fowa%2F%3Fexsvurl%3D1%26layout%3Dlight%26realm%3Dalpsgroup.onmicrosoft.com&id=260563&whr=alpsgroup.onmicrosoft.com&CBCXT=out&bk=1385708626
+[DOC_login_prefetch_iframe]
+BASEURL=https://r3.res.outlook.com/owa/14.16.359.5/scripts/premium/preload.htm
+ORIGURL=https://www.outlook.com/owa/auth/preload.aspx?id=260563&mkt=SV-SE
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://login.microsoftonline.com/ppsecure/post.srf?wa=wsignin1.0&rpsnv=2&ct=1385708625&rver=6.1.6206.0&wp=MBI_KEY&wreply=https:%2F%2Fwww.outlook.com:443%2Fowa%2F%3Fexsvurl%3D1%26layout%3Dlight%26realm%3Dalpsgroup.onmicrosoft.com&id=260563&whr=alpsgroup.onmicrosoft.com&CBCXT=out&bk=1385708626
+IDList=
+IconFile=https://secure.aadcdn.microsoftonline-p.com/aad/17.0.18729/images/favicon_a.ico
+IconIndex=1

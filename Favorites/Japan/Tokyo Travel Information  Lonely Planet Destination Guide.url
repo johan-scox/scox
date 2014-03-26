@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://www.lonelyplanet.com/worldguide/destinations/asia/japan/tokyo/
+[InternetShortcut]
+URL=http://www.lonelyplanet.com/worldguide/destinations/asia/japan/tokyo/
+IDList=
+IconFile=http://www.lonelyplanet.com/favicon.ico
+IconIndex=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2

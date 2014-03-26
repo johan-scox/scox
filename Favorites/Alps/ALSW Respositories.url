@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://10.55.101.4:2525/
+[InternetShortcut]
+URL=http://10.55.101.4:2525/
+IDList=
+IconFile=http://10.55.101.4:2525/favicon.ico
+IconIndex=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2

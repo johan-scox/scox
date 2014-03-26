@@ -1,0 +1,6 @@
+[DEFAULT]
+BASEURL=http://www.arm.linux.org.uk/docs/kerncomp.shtml
+
+[InternetShortcut]
+URL=http://www.arm.linux.org.uk/docs/kerncomp.shtml
+Modified=00273D7476E6C301F8

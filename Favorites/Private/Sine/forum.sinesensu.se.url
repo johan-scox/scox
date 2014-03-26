@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=http://forum.sinesensu.se/
+[DOC#4#5]
+BASEURL=http://sinesensu.freeforums.org/?EBTX_notify=logout
+ORIGURL=http://sinesensu.freeforums.org/
+[InternetShortcut]
+URL=http://forum.sinesensu.se/
+IDList=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
