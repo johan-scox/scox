@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://www2.saturn.de/webapp/wcs/stores/servlet/main?catalogId=11553&storeId=12053&categoryId=19269&langId=-3&parentCategory=19250&topCategory=19250&ok=T_PRODUCTS&uk=uwg
+[InternetShortcut]
+URL=http://www2.saturn.de/webapp/wcs/stores/servlet/main?catalogId=11553&storeId=12053&categoryId=19269&langId=-3&parentCategory=19250&topCategory=19250&ok=T_PRODUCTS&uk=uwg
+IDList=
+IconFile=http://www2.saturn.de/favicon.ico
+IconIndex=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2

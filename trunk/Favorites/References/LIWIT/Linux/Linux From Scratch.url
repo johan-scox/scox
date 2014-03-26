@@ -1,0 +1,7 @@
+[DEFAULT]
+BASEURL=http://www.fr.linuxfromscratch.org/view/lfs-cvs/index.html
+[InternetShortcut]
+URL=http://www.fr.linuxfromscratch.org/view/lfs-cvs/index.html
+Modified=60201D45124AC40103
+IconFile=http://www.fr.linuxfromscratch.org/favicon.ico
+IconIndex=1

@@ -1,0 +1,7 @@
+[DEFAULT]
+BASEURL=http://10.10.238.216/svn/DSS/0070_VCC_JLR%20DDS/0040_Products/0020_Branches/L405_DDS/0020_Specifications/0080_Firmware_Testing/0020_FWTR/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://10.10.238.216/svn/DSS/0070_VCC_JLR%20DDS/0040_Products/0020_Branches/L405_DDS/0020_Specifications/0080_Firmware_Testing/0020_FWTR/
+IDList=

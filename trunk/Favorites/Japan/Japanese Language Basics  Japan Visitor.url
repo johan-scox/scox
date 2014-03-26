@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.japanvisitor.com/index.php?cID=369&pID=595
+[DOC#857]
+BASEURL=http://www.japanvisitor.com/ads/friends/spod-code-sp-3.html
+ORIGURL=http://www.japanvisitor.com/ads/friends/spod-code-sp-3.html
+[InternetShortcut]
+URL=http://www.japanvisitor.com/index.php?cID=369&pID=595
+IDList=
+IconFile=http://www.japanvisitor.com/favicon.ico
+IconIndex=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2

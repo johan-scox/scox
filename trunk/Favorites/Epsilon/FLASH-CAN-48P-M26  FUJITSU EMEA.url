@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://apps.fmg.de/mcu/mcu_tool/detail/FLASH-CAN-48P-M26.htm
+[InternetShortcut]
+URL=http://apps.fmg.de/mcu/mcu_tool/detail/FLASH-CAN-48P-M26.htm
+IDList=
+IconFile=http://apps.fmg.de/favicon.ico
+IconIndex=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2

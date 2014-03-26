@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=http://www.isochrone.com/
+
+[DOC#4#5#7]
+BASEURL=http://www.isochrone.com/isoWWW/H323.htm
+ORIGURL=isoWWW/mainie.htm
+
+[InternetShortcut]
+URL=http://www.isochrone.com/
+Modified=809B25371AE4C30139

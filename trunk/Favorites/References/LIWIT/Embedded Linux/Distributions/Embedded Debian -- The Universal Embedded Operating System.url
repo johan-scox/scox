@@ -1,0 +1,6 @@
+[DEFAULT]
+BASEURL=http://www.emdebian.org/
+
+[InternetShortcut]
+URL=http://www.emdebian.org/
+Modified=00A9478182E6C3019D

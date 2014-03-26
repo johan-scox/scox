@@ -1,0 +1,6 @@
+[DEFAULT]
+BASEURL=http://www.debian.org/ports/arm/
+
+[InternetShortcut]
+URL=http://www.debian.org/ports/arm/
+Modified=009C76B966E9C301DE

@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://login.microsoftonline.com/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://login.microsoftonline.com/
+IDList=
+IconFile=https://secure.aadcdn.microsoftonline-p.com/~Live.SiteContent.MSOID/~17.1.27/~/~/~/~/images/favicon_a.ico
+IconIndex=1

@@ -1,0 +1,6 @@
+[DEFAULT]
+BASEURL=http://lists.debian.org/debian-arm/
+
+[InternetShortcut]
+URL=http://lists.debian.org/debian-arm/
+Modified=2027B5476CE9C3015C

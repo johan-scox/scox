@@ -1,0 +1,6 @@
+[DEFAULT]
+BASEURL=http://www.linuxjournal.com/embedded.php
+
+[InternetShortcut]
+URL=http://www.linuxjournal.com/embedded.php
+Modified=E0D616C09FE9C301D8

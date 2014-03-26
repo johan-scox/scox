@@ -1,0 +1,13 @@
+[DEFAULT]
+BASEURL=http://www.trafikkontoret.goteborg.se/
+[DOC_Main]
+BASEURL=http://www.trafikkontoret.goteborg.se/FineToolsAPI/FineDriver.aspx?<getpage%20naviid='409'%20source-naviid='alias!LeftMenu Info'/>
+ORIGURL=FineToolsAPI/FineDriver.aspx?<getpage naviid='alias!Startsida'/>
+[DOC_RightMenu]
+BASEURL=http://www.trafikkontoret.goteborg.se/EmptyRightMenu.html
+ORIGURL=FineToolsAPI/FineDriver.aspx?<getpage naviid='template!System.RightMenu.MenuLevel1' source-naviid='alias!RightMenu Info'><r><force-echo/><use-sort-order>y</use-sort-order><stdnavi-naviid>alias!RightMenu</stdnavi-naviid><stdnavi-navilevels>2</stdnavi-navilevels><stdnavi-navitype>stdnavi-navitype-expanded</stdnavi-navitype><skip-parent-template>y</skip-parent-template></r></getpage>
+[InternetShortcut]
+URL=http://www.trafikkontoret.goteborg.se/
+IDList=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2

@@ -1,0 +1,5 @@
+[DEFAULT]
+BASEURL=http://mailman.uclinux.org/pipermail/uclinux-dev/
+[InternetShortcut]
+URL=http://mailman.uclinux.org/pipermail/uclinux-dev/
+Modified=803EED43D7FAC30183

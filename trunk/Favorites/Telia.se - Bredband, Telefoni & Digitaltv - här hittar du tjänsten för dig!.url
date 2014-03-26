@@ -1,0 +1,7 @@
+[DEFAULT]
+BASEURL=http://www.telia.se/foretag/frame.do?mainFrame=%2Fartikel%2FVisaArtikel.do%3FOID%3D206104%26tabId%3D0%26channelId%3D-101349%26sida%3Dartikel15
+[InternetShortcut]
+URL=http://www.telia.se/foretag/frame.do?mainFrame=%2Fartikel%2FVisaArtikel.do%3FOID%3D206104%26tabId%3D0%26channelId%3D-101349%26sida%3Dartikel15
+IDList=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2

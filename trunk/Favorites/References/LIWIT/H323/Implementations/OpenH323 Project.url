@@ -1,0 +1,6 @@
+[DEFAULT]
+BASEURL=http://www.openh323.org/
+
+[InternetShortcut]
+URL=http://www.openh323.org/
+Modified=E0DC0DE203E4C30156

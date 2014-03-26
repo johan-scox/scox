@@ -1,0 +1,6 @@
+[DEFAULT]
+BASEURL=http://www.uclinux.org/
+
+[InternetShortcut]
+URL=http://www.uclinux.org/
+Modified=20188BB580E6C301A2

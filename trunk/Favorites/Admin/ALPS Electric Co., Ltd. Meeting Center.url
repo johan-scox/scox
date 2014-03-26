@@ -1,0 +1,13 @@
+[DEFAULT]
+BASEURL=https://alps.webex.com/alps-en/mywebex/default.php?Rnd1435=0.13302999728812143
+[DOC#5#7]
+BASEURL=https://alps.webex.com/alps-en/site/advancedframe.php?Rnd6691=0.4636676957515065
+ORIGURL=service_mc.php
+[DOC#5#7#4#6]
+BASEURL=https://alps.webex.com/alps-en/site/homelistbyday.php?DisplayType=Day&Rnd=1862752390&daysource=byday&rnd=997340497&Rnd8795=0.20310568466222012&flashFlag=1&rnd=842703856&Rnd8057=0.4416591782566294
+ORIGURL=/alps-en/site/homelistbyday.php?DisplayType=Day&Rnd=1862752390
+[InternetShortcut]
+URL=https://alps.webex.com/alps-en/mywebex/default.php?Rnd1435=0.13302999728812143
+IDList=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11

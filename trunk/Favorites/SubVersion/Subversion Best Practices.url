@@ -1,0 +1,7 @@
+[DEFAULT]
+BASEURL=http://svn.collab.net/repos/svn/trunk/doc/user/svn-best-practices.html
+[InternetShortcut]
+URL=http://svn.collab.net/repos/svn/trunk/doc/user/svn-best-practices.html
+Modified=A0B42D609D9EC601E3
+IconFile=http://svn.collab.net/favicon.ico
+IconIndex=1

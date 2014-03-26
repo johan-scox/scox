@@ -1,0 +1,6 @@
+[DEFAULT]
+BASEURL=http://www.tldp.org/LDP/Linux-Dictionary/html/
+
+[InternetShortcut]
+URL=http://www.tldp.org/LDP/Linux-Dictionary/html/
+Modified=C00525B4E1EBC3012E

@@ -1,0 +1,14 @@
+[DEFAULT]
+BASEURL=http://ucos-ii.com/
+
+[DOC#7#9]
+BASEURL=http://ucos-ii.com/frames/products.html
+ORIGURL=frames/home.html
+
+[DOC#7#9#4#6]
+BASEURL=http://ucos-ii.com/contents/products/uc-os-ii.html
+ORIGURL=../contents/products/PRODUCTShome.html
+
+[InternetShortcut]
+URL=http://ucos-ii.com/
+Modified=808A017A86ECC301BB

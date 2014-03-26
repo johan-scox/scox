@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=http://maps.google.com/
+[DOC_vp]
+BASEURL=http://maps.google.com/mapfiles/home2.html
+ORIGURL=/mapfiles/home2.html
+[InternetShortcut]
+URL=http://maps.google.com/
+Modified=E06ED5863ADAC50183
+IconFile=http://maps.google.com/favicon.ico
+IconIndex=1

@@ -1,0 +1,7 @@
+[DEFAULT]
+BASEURL=http://www.gentoo.org/
+[InternetShortcut]
+URL=http://www.gentoo.org/
+Modified=6070BBE914F6C30142
+IconFile=http://www.gentoo.org/favicon.ico
+IconIndex=1

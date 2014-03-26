@@ -1,0 +1,6 @@
+[DEFAULT]
+BASEURL=http://www.trolltech.com/products/index.html
+
+[InternetShortcut]
+URL=http://www.trolltech.com/products/index.html
+Modified=605594D913EFC301E8

@@ -1,0 +1,6 @@
+[DEFAULT]
+BASEURL=http://ftp.sunet.se/pub/os/Linux/distributions/debian-non-US/dists/Debian3.0r2/non-US/
+
+[InternetShortcut]
+URL=http://ftp.sunet.se/pub/os/Linux/distributions/debian-non-US/dists/Debian3.0r2/non-US/
+Modified=80D855B074E9C3017E
