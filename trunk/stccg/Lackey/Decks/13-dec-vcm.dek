@@ -1,0 +1,37 @@
+<deck version="0.8">
+	<meta>
+		<game>startrek1e</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="TSTL_32">Martinez</name><set>block_b01</set></card>
+		<card><name id="RIF_16V">Suzanne Dumont</name><set>block_b00</set></card>
+		<card><name id="beverlycrusherfc">Beverly Crusher (First Contact)</name><set>main</set></card>
+		<card><name id="datafc">Data (First Contact)</name><set>main</set></card>
+		<card><name id="deannatroiborg">Deanna Troi (First Contact)</name><set>main</set></card>
+		<card><name id="deannatroifc">Deanna Troi (The Borg)</name><set>main</set></card>
+		<card><name id="74VP">Geordi La Forge (First Contact) (Virtual Promo)</name><set>main</set></card>
+		<card><name id="RIF_14V">Jae</name><set>block_b00</set></card>
+		<card><name id="RIF_15V">Jean-Luc</name><set>block_b00</set></card>
+		<card><name id="jeanlucpicardfc">Jean-Luc Picard (First Contact)</name><set>main</set></card>
+		<card><name id="6-V_williamtriker">William T. Riker (Chain of Command)</name><set>main</set></card>
+		<card><name id="williamtrikerfc">William T. Riker (First Contact)</name><set>main</set></card>
+		<card><name id="SoG_38">Worf (Shades of Gray)</name><set>block_b00</set></card>
+		<card><name id="admiralhayes">Admiral Hayes</name><set>main</set></card>
+		<card><name id="alyssaogawafc">Alyssa Ogawa (First Contact)</name><set>main</set></card>
+		<card><name id="drroyse">Dr. Royse</name><set>main</set></card>
+		<card><name id="hawk">Hawk</name><set>main</set></card>
+		<card><name id="ingeeiger">Inge Eiger</name><set>main</set></card>
+		<card><name id="josephtravis">Joseph Travis</name><set>main</set></card>
+		<card><name id="lightner">Lightner</name><set>main</set></card>
+		<card><name id="lisaazar">Lisa Azar</name><set>main</set></card>
+		<card><name id="obarakeh">Obarakeh</name><set>main</set></card>
+		<card><name id="paulporter">Paul Porter</name><set>main</set></card>
+		<card><name id="reginaldbarclayfc">Reginald Barclay (The Borg)</name><set>main</set></card>
+		<card><name id="richardwilkins">Richard Wilkins</name><set>main</set></card>
+		<card><name id="thomasmcclure">Thomas McClure</name><set>main</set></card>
+		<card><name id="worffc">Worf (First Contact)</name><set>main</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="visitcochranememoriala">Visit Cochrane Memorial</name><set>main</set></card>
+	</superzone>
+</deck>

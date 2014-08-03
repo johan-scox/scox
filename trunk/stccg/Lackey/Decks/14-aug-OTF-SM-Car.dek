@@ -1,0 +1,40 @@
+<deck version="0.8">
+	<meta>
+		<game>startrek1e</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="67VP">Ru&apos;afo (Virtual Promo)</name><set>main</set></card>
+		<card><name id="103sampo">Sam&apos;po</name><set>main</set></card>
+		<card><name id="103sampo">Sam&apos;po</name><set>main</set></card>
+		<card><name id="101raealin">Rae&apos;alin</name><set>main</set></card>
+		<card><name id="101raealin">Rae&apos;alin</name><set>main</set></card>
+		<card><name id="100parena">Pa&apos;rena</name><set>main</set></card>
+		<card><name id="100parena">Pa&apos;rena</name><set>main</set></card>
+		<card><name id="094gallatin">Gallatin</name><set>main</set></card>
+		<card><name id="76VP">Anij (Virtual Promo)</name><set>main</set></card>
+		<card><name id="ST1E-ENAGT030">Sojef</name><set>main</set></card>
+		<card><name id="ST1E-ENAGT032">Tournel</name><set>main</set></card>
+		<card><name id="124sonabattleship">Son&apos;a Battleship</name><set>main</set></card>
+	</superzone>
+	<superzone name="Missions">
+		<card><name id="029insurrection">Insurrection</name><set>main</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="emissary_23">Call for Reinforcements</name><set>block_b02</set></card>
+		<card><name id="emissary_29">New Arrivals</name><set>block_b02</set></card>
+		<card><name id="emissarysup_26">Assign Support Personnel</name><set>block_b02_trad</set></card>
+		<card><name id="18dominionwarefforts">Dominion War Efforts</name><set>xlist</set></card>
+		<card><name id="HMF_21V">Central Command (Homefront)</name><set>block_core_trad</set></card>
+		<card><name id="emissarysup_19">Cardassian Outpost</name><set>block_b02_trad</set></card>
+		<card><name id="SoG_14">Duck Blind</name><set>block_b00</set></card>
+		<card><name id="SoG_20">Son&apos;a Observatory</name><set>block_b00</set></card>
+		<card><name id="2VP_Tribunal-of-Q">Tribunal of Q</name><set>main</set></card>
+	</superzone>
+	<superzone name="QsTent">
+		<card><name id="cardassianshuttle">Cardassian Shuttle</name><set>main</set></card>
+		<card><name id="cardassiandisruptorrifle">Cardassian Disruptor Rifle</name><set>main</set></card>
+		<card><name id="cardassiandisruptor">Cardassian Disruptor</name><set>main</set></card>
+		<card><name id="122injectorassemblyone">Injector Assembly One</name><set>main</set></card>
+		<card><name id="032collectmetaphasic">Collect Metaphasic Particles</name><set>main</set></card>
+	</superzone>
+</deck>
