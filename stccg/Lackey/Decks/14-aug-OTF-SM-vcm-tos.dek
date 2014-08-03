@@ -1,0 +1,79 @@
+<deck version="0.8">
+	<meta>
+		<game>startrek1e</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="deannatroiborg">Deanna Troi (The Borg)</name><set>main</set></card>
+		<card><name id="74VP">Geordi La Forge (First Contact) (Virtual Promo)</name><set>main</set></card>
+		<card><name id="RIF_14V">Jae</name><set>block_b00</set></card>
+		<card><name id="RIF_15V">Jean-Luc</name><set>block_b00</set></card>
+		<card><name id="jeanlucpicardfc">Jean-Luc Picard (First Contact)</name><set>main</set></card>
+		<card><name id="6-V_williamtriker">William T. Riker (Chain of Command)</name><set>main</set></card>
+		<card><name id="williamtrikerfc">William T. Riker (First Contact)</name><set>main</set></card>
+		<card><name id="SoG_38">Worf (Shades of Gray)</name><set>block_b00</set></card>
+		<card><name id="admiralhayes">Admiral Hayes</name><set>main</set></card>
+		<card><name id="paulporter">Paul Porter</name><set>main</set></card>
+		<card><name id="64VP">Deanna Troi (Virtual Promo)</name><set>main</set></card>
+		<card><name id="datafc">Data (First Contact)</name><set>main</set></card>
+		<card><name id="beverlycrusherfc">Beverly Crusher (First Contact)</name><set>main</set></card>
+		<card><name id="034admiralcartwright">Admiral Cartwright</name><set>main</set></card>
+		<card><name id="64admiraljphanson">Admiral J.P. Hanson</name><set>xlist</set></card>
+		<card><name id="ST1E-ENAGT016">Admiral Janeway</name><set>main</set></card>
+		<card><name id="admiralleyton">Admiral Leyton</name><set>main</set></card>
+		<card><name id="admiralmccoy">Admiral McCoy</name><set>main</set></card>
+		<card><name id="ST1E-ENAGT017">Admiral Riker</name><set>main</set></card>
+		<card><name id="ambassadorkrajensky">Ambassador Krajensky</name><set>main</set></card>
+		<card><name id="jareshinyo">Jaresh-Inyo</name><set>main</set></card>
+		<card><name id="TSTL_30">Kathryn Janeway (The Sky&apos;s the Limit)</name><set>block_b01</set></card>
+		<card><name id="060matthewdougherty">Matthew Dougherty</name><set>main</set></card>
+		<card><name id="tngsup_23V">Spock</name><set>block_b01_trad</set></card>
+		<card><name id="49VP">Dr. McCoy (Virtual Promo)</name><set>main</set></card>
+		<card><name id="ensignchekov">Ensign Chekov</name><set>main</set></card>
+		<card><name id="ltgrant">Lt. Grant</name><set>main</set></card>
+		<card><name id="ltsulu">Lt. Sulu</name><set>main</set></card>
+		<card><name id="ltuhura">Lt. Uhura</name><set>main</set></card>
+		<card><name id="ltwatley">Lt. Watley</name><set>main</set></card>
+		<card><name id="mrscott">Mr. Scott</name><set>main</set></card>
+		<card><name id="mrspock">Mr. Spock</name><set>main</set></card>
+		<card><name id="nursechapel">Nurse Chapel</name><set>main</set></card>
+		<card><name id="ST1E-ENAGT024">Yeoman Rand</name><set>main</set></card>
+		<card><name id="HMF2_15">HQ: War Room (Homefront II)</name><set>block_core_trad</set></card>
+		<card><name id="goingtothetopa">Going to the Top</name><set>main</set></card>
+		<card><name id="emissarysup_20">Hidden Fighter</name><set>block_b02_trad</set></card>
+		<card><name id="emissarysup_20">Hidden Fighter</name><set>block_b02_trad</set></card>
+		<card><name id="imadoctor">I&apos;m a Doctor, Not a Bricklayer</name><set>main</set></card>
+		<card><name id="52VP">Future Enterprise (Virtual Promo)</name><set>main</set></card>
+		<card><name id="starshipenterprise">Starship Enterprise</name><set>main</set></card>
+		<card><name id="9-V_starshipenterprise">Starship Enterprise (Chain of Command)</name><set>main</set></card>
+		<card><name id="starshipconstitution">Starship Constitution</name><set>main</set></card>
+		<card><name id="starshipconstitution">Starship Constitution</name><set>main</set></card>
+		<card><name id="73VP">Christopher Pike (Virtual Promo)</name><set>main</set></card>
+	</superzone>
+	<superzone name="Missions">
+		<card><name id="HMF_32V">Espionage Mission (Homefront)</name><set>block_core_trad</set></card>
+		<card><name id="agriculturalassessment">Agricultural Assessment</name><set>main</set></card>
+		<card><name id="repairmission">Repair Mission</name><set>main</set></card>
+		<card><name id="exploredysonsphere">Explore Dyson Sphere</name><set>main</set></card>
+		<card><name id="Reported-Activity">Reported Activity</name><set>main</set></card>
+		<card><name id="HMF4_22">Study Rare Phenomenon</name><set>block_core_conv</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="visitcochranememoriala">Visit Cochrane Memorial</name><set>main</set></card>
+		<card><name id="HMF_23V">Office of the President (Homefront)</name><set>block_core_trad</set></card>
+		<card><name id="tngsup_11V">Federation Outpost</name><set>block_b01_trad</set></card>
+		<card><name id="90VP,90VPa">Spacedoor (Virtual Promo)</name><set>main</set></card>
+		<card><name id="93VP">Q&apos;s Tent: Civil War</name><set>main</set></card>
+		<card><name id="tngsup_18V">Assign Mission Specialists (The Next Generation)</name><set>block_b01</set></card>
+		<card><name id="emissarysup_26">Assign Support Personnel</name><set>block_b02_trad</set></card>
+		<card><name id="2VP_Tribunal-of-Q">Tribunal of Q</name><set>main</set></card>
+		<card><name id="deepspacestationk7">Deep Space Station K-7</name><set>main</set></card>
+		<card><name id="shermanspeak">Sherman&apos;s Peak</name><set>main</set></card>
+		<card><name id="39VP">HQ: Secure Homeworld (Virtual Promo)</name><set>main</set></card>
+		<card><name id="tngsup_9V">Alternate Universe Door</name><set>block_b01_trad</set></card>
+	</superzone>
+	<superzone name="Aside">
+		<card><name id="18V-Q-the-Referee">Q the Referee</name><set>main</set></card>
+		<card><name id="2V-Temporal-Vortex">Temporal Vortex</name><set>main</set></card>
+		<card><name id="28V-Defend-Homeworld">Defend Homeworld</name><set>main</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,37 @@
+<deck version="0.8">
+	<meta>
+		<game>startrek1e</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="deannatroiborg">Deanna Troi (The Borg)</name><set>main</set></card>
+		<card><name id="74VP">Geordi La Forge (First Contact) (Virtual Promo)</name><set>main</set></card>
+		<card><name id="RIF_14V">Jae</name><set>block_b00</set></card>
+		<card><name id="RIF_15V">Jean-Luc</name><set>block_b00</set></card>
+		<card><name id="jeanlucpicardfc">Jean-Luc Picard (First Contact)</name><set>main</set></card>
+		<card><name id="6-V_williamtriker">William T. Riker (Chain of Command)</name><set>main</set></card>
+		<card><name id="williamtrikerfc">William T. Riker (First Contact)</name><set>main</set></card>
+		<card><name id="SoG_38">Worf (Shades of Gray)</name><set>block_b00</set></card>
+		<card><name id="admiralhayes">Admiral Hayes</name><set>main</set></card>
+		<card><name id="paulporter">Paul Porter</name><set>main</set></card>
+		<card><name id="64VP">Deanna Troi (Virtual Promo)</name><set>main</set></card>
+		<card><name id="datafc">Data (First Contact)</name><set>main</set></card>
+		<card><name id="beverlycrusherfc">Beverly Crusher (First Contact)</name><set>main</set></card>
+		<card><name id="034admiralcartwright">Admiral Cartwright</name><set>main</set></card>
+		<card><name id="64admiraljphanson">Admiral J.P. Hanson</name><set>xlist</set></card>
+		<card><name id="ST1E-ENAGT016">Admiral Janeway</name><set>main</set></card>
+		<card><name id="035admiralkirk">Admiral Kirk</name><set>main</set></card>
+		<card><name id="admiralleyton">Admiral Leyton</name><set>main</set></card>
+		<card><name id="admiralmccoy">Admiral McCoy</name><set>main</set></card>
+		<card><name id="ST1E-ENAGT017">Admiral Riker</name><set>main</set></card>
+		<card><name id="ambassadorkrajensky">Ambassador Krajensky</name><set>main</set></card>
+		<card><name id="037ambassadorsarek">Ambassador Sarek</name><set>main</set></card>
+		<card><name id="jareshinyo">Jaresh-Inyo</name><set>main</set></card>
+		<card><name id="TSTL_30">Kathryn Janeway (The Sky&apos;s the Limit)</name><set>block_b01</set></card>
+		<card><name id="060matthewdougherty">Matthew Dougherty</name><set>main</set></card>
+		<card><name id="tngsup_23V">Spock</name><set>block_b01_trad</set></card>
+		<card><name id="063stjohntalbot">St. John Talbot</name><set>main</set></card>
+	</superzone>
+	<superzone name="Seed+Dil">
+		<card><name id="visitcochranememoriala">Visit Cochrane Memorial</name><set>main</set></card>
+	</superzone>
+</deck>
