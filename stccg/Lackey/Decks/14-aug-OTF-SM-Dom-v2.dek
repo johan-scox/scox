@@ -37,8 +37,6 @@
 		<card><name id="obediencebringsvictory">Obedience Brings Victory</name><set>main</set></card>
 		<card><name id="victoryislife">Victory Is Life</name><set>main</set></card>
 		<card><name id="victoryislife">Victory Is Life</name><set>main</set></card>
-		<card><name id="victoryislife">Victory Is Life</name><set>main</set></card>
-		<card><name id="emissarysup_22">Wormhole Navigation Schematic</name><set>block_b02_trad</set></card>
 		<card><name id="emissarysup_22">Wormhole Navigation Schematic</name><set>block_b02_trad</set></card>
 		<card><name id="emissarysup_22">Wormhole Navigation Schematic</name><set>block_b02_trad</set></card>
 		<card><name id="virakkara">Virak&apos;kara</name><set>main</set></card>
@@ -70,13 +68,12 @@
 		<card><name id="HMF2_16">Isomagnetic Disintegrator (Homefront II)</name><set>block_core_trad</set></card>
 		<card><name id="emissarysup_78">Karemman Vessel</name><set>block_b02_trad</set></card>
 		<card><name id="28V-Defend-Homeworld">Defend Homeworld</name><set>main</set></card>
-		<card><name id="engineeringtricorder">Engineering Tricorder</name><set>main</set></card>
 		<card><name id="weyounswarship">Weyoun&apos;s Warship</name><set>main</set></card>
 		<card><name id="emissarysup_32">Rescue Personnel</name><set>block_b02_trad</set></card>
 		<card><name id="goingtothetopa">Going to the Top</name><set>main</set></card>
 		<card><name id="emissarysup_50">Hanok</name><set>block_b02_trad</set></card>
 		<card><name id="medicaltricorder">Medical Tricorder</name><set>main</set></card>
-		<card><name id="sciencekit">Science Kit</name><set>main</set></card>
+		<card><name id="tricorder">Tricorder</name><set>main</set></card>
 	</superzone>
 	<superzone name="Missions">
 		<card><name id="reignitedeadstar">Reignite Dead Star</name><set>main</set></card>
